@@ -1,0 +1,959 @@
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+6
+Decision-Making: The Organizational Level
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Historians have long talked about the role of “court politics” or “cabinet politics” in influencing the policies of
+kings and other rulers. Political scientists have for many years studied organizational behavior within the
+executive branch of the government (Simon, 1949; March and Simon, 1958), but they focused on the role of
+governmental politics in domestic policy, not in foreign policy. The underlying assumption was that foreign
+policy was “beyond the water’s edge,” and that on issues as important as foreign policy, where the national
+interest was at stake, governmental politics was put aside in favor of national interest calculations. Allison’s
+Essence of Decision (1971, revised by Allison and Zelikow 1999) was the first systematic challenge to this
+assumption. It initiated a wave of research on bureaucratic/organizational influences on foreign policy
+decision-making (Halperin and Kanter, 1973; Halperin, 1974; Steinbrunner, 1974: chaps. 3–4).
+
+The Bureaucratic Politics and Organizational Process
+Models
+Allison (1971) drew on the organizational theory literature and developed two different but overlapping
+models of foreign policy that focused on the executive branch of the government. He called one the
+“organizational process” model (or “model II”), and he called the other the “governmental politics” model (or
+“model III”), which is also called the “bureaucratic politics” model. Allison contrasted these two models with
+“model I,” which he described as “the Rational Model” but which is more accurately described as a rational
+unitary model of foreign policy (“model I”).1 Allison described the theoretical logic of each of these models
+and then applied all three models to the Cuban missile crisis.2 In principle, however, the models are more
+general and apply to any state, or at least any state with a substantial bureaucracy.3 We begin with model III,
+the governmental politics model, and then turn to the organizational process model.
+
+The governmental politics model
+
+Allison’s (1971) governmental politics model focuses on politics within the executive branch of the
+government, where decisions are ultimately made. This model rejects model I’s assumption that the state
+acts as a single unit with a well-defined set of foreign policy goals and a consensus on the best strategies for
+attaining those goals. Instead, the model zeros in on the inner circle of decision-makers, and assumes that if
+we want to understand the foreign policies made by states we need to understand who those decision makers are, how much power they have, and how they define their interests. It recognizes that the president
+(or the prime minister in a parliamentary system) is the single most powerful decision-maker, but it
+emphasizes that the president’s power is limited by the power of other actors who occupy the top positions
+in the primary governmental organizations involved in the making of foreign policy.4
+In the United States, these actors include the secretaries of defense and state, the national security
+advisor, the chair and members of the Joint Chiefs of Staff, the head of the CIA, and usually the secretary of
+the treasury and a few others selected by the president. Each of these actors has two general tasks. One is to
+advise the president (or prime minister) as to the policies that will best serve the interests of the country as a
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+whole. The other is to serve as manager of his/her organization and to act as advocate for the interests of
+the organization. Occasionally a key actor will be “minister without portfolio,” without the responsibilities of
+representing a particular organization. For example, during the Cuban missile crisis President John Kennedy
+asked former Secretary of State Dean Acheson, who was widely respected for his expertise and judgment, to
+serve on the Ex Com during the Cuban missile crisis. Robert Kennedy, the Attorney General and the
+president’s brother, also served on the Ex Com at the president’s request, and was perhaps its most
+influential member because of his unique access to the president.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+The bureaucratic politics model posits that the policy preferences and recommendations of each of these
+key actors may differ because each actor may have different perceptions of the national interest and
+because each represents a different organization within the government, each with its own set of interests.
+Different organizations within the government have different tasks, and in order to effectively deal with all of
+the problems it is asked to solve each organization (and sub-organization within it) generally wants to
+maximize the resources available to it.
+The greater an organization’s budget and staff, the greater is its ability to solve problems and fulfill its
+missions. In addition, most organizations want to maximize their political influence, prestige, and autonomy,
+either as ends in themselves or as means to increase their power and resources in the future. Some of these
+key actors may have domestic political interests, or be sensitive to the president’s domestic political
+interests. They may also have personal interests, including career interests, their historical legacy, and
+business or individual financial interests. Thus the policy recommendations made to the president can
+reflect some combination of perception of the national interest, organizational interest, and occasionally
+domestic political or personal interests.
+While each of these interests may influence an actor’s policy preferences, a key proposition of the
+bureaucratic politics model is that organizational interests usually dominate. This is captured by the idea
+that “where you stand is where you sit” (Allison and Zelikow, 1999). The best predictor of an actor’s policy
+preferences and thus of his/her recommendations to the president is the actor’s organizational role and the
+organizational interests that s/he represents. One common prediction, for example, is that the defense
+department will push for new weapons systems and for increases in the defense budget because larger
+defense budgets benefit the defense department and its ability to accomplish its missions. It is also
+frequently argued that the Department of Defense tends to be more hawkish in its policy recommendations
+than are other organizations. This is often but not always the case. Of all of President Kennedy’s advisors
+during the Cuban missile crisis, one of those most opposed to a military option and most supportive of a
+diplomatic solution was Secretary of Defense McNamara.
+The hypothesized dominance of organizational interests in most actors’ preference structures reflects
+either the deliberate priority individuals give to organizational interests over the national interest, or to the
+fact that after serving in an organization for many years the actor comes to believe that what is best for the
+organization is best for the country. If someone has spent most of his/her career in the navy, and becomes
+socialized in the worldview and culture of the navy (and perhaps of a particular branch of the navy), it is not
+surprising that s/he might come to believe that the best interests of the country are served by having a
+strong navy. When an organization advocates a budgetary level or policy that serves its narrow
+organizational interests but perhaps not the national interest, it is sometimes difficult to tell whether that
+action is based on narrow self-interest or on the genuine belief that it is acting in the best interests of the
+country. In either case, organizational interests have an impact on policy preferences, either directly or
+indirectly through shaping the mindsets of organizational actors. The first path is rationalist, while the
+second path involves a non -rationalist mechanism.
+Key bureaucratic actors vary in their political power and influence as well as their policy preferences. The
+influence of each actor depends on his/ her formal position in the government; control over resources,
+information, and policy implementation; expertise or reputation; access to the president (or prime minister);
+ability to mobilize external support; and political skill. Many of these factors are interrelated. An actor’s
+formal position is by far the primary determinant of the resources at his/her disposal, control over
+information, and role in policy implementation. The enormous budget of the Pentagon, along with its control
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+over vital information about the potential costs, benefits, and risks inherent in the potential use of force, give
+it disproportionate influence on military issues. Its ties with key committees of the Congress, with the
+defense industry, and with veterans’ groups further increase its power in the decision-making process by
+giving it power to mobilize political support from outside the inner circle of decision -making. The State
+Department, on the other hand, has no political constituency, a smaller budget, and generally less influence
+(Allison and Zelikow, 1999; Halperin, 1974).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+The bureaucratic politics model posits a number of different actors, each with different policy preferences
+and positions of unequal power within the government. The model predicts that foreign policy is the
+outcome of an internal political process of conflict, bargaining, and consensus building among these
+different actors. In this model, foreign policy choices are best conceived not as an attempt by a state to
+maximize its interests given external threats and opportunities, as in model I, but instead as a process of
+reaching a political resolution to a problem of internal conflict among different actors representing different
+organizations and advocating different policies.
+One useful example of this kind of bargaining, compromise, and consensus-building is provided by
+Halperin (1974). In the 1960s, the United States debated whether or not to construct an anti-ballistic missile
+system to destroy incoming strategic missiles.5 Two camps formed. One camp advocated a “heavy” missile
+system (defined by a large number of interceptor missiles) to protect the US strategic retaliatory force
+(rather than US cities) against a Soviet attack. The other camp advocated no missile defense. The result was a
+“light” missile defense to protect US cities against a Chinese attack. None of the components of the preferred
+positions of either of the camps entered into the final policy. It is a perfect illustration of a bureaucratic
+compromise driven by internal politics rather than by a primary concern for the national security interests of
+the country as a whole. Neither side got what it wanted, but each avoided what it regarded as the worst
+outcome. The result was a bureaucratic compromise resulting from battles over policy and “turf” among
+different organizations.
+Note that in the bureaucratic politics model each actor attempts to maximize his/her interests as s/he
+defines them, usually based primarily on organizational interests. Thus the bureaucratic politics model (at
+least in most interpretations) assumes rational actors (Bendor and Hammond, 1992). Since the actors whose
+interests are being maximized are individuals (and the organizations they represent) rather than states, and
+since those interests differ, the model is a non-unitary rational actor model.
+
+The organizational process model
+
+Allison and Zelikow (1999) constructed an organizational process model (also described as the
+“organizational behavior model” or model II) as a second alternative to model I. The organizational process
+model also focuses on key foreign policy agencies, but less on the overtly political dimensions of
+organizational behavior (on fights over “turf,” for example) than on standardized rules and procedures within
+organizations. Instead of emphasizing the interests of each organization and the attempts of those
+organizations to select those policies that maximize their interests, the organizational process model focuses
+on the standard operating procedures (or SOPs) that are common to all organizations.
+The model posits that the decisions of organizations reflect the implementation of the organization’s
+procedures or routines. Organizations do not analyze a particular decision problem in its entirety, consider
+the context in all of its details, and then make a calculated decision as to what policy is best. Rather, the
+organization views the situation, selects which of its pre-existing routines best fits the situation, and then
+implements the routine. Instead of looking forward and calculating which strategy would lead to the optimal
+outcome under the circumstances, as a truly rationalist model would predict, model II looks backwards to
+those routines that the organization set up to automatically implement certain types of policies that provide
+the best fit to the problem at hand. One common consequence of routine-driven behavior is incrementalism,
+which contributes to the continuity of policy. The best predictor of how an organization behaves at time t is
+how they behaved at time t-1.
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Military routines are a good example. It is often argued, for example, that one reason for the failure of the
+American army to win in Vietnam is that it implemented the strategies and operational methods of
+conventional war that had worked so effectively in the European theater during World War II but that were
+ill-suited to a counterinsurgency war in the jungles of Vietnam (Krepinevich, 1986). This routine-driven
+organizational behavior is reinforced by the role of vested interests within the military and its subunits,
+because there are always some sub-organizations that benefit (in terms of budgets, manpower, autonomy,
+and prestige) by the continuation of earlier policies, even if those policies now appear to be outdated. It is
+the advocates of the successful policies in one war who tend to be promoted, and who then use their
+influence to establish the routines for the next war. We give more examples of the impact of military
+routines on war later in this chapter.
+
+solution.6
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Organizational theorists also emphasize that bureaucratic organizations tend to follow a distinctive type
+of decision rule. Recall that a rational model of decision-making predicts that actors define their goals,
+consider a wide range of options, estimate the consequences of each of those options, and select the option
+that generates the highest expected utility and is thus most likely to achieve their goals. Organizations tend
+to follow a different decision rule. They engage in satisficing (Simon, 1949). Instead of considering all options,
+they consider options sequentially until they find one that is good enough, that meets some pre-determined
+target level. They do not engage in an extensive information search on all feasible options. Instead of
+attempting to find the best solution under the circumstances, they are content to settle on an adequate
+Another key concept in organizational theory is one of factored problems (Cyert and March, 1963). This is
+the idea that a given problem is often not dealt with as a whole, but parceled out to different organizations
+and sub -organizations with the authority and expertise to deal with its own particular aspect of the
+problem. The Department of Defense deals with the military dimensions of an issue, the State Department
+with diplomatic dimensions, the Treasury with economic dimensions, and so on. This tendency toward
+factored problems is enhanced by each organization’s interest in maximizing its own autonomy. An
+important consequence of factored problems is the lack of coordination between agencies and a lack of
+policy integration. Often the left hand does not know what the right hand is doing, and the actions of one
+organization can run contrary to the actions of another organization, with too little direction and control
+from the top.
+One can find plenty of examples of factored problems and the absence of policy coordination. In her
+influential interpretation of the sources of the US intelligence failure at Pearl Harbor, Wohlstetter (1962)
+argues that the US had plenty of information about a likely Japanese attack but that the information was
+spread over different organizations (the departments of the Army and the Navy). Those organizations chose
+not to share their information because of interservice rivalry, competition for control over intelligence, and
+the absence of institutionalized routines for the coordination of intelligence. Similarly, in the months leading
+up to the September 11, 2001, attacks against the United States, different intelligence agencies had different
+pieces of information, but they did not share the different pieces of the puzzle because of organizational
+jealousies (Zegart, 2009). A request by the FBI for a warrant to examine the computer of a suspected figure,
+who turned out to be a leading planner in the attack, was rejected by other agencies. Another example is the
+fact that the emergency response to the 9/11 attack was impeded by the lack of communications between
+the New York police and fire departments, in part because their radios were not compatible.
+Although Allison and Zelikow (1999) distinguished between models II and III, other scholars combine the
+two (Halperin, 1974) and integrate both the competition and bargaining for resources and influence among
+actors and the influence of standardized rules and procedures. Most applications of these models to foreign
+policy decision-making on security issues incorporate elements from both models (Rhodes, 1989; Maoz,
+1990; Zisk, 1993; Sinno, 2008). We follow that practice in our consideration of applications of
+bureaucratic/organizational models to issues of war and peace.
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+The Causal Links to War
+The bureaucratic politics and organizational process models are theories of decision-making, not theories of
+the causes of war. Scholars have applied these models to security policy–including defense spending,
+military procurement, the military–industrial complex, and the conduct of war–but there have been relatively
+few systematic applications to the causes of war. While these models are not conducive to generating
+sweeping generalizations, they do highlight some causal paths involving bureaucratic politics and
+organizational processes that might contribute to war under certain conditions. Anyone who is familiar with
+these models of decision-making and who reads a historian’s narrative of the causes of a particular war
+would undoubtedly notice some of these factors at work.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Our aim here is to identify some general causal paths through which bureaucratic politics and
+organizational processes contribute to the outbreak of war (or to the preservation of peace) and to illustrate
+each with historical examples. One involves the impact of parochial organizational interests on the
+formulation of state preferences and strategies. Another involves the organizationally induced distortion of
+information flowing up to top-level decision-makers, including the politicization of intelligence. A third
+involves the impact of rigidities in organizational behavior on strategy selection. In the following illustrations
+we combine elements from both the organizational process and bureaucratic politics models.
+
+Impact of organizational interests on state strategies
+There are a number of paths through which bureaucratic/organizational interests might contribute to the
+outbreak of war. One line of argument is that military organizations want war and use their influence to
+promote war because they believe that war serves the organizational interests of the military. We saw a form
+of this argument in our earlier discussion of Schumpeter’s ([1919]1951) argument about military elites.
+Schumpeter argued that in earlier eras, when empires and then states faced many external predators,
+military elites had a powerful argument in support of their quest for positions of political power in society.
+Once in power, those military elites solidified their positions and continued to use war and the threat of war
+to justify their policies and maintain their dominant positions, even after earlier external security threats had
+diminished.
+Although few scholars would argue that most contemporary states, especially advanced industrial states,
+are controlled by military elites, the question of the power and influence of military organizations on foreign
+and security policy for different kinds of states under various conditions is an important one. It is central to
+the bureaucratic politics approaches to war and peace. One can certainly identify some cases in which a
+military organization believed that its interests (or perhaps those of the state itself) would be served by war
+and gained a position of political power that allowed it to implement its policy preferences. One is Japan in
+the 1930s. Japanese military operations in China, combined with the military’s manipulation of domestic
+politics through heavy-handed means, gave the military control over the Japanese state and played a
+significant role in the processes leading to the Pacific War with the United States (Ienaga, 1978).
+Some make a similar argument about German foreign policy in the period leading up to World War I. They
+suggest that a powerful group of military and naval officers, led by the General Staff (and its chief of staff von
+Moltke), had gained a position of dominance over civilian authorities in the conduct of foreign policy. Some
+suggest that the influence of the military was further reinforced by a “social militarism” that “permeated the
+whole of society with its ways of thinking, patterns of behavior, and its values and notions of honor” (Wehler,
+1985:156). The argument is that Germany pushed for war in 1914 because of the policy preferences and
+power of the German military, which had essentially hijacked the German state (Fay, 1928:38–44; Craig,
+1955; Ritter, 1970; Van Evera, 1990).
+This historical interpretation is controversial. In his highly influential interpretation of German behavior in
+1914, Fischer (1967) argues that civilian political leaders led by Chancellor Bethmann-Hollweg were firmly in
+control until the very end of the July crisis, and that they differed little from the military in terms of their
+policy preferences. The German military may have been more sensitive than were civilians to the rise of
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Russian power and the risks of a two-front war in Europe (given the Franco–Russian alliance against
+Germany), but this is more an argument about different conceptions of the national interest than about the
+parochial interests of the military.
+While one can find instances of militaries with preferences for war and the power to dominate the
+decision-making process and implement their preferences, this is almost certainly incorrect as a general
+statement about the causes of war in modern international history. It was Hitler and Nazi ideology that
+pushed for war in the 1930s, not the German military, which was far more cautious and which actually
+opposed Hitler at some key junctures on the road to war in the 1930s (H. Deutsch, 1974; Weinberg, 1994).
+Watt (1975) describes the “reluctant warriors” in all of the European capitals in the late 1930s. After World
+War II, it is difficult to find any trace of an eagerness for war among military organizations in the industrial
+states of Europe.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+With respect to the United States, one of the few systematic studies of the attitudes of the American
+military regarding war and peace after World War II found that professional military officers have not been
+significantly more warlike or hawkish than their civilian counterparts. Once war is underway, however,
+military organizations have been more hawkish on decisions regarding the escalation of war, to finish the job
+they have started and to preserve the reputation of the military once its forces are engaged (Betts, 1977).7
+One implication of this is that the factors shaping the termination of war are not necessarily identical to the
+factors shaping the outbreak of war, contrary to Blainey (1988) and to some proponents of the bargaining
+model of war. New actors and new vested interests at both the bureaucratic and domestic levels come into
+play (Iklé, 1971).
+Indeed, in most of America’s recent wars, from the Korean War to the Vietnam War to the two wars
+against Iraq, American civilians took the lead in advocating policies that involved the use of force. In some
+cases these actions went against the preferences of key military leaders. Military experience and first-hand
+experience with the horrors of war often leads military leaders to be more cautious than civilian leaders,
+who lack comparable experience. Within the military, it is sometimes the “old Turks” who are more cautious
+than the eager younger officer corps. This pattern is often reinforced by the fact that younger leaders have
+career incentives to participate in combat, because distinction on the battlefield is a prime path to
+promotion.
+Consider a few historical cases. In the Vietnam War it was the “best and the brightest” (Halberstam, 1969)
+of civilian defense intellectuals who were more enthusiastic than the military about the potential benefits of
+a dramatic American intervention in the war. In the Cuban missile crisis, although the Joint Chiefs of Staff
+were relatively eager to resort to a military strategy to eliminate the Soviet missiles in Cuba, Secretary of
+Defense McNamara (along with Robert Kennedy) played a leading role in shifting the majority opinion away
+from a potentially risky air strike toward a more cautious strategy of military blockade. In the 1990–91
+Persian Gulf crisis, the Chairman of the Joint Chiefs of Staff, Colin Powell, argued for a continuation of
+economic sanctions against Iraq, at least for a time, rather than for war in January 1991 (Freedman and
+Karsh, 1993). As Secretary of State in George W. Bush’s administration, Powell was quite skeptical of the
+wisdom of invading Iraq (Woodward, 2004; DeYoung, 2006:194).
+Whether or not the military advocates more hardline strategies than do civilians, and in what kinds of
+situations and under what conditions, is an empirical question to be investigated through careful historical
+research rather than something to be assumed. It is surprising that scholars have devoted relatively little
+time to this important issue, and that applications of bureaucratic politics frameworks so often simply
+assume that military organizations have more hawkish policy preferences than do other governmental
+actors. Scholars need to make more nuanced assessments of the policy preferences of different
+organizations.
+In addition to the direct link between military interests and decisions for war, military organizations can
+contribute to war through a less direct path. Military organizations do not necessarily want war, but like
+most organizations they generally want bigger budgets, increased manpower, and more autonomy.
+Moreover, by virtue of their worldviews and their training, military elites are often inclined to believe that the
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+national interest is well served by military strength and hardline foreign policies. Some militaries (Germany
+before World War I, for example) rationalize their claims for resources by promulgating myths about
+permanent threats, intractable enemies, a glorious military past, and military honor (Van Evera, 1990;
+Snyder, 1991). They use their power to advance these policy preferences.
+Larger military budgets often lead adversary states to increase their own military spending, which
+increases tensions, sometimes triggering arms races and conflict spirals, and sometimes leading to war.
+Military organizations also push for more technologically advanced weapons systems, which require their
+adversaries to do the same. This can also lead to conflict spirals and possibly war, and often more
+destructive wars because of the more advanced weapons.8 Thus military organizations may not advocate
+war, but they often advocate policies that contribute to the processes that generate conflict spirals that can
+lead to war.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Another line of argument is that military organizations tend to prefer offensive doctrines and that
+offensive doctrines increase the likelihood of war (Posen, 1984:47–51; Snyder, 1984: chap.1; Van Evera,
+1999). One reason why military organizations might prefer offensive doctrines is that the implementation of
+offensive doctrines and war plans requires larger numbers of troops and weapons systems, greater logistical
+support, and often more sophisticated military technology than do more static defensive strategies. This
+means larger budgets and manpower, and hence more influence for the military. A second argument is that
+offensive doctrines and war plans also contribute to one’s ability to seize the initiative, structure the battle,
+and thus fight the war on one’s own terms. This serves the key organizational goal of uncertainty avoidance,
+and it also enhances military autonomy and morale.9
+
+Once in place, and whether driven by the internal interests of organizations or external national security
+needs, offensive doctrines and war plans contribute to the outbreak of war by increasing the incentives to
+strike first; fueling arms races, tensions, and conflict spirals; and encouraging aggressive policies.10 They also
+increase the destructiveness of war (Posen, 1984:18–24; Van Evera, 1999). Historians have long argued that
+the offensive nature of military plans prior to World War I helped make that war more likely (Albertini,
+[1941]1957; Tuchman, 1962).11 In fact, World War I turned out to be a long struggle defined by trench
+warfare and slow movement.
+This leads to the puzzle of why military organizations did not anticipate this outcome, of the gap between
+the actual dominance of the defense and the widespread perception of the dominance of the offense in
+warfare (Levy, 1984:233). One argument advanced by a number of international relations theorists is that
+offensive war plans, and the pre-World War I “cult of the offensive” more generally, were the result of the
+parochial interests of military organizations and the nature of the military cultures of 1914. These offensive
+beliefs and doctrines were shared by the militaries of all the Continental great powers in 1914 and
+contributed significantly to the processes leading to war by accelerating the perceived incentives to move
+quickly, which minimized the opportunities for diplomatic initiatives that might diffuse the conflict (Posen,
+1984; Snyder, 1984; Van Evera, 1999).12
+
+This discussion of the military should not give the impression that military organizations are characterized
+by a homogeneity of interests and beliefs across their various subunits. Bureaucratic politics takes place
+within organizations as well as between them. There were some significant splits within the German military
+before World War I. Moltke and the army had been pushing for a preventive war at least since 1912, but
+Admiral Tirpitz argued strongly against that strategy on the grounds that the German navy was not yet ready
+(Fischer, 1967).
+We can also find American examples of doctrines and strategies driven more by organizational interest
+than by a reasoned view of the national interest. Some have argued that one of the reasons the US Air Force
+recommended bombing campaigns in the Vietnam War was not because it was convinced that it was an
+optimal response to the existing threat to US interests, but rather because the Air Force wanted to
+demonstrate that there was a role for it to play in the war. Otherwise, it feared that the Air Force might be
+perceived as irrelevant to the new guerrilla wars of the 1960s and consequently lose resources to the other
+services (Gallucci, 1975). Many argue that one of the reasons for the failure of the US attempt to rescue
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+American hostages in Iran in 1979 was because interservice rivalry led each of the military services to insist
+on being involved in the mission rather than allow another service to get the credit for any success, and
+because of the lack of tactical coordination among the military services.13
+Internal political conflict between bureaucratic organizations can also create policy paralysis or delays that
+prevent a timely response to adversary actions and that under some circumstances could contribute to war.
+After US intelligence first discovered Soviet offensive missiles in Cuba in October 1962, a follow-up aerial
+surveillance mission was ordered to validate the presence of Soviet missiles. The mission was delayed for
+ten days, however, by turf battles between the CIA and the Air Force over which organization would conduct
+the mission. The outcome of the CIA–Air Force dispute was a classic bureaucratic compromise: CIA pilots
+flew Air Force planes (Allison and Zelikow, 1999). These delays could have been far more consequential, but
+fortunately the presence of the missiles was confirmed in time for the US to act. Still, the delays complicated
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+the Kennedy Administration’s efforts to manage the crisis and minimize the risk of escalation to war.14
+Bureaucratic in-fighting and maneuvering can contribute to peace as well as to war. In the Cuban missile
+crisis, US decision-makers in the Ex Com defined their initial options as doing nothing, a diplomatic solution,
+a secret approach to Cuban Premier Fidel Castro, an air strike, an invasion, and a blockade. Initially, the
+majority of the Ex Com preferred an air strike option. There are a number of possible explanations as to why
+they eventually settled on a blockade. One was certainly Robert Kennedy’s insistence that his brother would
+not be “another Tojo,” referring to the Japanese premier who ordered the surprise attack against the United
+States at Pearl Harbor in 1941. This reluctance to initiate military action and to shift that burden to the Soviet
+Union was an important factor influencing US decision-making.
+Another consideration, emphasized by Allison and Zelikow (1999) in their discussion of the bureaucratic
+politics model, concerned the maneuvering of Secretary of Defense McNamara. McNamara preferred a
+diplomatic solution. He recognized, however, that the president was quite skeptical about that strategy
+(perhaps for domestic political reasons) and that it would not be possible for McNamara to mobilize
+sufficient political support within the Ex Com around a passive strategic response to the Soviet action. For
+that reason, McNamara started advocating the blockade option, not because he thought it was the best for
+the country, but because it avoided what he regarded as the worst option (the air strike), and because he
+thought it might be politically feasible. McNamara calculated correctly and maneuvered skillfully.15
+It is also possible that bureaucratic conflict can send mixed signals to adversaries (and to allies), create
+confusion about political leaders’ intentions or resolve, and generate misperceptions that can contribute to
+war. In the July 1914 crisis, for example, German Chancellor Bethmann-Hollweg, after weeks of pressuring
+the Austrians to move against Serbia, reversed course on the night of July 29–30 and demanded that
+Austrian civilian authorities refrain from war. At the same time, German Chief of Staff Moltke was pressuring
+Conrad, his counterpart in Vienna, to move ahead with military action. This led Conrad to complain: “Who
+actually rules in Berlin, Bethmann or Moltke?” (Albertini, [1941]1957:673–4). These mixed signals contributed
+to the failure of Bethmann’s last-minute efforts to preserve the peace, since it was not clear to the Austrians
+what Germany wanted. Admittedly, though, the chance for peace was slim by that point (Levy, 1990/91;
+Strachan, 2001).
+
+Organizations and the distortion of information
+Organizational interests and routines can also contribute to war (or to peace) through their impact on the
+flow of information within decision -making units. Organizations responsible for providing information about
+adversary intentions and/or capabilities to higher level decision-makers may be tempted to distort that
+information in a way that serves their own interests. Alternatively, their organizational structures may
+contribute to the inadvertent distortion of information or presentation of an incomplete picture of the
+information available. This can lead to a number of misper-ceptions that influence the likelihood of war.
+Many have argued, for example, that during the Vietnam War the US military, which wanted to see the war
+through to a successful conclusion, deliberately underestimated numbers of enemy troops and exaggerated
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+the prospects for victory, in an attempt to persuade political authorities to continue the war through to
+victory (Adams, 1994).
+To take another example, in the run-up to the Bay of Pigs operation in 1961, in which the United States
+supported an invasion of Castro’s Cuba by Cuban refugees, officials in the Central Intelligence Agency
+deliberately overestimated the likelihood that the operation would trigger a popular uprising in Cuba. They
+acted so in order to obtain the political authorization for an operation to which they had become
+psychologically committed and which they believed would serve their organizational interests (Higgins,
+1987).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+These examples refer to the distortion of the information flowing up to top decision-makers by the
+actions of those organizations tasked with providing that information. Top political decision-makers
+sometimes act in a way that prevents the free flow of information, in order to structure the internal debate
+and provide additional leverage in mobilizing other governmental actors and the public for war. Although
+intelligence ought to shape policy based on the evidence, without interference from political leaders in the
+intelligence process, in fact policy often shapes intelligence. This is often referred to as the politicization of
+intelligence (Betts, 2007).
+It is generally assumed that authoritarian regimes are more vulnerable than democratic regimes to the
+politicization of intelligence, because there are fewer channels for dissenting views in autocracies, because
+of the lack of protection for individuals under the rule of law, and because of the potentially severe personal
+costs of providing news the leader does not want to hear. A major reason why Saddam Hussein failed to
+anticipate the likelihood and consequences of an American invasion was that Iraqi military and intelligence
+analysts were afraid of Saddam and they felt they had no choice but to provide only good news (Woods,
+Lacey, and Murray, 2006). The same dynamic contributed to Stalin’s failure to anticipate the German invasion
+in 1941. It was widely known that Stalin was a paranoid tyrant who had executed or sent to the Gulags
+anyone whom he suspected might challenge or undermine him. Analysts who believed that Nazi Germany
+might turn its armies toward the east and attack the Soviet Union did not express their concerns to Stalin for
+fear of the personal consequences (Bar-Joseph and Levy, 2009).
+These tendencies toward the politicization of intelligence in authoritarian political systems should not
+blind us to the fact that political pressure on the intelligence process arises in democratic regimes as well.
+Intelligence officers might consciously adjust their estimates of adversary intentions or capabilities because
+they believe that the failure to provide “intelligence to please” might result in the loss of their jobs, the denial
+of a future promotion opportunity, or the loss of influence on future policy decisions.
+The same outcome can emerge from more subtle pressures. In his analysis of the escalation of American
+involvement in the Vietnam War, for example, Thomson (1968) discusses a number of pathologies within
+organizations. He emphasizes the role of the “curator mentality” among mid-level officials in the
+departments of State and Defense. Rather than question prevailing assumptions and mindsets, individuals’
+career incentives led them to adopt a “don’ t rock the boat” orientation. They did their job within the existing
+set of guidelines, got their “ticket stamped,” and ultimately received their promotion. While the practice of
+“whistle blowing” is extremely useful for organizations, it is often a bad career move for the whistle blower.
+These tendencies are reinforced by what Thomson (1968) calls the “effectiveness trap.” If one challenges
+prevailing mindsets and policies, one is likely to lose, and in the process there is a risk of suffering a loss of
+influ-ence in future decisions. If one resigns in protest, one loses influence altogether. There is a temptation
+to go along with the consensus and to save one’s “political capital” for a future issue where one might have
+greater impact. Such politically driven processes work to reinforce prevailing mindsets and policies.
+Thomson (1968) shows how these dynamics contributed to the gradual escalation of the American
+commitment in the Vietnam War in the 1960s by silencing dissenting voices and by limiting the range of
+opinions that reached political decision-makers.
+Limits on the flow of information can be the result of more deliberate governmental policies. Many argue
+that the second Bush Administration was so committed to invading Iraq in 2003 that it deliberately distorted
+evidence about the possibility that Iraq had weapons of mass destruction and ties to the al Qaeda terrorist
+organization, in order to enhance the support for its policies in the Congress and among the public (Pillar,
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+2006; Rich, 2006). The administration even set up a new intelligence unit, the Office of Special Plans, in the
+Defense Department (Gordon and Trainor, 2006:45). There is substantial evidence that this office was
+designed to circumvent the CIA and produce intelligence that demonstrated both the existence of Iraqi WMD
+and a link between Iraq and al Qaeda, in order to provide a rationalization for a war against Iraq.16 After his
+meeting with the British prime minister in 2002, the head of British intelligence concluded that “the
+intelligence and facts were being fixed around the policy” (Danner, 2006:89).17
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Much of the discussion in this section deals with interesting questions in civil–military relations. Brooks
+(2008) provides a useful framework for analyzing the impact of civil–military relations on the assessment of
+the threat environment and shaping of military strategies. She identifies two key variables: the intensity of
+the divergence between civilian and military elites over security issues and over the institutional context for
+policy -making, and the balance of political power between civilian and military elites. These factors influence
+the extent of information sharing, strategic coordination of political and military policy, procedures for the
+accurate assessment of the relative strengths and weaknesses of the adversary’s military organization and
+one’s own, and the coherence of the decision-making process on questions regarding the use of force.
+Brooks (2008) uses her framework to explain why Egyptian strategic assessment was so flawed under
+President Nasser leading up to the disastrous 1967 war with Israel, and why assessment procedures and
+military performance significantly improved in the period leading up to the 1973 war under President Sadat.
+Brooks also shows, in an analysis of Britain before and during World War I, that there can be significant
+variations in the quality of strategic assessment within democratic regimes.
+
+Impact of organizational routines on policy rigidity
+The standard operating procedures and vested bureaucratic interests associated with organizational
+behavior often affect security policy and decisions related to war and peace by reinforcing existing policies
+and strategies, generating policy momentum, and by denying political leaders the flexibility they need to
+manage crises in a way that strikes an optimum balance between preserving vital national interests while
+avoiding inadvertent escalation. Military organizations are well-known for the routinized nature of their
+military mobilization and war plans, and there have been a number of applications of organizational process
+models to the military.
+Probably the most common explanation of how military routines contribute to the outbreak of war
+focuses on the momentum generated by the mobilization plans themselves. Each action in this process of
+incremental escalation leads logically to the next, locking in current policy and contributing to a mechanistic
+and practically irreversible process of escalation to war, one in which political leaders have a minimal impact
+because of the rigid adherence to pre-existing routines. One of the best examples of this is how it applies to
+World War I, which we now examine in some detail.
+Many historians and political scientists have argued that the rigid military mobilization plans and railroad
+timetables of 1914 were an important contributory cause of World War I. This view is reflected in the title of
+A.J.P. Taylor’s (1969) book War by Time-table. Once the mobilization process was initiated, the rigidity of the
+plans made it difficult or impossible to delay, slow, or modify a plan, or to switch from one mobilization plan
+to another, without creating enormous vulnerabilities. Indeed, military and political leaders believed that
+“mobilization means war” (Albertini, [1941]1957; Kennedy, 1979). Once the mobilization began, the process
+acquired a momentum of its own; the military requirements of preparing for war took precedence over
+political requirements of avoiding one if at all possible. Political leaders were left with few opportunities to
+slow or interrupt the process in order to pursue diplomatic alternatives that might preserve the peace,
+accentuating the slide to war.
+The inexorability of the process is captured quite well by Sergei Dobrorolski, Chief of the Mobilization
+Section of the Russian General staff, in his description of the process a few years after the war:
+The whole plan of mobilization is worked out ahead to its end in all its details. When the moment has
+been chosen, one only has to press the button, and the whole state begins to function automatically with
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+the precision of a clock’s mechanism. … The choice of the moment is influenced by a complex of varied
+political causes. But once the moment has been fixed, everything is settled; there is no going back; it
+determines mechanically the beginning of war (cited in Fay, 1928: vol. 2/481).
+The impact of rigid mobilization and war plans is illustrated by the German Schlieffen Plan, which was
+based on the assumptions that any continental war would be a two-front war for Germany; that the
+slowness of the Russian mobilization (because of the size of the country and its bureaucratic inefficiency)
+meant that Germany could engage in an offensive in the west but a holding action in the east in an attempt
+to defeat France quickly; that France could be defeated only by an enveloping movement through Belgium,
+and that this required the preemptive seizure of Liège early in the mobilization process itself (no later than
+the third day); and that the assumed advantage of the offensive meant that every day’s delay could be quite
+costly (Ritter, 1958).18
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+The Schlieffen Plan illustrates the consequences of factored problems. Military organizations tend to focus
+on the military aspects of policy and to minimize its political component. There is a resulting danger that
+military doctrine will follow a “strictly instrumental military logic” and ignore important political
+considerations (Posen, 1984:58), which results in a lack of congruence between foreign policy goals of the
+state and the military means available to achieve those ends. This is particularly likely in the absence of
+strong civilian intervention, which is in part a function of the bureaucratic influence of the military in the
+decision-making process.
+By calling for a preemptive move against Liège by the third day of mobilization, the Schlieffen Plan
+required the violation of Belgian neutrality and significantly increased the probability that Britain would
+enter the war. This military policy ran contrary to the efforts of German diplomats, who were doing
+everything possible to try to keep the British out of the war. German foreign policy and German military
+policy were working at cross -purposes. As Taylor (1969:19) argues:
+Politically the plans for mobilization were all made in the void. They aimed at the best technical results
+without allowing for either the political conditions from which war might spring or the political
+consequences which might follow from any particular plan. There was little consultation between
+military planners and civilian statesmen. The statesmen assumed that the general staffs were doing their
+best to insure that they would win a war if one came and there was no speculation how policy could be
+seconded by military action. The dogma of the great Clausewitz … had lost its hold.19
+The problem of low political–military integration is compounded if political leaders are ignorant of the
+details of military plans, because they may not realize the extent to which they lack the military options to
+support their foreign policy objectives. This ignorance was an important source of escalation in 1914.
+Whereas the military saw mobilization as a means of preparing for a war that they perceived to be inevitable,
+political decision -makers generally saw it as an instrument of deterrence or coercive diplomacy. They had
+little conception, until it was too late, that they lacked the means to support a coercive or deterrent strategy
+based on a fine-tuning of military threats, or that their room to maneuver had been severely restricted. As a
+result, they did not realize that actions taken in all sincerity to avoid war while preserving vital interests only
+made war more likely. Thus Ritter (1958:90) concludes that “The outbreak of war in 1914 is the most tragic
+example of a government’s helpless dependence on the planning of strategists that history has ever seen.”
+George (1991) suggests several conditions conducive to effective crisis management. In addition to the
+limitations of one’s political objectives, these include presidential control of military options, pauses in
+military operations, availability of discriminating military options, coordination of military movements with
+political–diplomatic actions and with limited political objectives, and others. The military mobilization and
+war plans of 1914, and the Schlieffen Plan in particular, violated every one of these requirements. The
+Schlieffen Plan left German leaders with no options between a two-front war against France and Russia and
+no war at all. The plan would be implemented regardless of the political circumstances that might draw
+Germany into a war (Snyder, 1984; Van Evera, 1999). The strategy gave German leaders no intermediate
+military option that would allow them to demonstrate their resolve and fine-tune their threats without
+provoking the adversary into a dangerous escalation, which is an essential requirement for crisis
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+management (George, 1991). World War I is only one case, but it nicely illustrates the potential causal impact
+of common forms of organizational behavior on decisions for war and peace.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Another key component of the bureaucratic politics/organizational process model is its focus on
+implementation. Political leaders do not implement their own policies, and there is often “slippage” between
+the foreign policy decisions of political leaders and the ways in which their decisions are actually
+implemented. As Harry Truman remarked as Dwight Eisenhower was about to assume the presidency, “He’ll
+sit here, and say ‘Do this! Do that!’ And nothing will happen. Poor Ike–it won’t be like the Army. He’ll find it very
+frustrating” (quoted in Neustadt, 1991:10). Similarly, during the Cuban missile crisis President Kennedy
+ordered that the naval blockade be moved closer to Cuba in order to give the Soviets more time to reverse
+course before a collision, but the Navy did its best to resist those orders (Allison and Zelikow, 1999). Kennedy
+also ordered the suspension of weather-sampling flights over the Soviet Union during the crisis, to minimize
+the danger of dangerous misperceptions, but that order was not implemented. This led Kennedy to
+complain “There is always some son of a bitch who doesn’ t get the word” (quoted in Holsti, 1989:18).
+The bureaucratic politics model sees foreign policy decision-making as a political process, defined by
+bargaining among actors with difference policy preferences and unequal power. The organizational behavior
+model broadens this conception by incorporating certain routinized forms of behavior within organizations,
+behavior that is driven by standard operating procedures, rules, and customs rather than explicit
+calculations of political interest. These models tend to minimize the genuinely social aspects of group
+decision-making–the interpersonal dynamics among the members of any decision-making group, whether it
+be a governmental organization or an informal advisory group. We now turn to the social dynamics of
+decision -making in small groups.
+
+The Small-Group Level of Analysis
+
+Social psychologists give a great deal of attention to the dynamics of small-group behavior. The small-group
+model that has generated the greatest interest among international relations theorists, and which in fact has
+become the paradigmatic theory of small-group behavior, is Irving Janis’ (1982) analysis of “groupthink.”
+Groupthink is a theory of small-group dynamics that is anchored in individual psychology.20 It is not a theory
+of war, but it has a number of important implications for decision-making, especially crisis decision-making,
+on issues of war and peace.
+Groupthink is a “concurrence-seeking tendency within cohesive groups” (Janis, 1982:7–9), a strong
+tendency to conform to group norms and reach a policy consensus. It is motivated not by political pressure,
+but by social pressure in the context of high-stakes decisions and enormous stress. Conformity with group
+norms and unanimity about policy maintains the integrity of the group and a sanctuary from the burdens of
+office, and in doing so provides psychological security for the individual, reduces anxiety, and heightens selfesteem (Janis and Mann, 1977).
+Janis argues that groupthink is most likely to arise in socially cohesive groups that are relatively insulated
+from the government and from outside sources of intelligence, and also in situations involving significant
+moral dilemmas. Tendencies toward groupthink are further reinforced if the group leader actively promotes
+his or her preferred policy, if there is no source of contrary views or even a devil’s advocate to raise
+unpopular arguments, if the group has recently suffered a significant failure, and if group members are
+particularly insecure.
+Janis (1982) identifies a number of “symptoms” of groupthink, patterns associated with the tendency
+toward concurrence-seeking: illusions of invulnerability, unanimity, and moral superiority; discounting and
+rationalization of information that runs contrary to the collective beliefs of the group; and the reinforcement
+of these tendencies by self-appointed mindguards who work to shield the group against adverse information
+and to put pressure on dissenters. These tendencies generate a number of more specific patterns of group
+decision-making: the consideration of a limited number of policy alternatives; failure to reexamine the
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+possible risks of a policy once it is preferred by a majority, or to reconsider the possible benefits of
+alternatives after they have been rejected; failure to consider what might go wrong and develop contingency
+plans; selective attention to information and discounting of discrepant information; lack of an attempt to
+acquire additional information from experts; tendency to elevate loyalty to the highest priority goal; and
+tendencies towards riskier courses of action (Janis, 1982; Janis and Mann, 1977:130–31).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+These patterns detract from a rational decision-making process. They lead to a number of misperceptions
+that contribute to war through the causal paths discussed in the last chapter. As with any theory of decision making, it is assumed that the quality of the process is probabilistically linked to the quality of the outcome,
+and that if the process is non-rational there is an increase in the probability of ineffective policies and bad
+outcomes. Janis (1982) attempts to demonstrate this in his case studies of a number of American foreign
+policy failures, including the Bay of Pigs and the Vietnam War. He also compares these cases of foreign policy
+failures with the American decision-making regarding the Marshall Plan and the Cuban missile crisis, where
+symptoms of groupthink are much less evident and where outcomes were quite successful for the United
+States.
+While scholars have applauded Janis’s (1982) efforts to construct a small-group model of decision-making,
+and welcomed it as an important contribution to our understanding of collective decision-making, they have
+criticized the model on a number of grounds. These criticisms have led to the development of alternative
+theories of small-group dynamics in foreign policy (Longley and Pruitt, 1980;’ t Hart, 1990; ’ t Hart, Stern, and
+Sundelius, 1997). Most of these share many of the features of the group-think model, and it is not necessary
+to provide a complete review of these theories here, but we would like to highlight three issues in particular.
+First, although Janis (1982) defines groupthink in terms of concurrence -seeking within cohesive groups, it
+is conceivable that similar tendencies might arise in non-cohesive groups, and also that some cohesive
+groups might not generate such tendencies. A highly cohesive group with considerable experience working
+together might feel comfortable questioning each other and raising arguments that run contrary to the
+opinions of the majority. The greatest pressures for conformity might be in relatively newly formed,
+inexperienced, and weakly institutionalized groups, where individuals are most in need of the group for
+psychological comfort, and where many of the decision-making pathologies associated with groupthink are
+most likely to occur.
+These considerations led Stern and Sundelius (1994) to identify a “newgroup syndrome.” Stern (1997)
+argues that the newgroup syndrome provides a better explanation for flawed decision-making during the
+Bay of Pigs crisis than does Janis ’s (1982) groupthink model. The newgroup syndrome, if validated, has
+important implications for crisis decision-making on war and peace, since many international crises,
+particularly those involving democratic states with frequent regime changes, involve new and relatively
+inexperienced decision-making groups.
+Second, scholars have qualified Janis ’s (1982) hypothesis that small -group dynamics generally lead such
+groups to adopt riskier courses of action than would the same individuals acting on their own, which was
+consistent with the longstanding risky shift hypothesis. New evidence suggests instead a group polarization
+hypothesis, which predicts that small groups will generate either significantly more risky or more cautious
+behaviors relative to what one might expect from the simple aggregation of the policy preferences of the
+individual members of the group (Minix, 1982; Vertzberger, 1990).
+Third, in emphasizing the social–psychological dynamics leading to concurrence-seeking tendencies within
+small groups, Janis (1982) downplayed power-related political dynamics that might lead to several of the
+decisional pathologies that Janis identifies with groupthink. He also made little effort in his case studies to
+rule out these alternative explanations. For example, the tendency to go along with the group might be the
+result of political pressure or career incentives rather than the social pressures and internalized group
+norms. The recognition that group dynamics do not operate in a political vacuum has led ’ t Hart (1990) and
+others to try to construct a small-group theory of foreign policy decision-making that integrates political as
+well as social–psychological factors. This is a quite positive development in the field.
+We have now covered theories of interstate war grounded in multiple levels of analysis, including
+systemic, dyadic, state–societal, and individual-level theories. Although all approaches to the causes of war
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+do not fit readily into separate well-defined levels–a point to which we return in the conclusion–the levels-ofanalysis framework still generates fewer problems of classification than do alternative frameworks. The
+application of this framework to theories of civil wars is somewhat more problematic. Distinctions among
+levels of analysis remain applicable, but it is much less common for theorists of civil wars than those of
+interstate wars to organize their analyses around these different levels. Civil war analysts are also more likely
+to integrate variables from multiple levels than are their counterparts who study interstate wars, though the
+gap is slowly closing as more of the latter integrate variables from different levels. In the next chapter we
+survey some of the leading theories of civil wars.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Notes
+1. Allison (1971) created considerable confusion by describing model I as “the rational actor” model. This
+label was misleading because it implied that his other models were not based on rational actors. As we will
+see, especially with respect to the governmental politics model, actors behave rationally on behalf of their
+interests (Bendor and Hammond, 1992). Those interests, however, are primarily organizational interests
+rather than the national interest. Whereas model I is a unitary rational actor model, model III is a rational
+but non -unitary actor model. Although some also interpret model II as a rational non-unitary model,
+others argue that certain aspects of the model detract from rationality, as we shall see later in the chapter.
+Steinbrunner (1974: chap. 3) suggested a fourth model, a “cognitive model,” which is a non-rational
+psychological model of individual behavior.
+2. Allison (1971) selected the Cuban missile crisis for a reason. This was an acute national security crisis,
+one that involved the risk of nuclear war. If ever we would expect a rational unitary actor model to apply, it
+would be in such a crisis. If Allison could show that organizational processes and bureaucratic politics
+played an important role in a crisis of this magnitude, we could be reasonably confident that they might
+play an important role in other cases where the national interest was not so directly and immediately
+threatened. The influence of Allison ’s book derived in part from this research design and case selection.
+The Cuban missile crisis is a “least-likely case” for the bureaucratic and organizational models (George and
+Bennett, 2005). The logic of least-likely case analysis involves what Levy (2008b) calls the “Sinatra
+inference”: if I can make it there, I can make it anywhere. At the same time, the Cuban missile crisis is a
+“most-likely case” for the rational unitary actor model. If the case did not fit the model, it would
+significantly reduce our confidence in the general applicability of the model.
+3. On foreign policy-making in developing states, see Vertzberger (1984), Calvert (1986), Korany (1986), and
+Barnett (1992).
+4. One common criticism of the utility of the bureaucratic politics model for analyzing US foreign policy is
+that it underestimates the power of the president. After all, the president appoints (with the approval of
+the Congress) most of the other key actors, usually people who share his views. Another argument is that
+in national security crises, the effects of variables in models II and III are generally marginalized by those of
+the national interest calculations of model I (Krasner, 1971; Art, 1973).
+5. The issue came up again in the 1980s, as the “star wars” program, and it was raised again by the second
+Bush Administration.
+6. For an application of satisficing decision-rules, rule-driven behavior, and incre-mentalism to individual
+behavior, see Steinbrunner’s (1974: chap. 3) conception of a “cybernetic model.”
+7. Sechser (2004) makes a different argument. In a statistical study he finds that states that lack strong
+civilian control tend to initiate armed conflicts much more frequently than states with stronger civilian
+control over their military organizations. This finding implies that the caution of the American military with
+respect to strategy is not generalizable to all other states. On a slightly different question, recent work has
+revealed an increasing ideological conservatism among American military officers relative to the views of
+civilians (Feaver and Kohn, 2001).
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+8. Recall the discussions of the spiral model and of the “steps-to-war” model in chapters 2 and 3. Scholars
+debate whether technologically driven “qualitative arms races” are more war-prone than are “quantitative”
+arms races (Huntington, 1958).
+9. It is not clear that morale is greatest with offensive war plans, although that might depend on exactly
+how one defines morale. One thing that is clear is that soldiers tend to fight more intensely in the defense
+of their territory against external aggression, or perhaps in recovering lost territory, than in aggressive
+actions to conquer another ’s territory. This is consistent with evidence that people fight harder to avoid
+losses than to make gains, as we saw in our discussion of prospect theory and loss aversion in the last
+chapter.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+10. One problem with these analyses is that the distinction between offensive and defensive strategies is
+not always clear (Levy, 1984; Lieber, 2005). Scholars often lump both incentives to striking first
+(preemption) and a strategy of deep territorial penetration into the same offensive category, but they are
+distinct. A doctrine may call for waiting for the adversary to strike first but launching a powerful
+counteroffensive deep into the adversary ’s territory if one is attacked, as illustrated by Israeli doctrine in
+1973 and German military doctrine in the 1870s and 1880s.
+11. For a skeptical view, see Zuber (1999), who argues that Germany did not have an offensive war plan.
+For responses to Zuber, see Mombauer (2001) and Strachan (2001).
+12. Recent scholarship has challenged the long-held belief that all military leaders shared the belief that
+the war would be short. There is some evidence that Moltke believed that the war would probably be a
+long one (Förster, 1999).
+13. McDermott (1998) suggests a prospect theory explanation based on loss aversion: US leaders
+recognized that they had few good options, but believed that the status quo was unacceptable, and were
+willing to engage in a highly risky strategy in the hope of overturning the status quo.
+14. In fact, the Soviet Union had already smuggled nuclear warheads into Cuba, but US leaders were
+unaware of this, and in fact did not learn until years after the missile crisis (Dobbs, 2008). Thus American
+leaders were operating with very limited information about the magnitude of the threat to US interests. If
+the US had known of the presence of nuclear warheads in Cuba, they might have acted much differently in
+their crisis bargaining.
+15. Reinforcing this argument is the fact that President Kennedy discounted the hawkish views of some in
+the CIA because he felt that he had been misled by the CIA in early 1961 during the Bay of Pigs crisis
+(Higgins, 1987).
+16. It was not accidental that the analysts at OSP were selected for their job precisely because they shared
+the administration’s assumptions.
+17. This issue is quite complex. Given the inherent uncertainty about Iraqi WMD, the fact that Iraq did have
+WMD a decade before and provided no evidence that it had destroyed its stockpiles, and the fact that
+many leading Iraqi generals believed that Iraq had WMD, one can imagine intelligence analysts reaching
+that conclusion even in the absence of political pressure. Some leading scholars argue that the primary
+problem was not the assumption of Iraqi WMD, but the confidence with which it was held and the failure
+to constantly question that assumption through an expanded information search and more critical
+perspective (Jervis, 2006; Betts, 2007).
+18. Some recent research challenges conventional interpretations of the Schlieffen Plan and its impact
+(Zuber, 1999; Mombauer, 2001; Lieber, 2007). Moltke probably expected a long war (F ö rster, 1999), and it
+is not clear how far west the enveloping movement through Belgium was designed to go (Zuber, 1999).
+Still, one can make the argument that Moltke sought a quick victory against France in the west in order to
+position Germany for the long war to come.
+19. See also Ritter (1958), Turner (1979), Snyder (1984).
+20. The groupthink concept is frequently misused by journalists and some scholars, who take it out of the
+small-group context for which it was intended and apply it to a tendency toward conformity of thought
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+among any level. Groupthink should be restricted to small groups and not confounded with other sources
+of conformity, including ideological and cultural factors.
+
+

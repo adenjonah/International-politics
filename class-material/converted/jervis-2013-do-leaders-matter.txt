@@ -1,0 +1,1504 @@
+# Source: jervis-2013-do-leaders-matter.pdf
+# Converted: 2026-03-06 14:39
+# Note: Line numbers here differ from PDF page numbers
+---
+
+                       Security Studies
+
+
+
+
+                       ISSN: 0963-6412 (Print) 1556-1852 (Online) Journal homepage: http://www.tandfonline.com/loi/fsst20
+
+
+
+
+                Do Leaders Matter and How Would We Know?
+
+                Robert Jervis
+
+                To cite this article: Robert Jervis (2013) Do Leaders Matter and How Would We Know?, Security
+                Studies, 22:2, 153-179, DOI: 10.1080/09636412.2013.786909
+
+                To link to this article: http://dx.doi.org/10.1080/09636412.2013.786909
+
+
+
+
+                        Published online: 08 May 2013.
+
+
+
+                        Submit your article to this journal
+
+
+
+                        Article views: 5110
+
+
+
+                        View related articles
+
+
+
+                        Citing articles: 12 View citing articles
+
+
+
+
+                                       Full Terms & Conditions of access and use can be found at
+                               http://www.tandfonline.com/action/journalInformation?journalCode=fsst20
+
+Download by: [Rutgers University]                                                                           Date: 03 September 2017, At: 17:40
+                                                                Security Studies, 22:153–179, 2013
+                                                                Copyright © Taylor & Francis Group, LLC
+                                                                ISSN: 0963-6412 print / 1556-1852 online
+                                                                DOI: 10.1080/09636412.2013.786909
+
+
+
+
+                                                                 Do Leaders Matter and How Would We Know?
+
+                                                                                                     ROBERT JERVIS
+
+
+
+                                                                      This paper will explore the ambivalence or conflict in the literature
+                                                                      about the extent to which leaders matter in international politics,
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                      commonly linked to the level-of-analysis question. One the one
+                                                                      hand, national leaders are often larger than life figures with strong
+                                                                      preferences and distinctive personalities who seem to leave their
+                                                                      stamp on events. On the other hand, most IR scholars place great
+                                                                      stress on the incentives and constraints posed by the environment,
+                                                                      be it domestic or international. I will proceed in four sections. The
+                                                                      first discusses the essential claims at stake, the kinds of evidence
+                                                                      that could be adduced to support one position or the other, and
+                                                                      the pathways by which individual differences can make themselves
+                                                                      felt. The second section examines the implications for morality, re-
+                                                                      sponsibility, and democratic theory. This discussion too will point
+                                                                      to relevant methods, including ones that are contested. I will then
+                                                                      turn to post-Cold War American foreign policy, skeptically exam-
+                                                                      ine the claim that individual presidents, even George W. Bush,
+                                                                      mattered as much as is generally believed and close by discussing
+                                                                      the implications for democratic accountability and control.
+
+
+
+
+                                                                      Robert Jervis is Adlai E. Stevenson Professor of International Politics at Columbia Uni-
+                                                                versity. His most recent book is Why Intelligence Fails: Lessons from the Iranian Revolution
+                                                                and the Iraq War (Ithaca, NY: Cornell University Press, 2010). He was president of the Amer-
+                                                                ican Political Science Association in 2000–2001, received the National Academy of Science’s
+                                                                tri-annual award for behavioral sciences contributions to avoiding nuclear war, and is the
+                                                                founding editor of the International Security Studies Forum. This paper was originally pre-
+                                                                sented at the “From Clinton to Bush to Obama: What Have We Learned about Presidents and
+                                                                Foreign Policy?” conference, held at the Miller Center of Public Affairs, University of Virginia,
+                                                                27–28 October 2011, and was co-sponsored by the Miller Center and Security Studies.
+                                                                     He would like to thank the anonymous reviewers at Security Studies.
+
+                                                                                                               153
+                                                                154                                               R. Jervis
+
+                                                                      The question of the extent to which leaders matter in international poli-
+                                                                tics is as familiar as it is impossible to fully answer.1 Ambivalence is common
+                                                                and, I believe, appropriate. On the one hand, national leaders are often
+                                                                larger than life figures with strong preferences and distinctive personali-
+                                                                ties who seem to leave their stamp on events. Who could doubt that the
+                                                                world would have been very different without Woodrow Wilson, Winston
+                                                                Churchill, Josef Stalin, Franklin Roosevelt, Mao Zedong, Richard Nixon, and
+                                                                George W. Bush? On the other hand, most IR scholars place great stress on
+                                                                the incentives and constraints posed by the environment, be it domestic or
+                                                                international. When Harold Macmillan was asked what caused him to alter
+                                                                his policies, he famously replied “events, dear boy, events,” and Abraham
+                                                                Lincoln said “I claim not to have controlled events, but confess plainly that
+                                                                events have controlled me.”2
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                      An interesting probe would be to write the history of the Cold War with-
+                                                                out mentioning the name of either side’s leaders and see if a naı̈ve reader
+                                                                could determine when personnel changes occurred. Consistent with argu-
+                                                                ments that democracies maintain steadier foreign policies than autocracies, I
+                                                                suspect that the changes would be more apparent on the Soviet side than on
+                                                                the American. At the end of this paper I will return to this exercise for post-
+                                                                Cold War American foreign policy, and here would just note the relevant
+                                                                ambivalence. On the one hand, George H. W. Bush, Bill Clinton, George
+                                                                W. Bush, and Barack Obama are very different people with very different
+                                                                outlooks on the world. Almost all of us felt strongly that these people or their
+                                                                opponents should have been elected president in part because we felt that
+                                                                they would conduct a better foreign policy. On the other hand, the continu-
+                                                                ities throughout this period are striking, and the changes we find are more a
+                                                                product of the situation than the views of the person in office—or, to put it
+
+
+
+                                                                     1 It is commonly approached as the “level-of-analysis” question. Systematic exploration began with
+
+                                                                Kenneth Waltz, Man, the State, and War (New York: Columbia University Press, 1959) who talked about
+                                                                the three “images” of the causes of war. The term “levels of analysis” was coined by J. David Singer in his
+                                                                review of Waltz, “The Level-of-Analysis Problem in International Relations,” World Politics 14 (October
+                                                                1961); for a recent argument that individual differences matter, see Daniel Byman and Kenneth Pollack,
+                                                                “Let Us Now Praise Great Men: Bringing the Statesman Back In,” International Security 25, no. 4 (Spring
+                                                                2001): 107–46; and for a good case study see Stephen Benedict Dyson, The Blair Identity: Leadership and
+                                                                Foreign Policy (Manchester, UK: Manchester University Press, 2009).
+                                                                     2 There is no original and verified source for this quotation and it may be apocryphal. Robert Harris,
+
+                                                                “As Macmillan Never Said: That’s Enough Quotations,” Telegraph, 4 June 2002, http://www.telegraph.
+                                                                co.uk/comment/personal-view/3577416/As-Macmillan-never-said-thats-enough-quotations.html; David
+                                                                Donald, Lincoln (New York: Simon and Schuster, 1995), 514. Indeed the study of leadership has fallen out
+                                                                of favor in political science, but for a recent and very interesting study, see Richard Samuels, Machiavelli’s
+                                                                Children: Leaders and Their Legacies in Italy and Japan (Ithaca: Cornell University Press, 2003). A good
+                                                                review of the literature is John Ahlquist and Margaret Levi, “Leadership: What It Means, What It Does,
+                                                                and What We Want to Know About It,” Annual Review of Political Science, vol. 14 (Palo Alto, CA: Annual
+                                                                Reviews, 2011), 1–24.
+                                                                                                Do Leaders Matter?                           155
+
+                                                                slightly differently, the situation (both domestic and international) may have
+                                                                changed the views of the presidents.
+                                                                     Because these debates tap into deep issues about agency, structure, and
+                                                                human behavior, they are to be found in many disciplines. Psychologists
+                                                                argue about whether situational or dispositional factors are more important in
+                                                                human behavior, and they have found that people are prone to overestimate
+                                                                the degree to which another’s actions are to be explained by his or her
+                                                                internal predispositions and underestimate the role of the situation the person
+                                                                is in. Historians make less of a fetish of these theoretical arguments, but
+                                                                in practice enact them in arguments that give greater or lesser weight to
+                                                                individuals and to circumstances. Among political scientists, those who study
+                                                                personality point to the power of individual differences, but those who
+                                                                endorse structural models find this hard to accept. All these debates contain
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                important but often underdeveloped implications for the responsibility that
+                                                                people bear for their actions, as I will discuss below.
+                                                                     I will proceed in four sections. The first discusses the essential claims at
+                                                                stake, the kinds of evidence that could be adduced to support one position or
+                                                                the other, and the pathways by which individual differences can make them-
+                                                                selves felt. It unpacks the arguments and focuses on how we come to grips
+                                                                with them. The second section examines the implications for morality, re-
+                                                                sponsibility, and democratic theory. This discussion too will point to relevant
+                                                                methods, including ones that are contested. The third section turns to post-
+                                                                Cold War American foreign policy and skeptically examines the claim that
+                                                                individual presidents, even George W. Bush, mattered as much as is gener-
+                                                                ally believed. Finally, I discuss the implications for democratic accountability
+                                                                and control.
+
+                                                                     HOW AND WHY DO (AND DON’T) PRESIDENTS MATTER?
+
+                                                                The argument that individual leaders do not matter and that the drivers of a
+                                                                state’s foreign policy are to be found at the domestic or international level
+                                                                implies one of three things (which could operate in concert). First, all people
+                                                                who might come to power, at least in a particular country at a particular time,
+                                                                have roughly the same values and beliefs. This could be because the country
+                                                                is homogeneous on these dimensions or because those who think differently
+                                                                cannot rise to the top. Societies, of course, are not uniform, but many values
+                                                                and beliefs are widely shared, and people outside the mainstream will not
+                                                                be selected for leadership positions.
+                                                                      Second, leaders might be socialized once they take office. The tendency
+                                                                for people to become captured by the organization they join is well known.
+                                                                It is amazing how quickly leaders who come into a position with a pledge
+                                                                to make fundamental changes learn that the organization’s ways of doing
+                                                                things make a great deal of sense. Academics all have seen the changes that
+                                                                156                                             R. Jervis
+
+                                                                happen to their colleagues who become deans, something that cannot be
+                                                                entirely explained by self-selection. Bureaucracies are intellectually as well
+                                                                as politically powerful and provide the newcomer with information, a view
+                                                                of the world, and a home. This is more true for cabinet officers than for the
+                                                                president, but the White House has its own institutionalized interests and
+                                                                perspectives as well, and so it is not surprising that despite his criticisms
+                                                                of them when he was a candidate, President Obama did not relinquish the
+                                                                executive powers his predecessor had amassed, although he probably would
+                                                                not have expanded them as Bush did had he been president after 9/11.
+                                                                     Third, leaders are constrained. Even if they are not socialized or cap-
+                                                                tured, they are likely to find that their freedom of action is sharply limited.
+                                                                Both the second and the third processes were at work when, two years
+                                                                after he became Dwight Eisenhower’s secretary of state, John Foster Dulles
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                responded to the argument for a more aggressive policy, if not preventive
+                                                                war, in the following way (in the words of National Security Council (NSC)
+                                                                minutes):
+
+                                                                       He could not help but have some sympathy for the general view of the
+                                                                       Joint Chiefs of Staff in favor of greater dynamism in the American attitude
+                                                                       toward the Soviet Union and Communist China. After all, during the
+                                                                       course of the 1952 campaign he had himself called for a more dynamic
+                                                                       U.S. policy vis-a-vis Communism. However, experience indicated that it
+                                                                       was not easy to go very much beyond the point that this administration
+                                                                       had reached in translating a dynamic policy into courses of action. . . . 3
+
+                                                                     Perhaps Dulles should have been embarrassed, but as far as I can tell
+                                                                he was not, although he did claim—incorrectly and half-heartedly—that “in
+                                                                any case we had been more dynamic than our predecessors.” He had simply
+                                                                confronted the facts of international life.
+                                                                     As the Dulles quotation implies, the degree to which there is freedom of
+                                                                choice and room for individual preferences depends in significant measure
+                                                                on how compelling the external environment is. To use Arnold Wolfers’
+                                                                analogy, if the house is on fire we do not have to know anything about
+                                                                the individuals in it to predict that they will rush for the exits.4 But there
+                                                                are problems with this simple truth. While people may not only say but
+                                                                believe that they lack agency in order to politically and psychologically
+                                                                distance themselves from the unpleasant behavior they are undertaking, a
+
+                                                                     3 Department of State, Foreign Relations of the United States, 1952–1954, vol. 2, National Security
+
+                                                                Affairs, pt. 1, (Washington, DC: Government Printing Office, 1984), 833.
+                                                                     4 Arnold Wolfers, Discord and Collaboration (Baltimore: Johns Hopkins Press, 1962), 13. For evi-
+
+                                                                dence that differences in perceptions among decision makers decreased as tensions increased, see Ole
+                                                                Holsti, “Individual Differences in ‘Definition of the Situation,’ ” Journal of Conflict Resolution 14, no.
+                                                                3 (September 1970): 303–10. For a different kind of argument about the role of context, see Stephen
+                                                                Skowronek, The Politics Presidents Make: Leadership from John Adams to George Bush (Cambridge, MA:
+                                                                Harvard University Press, 1993).
+                                                                                                          Do Leaders Matter?                                          157
+
+                                                                different person might have responded differently. Related, how compelling
+                                                                the environment is can be in the eye of the beholder, which makes this
+                                                                proposition dangerously circular: when the situation is compelling, people
+                                                                will behave in the same way, and we know the situation is compelling
+                                                                because people with different predispositions behave the same way. Even
+                                                                though some situations may seem objectively clearer than others, and most
+                                                                would agree that the current era offers American leaders much greater leeway
+                                                                than did the Cold War, the fact that the terms hawks and doves were coined
+                                                                in that period reminds us that agreement that the situation was grave did
+                                                                not preclude strong differences on what should be done. Nevertheless, not
+                                                                all situations are created equal. Not all people are either, and where one
+                                                                person might feel trapped another could see room for choice. There is an
+                                                                interaction between individuating and circumstantial factors.5 Andrew Polsky
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                argues that at the start of a war presidents, and presumably leaders of other
+                                                                countries, have a fairly brief window to direct broad policy, and after that
+                                                                their room to maneuver drastically shrinks.6
+                                                                      Sometimes continuity is produced by opportunity as well as constraint.
+                                                                Part of Barack Obama’s campaign platform was that he would roll back the
+                                                                expansion of presidential power that had taken place under Bush. Presi-
+                                                                dential signing statements that declared some part of laws unconstitutional
+                                                                and not binding, infringements on civil liberties in the name of keeping the
+                                                                country safe, the use of government power to keep information from courts,
+                                                                and other abuses were to be foresworn. Although it may be dismaying to
+                                                                some of us because of our political views, as political scientists we should
+                                                                not have been surprised that once in office Obama found that these tools
+                                                                were too alluring to renounce. Presidents like presidential power no matter
+                                                                what their personal preferences.
+                                                                      Some foreign policy opportunities seem too good to pass up as well.
+                                                                Again Obama provides an example, albeit a less clear-cut one. Because he
+                                                                was sharply critical of the invasion of Iraq, it appears that Obama’s gen-
+                                                                eral predilections were against intervening except where it was necessary to
+                                                                fight terrorism. Yet the Libyan case seemed too tempting to resist: not only
+                                                                was there some (overstated, I believe) danger of a massacre, but interven-
+                                                                tion was supported by the Arab League and the UN, and most of the work
+                                                                was to be done by Britain and France. If he had been a really committed
+                                                                anti-interventionist he probably would have resisted, but people of a wide
+
+
+                                                                     5 For a brief but suggestive discussion of this question, see James Rosenau, “Pre-Theories and the
+
+                                                                Theories of Foreign Policy,” in Approaches to Comparative and International Politics, ed. R. Barry Farrell
+                                                                (Evanston, IL: Northwestern University Press, 1966), 47–48.
+                                                                     6 Andrew Polsky, Elusive Victories: The American Presidency at War (New York: Oxford University
+
+                                                                Press, 2012); for instances in which a powerful leader chose not to act in a way that might have altered
+                                                                the situation, see Jonathan Steinberg, Bismarck: A Life (New York: Oxford University Press, 2011), 361,
+                                                                364–65.
+                                                                158                                             R. Jervis
+
+                                                                range of views would see Libya as an atypical case that merited military
+                                                                action.7
+
+
+                                                                Differences and Discontinuities
+                                                                The basic way we try to determine whether the identity of the president or
+                                                                any other leader matters is by using comparisons and counterfactuals. With
+                                                                the former we try to see if different leaders or different kinds of leaders follow
+                                                                different policies in similar circumstances, and whether the same person or
+                                                                similar people behave in ways that are consistent over time, especially when
+                                                                the context changes. This is not easy in practice, of course. It is hard to
+                                                                determine whether the situation is different and, less remarked upon, it is
+                                                                difficult to be sure that a particular kind of situation is not responsible for
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                the rise of a particular kind of leader. Methodologically, the deaths of leaders
+                                                                (especially from natural causes) are a godsend because they usually eliminate
+                                                                this possibility of endogeneity.8 Very close elections (2000 is the obvious one)
+                                                                are also useful in this regard. When a new president comes to power with
+                                                                greater support and changes the previous policy, however, this may reflect
+                                                                an alteration of the external environment or changed domestic interests and
+                                                                outlooks as well as that new president’s preferences.9 The president may be
+                                                                more a carrier of these forces than an independent causal factor. But when
+                                                                a leader comes to power through an accident or what comes as close as
+                                                                we can get to a random assignment, we are on firmer ground in attributing
+                                                                changed policies to factors we can associate with that president.
+                                                                      This is firmer, but not entirely firm. No matter how presidents come into
+                                                                office, if their predecessor was popular, they may have to continue his or
+                                                                her policies, at least for a while. If their predecessor was unpopular, leaders
+                                                                may need to institute changes even if they would prefer not to. Most newly
+                                                                elected presidents want to differentiate themselves from their successors. If
+                                                                George W. Bush was a bit extreme in his commitment to follow the ABC rule
+
+
+                                                                     7 Robert Pape, “When Duty Calls: A Pragmatic Standard of Humanitarian Intervention,” International
+
+                                                                Security 37, no. 1 (Summer 2012): 41–80.
+                                                                     8 For an example, see Benjamin Jones and Benjamin Olken, “Hit or Miss? The Effects of Assassination
+
+                                                                on Institutions and War,” American Economic Journal 1, no. 2 (July 2009): 55–87. I am grateful to
+                                                                Elizabeth Saunders for this citation. For attempts to deal with endogeneity in the context of determining
+                                                                the efficacy of the strategy of killing leaders of insurgencies, see Bryan Price “Targeting Top Terrorists:
+                                                                How Leadership Decapitation Contributes to Counterterrorism,” International Security 4, no. 36 (Spring
+                                                                2012): 9–46 and Patrick Johnston, “Does Decapitation Work? Assessing the Effectiveness of Leadership
+                                                                Targeting in Counterinsurgency Campaigns,” International Security 4, no. 36 (Spring 2012): 47–79.
+                                                                     9 Much of the political economy literature can be read in this way. See, for example, Peter Trubowitz,
+
+                                                                Defining the National Interest: Conflict and Change in American Foreign Policy (Chicago: University of
+                                                                Chicago Press, 1998); Benjamin Fordham, Building the Cold War Consensus: The Political Economy of U.S.
+                                                                National Security Policy, 1946–1951 (Ann Arbor: University of Michigan Press, 1998); and, for grander
+                                                                but flawed claims, Mark Brawley, Liberal Leadership: Great Powers and Their Challengers in Peace and
+                                                                War (Ithaca, NY: Cornell University Press, 1993).
+                                                                                                           Do Leaders Matter?                                         159
+
+                                                                (Anything But what Clinton did), the impulse is a common one. Furthermore,
+                                                                the transition itself is a cause to be reckoned with. It takes any administration
+                                                                at least a year to find its legs, and this period is almost always rocky. To the
+                                                                obvious examples of the Bay of Pigs and John F. Kennedy’s performance
+                                                                at the Vienna Summit meeting, we can add Bush’s flirtation with extending
+                                                                an unambiguous deterrent umbrella over a Taiwan that could move toward
+                                                                independence (quite contrary to what he did when he had more experi-
+                                                                ence) and Obama’s demanding that Israel impose a complete freeze on the
+                                                                settlements to start negotiation with the Palestinians.10 These rookie errors
+                                                                plague every administration. Even the Eisenhower administration, which was
+                                                                well-organized and had an experienced team, floundered when Stalin died
+                                                                three months after it took office.
+                                                                      We can also look for discontinuities, not between presidents, but be-
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                tween their views and those of their advisors. At first glance, this seems close
+                                                                to a smoking gun—many people want to do one thing, but the president
+                                                                decides to do another. There are cases like this, including ones in which the
+                                                                president seems to act on gut instinct, as Deborah Larson argues was true
+                                                                of Harry Truman in the decision to stay in Berlin in the face of the Soviet
+                                                                blockade and, in parallel, when he refused to forcibly repatriate Chinese and
+                                                                North Korean POWs even though doing so could have ended the Korean
+                                                                War (and greatly increased the chance that a Democrat would be elected in
+                                                                1952).11 But, good as this evidence is, it is not perfect. Even when presidents
+                                                                do not have more and different information than their colleagues, they hold
+                                                                a different position and feel different pressures. Especially when they know
+                                                                that the final decision is the president’s, advisors have more freedom in what
+                                                                they advocate. It is far from certain that a secretary of state who calls for one
+                                                                course of action would take the same advice if he or she were president.
+                                                                Role rather than individual difference can explain the discrepancies.
+                                                                      Continuities speak against individual differences, but sometimes they
+                                                                can mask the deep impact of the policy a president adopted and that others
+                                                                at the time would not have. One does not have to endorse an extreme ver-
+                                                                sion of path-dependence to argue that there are turning points or windows
+                                                                of opportunity when a situation is in flux. How the state acts then can have
+                                                                great influence for years to come, making it difficult to move off this track in
+                                                                subsequent years. One possible—and debatable—example is Bush’s refusal
+                                                                to explore the possible feeler from Iran in late 2002 to negotiate the funda-
+                                                                mental issues between the two countries, especially Iran’s nuclear program.
+
+                                                                     10 A thorough and fascinating discussion of the Bay of Pigs decision-making is Piero Gleijeses, “Ships
+
+                                                                Passing in the Night: The CIA, the White House and the Bay of Pigs,” Journal of Latin American Studies
+                                                                27, no. 1 (February 1995): 1–42.
+                                                                     11 Deborah Larson, “Truman and the Berlin Blockade: The Role of Intuition and Experience in Good
+
+                                                                Foreign Policy Judgment,” in Good Judgment in Foreign Policy: Theory and Application, eds., Stanley
+                                                                Renshon and Deborah Larson (Lanham, MD: Rowman & Littlefield, 2003), 127–52; Larson, “The Origins of
+                                                                Commitment: Truman and West Berlin,” Journal of Cold War Studies 13, no. 1 (Winter 2011): 180–212.
+                                                                160                                              R. Jervis
+
+                                                                If we assume for the sake of argument that this was a genuine overture,
+                                                                rejecting it may well have confirmed Iran’s leaders in their fears that the
+                                                                United States would settle for nothing less than regime change and that it
+                                                                was imperative to resume the quest for the capability to produce nuclear
+                                                                weapons as soon as it was safe to do so. While the inability of the Obama
+                                                                administration to reach an agreement with Iran and its decision instead to
+                                                                ratchet up the sanctions may at first glance seem to illustrate the power of the
+                                                                external environment, if this story is correct, the environment was decisively
+                                                                influenced by what Bush had done, and another president might have acted
+                                                                in a way that would have set US policy and relations with Iran on quite a
+                                                                different path.
+                                                                     Of course none of these comparisons will be perfect, and the num-
+                                                                ber of them that are most appropriate will remain small. So we can also
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                use counterfactuals, although the rules of this game are easy to dispute.12
+                                                                Nevertheless, the claim that the characteristics of an individual leader matter
+                                                                implies that the state’s policy would have been significantly different had
+                                                                someone of different characteristics been in power. This is always true if we
+                                                                make an extreme mental substitute—had Adolf Hitler been president, Ameri-
+                                                                can foreign policy would have been enormously different. But this could not
+                                                                occur unless the United States had been transformed into a fundamentally
+                                                                different country. More illuminating counterfactuals would replace a presi-
+                                                                dent with one of his or her main challengers or with someone who was a
+                                                                plausible candidate but chose not to run.13 During the Cold War the range of
+                                                                foreign policy views that a person who might be elected to office could hold
+                                                                was narrower than it is now, but even in the previous period temperaments
+                                                                and styles could vary considerably. Thus it could be argued that the Cuban
+                                                                Missile Crisis might have ended in war had Nixon been president (assuming
+                                                                that Fidel Castro still would have been in power in 1962—i.e., that Nixon
+                                                                would not have carried out a successful invasion of the island—and that
+                                                                Khrushchev would have enacted the same policy) because he was more
+                                                                headstrong than Kennedy. More obviously, but still debatably, had Kennedy
+                                                                not been assassinated, his distrust of the military might have led him to reject
+                                                                the advice to fight in Vietnam.
+
+
+                                                                     12 The relevant literature is very large. See, for example, James Fearon, “Counterfactuals and Hypoth-
+
+                                                                esis Testing in Political Science,” World Politics 43, no. 2 (January 1991); George Breslauer and Aaron
+                                                                Belkin, eds., Counterfactuals in World Politics: Logical, Methodological, and Psychological Perspectives
+                                                                (Princeton, NJ: Princeton University Press, 1996); Richard Ned Lebow, Forbidden Fruit: Counterfactuals
+                                                                and International Relations (Princeton, NJ: Princeton University Press, 2010); Jack Levy, “Counterfactuals
+                                                                and Case Studies,” in Oxford Handbook of Political Methodology, ed., Janet Box-Steffensmeier, Henry
+                                                                Brady, and David Collier (New York: Oxford University Press, 2008), 627–44.
+                                                                     13 In other words, to be useful counterfactuals should be plausible and should rewrite history as little
+
+                                                                as possible. An excellent analysis that turns this method around and asks what would have had to have
+                                                                been different for World War I to have been avoided is Paul Schroeder, Systems, Stability, and Statecraft:
+                                                                Essays on the International History of Modern Europe (New York: Palgrave Macmillan, 2004), chap. 8.
+                                                                                                           Do Leaders Matter?                                          161
+
+                                                                Mechanisms
+                                                                The identity of the president can matter through four main channels or
+                                                                mechanisms. To start with, policy can reflect the outlook, values, and beliefs
+                                                                of a president that result in preferences that, if not unique to him, at least are
+                                                                different from those of others who had been or could be president. Second,
+                                                                presidents, like the rest of us, presumably have distinctive personalities and
+                                                                styles that can affect behavior.14 In some cases, of course, these can be closely
+                                                                linked to preferences. But this need not be the case, just as in everyday life
+                                                                knowing that a person is agreeable or compulsive may not tell us much about
+                                                                the substance of that person’s views. Third, presidents vary in their political
+                                                                style and skill, which in turn influences their ability to mobilize support
+                                                                for their policies (and also affects their chances of being reelected). Fourth,
+                                                                less obviously and probably less importantly, different presidents generate
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                different environments. My discussion will proceed in reverse order.
+                                                                     Different presidents face different domestic and international landscapes
+                                                                by virtue of who they succeed, what their domestic bases are, and how they
+                                                                are viewed by other countries. The basic points are well known even if
+                                                                we tend to overlook them when we focus on why and how presidents
+                                                                matter. Much is summed up in the phrase “Only Nixon could go to China.”
+                                                                The fact that Nixon was seen as such a staunch anti-communist gave him
+                                                                the freedom to lead a rapprochement with the People’s Republic of China
+                                                                (PRC), essentially selling out Taiwan in the way that no Democrat could
+                                                                have. Conversely, because in the 2008 campaign Obama criticized Bush over
+                                                                Iraq, he had to bolster his national security bona fides by calling Afghanistan
+                                                                “the necessary war” and pledging a greater effort there. But if presidents have
+                                                                some freedom and even incentives to play against type, they cannot afford to
+                                                                leave their bases too far behind. Nixon shrewdly calculated that by 1971 the
+                                                                “China Lobby” was a mere shadow of its former self; had he been elected
+                                                                in 1960, it is doubtful that he could have performed the same maneuver.
+
+
+                                                                     14 In the past few years scholars have paid increasing attention to the impact on political views
+
+                                                                of the “Big Five” dimensions of personality (openness to experience, conscientiousness, extraversion,
+                                                                agreeableness, and emotional stability). See for example Jeffery Mondak, Personality and the Foundations
+                                                                of Political Behavior (New York: Cambridge University Press, 2010); Alan Gerber, Gregory Huber, David
+                                                                Doherty, and Conor Dowling, “The Big Five Personality Traits in the Political Arena,” Annual Review of
+                                                                Political Science, vol. 14 (Palo Alto, CA: Annual Reviews, 2011), 265–87; Dana Carney, John Jost, Sammy
+                                                                Gosling, and Jeff Potter, “The Secret Lives of Liberals and Conservatives: Personality Profiles, Interaction
+                                                                Styles, and the Things They Leave Behind,” Political Psychology 29, no. 6 (December 2008): 807–40. The
+                                                                classic study of the lines of division on foreign policy in the general public is Ole Holsti, Public Opinion
+                                                                and American Foreign Policy, rev. ed. (Ann Arbor: University of Michigan Press, 2004). Holsti and James
+                                                                Rosenau authored a series of studies of elite opinion. See, for example, Holsti and Rosenau, “The Political
+                                                                Foundations of Elites’ Domestic and Foreign Policy Beliefs,” in The Domestic Sources of American Foreign
+                                                                Policy, ed., Eugene Wittkopf and James McCormick (Lanham, MD: Rowman & Littlefield, 1998), 33–50;
+                                                                “Liberals, Populists, Libertarians and Conservatives: The Link Between Domestic and International Affairs,”
+                                                                International Political Science Review 17, no. 1 (January 1996): 29–55; and American Leadership in World
+                                                                Affairs: Vietnam and the Breakdown of Consensus (Boston: Allen and Unwin, 1984).
+                                                                162                                            R. Jervis
+
+                                                                A president’s base can constrain him, and while Obama has disappointed
+                                                                his supporters in many ways, I think he would have found it harder than
+                                                                John McCain to leave a large residual force in Iraq—and indeed the other
+                                                                disappointments with him made it especially hard for him to do so.
+                                                                     International audiences can also view different presidents differently,
+                                                                presenting them with different opportunities and dangers. Obama certainly
+                                                                gained by being the non-Bush and could assert at least some leadership
+                                                                because of this. Many leaders who had opposed Bush not only wanted
+                                                                Obama to succeed, but wanted to be seen as helping him, in part because
+                                                                they needed to show that their previous stance was not a reflection of
+                                                                being anti-American. The result was to allow Obama to take a new path
+                                                                without being accused of giving in to foreign pressure, and this possibility
+                                                                would have been open for any new president. This means that to assert that
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                different presidents follow different policies is not the same as to claim that
+                                                                the explanation lies in their personal characteristics and preferences.
+                                                                     The next carrier of consequential individual difference is political skill,
+                                                                about which it is difficult to theorize.15 Here we would find skillful presidents
+                                                                differing from less skillful ones not in the content of their policies, but in
+                                                                their ability to get what they want through their gift for reading the domestic
+                                                                political currents, appealing to public opinion, and maintaining coalitions.
+                                                                Related, some presidents are better at using the machinery of government
+                                                                than others. These people will suffer less from the slings and arrows of out-
+                                                                rageous bureaucracy, thwarting the tendency for departments to implement
+                                                                the president’s policies in ways that they want, but the president does not
+                                                                want, curbing the unruly and disruptive ambitions of cabinet officers, and
+                                                                drawing the best from the government in terms of information and options.
+                                                                A different kind of skill was displayed by Winston Churchill, whose most im-
+                                                                portant contribution to victory in World War II may have been less the policy
+                                                                decisions he made (with the exception of convincing his colleagues to reject
+                                                                peace overtures in the wake of the fall of France) than it was in his fierce
+                                                                and unflagging determination that inspired the British government, armed
+                                                                forces, and nation. In a parallel fashion, the assassination of the chair of the
+                                                                Afghanistan’s High Peace Council, Burhanuddin Rabbani, in September 2011
+                                                                had deleterious effects not because of his preferences, but because of his
+                                                                unique connections throughout the contesting Afghan factions. Returning to
+                                                                a president, Jimmy Carter’s self-righteousness may have both impelled him
+                                                                to try tasks like bringing peace to the Middle East that would have daunted
+                                                                more sensible people and harmed him by alienating some of those with
+                                                                whom he had to work. But evidence is difficult here. Although any book
+
+                                                                     15 The classic treatment is Richard Neustadt, President Power: The Politics of Leadership from FDR
+
+                                                                to Carter (New York: Wiley, 1980); also see Eugene Bardach, The Skill Factor in Politics (Berkeley:
+                                                                University of California Press, 1972); Mark Schafer and Scott Crichlow, Groupthink Versus High-Quality
+                                                                Decision-Making in International Relations (New York: Columbia University Press, 2011).
+                                                                                                           Do Leaders Matter?                                          163
+
+                                                                about a particular president will comment on his strengths and weaknesses
+                                                                as a political leader, often the reasoning is circular: it is obvious that Carter
+                                                                had little skill because so much of his program failed and he was defeated
+                                                                for reelection; Lyndon Johnson’s legislative successes attest to his skill within
+                                                                the government, but the steady increase in opposition to the war in Vietnam
+                                                                shows his inability to operate well with mass opinion. Causal inferences are
+                                                                also complicated by the possibility of anticipated reactions as less skillful
+                                                                presidents feel greater pressures to adopt policies they expect to be popular
+                                                                because if they understand their own limits, they will see that they could not
+                                                                get the country to follow any other course of action.
+                                                                      We usually expect a skill that is consistently displayed in one area to
+                                                                be found in others as well. But sometimes this is not the case, perhaps
+                                                                for psycho-dynamic reasons. Thus Otto von Bismarck was an outstanding
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                diplomat in part because of his great ability to discern how others would
+                                                                react to what Prussia, and then Germany, would do. But in domestic politics
+                                                                and, even more so, personal relations, he was obtuse.16
+                                                                      There are many more studies of presidents’ personalities. Although these
+                                                                may on occasion be systematically linked to preferences (e.g., a belligerent
+                                                                person may favor belligerent foreign policies),17 more often the dependent
+                                                                variable is less the content of the policy than the way in which it is reached
+                                                                and the president’s general orientation toward his job and the world. These
+                                                                studies can be of an individual, gaining their explanatory power through
+                                                                showing patterns that persist throughout the president’s career, bolstered by
+                                                                analyses of why this pattern arose and the psychological needs it met, or they
+                                                                can locate patterns across presidents who share certain characteristics, espe-
+                                                                cially in terms of having egos damaged in specified ways. Thus Alexander
+                                                                George and Juliette George argue that Wilson would dig in his heels when
+                                                                challenged in an area that he believed fell within his core competence and
+                                                                that this explains his self-defeating stubbornness in the fight over ratification
+                                                                of the League Covenant, and Jonathan Steinberg argues that because of their
+                                                                childhoods, Johnson and Nixon, but not Eisenhower, had a pathological fear
+                                                                of being humiliated, and this explains why the former two but not the latter
+                                                                were trapped in Vietnam.18 More generally, James David Barber categorized
+
+                                                                     16 See Steinberg, Bismarck, 469. He attributes this and, more substantively, Bismarck’s unwillingness
+
+                                                                to share power to his conception of a “sovereign self” that in part grew out of “the agony of his childhood,
+                                                                the little boy at the point of upside-down triangle and at the mercy of the struggle between the threatening
+                                                                woman and the weak man,” a configuration that was recapitulated in his dependence on King and then
+                                                                Kaiser William I, who was both weak and the ultimate source of Bismarck’s power.
+                                                                      17 See, for example, Lloyd Etheredge, A World of Men: The Private Sources of American Foreign
+
+                                                                Policy (Cambridge, MA: MIT Press, 1978).
+                                                                      18 1 Alexander George and Juliette George, Woodrow Wilson and Colonel House: A Personality Study
+
+                                                                (New York: John Day, 1956); Blema Steinburg, Shame and Humiliation: Presidential Decision Making
+                                                                on Vietnam (Pittsburgh: University of Pittsburgh Press, 1996) (but for the argument that Eisenhower did
+                                                                want to intervene, see Fredrik Logvall, Embers of War: The Fall of an Empire and the Making of America’s
+                                                                Vietnam (New York: Random House, 2012), 420–504). For a good argument that we probably can find
+                                                                164                                               R. Jervis
+
+                                                                presidents by whether their coping styles were active or passive and whether
+                                                                they had a positive or negative orientation toward the office.19
+                                                                      Presidents, like ordinary people, differ on such traits as impulsiveness,
+                                                                tolerance for ambiguity, willingness (and even desire) to hear conflicting
+                                                                views, stubbornness, and, what is perhaps a cause of some of these, per-
+                                                                sonal security or insecurity. Psychologists have explored the ways and extent
+                                                                to which characteristics like these are linked to basic political attitudes, espe-
+                                                                cially along the liberal-conservative spectrum, although we should be a bit
+                                                                careful because the results that flatter liberals are produced by a discipline
+                                                                heavily populated by liberals. Nevertheless, the findings are at least sugges-
+                                                                tive and while they do not directly bear on foreign policy, there do seem to
+                                                                be links between a more closed intellectual style and a predisposition to-
+                                                                ward tough measures and the use of force.20 Indeed, folk wisdom on both
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                the left and right agrees here, although it puts a different evaluation on the
+                                                                description. Liberals say that contemplative leaders are more likely to be
+                                                                able to find peaceful ways to resolve conflict, while conservatives say that
+                                                                those who seem open-minded simply lack the stomach for standing up for
+                                                                their country’s rights. Solid data is scarce, however, and it is not clear how
+                                                                much evidence from survey data would tell us about such links in the beliefs
+                                                                and behavior of the highly selected group of people who become national
+                                                                leaders.
+                                                                      Trust, assuming it is a stable characteristic that acts across domains, can
+                                                                have a more straightforward impact on policies. Presidents who are more
+                                                                trusting will be willing to enter into more and riskier agreements than will
+                                                                those who are low on this dimension. They will place a higher likelihood
+                                                                on others cooperating and will accept arrangements in which reciprocity is
+                                                                delayed and inexact, in part out of the belief that the other will see the long-
+                                                                run advantages of a sustained relationship. Inspection and verification will
+
+                                                                patterns, but that tracing them to childhood experiences is usually beyond our reach, see Philip Tetlock,
+                                                                Faye Crosby, and Travis Crosby, “Political Psychobiography,” Micropolitics 1, no. 2 (1981): 191–213.
+                                                                     19 James David Barber, The Presidential Character: Predicting Performance in the White House
+
+                                                                (Englewood Cliffs, NJ: Prentice Hall, 1972); for a vigorous critique of this book, see Alexander George,
+                                                                “Assessing Presidential Character,” World Politics 26, no. 2 (January 1974): 234–82. Also see Fred Green-
+                                                                stein, The Presidential Difference: Leadership Style from FDR to George W. Bush (Princeton, NJ: Princeton
+                                                                University Press, 2004); Robert Dallek, Hail to the Chief: The Making and Unmaking of American Presi-
+                                                                dents (New York: Hyperion, 1996); Dean Simonton, “Presidential IQ, Openness, Intellectual Brilliance, and
+                                                                Leadership,” Political Psychology 27, no. 4 (August 2006): 511–26. The role of emotion in determining a
+                                                                person’s style is generally neglected, although it is implicit in Barber’s formulation. For interesting studies
+                                                                of emotion in this context, see Barbara Keys, “Henry Kissinger: The Emotional Statesmen,” Diplomatic
+                                                                History 35, no. 4 (September 2011): 587–610; Frank Costigliola, “Broken Circle, The Isolation of Franklin
+                                                                D. Roosevelt in World War II,” Diplomatic History 32, no. 5 (November 2008): 677–718; Frank Costigliola,
+                                                                Roosevelt’s Lost Alliance’s (Princeton, NJ: Princeton University Press, 2012). On links between style and the
+                                                                way presidents have organized the foreign policy process, see Thomas Preston, The President and His
+                                                                Inner Circle: Leadership Style and the Advisory Process in Foreign Affairs (New York: Columbia University
+                                                                Press, 2001).
+                                                                     20 For a summary, see John Jost, Christopher Federico, and Jaime Napier, “Political Ideology: Its
+
+                                                                Structure, Functions, and Elective Affinities,” Annual Review of Psychology 60 (2009): 318–19.
+                                                                                                           Do Leaders Matter?                                          165
+
+                                                                not be neglected, but are not likely to be seen as insurmountable barriers,
+                                                                and multilateral endeavors will be seen as advantageous and possible. It
+                                                                would seem that trust and liberalism would be at least weakly correlated,
+                                                                but this might be a function not of underlying orientations, but of the context
+                                                                of post-World War II international politics.21
+                                                                      The most common approach here is to ask whether presidents have
+                                                                different, deep, and consistent preferences that deeply affect their responses
+                                                                to particular events. In their strongest form, we can ask about their ideolo-
+                                                                gies.22 Of course our normal left-right spectrum does not directly apply to
+                                                                foreign policy, although there may be some correlations. Various typologies
+                                                                have been offered, and for recent presidents we would be concerned with
+                                                                dimensions like multilateralism versus unilateralism, isolationism versus in-
+                                                                volvement throughout the world, broad or narrow conceptions of national
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                interest, belligerence, and the propensity to use force versus a more con-
+                                                                ciliatory outlook (or, in parallel, dispositions to see situations as resembling
+                                                                a security dilemma/prisoner’s dilemma or as ones that require deterrence
+                                                                if not force)—dimensions which have some overlap with each other—and
+                                                                perhaps with trust.
+                                                                      Although it would be an exaggeration to say that everyone is born into
+                                                                this world a little hawk or a little dove, whether because of personality
+                                                                characteristics or lessons learned about politics, political leaders do vary in
+                                                                their predispositions to see foreign threats and the propensity to believe
+                                                                that they require a forceful if not forcible response. It is not likely to be an
+                                                                accident that most of those who believed that deterrence and arms build-ups
+                                                                were necessary to cope with the Soviet threat also believed that the post-
+                                                                Cold War world was filled with latent nemesis, and that after September 11,
+                                                                2001 these people saw terrorism as an enormous threat, one that required a
+                                                                war. In parallel, most of those who thought that the Cold War, at least by the
+                                                                1980s, was in large measure a security dilemma also believed that the United
+                                                                States confronted few security threats after the Soviet Union disintegrated,
+                                                                did not greatly worry about a resurgent Russia, thought that the rise of China
+                                                                could be best coped with by conciliation, and in the wake of 9/11 not only
+                                                                opposed the war in Iraq, but felt that the threat from terrorism was being
+                                                                exaggerated and would be best countered by police and sharply focused
+
+                                                                     21 Brian Rathbun, “The ‘Magnificent Fraud’: Trust, International Cooperation, and the Hidden Do-
+
+                                                                mestic Politics of American Multilateralism after World War II,” International Studies Quarterly 55, no.
+                                                                1 (March 2011): 1–22; Paul Brewer et al. “International Trust and Public Opinion About World Affairs,”
+                                                                American Journal of Political Science 48, no. 1 (January 2004): 83–109; Paul Brewer and Marco Steen-
+                                                                bergen, “All Against All: How Beliefs about Human Nature Shape Foreign Policy Opinions,” Political
+                                                                Psychology 23, no. 1 (March 2002): 39–58; Kevin Binning, “‘It’s Us Against the World’: How Distrust
+                                                                in Americans Versus People-In-General Shapes Competitive Foreign Policy Preferences,” Political Psy-
+                                                                chology 28, no. 6 (December 2007): 777–99; Eric Usalner, The Moral Foundations of Trust (New York:
+                                                                Cambridge University Press, 2002).
+                                                                     22 For a good recent study of the role of ideologies in mass political opinion, see Jost, Federico, and
+
+                                                                Napier, “Political Ideology,” 307–37.
+                                                                166                                           R. Jervis
+
+                                                                intelligence operations. There are few logical links here, which means that
+                                                                it is more a psychological predisposition than a clear theory of how the
+                                                                world works that links these preferences. Perhaps past fear of the Soviet
+                                                                Union and the belief that Islamic terrorism is a fundamental challenge are
+                                                                part of an underlying belief in the power of ideology or a focus on troubling
+                                                                transitions to modernity,23 but the former could not explain why China or
+                                                                Russia would be seen as likely to use force to change the status quo, and
+                                                                the latter would lead to fear of many countries.
+                                                                      A parallel difference stems from the fact that levels of analysis not only
+                                                                is employed in academic papers, but is part of the mental furniture of many
+                                                                leaders.24 That is, they differ in the causal weight they place on the char-
+                                                                acteristics of individual leaders, the domestic sources of foreign policy, and
+                                                                the external environment. Realists stress the latter, but this cuts against the
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                grain of many Americans, members of the general public, and leaders alike.
+                                                                Ronald Reagan believed that the Soviet Union was much less of a men-
+                                                                ace once it moved toward becoming more pluralistic; George W. Bush and
+                                                                many of his colleagues believed that if countries in the Middle East became
+                                                                more democratic, they would adopt more benign foreign policies. Elizabeth
+                                                                Saunders shows that how and where American presidents intervene abroad
+                                                                is strongly influenced by their beliefs about whether and how domestic ar-
+                                                                rangements shape others’ foreign policy. This crosscuts many of our standard
+                                                                categorizations as it groups together Eisenhower and Johnson as externally
+                                                                focused leaders who, while caring about whether other countries were about
+                                                                to “go communist,” did not view other variations in domestic arrangements
+                                                                as a source of threat or believe that domestic reforms were essential to sta-
+                                                                bility, in contrast to internally focused leaders like Kennedy who were more
+                                                                finely attuned to others’ domestic regimes and who saw internal reforms as
+                                                                important.25
+                                                                      These arguments have to show that the resulting beliefs were powerful
+                                                                and autonomous. Powerful in the sense that they were consistent with the be-
+                                                                havior and inconsistent with most alternative courses of action; autonomous
+                                                                in that they were long-standing rather than being merely the product of the
+                                                                immediate international or domestic situation. In other words, we need to try
+                                                                to establish causation and rule out the counter-claim that the beliefs are mere
+                                                                window dressing or rationalizations by looking for consistency and showing
+
+
+                                                                     23 Adam Ulam, The Unfinished Revolution: An Essay on the Sources of Influence of Marxism and
+
+                                                                Communism (New York: Random House, 1960).
+                                                                     24 Anthony D’Amato, “Psychological Constructs in Foreign Policy Prediction,” Journal of Conflict
+
+                                                                Resolution 11 (September 1967): 294–311.
+                                                                     25 Elizabeth Saunders, Leaders at War: How Presidents Shape Military Interventions (Ithaca, NY:
+
+                                                                Cornell University Press, 2011). For an argument that uses a different approach but also stresses the
+                                                                importance of individual presidents in decisions to intervention, see Michael Groh, US Presidents and
+                                                                Latin American Interventions: Pursuing Regime Change in the Cold War (Lawrence: University Press of
+                                                                Kansas, 2008).
+                                                                                                           Do Leaders Matter?                                           167
+
+                                                                that the beliefs were formed before the behavior we are seeking to explain.
+                                                                Careful biographies seek to do this, although there is the obvious danger
+                                                                that the author’s treatment of the earlier beliefs will be influenced by his or
+                                                                her knowledge of the later behavior. Quantitative studies of a president’s
+                                                                operational code or personal needs similarly use material written before he
+                                                                became president.26 In the same way, some studies examine the integrative
+                                                                complexity of leaders’ speeches early in their careers and find connections to
+                                                                later behavior.27 Many observers were puzzled when President Reagan was
+                                                                quicker than his advisors to reach out to Mikhail Gorbachev and seriously ex-
+                                                                plore far-reaching arms agreements because he seemed at least as hard-line
+                                                                as they were. Keith Shimko unravels the puzzle by demonstrating that years
+                                                                before Gorbachev came to power, Reagan’s belief system was much more
+                                                                open to the possibility of Soviet–American cooperation than were those of
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                his advisors.28
+                                                                      One might expect those presidents who have had the most foreign
+                                                                policy experience to have the most developed and strongest worldviews that
+                                                                would leave the strongest imprint on their polices when they took office. But
+                                                                it is also possible that an inexperienced president (e.g., George W. Bush)
+                                                                could be strongly moved by a few basic instincts, such as the duty to try
+                                                                to spread democracy abroad. Indeed, as Bush may exemplify, preferences
+                                                                can be both ad hoc and powerful. This is likely to be more difficult to
+                                                                demonstrate, however. With a well-formed ideology, one can show that the
+
+
+                                                                      26 See, for example, Alexander George, “The ‘Operational Code’: A Neglected Approach to the
+
+                                                                Study of Political Leaders and Decision Making,” International Studies Quarterly 13, no. 2 (June 1969):
+                                                                190–222; Ole Holsti, “The ‘Operational Code’ Approach to the Study of Political Leaders: John Foster
+                                                                Dulles’s Philosophical and Instrumental Beliefs,” Canadian Journal of Political Science 3, no. 1 (March
+                                                                1970): 123–57. Also see Richard Hermann and Michael Fischerkeller, “Beyond the Enemy Image and Spiral
+                                                                Model: Cognitive-Strategic Research after the Cold War,” International Organization 49, no. 3 (Summer
+                                                                1995): 415–50. Stephen Walker and Mark Schafer, “Belief Systems as Casual Mechanisms: An Overview
+                                                                of Operational Code Analysis,” in Beliefs and Leadership in World Politics: Methods and Applications for
+                                                                Operational Code Analysis, ed., Mark Shafer and Stephen Walker (New York: Palgrave, 2006); Walker,
+                                                                Shafer, and Michael Young, “Systematic Procedures for Operational Code Analysis: Measuring and Model-
+                                                                ing Jimmy Carter’s Operational Code,” International Studies Quarterly 42, no. 1 (March 1998): 175–90. On
+                                                                needs, see David Winter, “Personality and Political Behavior,” in Oxford and Book of Political Psychology,
+                                                                ed., David Sears, Leonie Huddy, and Robert Jervis (New York: Oxford University Press, 2003), 110–34;
+                                                                David Winter, “Power, Affiliation, and War: Three Tests of a Motivated Model,” Journal of Personality and
+                                                                Social Psychology 65, no. 3 (September 1993): 532–45. Also see Margaret Hermann, “Explaining Foreign
+                                                                Policy Behavior Using the Personal Characteristics of Political Leaders,” International Studies Quarterly
+                                                                24, no. 1 (March 1980): 7–46; Margaret Hermann, Thomas Preston, Baghat Korany, and Timothy Shaw,
+                                                                “Who Leads Matters: The Effects of Powerful Individuals,” International Studies Review 3, no. 2 (Summer
+                                                                2001): 83–132.
+                                                                      27 Philip Tetlock, “Cognitive Style and Political Ideology,” Journal of Personality and Social Psychol-
+
+                                                                ogy 45, no. 1 (July 1983): 118–26; Tetlock, “Monitoring the Integrative Complexity of American and Soviet
+                                                                Policy Rhetoric: What Can Be Learned?” Journal of Social Issues 44, no. 2 (Summer 1988): 101–31; for an
+                                                                extension of this approach see Tetlock, “A Value Pluralism Model of Ideological Reasoning,” Journal of
+                                                                Personality and Social Psychology 50, no. 4 (April 1986): 819–27.
+                                                                      28 Keith Shimko, Images and Arms Control: Perceptions of the Soviet Union in the Reagan Adminis-
+
+                                                                tration (Ann Arbor: University of Michigan Press, 1991).
+                                                                168                                             R. Jervis
+
+                                                                policy was consistent with the beliefs that had been formed earlier, and that
+                                                                it was inconsistent with contrary beliefs. We could also demonstrate that
+                                                                people with the same ideology supported the same policies. But with ad
+                                                                hoc preferences the danger of spuriousness is likely to be greater because
+                                                                it will be harder to rule out a possibility that both the belief and the policy
+                                                                were the product of some exogenous event, such as the attacks of 9/11.
+                                                                     A good example is provided by Fredrik Logvall’s recent argument that
+                                                                president Eisenhower wanted to intervene to save the French position at
+                                                                Dien Bien Phu, Vietnam in 1954 and did not do so only because even
+                                                                strenuous efforts could not overcome allied and congressional opposition.29
+                                                                This view clashes not only with much previous scholarship on the question,
+                                                                but also, more importantly for our purposes here, with the prevailing view
+                                                                of Eisenhower as cautious in foreign policy and, more than his predecessor
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                and successors, loath to see American soldiers engaged in combat. This does
+                                                                not mean that either is wrong, but if we accept both of them we have to see
+                                                                Eisenhower’s stance here as an anomaly. This in itself is not a problem—it
+                                                                might be helpful to us as scholars if leaders always were consistent, but the
+                                                                world does not have to conform to our convenience. It does make it harder
+                                                                to establish causation, however, because we cannot demonstrate that his
+                                                                preferences were consistent with the outlook he held throughout most of
+                                                                his life. But neither does it mean that we can automatically attribute them
+                                                                entirely to the external pressures that he felt because this would require
+                                                                showing that others would have reached the same conclusion, an argument
+                                                                that is rendered suspect by the widespread opposition in Congress (and, to
+                                                                a lesser extent, within the executive branch) to intervention.
+
+
+                                                                               IMPLICATIONS FOR PERSONAL RESPONSIBILITY
+
+                                                                The way we answer the level-of-analysis question has important implications
+                                                                for whether—or rather in what sense—we regard individuals as responsible
+                                                                for their behavior. If a president decides on a certain policy, in one obvious
+                                                                sense we can say that he is responsible for it. But does this mean that he
+                                                                deserves credit or blame? What if we can show, or at least argue, that other
+                                                                leaders would have done the same thing had they been in power? This would
+                                                                mean that causation resided on a different level of analysis and that while
+                                                                the policy may have mattered, who was president did not.30 Why praise or
+                                                                blame the president when anyone else would have done the same thing?
+
+                                                                      29 Logvall, Embers of War, 420–504.
+                                                                     30 For the differentiation between actor dispensability and action dispensability see Fred Greenstein,
+
+                                                                Personality and Politics (Chicago: Markham, 1969), chap. 1. Here I will concentrate on the former.
+                                                                For a further discussion in terms of necessary and sufficient causes, see Robert Jervis, “Causation and
+                                                                Responsibility in a Complex World,” in Back to Basics: State Power in the Current World, ed., Martha
+                                                                Finnemore and Judith Goldstein (Oxford University Press, forthcoming).
+                                                                                                Do Leaders Matter?                          169
+
+                                                                While it would not be right to say that he was not responsible for his own
+                                                                actions, neither would it be correct to say that he made a difference.
+                                                                     I want to explore these questions by looking at some of President
+                                                                Truman’s key decisions in 1945 and 1946 since they raise important questions
+                                                                of morality as well as causation. His decision to use atomic bombs against
+                                                                Japan and his rigid position on the conditions under which these weapons
+                                                                would be put under international control have been the subject of heated
+                                                                debates. To start with the former, the two obvious and somewhat related
+                                                                questions are whether his actions were morally justified and whether his
+                                                                main motive was to end the Pacific War or to intimidate the Soviet Union.
+                                                                Most of the discussion is conducted by historians, and true to the strengths
+                                                                and weakness of their approach focuses in great detail on what Truman
+                                                                heard and believed. This makes intuitive sense: the decision was Truman’s
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                and to understand it we must look at what information he had and sought,
+                                                                who he consulted, how he went about deliberating, and the considerations
+                                                                that seemed to weigh on him. But while such an approach can describe how
+                                                                the decision was made, it cannot establish causation. For this, we need to
+                                                                look at changes over time and, even more, at comparisons to other people
+                                                                and other situations. At first glance this seems to strengthen the case that
+                                                                Truman mattered because some other American decision makers and many
+                                                                scientists opposed dropping the bomb on a Japanese city without warning,
+                                                                and it is particularly telling that those who opposed Truman’s decision did
+                                                                not perceive a Soviet threat. But the comparisons are not entirely apt because
+                                                                the advisors, and especially the scientists, were not responsible for preserving
+                                                                American lives. This is not to say that they were callous or did not care, but
+                                                                only that this consideration was not as salient to them as it was to Truman,
+                                                                and I believe as it would have been to any American president. Furthermore,
+                                                                the views of the scientists, and of at least some of the advisors, would have
+                                                                disqualified them from higher offices.
+                                                                     A related approach is to look at Truman’s decision in the light of an
+                                                                important historic generalization. Do countries ever refrain from using very
+                                                                powerful and destructive weapons when the costs of doing so are low?
+                                                                The only case I can think of is the American decision not to use poison
+                                                                gas to take Okinawa, when there was no danger of enemy retaliation. If
+                                                                this is correct, then it is clear that the desire to intimidate the Soviets was
+                                                                not a necessary condition for dropping the bomb. Of course this does not
+                                                                mean that this motive was not present, or even that it alone would not have
+                                                                been sufficient. But it does mean that we cannot use Truman’s decision and
+                                                                the associated claim that the loss of Japanese life was not worth the gain in
+                                                                terms of ending the war quickly as evidence that Truman was anti-Soviet. The
+                                                                moral objection also does not disappear but is recast. The fact—assuming
+                                                                that it is a fact—that all leaders would have behaved in the same way does
+                                                                not make the behavior moral. One can argue that it is immoral to value the
+                                                                lives of one’s own soldiers so much more than the other side’s soldiers and
+                                                                170                                             R. Jervis
+
+                                                                citizens,31 but it is hard to see Truman (or the United States) as particularly
+                                                                immoral. Truman may have committed a grave sin, but we are all sinners. If
+                                                                he is damned while we are not, it is only because of his position.32
+                                                                      A parallel argument can be made about Roosevelt’s and Truman’s failure
+                                                                to share the secret of the bomb with Stalin and Truman’s associated refusal
+                                                                to compromise in order to reach an agreement for the control of atomic
+                                                                weapons. Even leaving aside the difficult question of whether Stalin ever
+                                                                would have agreed (which I very much doubt), we can ask whether any
+                                                                other leader or country had ever given up such a perceived military advan-
+                                                                tage. A reply in the negative does not mean that Truman’s stance was in the
+                                                                best interests of the world or even of the United States. One could argue
+                                                                either that other leaders should have reached arms control agreements in
+                                                                other eras or that nuclear weapons were of such unprecedented destructive-
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                ness that Truman should have broken the pattern and done so. But the latter
+                                                                position, which I think is quite reasonable, implies that it would have taken
+                                                                an extraordinary leader to have taken this path. Truman can be condemned
+                                                                for not having been such a person, but his behavior cannot be explained
+                                                                by preferences or characteristics that are unique to him or even unusual. Al-
+                                                                though he may have been parochial or rabidly anti-communist, these factors
+                                                                were not necessary for the policy.
+                                                                      A final bit of comparative evidence indicates some of the methodological
+                                                                difficulties. At first glance, my position is bolstered by the fact that Churchill
+                                                                strenuously opposed sharing information with Stalin, agreed that the bombs
+                                                                should be dropped on Japan, and that his successor Clement Attlee did not
+                                                                take a different position on the control of nuclear weapons. But Churchill’s
+                                                                stance, especially on dropping the bomb, may have derived from his desire
+                                                                to please the United States rather than being an independent judgment,33
+                                                                and with the United States reneging on its agreement to maintain atomic
+                                                                cooperation with Great Britain, Attlee was in no position to further annoy
+                                                                the United States.
+                                                                      The dispute over Truman’s decision to use atomic bombs also points to
+                                                                strong linkages between judgments about individual cases and broader (and
+                                                                often deeply held) theories. When Gar Alperovitz seized scholarly attention
+                                                                by claiming that Truman sought to intimidate the Soviet Union and that
+                                                                his policy was a sharp break from Roosevelt’s, objections were not long in
+
+                                                                      31 This leaves aside the argument that dropping the bomb saved countless lives of Chinese citizens
+
+                                                                as well as Japanese who would have died from prolonged conventional bombing or been starved by a
+                                                                continuation of the American blockade.
+                                                                     32 A Maryland judge explained his light sentence to a man who killed his wife after coming home
+
+                                                                unexpectedly and finding her in bed with another man by saying: “I seriously wonder how many
+                                                                men married, five, four years would have the strength to walk away without inflicting some corporal
+                                                                punishment.” “Punishment Is 18 Months For Killing Cheating Wife,” New York Times, 19 October 1994.
+                                                                But this was almost a generation ago in a less enlightened era.
+                                                                     33 Jacques Hymans, “Britain and Hiroshima,” Journal of Strategic Studies 32, no. 5 (October 2009):
+
+                                                                769–97.
+                                                                                                        Do Leaders Matter?                                      171
+
+                                                                coming.34 Most obviously, those who held to the traditional view of the Cold
+                                                                War rejected his thesis (and his scholarship, which indeed was badly flawed).
+                                                                It is not that they had any particular reason to disagree with his focus on
+                                                                Truman and his advisors. Indeed, many of them blamed Truman for other
+                                                                things—especially for being too slow to recognize Soviet aggressiveness.
+                                                                Rather, because they saw the Soviet Union as being driven by the internal
+                                                                impulse to wage the Cold War, they not only denied, but had to deny, that
+                                                                Truman’s dropping the bomb was responsible for this conflict. Although the
+                                                                claim that Truman was strongly and indeed provocatively anti-Soviet does
+                                                                not logically imply that Stalin was willing to settle for the status quo, because
+                                                                it undermines the argument that it was Stalin who made the first moves and
+                                                                that American hostility was the result rather than the cause of Soviet actions,
+                                                                it called for rebuttals. It made sense for traditionalists to pay less attention
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                to Gar Alperovitz’s argument that Truman broke sharply with FDR’s stance
+                                                                because the truth or falsity of this claim did not affect the central tenets of
+                                                                their beliefs about the United States, the USSR, or the Cold War.
+                                                                      But it did go to the heart of the views of most Cold War revisionists,
+                                                                and this accounts for the vehemence with which they turned on Alperovitz.35
+                                                                For them what was objectionable was the attribution of responsibility to an
+                                                                individual leader because this contradicted their broadly Marxist argument
+                                                                that the causes of American foreign policy in this as in other incidents lay
+                                                                in the requirements of the American capitalist economy. If it was the case that
+                                                                the health of the capitalist system required that societies founded on different
+                                                                principles be contained if not destroyed, then while it was predetermined
+                                                                that Truman would quickly move against the USSR, it could not be the case
+                                                                that Roosevelt would have behaved differently. While these scholars would
+                                                                reject the view that Truman was simply behaving as the normal leader of a
+                                                                normal great power in seeking to win a war quickly, they would have to join
+                                                                with traditionalists in denying Truman’s individual agency because for them
+                                                                he was acting as a normal capitalist president. Truman was not and could
+                                                                not be more of a villain than his predecessor.
+                                                                      These examples illustrate the propensity to attribute responsibility to a
+                                                                particular leader or a particular country when we believe that the policy
+                                                                is misguided or immoral. Methodologically, this makes sense, but only as
+                                                                long as a key assumption is made explicit and defended: the behavior was
+                                                                unusual. This reminds us that comparisons and generalizations are a nec-
+                                                                essary part of the argument, even if they are often submerged. Our focus
+                                                                on failures is not only a product of our fascination with disasters (who has
+
+                                                                     34 Gar Alperovitz, Atomic Diplomacy: Hiroshima and Potsdam: The Use of the Atomic Bomb and the
+
+                                                                American Confrontation with Soviet Power, 2nd expanded ed. (New York: Simon and Schuster, 1965;
+                                                                Boulder, CO: Pluto, 1994). For a better argument that Roosevelt’s death made a great difference, see
+                                                                Costigliola, Roosevelt’s Lost Alliances.
+                                                                     35 See, for example, Joyce Kolko and Gabriel Kolko, The Limits of Power: The World and United
+
+                                                                States Foreign Policy, 1945–1954 ( New York: Harper & Row, 1972).
+                                                                172                                R. Jervis
+
+                                                                not craned to look at a car wreck in passing by?), but also of the implicit
+                                                                belief that they do not follow in the normal course of events and so need
+                                                                a special explanation. This same claim comes up in the less frequent cases
+                                                                when individuals are given credit for a decision. Thus those who would
+                                                                praise Obama’s decisions that led up to the raid that killed Osama bin Laden
+                                                                draw contrasts with his predecessor and point to the many risks it entailed.
+                                                                In a relatively small and interesting set of cases there may be agreement
+                                                                that the leader drove the policy (i.e., that others would have behaved differ-
+                                                                ently), but one group gives credit while the other gives blame. The obvious
+                                                                case is Bush’s decision to overthrow Saddam Hussein, which I will touch
+                                                                on below. While the numerous critics see this as a disaster that needs to be
+                                                                explained by Bush’s misguided style and preferences, his supporters argue
+                                                                that only an unusually courageous and clear-eyed leader would have taken
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                such a dramatic but necessary step. Both camps are bolstered by the extent
+                                                                to which the policy drew fire within the United States and around the world.
+                                                                Although the valences of the analyses from the two camps are opposite, the
+                                                                basic empirical assertion and implied comparisons are the same.
+
+
+
+
+                                                                                     POST-COLD WAR PRESIDENTS
+
+                                                                Because the post-Cold War international environment provides American
+                                                                presidents with a wider range of choice than was the case for the earlier
+                                                                period, we would expect a larger role for individual differences. In fact,
+                                                                although the comparisons are difficult, I think that what is striking are the
+                                                                continuities, and the changes that did occur are due at least as much to
+                                                                external events as to the presidents’ views. But note that this claim excludes
+                                                                comparisons to how people who were not elected president might have
+                                                                behaved. One can argue that the nature of American politics restricts po-
+                                                                tential office holders to a somewhat narrow range in terms of personalities
+                                                                and substantive views. It is probably true that Ron Paul, for example, would
+                                                                behave very differently were he to become president, but this is one of the
+                                                                reasons why he will not become president. Nevertheless, I believe that if we
+                                                                were to apply the test I mentioned at the start of this article of writing the
+                                                                history without mentioning the name of the serving president, it would be
+                                                                hard to infer when a new person entered the Oval Office.
+                                                                     There is a significant change from Reagan to his successor, however.
+                                                                Quite contrary to the view common at the time that Reagan was an unre-
+                                                                deemable hard-liner from the start, most scholars now believe that he moved
+                                                                quite quickly to recognize change in the Soviet system (even if he was
+                                                                not quick to reciprocate Gorbachev’s concessions), and that he did so in
+                                                                part because his preexisting beliefs were more nuanced than his critics had
+                                                                                                          Do Leaders Matter?                                         173
+
+                                                                thought.36 The main difference between Reagan and George H. W. Bush was
+                                                                not that they had fundamentally different worldviews and preferences, but
+                                                                that Bush (and his national security advisor, Brent Scowcroft) were by their
+                                                                natures cautious.37 This difference in intellectual styles was compounded by
+                                                                the newly felt weight of the responsibility of the office. The break with the
+                                                                previous approach did not last long, however. By the time the Berlin wall
+                                                                fell in November 1989 and Chancellor Helmut Kohl moved toward German
+                                                                unification, Bush was bolder, and both pushed ahead with dealing with Gor-
+                                                                bachev and, like Reagan, refused to make many substantive concessions. A
+                                                                student of Reagan’s rhetoric might have seen that it was not he who gave
+                                                                the (in)famous “chicken Kiev” speech in August 1991, but the fundamental
+                                                                policy of friendly gestures, little concrete assistance, and waiting to pick up
+                                                                the pieces of the crumbling Soviet empire was shared by the two presidents.
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                      Bill Clinton, of course, came into office after the Cold War was over,
+                                                                and he brought little experience or interest in foreign policy to the job.
+                                                                Although the first several years were distinct in his lack of involvement in
+                                                                the subject and the concomitant tendency for US policy to drift, after that
+                                                                he became fully engaged and I think the burden would rest on those who
+                                                                would argue that there was a sharp break between his policy and that
+                                                                of Bush, his predecessor.38 Although I doubt if the internal records will
+                                                                be complete enough to allow us to find a statement paralleling Dulles’s
+                                                                that I quoted earlier, in the same way that was true then the domestic and
+                                                                international environment and the policy of the Bush administration provided
+                                                                a better basis of predicting how Clinton acted than did his campaign platform.
+                                                                For example, Clinton strongly criticized Bush for being too soft on China,
+                                                                especially about human rights, just as George W. Bush said that the Clinton
+                                                                administration did not stand up to the PRC. But in both cases the president
+                                                                soon came to see that he was wiser trying to build good relations with China
+                                                                and downplaying human rights.
+                                                                      This brings us to George W. Bush. At first glance, he is the poster child
+                                                                for the importance of the president’s views and modes of behavior. Some-
+                                                                what like Truman, his style was to be—or at least to seem to be—decisive.39
+
+                                                                      36 Shimko, Images and Arms Control; Melvyn Leffler, For the Soul of Mankind: The United States, the
+
+                                                                Soviet Union, and the Cold War (New York: Hill and Wang, 2007), pt. 5.
+                                                                      37 Bush was strikingly cautious during Poland’s democratic transition: Gregory Domber, “Skepticism
+
+                                                                and the Stability: Reevaluating U.S. Policy during Poland’s Democratic Transformation in 1989,” Journal
+                                                                of Cold War Studies 13, no. 3 (Summer 2011): 52–82.
+                                                                      38 For good accounts, see Derek Chollet and James Goldgeier, America Between the Wars: From
+
+                                                                11/9 to 9/11 (New York: PublicAffairs, 2008); Hal Brands, From Berlin to Baghdad: America’s Search
+                                                                for Purpose in the Post-Cold War World (Lexington: University Press of Kentucky, 2008). For somewhat
+                                                                different views, see Zbigniew Brzezinski, Second Chance: Three Presidents and the Crisis of American
+                                                                Super Power (New York: Basic Books, 2007) and Elizabeth Saunders, “Changing Threats or Changing
+                                                                Leaders? Threat Perception and US Foreign Policy in the Post-Cold War Era,” (unpublished manuscript,
+                                                                2011).
+                                                                      39 For a superb argument that the common impression that Truman was decisive is quite incorrect
+
+                                                                and a product of his seeking to overcome his decisiveness by deciding quickly, even if he later changed
+                                                                174                                             R. Jervis
+
+                                                                He also was averse to compromise and had great trouble getting his subor-
+                                                                dinates to work together or to bring up their differing views on issues that
+                                                                he himself had to decide. Some of these characteristics may explain why he
+                                                                never held a meeting to thrash out whether to invade Iraq, although it is
+                                                                interesting that this failed to occur in Great Britain as well. Because I have
+                                                                discussed the role of Bush’s outlook and preferences in his foreign policy
+                                                                elsewhere, I will be telegraphic.40 While there is room for debate on many
+                                                                points, the applicability of Macmillan’s quip seems clear. Before 9/11 Bush
+                                                                was set on lowering the American profile abroad, or at least minimizing ef-
+                                                                forts at peacekeeping and nation-building. It is hard to argue that from the
+                                                                start he was set on invading Iraq and that 9/11 was a mere pretext; offhand
+                                                                remarks are all that can be mustered for this view, and there were no moves
+                                                                to update the war plans for Iraq.
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                      But saying that 9/11 made an enormous difference only tells us that the
+                                                                external environment matters, something that only the most extreme inter-
+                                                                nalist would deny. It does not tell us whether others would have responded
+                                                                in the same way. Most of the focus has been on the overthrow of Saddam,
+                                                                but it is worth noting that perhaps the most consequential decision was
+                                                                to treat the terrorist attack as an act of war, which set in motion a wide
+                                                                range of policies not only in foreign affairs, but in domestic and legal policy
+                                                                as well. From this followed the decision to overthrow the Taliban regime
+                                                                in Afghanistan rather than first deploying diplomatic and coercive tools to
+                                                                pressure it to dismantle al Qaeda and turn over Bin Laden. The fact that few
+                                                                people urged this course of action indicates but does not quite prove that
+                                                                here Bush’s preferences were widely shared. In his place a different president
+                                                                might have paused, examined the alternatives, and decided to try something
+                                                                else first. Would another president have immediately defined the situation
+                                                                as a war? Many observers did object to this, but it is interesting that many
+                                                                people in the administration seem to have immediately and spontaneously
+                                                                adopted this definition of the situation. Douglas Feith, under-secretary of
+                                                                defense, who was not in the United States at the time, reports that he and
+                                                                his associates immediately saw that this had to be treated as a war.41 Fur-
+                                                                thermore, even before the Bush administration developed the war frame, the
+                                                                media adopted it.42
+
+                                                                his mind. See Alonzo Hamby, “An American Democrat: A Reevaluation of the Personality of Harry S.
+                                                                Truman,” Political Science Quarterly 106, no. 1 (Spring 1991): 33–56; also see Deborah Larson, Origins
+                                                                of Containment: A Psychological Explanation (Princeton, NJ: Princeton University Press, 1985). For an
+                                                                argument linking Bush’s personality and decision-making style to the decision for the change of strategy
+                                                                and surge of additional troops to Iraq in 2007, see Stephen Benedict Dyson, “George W. Bush, the Surge,
+                                                                and Presidential Leadership,” Political Science Quarterly 125, no. 4 (Winter 2010–11): 557–85.
+                                                                     40 Robert Jervis, American Foreign Policy in a New Era (New York: Routledge, 2005), chap. 4.
+                                                                     41 Douglas Feith, War and Decision: Inside the Pentagon at the Dawn of the War on Terrorism
+
+                                                                (New York: Harper, 2008).
+                                                                     42 Brigitte Nacos, Yaeli Bloch-Elkon, and Robert Shapiro, Selling Fear: Counterterrorism, the Media,
+
+                                                                and Public Opinion (Chicago: University of Chicago Press, 2011), 2–5.
+                                                                                                            Do Leaders Matter?                                            175
+
+                                                                     Most discussions of the decision to invade Iraq and the general Bush
+                                                                Doctrine place much of the responsibility on the president’s personality and
+                                                                beliefs.43 This is often supplemented by arguments that Bush embodied
+                                                                typical American approaches and values. Defenders of the president and
+                                                                his policies see the United States as reacting boldly to challenges and as
+                                                                having a “second image” belief that countries that tyrannize over their own
+                                                                people will be troublemakers abroad and that democracies behave much
+                                                                more benignly.44 I believe there is much to this, but realism urges us to start
+                                                                with the external environment and those who focus on Bush or the United
+                                                                States generally fail to make the sorts of comparisons that would bolster—or
+                                                                undermine—their case. In fact, much of the way Bush and the United States
+                                                                behaved fits with standard realist expectations (but not prescriptions) of the
+                                                                way Great Powers behave.45 To start with, moving the focus off Bush and
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                keeping it on the United States, it is worth remembering that Clinton had
+                                                                pledged to remove Saddam from power and adopted as aggressive a stance
+                                                                as the international and the domestic climate would permit. Although in the
+                                                                end my belief (or rather intuition) is that neither he nor Al Gore would
+                                                                have invaded Iraq after these constraints were loosened and the incentives
+                                                                changed following 9/11, their public positions, while critical of what they
+                                                                saw as Bush’s unilateralism, were ambivalent.46
+                                                                     Indeed, there may be nothing particularly Bush-like, neoconservative,
+                                                                or American about the invasion of Iraq.47 There are three facets to this
+                                                                argument. First and most general is the core of the realist outlook that power
+                                                                is checked most effectively if it is not checked only by counterbalancing
+                                                                power. States have a propensity to use the power at their disposal, and
+                                                                therefore those who are not subject to external restraints, tend to feel few
+                                                                restraints at all. As Edmund Burke put it, in a position endorsed by Hans
+                                                                Morgenthau: “I dread our own power and our own ambition; I dread our
+
+                                                                     43 A range of arguments can be found in Jane Cramer and Trevor Thrall, eds., Why Did the United
+
+                                                                States Invade Iraq? (New York: Routledge, 2012).
+                                                                     44 For an original discussion of the second image, see Waltz, Man, the State, and War, chaps.
+
+                                                                4–5. Although the literature on why this particular perspective has appeal for Americans is voluminous,
+                                                                two older studies have not been surpassed. See Louis Hartz, The Liberal Tradition in America: An
+                                                                Interpretation of American Political Thought Since the Revolution (New York: Harcourt, Brace & World,
+                                                                1955); and Wolfers, Discord and Collaboration, chap. 15.
+                                                                     45 For discussion of the tension in realist and other IR theories in terms of their being both descriptive
+
+                                                                and prescriptive see Robert Jervis “Bridges, Barriers, and Gaps: Research and Policy,” Political Psychology
+                                                                29, no. 4 (August 2008): 572–74; Ido Oren, “The Unrealism of Contemporary Realism: The Tension
+                                                                between Realist Theory and Realists’ Practice,” Perspectives on Politics 7, no. 2 (June 2009): 283–302; John
+                                                                Mearsheimer, “Reckless States and Realism,” in Realism and World Politics, ed. Ken Booth (New York:
+                                                                Routledge, 2011), 124–40.
+                                                                     46 For the argument that President Gore probably would have invaded Iraq, see Frank Harvey,
+
+                                                                Explaining the Iraq War: Counterfactual Theory, Logic, and Evidence (New York: Cambridge University
+                                                                Press, 2011).
+                                                                     47 Thus it is not entirely surprising that many of the beliefs mustered in support of US policy toward
+
+                                                                Iraq parallel those held by European expansionists in earlier eras. Jack Snyder, “Imperial Temptations,”
+                                                                National Interest 71, (Spring 2003): 29–40.
+                                                                176                                               R. Jervis
+
+                                                                being too much dreaded. It is ridiculous to say that we are not men, and
+                                                                that, as men, we shall never wish to aggrandize ourselves.”48 With this as a
+                                                                driving idea, Kenneth Waltz saw the likelihood of America’s current behavior
+                                                                from the start of the post-Cold War era:
+
+                                                                       The powerful state may, and the United States does, think of itself as
+                                                                       acting for the sake of peace, justice, and well-being in the world. But
+                                                                       these terms will be defined to the liking of the powerful, which may
+                                                                       conflict with the preferences and the interests of others. In international
+                                                                       politics, overwhelming power repels and leads others to try to balance
+                                                                       against it. With benign intent, the United States has behaved, and until its
+                                                                       power is brought into a semblance of balance, will continue to behave
+                                                                       in ways that annoy and frighten others.49
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                      Second and related, states’ definitions of their interests tend to expand
+                                                                as their power does.50 It then becomes worth pursuing a whole host of
+                                                                objectives that were out of reach when the state’s security was in doubt and
+                                                                all efforts had to be directed to primary objectives. With increases in power
+                                                                and security, states seek what Wolfers called “milieu goals.”51 The hope
+                                                                of spreading democracy and liberalism throughout the world has always
+                                                                been an American goal, but the lack of a peer competitor made it more
+                                                                realistic—although perhaps not very realistic—to actively strive for it.
+                                                                      A third structural explanation for American behavior is that increased
+                                                                relative power brings with it new fears. The reasons are both objective and
+
+
+                                                                      48 Quoted in Hans Morgenthau, Politics Among Nations, 5th rev. ed. (New York: Knopf, 1978),
+
+                                                                169–70, emphasis in original.
+                                                                     49 Kenneth Waltz, “America as a Model for the World? A Foreign Policy Perspective,” PS: Political
+
+                                                                Science and Politics 24, no. 4 (December 1991): 69; also see Waltz’s discussion of the Gulf War in “A
+                                                                Necessary War?” in Confrontation in the Gulf , ed. Harry Kriesler (Berkeley: Institute of International
+                                                                Studies, 1992), 59–65. As Waltz noted much earlier, even William Fulbright, while decrying the arrogance
+                                                                of American power, said that the United States could and should “lead the world in an effort to change
+                                                                the nature of its politics,” quoted in Theory of International Politics (Reading, MA: Addison-Wesley, 1979),
+                                                                201. But as an empirical proposition this claim is supported mostly be searching on the dependent
+                                                                variable and we have paid little attention to cases in which states underutilize rather than overutilize their
+                                                                power. For good studies that do so, see Ernest May, “The United States’ Underuse of Military Power,”
+                                                                in History and Neorealism, eds., May, Richard Rosecrance, and Zara Steiner (New York: Cambridge
+                                                                University Press, 2010); Randall Schweller, Unanswered Threats: Political Constraints on the Balance of
+                                                                Power (Princeton, NJ: Princeton University Press, 2006); Peter Trubowitz, Politics and Strategy: Partisan
+                                                                Ambition and American Statecraft (Princeton: Princeton University Press, 2011).
+                                                                     50 See, for example, Fareed Zakaria, “Realism and Domestic Politics: A Review Essay,” International
+
+                                                                Security 17, no. 1 (Summer 1992): 177–98; Robert Tucker, The Radical Left and American Foreign Policy
+                                                                (Baltimore: Johns Hopkins University Press, 1971), 69–70, 74–77, 106–11; Stephen Van Evera, Causes of
+                                                                War: Power and the Roots of Conflict (Ithaca, NY: Cornell University Press, 1999), 86. This process is also
+                                                                fed by the psychological resistance to giving up any position once it is gained: see Jeffrey Taliaferro,
+                                                                Balancing Risks: Great Power Intervention in the Periphery (Ithaca, NY: Cornell University Press, 2004).
+                                                                For a discussion of alternative possibilities suggested by American history, see Edward Rhodes, “The
+                                                                Imperial Logic of Bush’s Liberal Agenda,” Survival 45, no. 1 (Spring 2003): 131–54.
+                                                                     51 Wolfers, Discord and Collaboration, chap. 5.
+                                                                                                          Do Leaders Matter?                                         177
+
+                                                                subjective. As Wolfers explained in his classic essay on “National Security
+                                                                as Ambiguous Symbol,” the latter can diverge from the former.52 In one
+                                                                manifestation of this, as major threats disappear, people elevate ones that
+                                                                previously were seen as quite manageable.53 But there is more to it than
+                                                                psychology. A dominant state acquires an enormous stake in the world or-
+                                                                der and interests spread throughout the globe. Most countries are primarily
+                                                                concerned with what happens in their neighborhoods; the world is the hege-
+                                                                mon’s neighborhood, and it is not only hubris that leads it to be concerned
+                                                                with everything that happens anywhere. The result is a fusion of narrow
+                                                                and broad self-interest. At a point when most analysts were worried about
+                                                                the decline of American power, not its excesses, Waltz noted that for the
+                                                                United States, “like some earlier great powers . . . the interest of the country
+                                                                in security came to be identified with the maintenance of a certain world or-
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                der. For countries at the top, this is predictable behavior. . . . Once a state’s
+                                                                interests reach a certain extent, they become self-reinforcing.”54
+                                                                     This is not to say that the policies embodying these impulses were wise;
+                                                                indeed, scholars like Waltz who expected them thought they were foolish
+                                                                and would eventually fail. Such a judgment may change as events unfold,
+                                                                but the point here is that far from being particular to Bush, the pattern of
+                                                                states reacting to the lack of external restraint by overreaching and then
+                                                                being pressed to retract is a common one.
+                                                                     The argument for the importance of domestic and external restraints
+                                                                can be extended by the test of imagining writing the history of the post-
+                                                                9/11 period without mentioning the names of the two presidents. I would
+                                                                argue that if we did this, we would infer that a new president had been
+                                                                elected in 2007 or 2008. He (or, because this is hypothetical, she) drew
+                                                                back from Bush’s policies of vigorously seeking to export democracy and
+                                                                taking preventive actions (e.g., she declined to attack the nuclear facility in
+                                                                Syria), and also reformulated our policy in Iraq and Afghanistan. She finally
+                                                                took both of these wars seriously and sought to bring means and ends into
+                                                                alignment. In Iraq she both cut deals with the Sunnis who had been attacking
+                                                                us and staged a short-term surge to get the situation under control, following
+                                                                this with an agreement to bring all of our troops home. As this progressed
+                                                                and forces became available, she followed a parallel policy in Afghanistan
+                                                                of a surge, attempted negotiations with the enemy, turned the war over to
+                                                                the Afghans, and withdrew our forces. Rhetoric aside, I do not see how our
+                                                                observer could have detected the election of Obama, but he or she could not
+                                                                have missed the earlier change of policy, which would be easily attributed
+
+
+                                                                    52 Ibid., chap. 10.
+                                                                     53 John Mueller, “The Catastrophe Quota: Trouble After the Cold War,” Journal of Conflict Resolution
+
+                                                                38, no. 3 (September 1994): 355–75; also see Frederick Hartmann, The Conservation of Enemies: A Study
+                                                                in Enmity (Westport: Greenwood Press, 1982).
+                                                                     54 Waltz, Theory of International Politics, 200.
+                                                                178                                             R. Jervis
+
+                                                                to a change of leadership. As many commentators have pointed out, critics
+                                                                of Obama like Dick Cheney and John Bolton really are criticizing him for
+                                                                following the path laid out by Bush in his last three years in office. To put
+                                                                this another way, although Bush initially marked out a very different policy,
+                                                                after a few years both the recalcitrance of the world and the unwillingness of
+                                                                the American people to pay so much blood and treasure for the enterprise
+                                                                brought him to heel (or, as a realist would put it, led common sense to
+                                                                prevail). Presidents are not mere pawns, but neither are they masters of their
+                                                                own or their countries’ fate.
+
+
+                                                                                 IMPLICATIONS FOR DEMOCRATIC CONTROL
+                                                                                          AND ACCOUNTABILITY
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                This discussion brings up more sharply the question of democratic control
+                                                                and accountability that I have danced around in the body of this paper.
+                                                                Democratic control of foreign policy implies that the public can set at least
+                                                                the general contours of foreign policy by who it elects to be president. But
+                                                                if the external environment imposes both severe constraints and, on fewer
+                                                                occasions, offers great temptations, this is an illusion. People may have voted
+                                                                for Eisenhower partly because he and Dulles said that they would roll back
+                                                                Soviet control over Eastern Europe. But in the end they were thwarted, if
+                                                                not deceived (and I think it is more likely that Eisenhower and Dulles were
+                                                                relatively honest but had deceived themselves).55 It may be that elections
+                                                                and public opinion cannot control foreign policy because presidents have
+                                                                the overriding responsibility to protect the nation, another democratic value.
+                                                                The lack of democratic control can coexist with rather than negate democratic
+                                                                accountability, however, as leaders and parties may be thrown out of office
+                                                                for their perceived foreign policy failings. Perhaps this is unfair if no feasible
+                                                                alternative policy or leader would have done much better, but punishment
+                                                                and the fear of it may still play a powerful role.56 Putting the two pieces
+                                                                together and adding the element that the external environment is a difficult
+                                                                one and that policies often fail leads to the expectation that parties will
+                                                                alternate in power, with administrations often failing and being punished,
+                                                                to be replaced by new ones that have promised something new but find
+                                                                themselves unable to deliver, and so are themselves turned out of office.
+
+
+                                                                      55 In fact, Truman pursued more a of roll-back policy than Eisenhower, although the reasons for
+
+                                                                this lie more in the changing external situation than in the president’s preferences. Gregory Mitrovich,
+                                                                Undermining the Kremlin: America’s Strategy to Subvert the Soviet Bloc, 1947–1956 (Ithaca, NY: Cornell
+                                                                University Press, 2000).
+                                                                      56 See, for example, Dan Reiter and Allan Stam, Democracies at War (Princeton: Princeton University
+
+                                                                Press, 2002), and the subsequent debate in the International Security Studies Forum Roundtable, vol. 2,
+                                                                no. 12, 1 July 2011, Roundtables at http://www.issforum.org.
+                                                                                               Do Leaders Matter?                           179
+
+                                                                      There may be more to it than this, however. When looked at more
+                                                                carefully, the Bush/Obama example can be seen as showing a larger and
+                                                                different role for democratic control when we consider the role of domestic
+                                                                politics. One reason why Bush moderated his policy was that it was increas-
+                                                                ingly unpopular. Gaining popular support for it was becoming more difficult,
+                                                                and this affected his domestic as well as his foreign program in addition to
+                                                                making it less likely that he would be succeeded by another Republican.
+                                                                Democratic control then operated through anticipated reactions. The exter-
+                                                                nal environment was indeed recalcitrant, but the proximate cause of the
+                                                                change of policy was the realization that public opinion would not sustain
+                                                                it, and understanding this, Bush altered course. Second and related, conti-
+                                                                nuities can reflect the contours etched out by domestic values, traditions,
+                                                                and interests. From the standpoint of democratic control of foreign policy,
+
+
+
+
+Downloaded by [Rutgers University] at 17:40 03 September 2017
+                                                                more significant than the failure of elections to produce great changes is that
+                                                                policy never strays too far and too long from what is desirable, or at least
+                                                                acceptable, to the public.
+

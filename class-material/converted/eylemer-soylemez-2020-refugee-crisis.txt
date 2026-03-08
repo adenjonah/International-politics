@@ -1,0 +1,1346 @@
+# Source: eylemer-soylemez-2020-refugee-crisis.pdf
+# Converted: 2026-03-06 14:39
+# Note: Line numbers here differ from PDF page numbers
+---
+
+966832
+research-article2020
+                       WAFXXX10.1177/0043820020966832World AffairsSedef Eylemer and Nagihan Söylemez
+
+
+
+
+                                                                                                         POLICY VERSUS PRAXIS:
+                                                                                                       Has the European Union Failed to Respond to the
+                                                                                                                       Refugee Crisis?
+
+
+                                                                                                                        Sedef Eylemer
+                                                                                                                     Izmir Katip Çelebi University
+
+
+
+                                                                                                                   Nagihan Söylemez
+                                                                                                                       Istanbul Bilgi University
+
+
+                                                                  This study analyzes the effects of supranational governance on the refugee crisis in
+                                                                  the European Union (EU). The main argument is that the supranational institu-
+                                                                  tions of the EU have often failed to adequately manage the refugee crisis according
+                                                                  to its foundational principles of fair burden sharing and solidarity. This failure
+                                                                  has gradually discredited the Union’s basic normative principles such as solidarity,
+                                                                  hospitality, and respect for human rights. We show that the gaps between certain
+                                                                  policies adopted at the Union level and the practices at the national level have wid-
+                                                                  ened, and this has led to a familiar defeat of the normative domain by realpolitik,
+                                                                  following some central tenets of classical realism. We aim to show that in several ar-
+                                                                  eas of EU policy, as well as how individual states have responded to them, national
+                                                                  interests and burden shirking, rather than sharing, have unfortunately prevailed.
+
+
+                                                                  Keywords: European Union, refugee crisis, classical realism, solidar-
+                                                                  ity, burden sharing, European agenda on migration, asylum seeking,
+                                                                  migration policy, fundamental measures toward human movements,
+                                                                  EU’s border security, EU cooperation with third countries, Turkey-EU
+                                                                  statement.
+
+
+
+
+                                                                                                                                                     WINTER 2020   315
+                                POLICY VERSUS PRAXIS
+
+
+Bu çalışma, Avrupa Birliği uluslarüstü yönetişiminin mülteci kriziüzerin-
+deki etkilerini incelemektedir. Temel varsayım, Avrupa Birliği’nin uluslarüstü
+kuruluşlarının, mülteci krizinin yönetiminde, Birliğin temel ilkeleri olan adil yük
+paylaşımı ve dayanışma konusunda çoğunlukla başarısız olduğu yönündedir.
+Bu başarısızlık, Birliğin, dayanışma, misafirperverlik ve insan haklarına saygı
+gibi temel normatif değerlerine olan güveni azaltmıştır. Birlik düzeyinde benim-
+senen politikalar ile ulusal düzeydeki uygulamaların arasındaki farklılıkların
+artması, normatif alanın, klasik gerçekçiliğin temel ilkelerini izleyen Real politik
+tarafından, aşina biryenilgisine yol açmıştır. Bu bağlamda AB’nin birçok politika
+alanında, bu alanlarda ulusal devletlerin verdiği yanıtlardan da hareketle, yük
+paylaşımından ziyade ulusal çıkarların ve yükten kaçınmanın hâkim olduğunu
+göstermek amaçlanmaktadır.
+
+Anahtar Kelimeler: Avrupa Birliği, Mülteci Krizi, Klasik Realizm,
+Dayanışma, Yük Paylaşımı, Avrupa Göç Gündemi, Sığınma, Göç Politikası,
+İnsan Hareketlerine Yönelik Temel Önlemler, AB Sınır Güvenliği, AB’nin
+Üçüncü Ülkelerle Olan İşbirliği, AB-Türkiye Uzlaşısı.
+
+
+                        POLÍTICA VERSUS PRAXIS:
+  ¿HA FALLADO LA UNIÓN EUROPEA EN RESPONDER A LA
+               CRISIS DE REFUGIADOS?
+
+Este estudio analiza los efectos de la gobernanza supranacional sobre la crisis de
+refugiados en la Unión Europea (UE). El argumento principal es que las institucio-
+nes supranacionales de la UE a menudo no han logrado gestionar adecuadamente
+la crisis de refugiados de acuerdo con sus principios fundamentales de solidaridad
+y reparto justo de la carga. Este fracaso ha ido desacreditando gradualmente los
+principios normativos básicos de la Unión, como la solidaridad, la hospitalidad y
+el respeto de los derechos humanos. Mostramos que las brechas entre ciertas políticas
+adoptadas a nivel de la Unión y las prácticas a nivel nacional se han ensanchado,
+y esto ha llevado a la conocida derrota del dominio normativo tan crucial para las
+políticas que tratan con los refugiados por la realpolitik siguiendo algunos prin-
+cipios centrales de la política clásica de realismo. Nuestro objetivo es mostrar que en
+varias áreas de la política de la UE, así como en la forma en que los estados indi-
+viduales han respondido, lamentablemente han prevalecido los intereses nacionales
+y elusion de las cargas, en lugar de compartirlas.
+
+Palabras clave: Unión Europea, Crisis de refugiados, Realismo clási-
+co, Agenda europea de migración, Medidas fundamentales para los
+
+
+316     WO R L D A F FA I R S
+                    Sedef Eylemer and Nagihan Söylemez
+
+
+movimientos humanos, Seguridad fronteriza de la UE, Cooperación de
+la UE con terceros países, Declaración Turquía-UE.
+
+
+该研究分析了欧盟针对难民危机实行超国家治理的影响。 其主要观点
+是，欧盟的超国家组织往往未能根据平等分担问题和齐心协力的基本原
+则充分解决难民危机。 这一问题逐渐使得欧盟如齐心协力、热情友好和
+尊重人权等基本原则名誉扫地。 该研究表明，在欧盟层面某些政策制定
+与在国家层面的具体实践之间的差距正在扩大，遵循古典现实主义的一
+些中心原则，这导致了国际现实主义政治对规范原则领域的再次失败。
+该研究致力于呈现欧盟在各地区的政策和个别国家的相应实践，以及相
+较于共同承担问题，不幸的是民族国家利益至上和逃避承担的情形更为
+普遍。
+
+关键字：欧盟，难民危机，古典现实主义，齐心协力，共同承担，欧洲
+移民议程，寻求庇护，移民政策，针对人类运动的基本措施，欧盟的边
+境安全，欧盟与第三世界国家的合作，土耳其-欧盟声明。
+
+
+
+   Before the global coronavirus pandemic hit Europe hard in early
+2020, the refugee crisis had become one of the European Union’s (EU)
+top agenda priorities. This is so despite the other internal and external
+challenges facing the Union in recent years, including the 2008 Great
+Recession and Euro crisis, Brexit, the Crimean Crisis, the Ukraine Cri-
+sis (Börzel 2015, 8), and the beginning of the Syrian civil conflicts. All
+these challenges led to fundamental changes in millions of people’s
+lives. Since the European refugee crisis, many people have tried to
+reach Europe using dangerous sea routes, hoping to gain refugee status.
+In 2015, this mass flow of irregular migrants peaked at over a million
+people—nearly 4,000 of whom drowned in the Mediterranean that year
+(Ellyatt 2020). The EU’s responses to these events, which mostly change
+state by state, characterized the “refugee crisis” as influencing both states
+and the Union’s institutions (Bulley 2017, 117).
+    The European Commission (EC) declared that the migrant crisis was
+over in March 2019 but emphasized an essential need for maintaining a
+comprehensive approach to migration management and border protec-
+tion across the region (EC 2019a). Although numbers of refugees have
+reduced since the peak in 2015, there is uncertainty as to whether the
+crisis is indeed over today. UNICEF (2020) reported a 20 percent decrease
+
+
+                                                       WINTER 2020       317
+                                POLICY VERSUS PRAXIS
+
+
+on 2019 figures regarding the 26,800 migrants and refugees1 that arrived
+in Europe via the Mediterranean from January to June 2020. It cited that
+COVID-19 border and mobility restrictions contributed to the drop while
+also “congest[ing] reception facilities making hygiene measures and
+physical distancing difficult” (EC 2019c). Another source cites a total of
+48,529 migrant arrivals in the Union from January to September 2020
+(Ellyatt 2020). The International Organization for Migration (2020) has
+reported well over 100,000 migrants and refugees entering the Union by
+sea alone each year for the last six years with 2,299 and 1,283 deaths in the
+Mediterranean for 2018 and 2019, respectively. The crisis, and its continu-
+ing aftermath, has left deep scars in the Union, particularly for nations
+that have borne the brunt of unfair burden sharing, and is currently seen
+by practitioners as “dormant rather than resolved” (Ellyatt 2020).
+     The crux of the many institutional problems that have surfaced since
+2015 was pinpointed by EC (2020) President Ursula von der Leyen in her
+September 2020 State of the Union address: “Those countries that fulfill
+their legal and moral duties or are more exposed than others must be able
+to rely on the solidarity of others in our whole European Union.” In this
+article, we cover some of the cases where such reliance on the normative
+principle of solidarity has been, and remains, an extremely difficult politi-
+cal and policy objective for the Union as a whole and for individual states.
+     This study analyzes the effects of supranational governance on the refu-
+gee crisis in the context of the EU and the institutionalized mechanisms
+that have confounded fair burden sharing among Union members regard-
+ing refugees/asylum seeking policy. We aim to show that the supranational
+institutions of the EU have often failed to adequately manage the refugee
+crisis triggered by the Syrian civil war. This failure of crisis management
+has gradually discredited the Union’s basic normative principles of solidar-
+ity, hospitality, and respect for human rights. As the gaps between policies
+adopted at the Union level and the practices at the national level wid-
+ened, the normative domain is often defeated by several key principles of
+realpolitik—best articulated in the Classical Realist School of thought. While
+solidarity and commonality are principles upon which the ideal functional-
+ity of the EU are based, the refugee crisis has demonstrated that national
+self-interest in particular retains the upper hand in Europe when it comes to
+sharing the burden of refugee placement and hospitality for asylum seekers.
+
+1A refugee is defined as an individual, who “owing to well-founded fear of being perse-
+
+cuted for reasons of race, religion, nationality, membership of a particular social group or
+political opinion, is outside the country of his nationality and is unable or, owing to such
+fear, is unwilling to avail himself of the protection of that country” (United Nations 2010).
+
+
+318     WO R L D A F FA I R S
+                    Sedef Eylemer and Nagihan Söylemez
+
+
+    This article first discusses briefly the ideas of solidarity and burden
+sharing as supranational ideals at the base of the EU. We then develop
+how the ideals have been incorporated into the pillars of EU integration
+practice and law in its approach to international migration. This is con-
+trasted with some relevant principles drawn from the key tenets of classi-
+cal realist thought. We next analyze the Union’s recent approaches and
+measures toward the refugee crisis from 2015 and pinpoint the areas
+where classical realist assumptions still trump the ideals of commonality
+and solidarity upon which the EU’s recent and current refugee policies
+are based. These areas are relocation; resettlement; return; the Dublin
+System of asylum; The European Border Control and Coast Guard; and
+the EU-Turkey statement. The final section concludes.
+
+Supranational Ideals: Burden Sharing, Solidarity, and Hospitality
+    The EU has faced serious challenges both internally (which has
+raised questions in terms of the principle of “solidarity” among member
+states) and externally (which has caused problems in terms of the prin-
+ciple of “hospitality”). Hospitality, in its simplest form, can be defined
+as openness toward foreigners at home as an ethical tradition implying
+a sort of moral duty. However, different interpretations of hospitality in
+the context of the EU prove how ethical values may vary in terms of sub-
+ject and context in foreign policy. For instance, the ethics of hospitality
+was emphasized almost unconditionally in the process of Central and
+Eastern European enlargement, and in proposals for Balkan enlarge-
+ment. Yet, when considering the European Neighborhood Policy, the
+practice of hospitality becomes more conditional (Bulley 2014, 175).
+The refugee crisis, as Bulley (2017, 118) argued, reveals that the EU’s
+hospitality functions rather like an “immune system” which generates
+and preserves both the space and the ethos of the EU’s “home” com-
+munity from any possible hazard of instability coming from abroad.
+The resulting tensions have institutionalized ambiguity in hospitality
+practices that simultaneously welcome and exclude (Bulley 2017, 118).
+    According to EU Asylum Law, the principle of solidarity is defined as
+the fair sharing of the “burden” or “responsibility” of managing an increas-
+ing number of asylum seekers among the member states—including the
+financial implications of this burden sharing. Solidarity among member
+states is also emphasized under the provisions of the Area of Freedom,
+Security, and Justice of Lisbon Treaty (Mitsilegas 2018, 197). The main
+problems confronting solidarity involve unequal refugee burden shar-
+ing throughout the Union and failed regional policy harmonization
+
+
+                                                       WINTER 2020      319
+                                POLICY VERSUS PRAXIS
+
+
+initiatives. These have led to unduly heavy burdens placed on certain EU
+states; increased tensions between some EU states; tensions between states
+and regional government directives; and successive layers of increasingly
+complex policies that only partially patch over fundamental flaws in the
+pillars of the EU approach to migration. The issues have produced what
+Thielemann (2017) calls “free-riding and burden-shifting dynamics” that
+have rendered the practice of solidarity in the Union regarding the refu-
+gee crisis as symbolic, at best. We argue that the EU’s response to the crisis
+has demonstrated that national sovereign states privilege their interests
+at the expense of a genuine commitment to solidarity. The refugee crisis
+has created opportunities for EU member states to harmonize their legal
+framework on refugee protection and to cooperate with third countries.
+However, as the following sections reveal, classical realism still prevails in
+these international affairs. In consequence, we suggest that the EU’s half-
+century of progress, which has continued via constituent principles, ideas,
+and values, has been considerably undermined.
+
+Fundamental Pillars of the European Union’s Approach to
+International Migration
+    With the adoption of the Geneva Convention and its Additional Pro-
+tocol, state sovereignty was limited to ensure the protection of human
+beings from suffering human rights violations and the arbitrary practices
+of sovereign states. In line with international efforts, growing regional
+developments have achieved some progress regarding human rights
+protection alongside the accelerated integration of the EU. Migration,
+asylum, policing, and judicial cooperation have become new collective
+policy agendas in Europe since the 1970s. The fundamental pillars of
+the EU’s approach to international migration have been closely related
+to the Union’s integration process. Cross-border movements due to the
+devastation of the Second World War (WWII) and the revival of Euro-
+pean integration, especially the Single European Act, were the driving
+forces of these new agendas. Under the Council of Europe, the establish-
+ment of the “Trevi Group”2 in 1976, and the creation of Ad Hoc Groups
+on Immigration and Organized Crime3 formed initial efforts to create a
+common approach to international migration (Uçarer 2010, 307–308).
+
+2The “Trevi Group,” which was established to combat terrorism, expanded its field of
+
+interests to include illegal immigration and refugee issues in 1980.
+3These structures were not formally part of European integration. But they structured
+
+the development of common migration policy through creating intergovernmental
+and transnational policy networks (Huysmans 2006, 66).
+
+
+320     WO R L D A F FA I R S
+                       Sedef Eylemer and Nagihan Söylemez
+
+
+The Schengen Agreement
+    The striking step for a common approach to international migration
+occurred with the abolition of the internal borders of five European
+Community countries4 with the Schengen5 Agreement in 1985. This was
+mainly based on the idea of the free and unrestricted movement of peo-
+ple across the borders within the Schengen Area (Stancova 2009, 31).
+With the creation of the Schengen framework, a coordinated asylum sys-
+tem became institutionalized, common visa policy was introduced, and
+cooperation in judicial and law enforcement spheres started (Uçarer
+2010, 309). Since then, the Schengen Area has expanded with European
+integration, currently covering 26 states. Yet the Schengen Area not only
+led to the abolition of internal borders, it also led to the rise of external
+borders concerning international migration (Huysmans 2006, 85).
+
+Cooperation in the Fields of Justice and Home Affairs: Key Treaties and
+Programs
+     With the entry into force of the Maastricht Agreement in 1993, Jus-
+tice and Home Affairs (JHA) has been defined as the “third pillar” of
+the EU. Although it was an important step for developing asylum, migra-
+tion rules, and police and justice cooperation under the JHA, the fact
+that the JHA was based on intergovernmental dialogue and compromise
+diminished its effectiveness. In consequence, policies on visas, asylum,
+migration, and the free movement of persons, including third-country
+nationals (TCNs), were transferred to the first pillar, under the Title IV
+of the Amsterdam Treaty in 1997. Thus, significant parts of the JHA were
+communitarized (with the exception of criminal matters). Moreover, the
+Schengen system was integrated into the EU’s acquis, significantly Euro-
+peanizing this area following the Treaty of Amsterdam. However, the
+most important reforms were made with the Lisbon Treaty (which came
+into force in 2009) to ensure effective decision-making and policy-mak-
+ing mechanisms at the Union level by expanding the scope of authority
+of the institutions6 of the Union (Uçarer 2010, 311–15).
+     After the Amsterdam Treaty entered into force, the Tampere Pro-
+gramme (1999–2004) was framed to create an Area of Freedom, Secu-
+rity, and Justice which also built the future of the JHA. The Tampere
+
+4France, Germany, Belgium, Luxembourg, and the Netherlands.
+5In mid-2020, the Schengen area included Iceland, Norway, Switzerland, and Liechten-
+
+stein, as well as members of the European Union, except the United Kingdom and Ireland.
+6European Parliament, European Court of Justice, European Council, and the EC.
+
+
+
+
+                                                               WINTER 2020         321
+                                 POLICY VERSUS PRAXIS
+
+
+Programme aimed at a partnership with the origin countries, fair treat-
+ment of TCNs, the establishment of a Common European Asylum System,
+and the management of migration flows (European Parliament 1999).
+The objectives of the Tampere Programme reveal that JHA is not an area
+related only to the internal affairs of the EU, but also closely related to
+its external affairs (Uçarer 2010, 316). As a result, the Hague Programme
+(2004-2009) emphasized both the internal and external dimensions of
+security matters (European Council 2005, 1–2). Following the Tampere
+and the Hague Programmes, the third multi-year program adopted by
+the EU, covering the years 2010–2014, was the Stockholm Program. This
+focused on the reassessment and improvement of the relevant regional
+legislation. However, the effectiveness of the Stockholm Programme was
+low compared with its two predecessors due to the economic, political,
+and geopolitical problems of the period. Economically, the recession
+started to affect the EU in 2008, and politically, populist policies against
+regular and irregular human mobility, which increased with the influ-
+ence of the Arab Spring from late 2011, have required new approaches
+(Collet 2014, 1–4).
+
+Combating Irregular Migration
+    In addition to the above multi-year programs, the Union’s policy on
+the external dimension of migration, which had been functioning under
+the “Global Approach to Migration” (GAM) since 2005, was re-launched
+as the “Global Approach to Migration and Mobility” (GAMM) in 2011
+(EC 2011, 3). The GAM framework originally consisted of combating
+irregular migration, promoting legal migration, regulating work and resi-
+dence permits, and regulating the EU’s partnerships with third countries
+in migration management (Yılmaz-Elmas 2016, 39). After the breakdown
+of the Arab Spring, the framework, re-launched as GAMM, spanned
+
+      organizing and facilitating legal migration and mobility; preventing and
+      reducing irregular migration and trafficking in human beings; promot-
+      ing international protection and enhancing the external dimension of
+      asylum policy; maximizing the development impact of migration and
+      mobility. (EC 2011, 7)
+
+    After all, the enormous human mobility that emerged as a result of the
+ongoing internal conflicts in Syria reveals that the existing political frame-
+work was inadequate—and the need for new mechanisms capable of deal-
+ing with the emergencies surrounding the refugee crisis became painfully
+
+
+322      WO R L D A F FA I R S
+                     Sedef Eylemer and Nagihan Söylemez
+
+
+clear. Shortly we discuss the most important of these mechanisms, how
+they attempted to embody the normative ideals of solidarity and fair bur-
+den sharing, and how in practice this has not been a resounding success.
+However, before we do so, it is useful to turn briefly to some of the prem-
+ises and principles of classical realism that we argue continue to compete
+with, and often undermine, EU refugee policies advocating solidarity.
+
+Key Principles of Classical Realism
+     It is well known that the principles of realpolitik drawn from classical
+realist theory continue to dominate many areas of international relations.
+And, as we shall see, recent EU refugee policy and its reception by mem-
+ber states is no exception. Three fundamental premises are salient. First,
+state centrism refers to the idea that states are the central actors in interna-
+tional politics and that they are unitary and rational actors whose purpose
+is to maintain security for their citizens (Donnelly 2005, 29–31). The sec-
+ond core premise is derived from the Hobbesian view that human nature
+is selfish and such unlimited egoistic behavior can only be restrained under
+the hierarchical institutions offered and upheld by strong states (Donnelly
+2005, 30). Because states are understood as being similar to individuals
+(since they are an amalgamation of individuals), the behavior of indi-
+vidual states in the international realm is similarly understood to always
+pursue their own well-being. This makes them competitive (Jackson and
+Sørensen 2013, 66). The third premise of realism concerns anarchy in
+international politics. Since there is no powerful higher authority to con-
+trol the egoistic behavior of individual states, international relations are
+necessarily conflictual, and conflicts are ultimately resolved by war (Jack-
+son and Sørensen 2013, 66). Absent any higher authority to make and
+enforce laws, every state must look out for its own survival.
+     For reasons of parsimony, we cannot cover the details of classical real-
+ism in depth here. However, three familiar additional principles are worth
+underlining briefly to return to later. First, in classical times, Thucydides
+(431 B.C.E.) articulated the “iron law of realism” (Dunne and Schmidt
+2004, 169) that “the standard of justice depends on the equality of power
+to compel and that the strong do what they have the power to do and
+the weak accept what they have to accept” (Thucydides 1972, 400–402).
+     Second, Machiavelli ([1532] 2008, 257–83) separated private moral-
+ity—fidelity, friendship, honesty, and (Christian) ethics—from the politi-
+cal responsibility required for survival. So he famously urged the prince
+to behave flexibly and contrary to moral values if required by the practical
+
+
+
+                                                         WINTER 2020        323
+                               POLICY VERSUS PRAXIS
+
+
+conditions facing him. The power of the strongest and the detachment of
+morality from politics were reworked in modern form by E.H. Carr. For
+Carr ([1939] 2015, 98–107), those interested in international politics can
+only achieve reality through the analysis of real conditions, not imaginary
+assumptions about common interests or morality, since “morality is also the
+product of power” (Rynning and Guzzini 2002, 6). The principle was elabo-
+rated by Morgenthau: political realism requires an awareness that morality
+should not be applied in the policies of states; since moral principles can
+and do vary across states, this sort of application might lead to calamities.
+Indeed, attempting to rule the world within a single moral framework is to
+make the world much more dangerous. As such, he emphasized that poli-
+tics and political actions should be approached as an “autonomous sphere”
+(Morgenthau [1948] 1993, 5–17).
+     A third key principle, traceable to Morgenthau’s ([1948] 1993, 4–5,
+31) interpretation of Hobbes, is that the aim of international politics may
+be defined in terms of religious, philosophical, social, or economic con-
+cerns, but when it comes to realizing these goals, all actors need power
+which causes an incessant struggle for power. Contrary to expectations,
+neither the abolition of trade barriers nor the establishment of interna-
+tional institutions intended to create a harmony of interest to prevent
+wars can eliminate the game of power politics (Morgenthau [1948] 1993,
+37–39). We now turn to review the EU’s main institutional response to
+the refugee crisis and, in doing so, show how the premises and principles
+of classical realism noted here appeared in various guises in the key con-
+cepts and processes of the European Agenda on Migration (EAM).
+
+The EU’s Response to the Refugee Crisis: The European Agenda on
+Migration
+    The over 4,000 deaths in the Mediterranean in 2015 (Ellyatt 2020)
+revealed that the EU needed to take common action. In this context, an
+Emergency Action Plan was initially formed. The plan included strengthen-
+ing joint operations in the Mediterranean; developing a systematic strug-
+gle against human trafficking; regular meetings to follow developments
+via institutions such as EUROPOL; the creation of EU-wide projects for
+resettlement; the creation of new return programs; and achieving agree-
+ments with third countries (EC 2015c). The EAM, formed in the follow-
+ing period, emerged as a new policy adopted in May 2015 for managing
+the external dimension of EU migration.
+    After the EAM was presented by the Commission in 2015, emphasiz-
+ing the fact that migration is not an area to be managed alone by the
+
+
+324    WO R L D A F FA I R S
+                   Sedef Eylemer and Nagihan Söylemez
+
+
+member states, the Union began to form the necessary building blocks
+for a sustainable system—including immediate measures for the refugee
+crisis—providing stronger border control (European Union 2017, 1).
+Saving lives, combating human trafficking, the relocation of refugees,
+and providing international protection were determined as prominent
+areas requiring urgent action (EC 2015a, 1–4).
+    To ensure the best possible management of human movement, the
+EAM was planned to rest on four pillars. Under the first pillar, attention
+was drawn to the resolution of the root causes of irregular migration
+(such as economic and political turmoil and climate change) as well as
+to the fight against human trafficking. The importance of cooperation
+with third countries and the need to establish an effective return appara-
+tus were also emphasized (EC 2015a, 7). The second pillar of the Agenda
+included measurements which prescribe improving the role and capac-
+ity of the EU External Bureau of Borders, FRONTEX, promoting actions
+such as standard border management across the Union, strengthening
+EU coordination in border security services, the revision of the Smart
+Borders plan, and increasing the capacity of third countries to manage
+their borders (EC 2015a, 10). The third pillar was based on developing
+a Common Asylum System, while the fourth pillar aimed to encourage
+legal migration options by revising and modernizing the existing system.
+To achieve this goal, the importance of establishing a dialogue platform
+for economic migration and strengthening the link between develop-
+ment and migration were highlighted (EC 2015a, 11–17).
+    Despite the medium- and long-term policy prescriptions of the
+Union, in practice the most advanced dimension of the EU’s migra-
+tion regime is related to combating mixed human flows which consist
+of irregular migration and asylum seekers. In this struggle, the goal of
+preventing irregular cross-border activities has an important place. As
+such, FRONTEX carried out joint operations along land and sea bor-
+ders, regulating the external border controls of member states (Hamp-
+shire 2016, 539). Legal migration regulation, including areas such as
+economic migration and family migration and policies on the integra-
+tion of migrants, has also been somewhat regulated at the EU level.
+The national level remains the most effective level in decision making
+concerning the admissions of migrants and refugees (Hampshire 2016,
+540). That is why Faure, Gavas, and Knoll (2015, 9) note that the EU’s
+migration governance is hierarchic, since member states harbor peren-
+nial opposition and skepticism toward the high-level governance of
+human movement through the Union’s supranational bodies.
+
+
+                                                     WINTER 2020       325
+                               POLICY VERSUS PRAXIS
+
+
+    In the case of the Union’s migration governance, member states
+mostly have followed their policy agenda in terms of their own power
+and security perceptions, even if these contradict the EU’s common
+institutions, ideals, and values. When it comes to the implementation of
+solidarity, burden sharing, hospitality, and other measures stipulated by
+the Union, observable failures have been recorded in several areas. The
+next section outlines the key concepts and processes of the initial steps
+of the EAM, before looking in more depth at three of the key failures.
+
+Key Concepts and Processes of the Agenda
+   Under the EAM, two packages were adopted by the EU Commission,
+the first in May 2015, and the second in September 2015. Six measures
+were developed under the first implementation package for an emer-
+gency in the Mediterranean. We now examine each in turn.
+
+Relocation
+    In terms of humanitarian emergencies, relocation refers to the process
+of transferring those people facing immediate danger from conflictual
+places to safe places, in which effective protection is provided, within the
+country. In the context of the EU, relocation means transferring people
+from one member state to another to provide humanitarian protection
+(Glossary on Migration 2019, 176). It is one of the main pillars of the
+solidarity principle among member states.
+    For this reason, the first measure of the EAM was the creation of
+an Emergency Relocation Mechanism to share the burdens of Greece
+and Italy which faced intensive refugee flows. Based on the Council
+resolution of September 14, 2015, the relocation of 24,000 people from
+Italy and 16,000 from Greece was adopted under the first implementa-
+tion package. With the Council’s September 22, 2015, decision, it was
+accepted that, through a temporary mechanism, 120,000 people would
+be relocated from Greece and Italy in the following two years. Accord-
+ingly, relocation, which started on September 15, 2015, was expected
+to be completed by September 17, 2017. The September 15 decision
+was accepted by a majority vote, while Slovakia, the Czech Republic,
+Romania, and Hungary voted against, and Finland abstained (European
+Parliament 2015, 4).
+    According to EC (2017a, 1) data, almost 32,000 persons who
+needed international protection in Italy (10,265) and Greece (21,238)
+were relocated in another EU member state within these two years
+
+
+326    WO R L D A F FA I R S
+                     Sedef Eylemer and Nagihan Söylemez
+
+
+(2015–2017). The quantitative objective of relocation was, nevertheless,
+not achieved as transfer numbers were far below expectations. Although
+other developments such as the Turkey-EU Settlement (discussed later)
+have reduced irregular flows, some states behaved reluctantly, while oth-
+ers, especially Visegrad,7 were highly resistant to relocation quotas.
+    The Visegrad nations strongly opposed the relocation quotas set by
+the EC and resisted acceptance of asylum seekers (European Parliament
+2019a, 1–3). As such, they not only violated the Commission decisions,
+but also undermined the principle of solidarity among member states.
+This harmed the Union’s moral as well as legal legitimacy. Under the
+rule of populist right-wing parties, Poland and Hungary developed rhet-
+oric that mandatory relocation programs threatened their national, eco-
+nomic, and cultural interests (Euractiv 2019; Meretab 2018). It should
+be noted that Slovakia and the Czech Republic held a less critical stance
+(Meretab 2018). Nevertheless, together they accepted just 28 persons for
+relocation while Hungary and Poland did not accept any for relocation
+(EC 2017a, 2).
+    These sorts of violations, as classical realists suggest, belie the
+true nature of international politics at least in two patterns. First,
+from Machiavelli to Morgenthau, almost all classical realists pointed
+out the distinction between morality and politics. For them, ethical
+reasons cannot substitute or surmount the actors’ interests. That is
+why Machiavelli reminded his prince of his political responsibility for
+survival, instead of fidelity, ethics, or honesty. In congruence, Carr
+criticized utopians for postulating desired ideals as the equivalent of
+progress and universal common good without considering the facts of
+international politics.
+    Second, classical realism assumes that states are unitary rational
+actors that maintain security for their citizens and ensure their own
+interests and power in an anarchic system. The Visegrad countries
+viewed the relocation schemes as a gross interference in their national
+sovereignty, jeopardizing their security and interests. Yet the EC initiated
+an infringement procedure against Poland, Hungary, and the Czech
+Republic for their resistance in meeting their legal commitments regard-
+ing the refugee quotas (Meretab 2018). As in all legal systems, avoiding
+the fulfillment of legal obligations requires the imposition of specific
+sanctions for these actors (Meretab 2018). In fact, this move could only
+mitigate their stark opposition to the extent it could affect their power
+position in competitive international politics.
+7Poland, Hungary, the Czech Republic, and Slovakia.
+
+
+
+
+                                                       WINTER 2020       327
+                               POLICY VERSUS PRAXIS
+
+
+Resettlement
+    Resettlement involves the relocation and integration of individuals
+fleeing war or persecution to a safer geographical area—for our pur-
+poses, from a third state to an EU member state. The term is often used
+to define a process that begins with the selection of refugees to be placed
+and ends with their placement in any EU country granting refugee
+status, and even naturalization (Glossary on Migration 2011, 84).
+    The European Commission Plan, submitted on June 2015, proposed
+that 20,000 people who needed international protection would be reset-
+tled from third countries to EU countries via voluntary distribution across
+Europe over two years (EC 2015b, 4). Also, with the proposal adopted on
+July 22, 2015, Norway, Switzerland, Liechtenstein, and Iceland accepted
+to participate in the program (European Council 2015, 5–6). Finally,
+within the context of the Resettlement Plan, it was decided to place 22,500
+people from third countries in 32 EU states (EC 2016a, 3).
+    This number of accepted commitments is very low, given the mil-
+lions in dire need of international protection. Unfortunately, even this
+relatively low quantitative target also could not be achieved during the
+two years. According to EC data for 2017, the total number of resettle-
+ments, outside the Turkey-EU Statement, was around 18,000 (EC 2017b,
+1–2). The current plan aims to resettle over 50,000 persons who need
+international protection from third countries, including the Turkey-EU
+Statement, with a pledge to resettle over 30,000 refugees in 2020 alone.
+Although the Commission has been working on establishing a Permanent
+Union Resettlement Framework since 2016 (EC 2019a, 2), such initiatives
+have been soundly challenged by the reluctance of member states and
+critics from rightist political movements across the Union (EC 2019a).
+    Anti-immigration practices in the EU member states also appear to
+undermine the normative values, and thus the soft power and legiti-
+macy, of the EU in the international arena. For the modern state, sov-
+ereignty is commonly defined as “national sovereignty” and non-citizens
+are assumed to be a threat likely to erode national sovereignty (Arslan
+2017, 29). Hence, the minimum level of acceptance of persons who
+need international protection is considered to be appropriately set by
+member states. In this context, the political arena, which would be
+characterized by positive normative elements, as the common values
+of the Union, are replaced by an area where foreigners are defined as
+“normative threat.” The normative threat is a psychological tendency
+that refers to the intolerance of individuals who feel threatened (Krastev
+2017, 94–95).
+
+
+328    WO R L D A F FA I R S
+                      Sedef Eylemer and Nagihan Söylemez
+
+
+    From a classical realist viewpoint—which acknowledges that the pri-
+mary tasks of the state apparatus are to survive and to ensure the safety
+of their citizens—it is therefore not surprising that national security con-
+siderations surpass the “common values” of the EU. Moreover, it makes
+sense that a main reason underlying the psychological tendency of per-
+ceiving threats is inextricably related to the pessimistic view of “human
+nature” defined in classical realism. As we shall see, the realist goal of
+ensuring security—that is, the protection of national sovereignty—has
+brought measures that prevent mixed flows, including the influx of
+refugees.
+
+Return
+    One of the basic building blocks of the international refugee regime
+is the prohibition of refoulement.8 This prohibits the repatriation of
+persons (who need international protection) to their country or region
+of origin if they would not be safe there. In addition to the international
+regime under the United Nations, the EU has pursued its goal of taking
+these standards a step further both Union-wide and in its relations with
+third countries. However, in times of crisis, heightened measures to pre-
+vent irregular migration can conflict with obligations to international
+law, particularly the prohibition of refoulement. Return mechanisms are
+thus subject to criticisms since they can cause indirect violations of inter-
+national law,9 as well as criticisms surrounding inadequacies in the pro-
+tection that is supposed10 to be provided internationally. This situation
+might become clear by considering the autonomy of the political sphere
+as detached from law, ethics, or economy as classical realists so pointedly
+stated. The answer to the question of why states refrain from fulfilling
+their obligations to international law or some moral purposes may be
+comprehensible if states do, in fact, consider the political sphere to be
+autonomous—regardless of what regional or international directives say.
+    Against this backdrop, within the EU, alternatives to the prohibition
+of refoulement have been created. Examples include the Dublin Regu-
+lation’s deadlock in the asylum system; increased security measures at
+the Union’s external borders with the renewed European Border and
+
+8Namely, the principle of non-refoulement.
+9The indirect violation of the principle of non-refoulement concerns cases where refu-
+
+gees could be extradited to a country where they would be exposed to a serious risk of
+onward removal, and thus could still end up in an unsafe country.
+10According to Article 14 of the Universal Declaration of Human Rights, “Everyone has
+
+the right to seek and to enjoy in other countries asylum from persecution.”
+
+                                                              WINTER 2020         329
+                               POLICY VERSUS PRAXIS
+
+
+Coast Guard; and the conclusion of readmission agreements with third
+countries, notably with Turkey. We discuss each of these cases in more
+detail next.
+
+Alternative Mechanisms
+The Dublin System: The Asylum Procedure of the European Union
+    The Dublin Convention, signed in 1990, came into force in 1997
+only after all member states signed and ratified it. Before the Dublin
+Convention, member states signed “readmission agreements” among
+themselves. According to these agreements, asylum seekers could be
+returned to safe third countries they had previously passed. The concept
+of repatriation to the safe third country was also maintained by the Dub-
+lin Convention (Refugee Council Briefing 2002, 1).
+    Although the Dublin Convention is considered as the cornerstone
+of the European Common Migration Policy, it has been criticized for
+causing violations of international human rights and for overburdening
+frontier states (Moses 2016). Despite the criticism, the Dublin II Regula-
+tions of September 2003 maintained the concept of “third safe country”
+(European Council on Refugees and Exiles 2006, 6, 10–11). The Dublin
+III Regulations, in force since 2013, brought some responsibilities to
+states for the proper assessment of the effects of transfers before the
+return of an asylum seeker to another country (Hampshire 2016, 538).
+However, the recent refugee crisis once again unveiled the inadequacy
+of the Dublin System, leading the Commission to propose some reforms
+in 2017. Yet, instead of fundamentally overhauling the Dublin regime,
+the Commission added successive supplemental layers to the original
+system which have not proven to be particularly successful.
+    According to the Commission’s proposal, underlining the unsustain-
+ability of the current Dublin System in the face of unexpected events,
+the relocation of asylum seekers in other member states should take
+effect when it is decided that one of the member states is under intense
+pressure. It was proposed to establish a “corrective allocation mecha-
+nism” arranged according to the population density and Gross Domestic
+Product of the member states. If, however, a member state decided not to
+accept asylum seekers from a state under pressure, a “financial solidarity
+system” would be required instead, obliging a € 250,000 (for 12 months)
+solidarity contribution for each asylum seeker (EC 2016b, 3).
+    Although this proposal was aimed to increase the solidarity and
+responsibility within the Union, the leaders have still not achieved an
+
+
+330    WO R L D A F FA I R S
+                       Sedef Eylemer and Nagihan Söylemez
+
+
+agreement (European Parliament 2019a) despite ongoing discussions
+for nearly three years. For some member states,11 who have blocked
+the unanimity required to move the proposal forward, it contradicts
+the principle of subsidiarity (European Parliament 2019a, 7, 11). Hun-
+gary rejected any mandatory admittance quota in 2018 and called for
+amendments that tightened the System’s security and expulsion policies;
+other member states12 have strongly criticized the fairness of the share
+of applicants each member state could be expected to take (European
+Parliament 2019a, 11). Accordingly, the procedures guiding decisions
+on who should be admitted to their country and ensuring that each
+financial solidarity contribution is within national competence remain
+unresolved and disagreement remains rife. Again, the issue very clearly
+revolves around the proposal’s excessive intervention into the sphere of
+national sovereignty (Nielsen and Zalan 2017) and reveals how nation-
+states, as unitary and rational actors in the classical realist understand-
+ing, pursue self-interest at the expense of supporting the supranational
+institutionalization steps of the Union. Rather than shoring up the defi-
+ciencies in the EAM to enhance the principle and practice of solidarity
+in the Union, these proposed supplemental procedures continue to
+languish amid squabbles over fairness understood from a national, not
+a common, perspective.
+
+The European Border and Coast Guard: The Line between the Union and
+Beyond
+    In line with the objective of the EAM to increase the security of the
+Union’s external borders in the medium and long term, the European
+Border and Coast Guard was established in October 2016 on the founda-
+tions of FRONTEX (2017, 11) for the effective implementation of Euro-
+pean integrated border management. Integrated border management is
+defined as the common area of responsibility of the national authorities
+and the Union. Its most important components are coastguard mis-
+sions which consist of search and rescue operations; monitoring human
+movements within and toward the Union; the detection and prevention
+of cross-border crimes such as terrorism and human smuggling; the
+investigation of threats and internal security risks affecting external bor-
+der security; and the evaluation of vulnerabilities and return operations
+(FRONTEX 2017, 11).
+
+11Hungary, Slovakia, Czech Republic, Poland, Romania, and Italy.
+12Cyprus, Greece, Italy, Malta, and Spain.
+
+
+
+
+                                                            WINTER 2020   331
+                                POLICY VERSUS PRAXIS
+
+
+    In this context, nation-states seem indubitably more willing to
+heighten and fortify the walls of the Union, which has been labeled “For-
+tress Europe” for many years. The new Bureau raised criticisms on the
+ground that FRONTEX has become an EU “return office.” Accordingly,
+the task of this new Bureau is to ensure more effective deportation pro-
+cedures in the EU (Carrera et al. 2017, 47). These measures reaffirm the
+basic paradigms of classical realism in some areas. In the international
+arena, where interests are defined in terms of power, the main goal of
+preserving the existing power balance consistently with demographic,
+economic, or military interests (rather than ethical values and humani-
+tarian concerns) has still prevailed. Member states have displayed intel-
+lectual solidarity more for controlling and preventing refugee flows
+than for sharing the burden among themselves. For instance, Austria,
+Denmark, France, Germany, Norway, and Sweden have temporarily
+suspended the Schengen rules. These countries introduced internal
+border checks from 2015 to the present even though the limit is just
+two years—since the current rules are ambiguous and subject to legal
+loopholes (European Parliament 2019b). Some have argued that the
+extraordinary circumstances of irregular migration flows in 2015 were
+self-interestedly extended in this way in 2018–2019 to shirk fair burden
+sharing (European Parliament 2019b). It is nevertheless patent that the
+effects of the 2020 coronavirus pandemic have legitimately constituted
+new extraordinary circumstances for internal border controls across the
+Union and thus COVID-19 has eclipsed this particular issue for now.
+    Other indicators of controlling and preventing refugee flows and
+fortifying borders include societal responses such as the increasing
+influence of populist political groups across the region, one of which
+is “Alternative for Germany” in Germany, and most importantly Brexit in
+the United Kingdom. Two key populist elements, national sovereignty
+and immigration restrictions, drove the official slogans of the Brexit
+campaign and subsequent negotiations with the EU: Farage’s “we want
+our country back” and May’s “control of our own laws” (Morillas 2017).
+The Euroskeptic flavor of sovereignty issues and the widespread per-
+ceived unfairness of European control over U.K. borders and immigra-
+tion policy13 in Britain certainly revealed that national sovereignty—and
+
+13Britain opted into the minimum standards of treatment and conditions set by the first
+
+round of agreements of the Common European Asylum System in 2005, but opted out
+of the second round that set common (i.e., higher) standards of treatment/reception
+in 2013 on the grounds of preserving national sovereignty over its laws and borders
+regarding refugees.
+
+
+332     WO R L D A F FA I R S
+                   Sedef Eylemer and Nagihan Söylemez
+
+
+therefore national interests—were driven from the societal level and led
+to international outcomes in a way classical realists would expect. Brexit
+is a clear indication that the Union’s harmonization policies and insti-
+tutional response to solidarity and burden sharing have not been able
+to overcome the prevailing realist principles of national interest and
+sovereign control of national borders and laws.
+    The most recent Union proposal in the area of burden sharing
+occurred on September 23, 2020, when the EC unveiled a new “com-
+pulsory solidarity” plan that bears even more hallmarks of a politically
+realist attempt to appease anti-migrant member states (France 24 2020).
+EC President von der Leyen was reported to have said, “‘We want to live
+up to our values, and at the same time face the challenges of a global-
+ized world’ . . . warning that the old system ‘no longer works’” (France 24
+2020). Instead of the compulsory quotas for refugee settlement hoped-
+for by human rights and refugee activists, the plan is proposing harsher
+border controls and quicker procedures for expelling rejected asylum
+applicants (France 24 2020). It also proposes that member states not
+wishing to volunteer to take more migrants “can instead take charge of
+sending those whose asylum requests are rejected back to their home-
+lands” (France 24 2020) in place of the mandatory relocation quotas
+that so many member states have resisted (Palaiologos 2020). Praxis is
+indeed trumping the normative values at the base of former EU refugee
+policy here. Or, at the very least, the principle of solidarity is morphing
+to take on a much more practical, less normative, meaning than before.
+
+The EU-Turkey Statement: Beyond Borders
+    Because of its geographic proximity and position, Turkey is an impor-
+tant actor for EU border security and migration management. Indeed,
+the Union’s dealings with Turkey could well have been an opportunity
+for the EU to demonstrate its political will to cooperate in genuine soli-
+darity with countries outside its borders; countries that impact deeply
+upon EU concerns like the refugee crisis. By 2015, the EU’s migration
+management and border security opened a new era in Turkey-EU rela-
+tions (Benvenuti 2017, 4). While the parties have mutually lost faith in
+each other regarding the readmission agreement and a visa liberaliza-
+tion process (EC 2014)—touted to introduce a visa waiver for Turkish
+citizens entering the EU—the Joint Action Plan and the Turkey-EU
+Statement were signed in November 29, 2015, and on March 18, 2016,
+respectively. In this context, the deepening of the refugee crisis in a way
+contributed to the restoration of deteriorating Turkey-EU relations for
+
+
+                                                      WINTER 2020       333
+                               POLICY VERSUS PRAXIS
+
+
+a while (Saatçioğlu 2016). However, in the following period, the positive
+atmosphere in relations was again interrupted (Nas 2016, 31).
+    The Joint Action Plan attempted to handle the refugee crisis in three
+ways. First, it threw into sharp relief the reasons underlying the mass
+influx of Syrians; second, through the Plan, the EU committed itself to
+support those Syrians under temporary protection in Turkey; and third,
+the Plan aimed to develop cooperation between the parties for the pre-
+vention of irregular migration toward the EU (Avrupa Birliği Bakanlığı
+2015, 1). On March 18, 2016, Turkey and the EU reached an agreement
+to end irregular migration to Europe via Turkish waters (EC 2019b).
+According to the agreement, the steps were as follows: (1) irregular
+migrants who reached Greece via the Aegean Sea should be returned to
+Turkey and, in return, the Union committed to resettling one Syrian for
+each return; (2) Turkey committed to taking some measures to prevent
+irregular migration toward the Union and, in return, the EU committed
+to the Voluntary Humanitarian Admission Plan to offer a legal and safe
+resettlement route for irregular migrants “to create a system of solidar-
+ity and burden sharing with Turkey” (Council of the European Union
+2017). Related commitments by the EU include the acceleration of the
+process of visa liberalization for Turkish citizens; taking some steps to
+modernize customs union between the EU and Turkey and opening new
+chapters in accession negotiations; and providing financial assistance to
+improve the protection of refugees in Turkey (European Council 2016).
+    As of 2019, tangible results have been achieved by the EU-Tur-
+key Statement. The EC (2019b) announced that irregular transitions
+decreased by 97 percent; € 3 billion was contracted under the Facility
+for Refugees from the EU budget, while almost half of the second € 3
+billion—contributed by EU member states—was committed to Turkey
+in 2019. Over 20,000 Syrians who need international protection have
+been resettled in member states of the Union (EC 2019b). However,
+although irregular migration has declined considerably, the Voluntary
+Humanitarian Admission Plan has still not yet been launched, leading
+to an extended stay of 3.6 million Syrians in Turkey (in addition to over
+300,000 refugees from other countries) at a cost several times higher
+than the € 6 billion promised by the EU (Global Utmaning 2020).
+According to Global Utmaning (2020), Turkey is “currently hosting the
+largest refugee population in the world.” Regardless of the incredibly
+positive tone of the EC (2019b) situation report, Turkey is clearly one
+area where the failures of supranational EU refugee management are
+particularly salient.
+
+
+334    WO R L D A F FA I R S
+                     Sedef Eylemer and Nagihan Söylemez
+
+
+    Visa liberalization has also not been realized due to problems in the
+following issue areas: the adoption of measures for the prevention of
+corruption, the revision of legislation and practices concerning terror-
+ism, to make appropriate arrangements with EU standards on the pro-
+tection of personal data, and effective judicial cooperation (EC 2017c,
+10). Moreover, Turkey’s progress toward full membership has remained
+fraught with difficulties and is now completely stalled. Hence, strategic
+partnership options instead of full membership started to be more pro-
+nounced in EU circles. Besides, lacking political will toward Turkey’s
+full membership has reduced the impact of the policy of conditionality
+(Nas 2016, 32). Turkey’s full membership debate can easily become a
+factor for pressure in domestic policy areas in the EU member states, so
+neither visa liberalization nor full EU membership is likely to take shape
+soon.
+    Despite the optimistic values-based expectations for the future of
+EU-Turkey relations, grounded on the beginning of a new positive and
+cooperative era, developments reveal that the EU has followed an inter-
+est-oriented approach based on a realist understanding, rather than one
+of commonality and even partial solidarity across one of the region’s
+most pressured borders. The EU aimed to externalize the refugee cri-
+sis through a compromise with Turkey via the EU-Turkey Statement.
+Turkey likewise primarily sought its own national progress in accession
+negotiations and an assurance for visa liberalization as soon as possible.
+As classical realists would identify, the varied interests of these actors
+reflect a conflict of interests instead of a real harmony of interests. In
+consequence, the Union instrumentalized the negotiation process with
+Turkey to achieve its security interests while Turkey prioritized the nego-
+tiation talks as well as visa liberalization. Turkey has played a critical role
+in preventing mixed flows to the Union—which served the interests of
+the EU. Yet the expected progress and benefits from the compromise
+for Turkey have not been achieved. The experience is reminiscent of a
+famous point from Thucydides, the father of classical realism, underlin-
+ing the “iron law of realism”: the strong do what they have the power to
+do and the weak accept what they have to suffer (Dunne and Schmidt
+2004, 169; Thucydides 1972, 400–402).
+    Despite the Union’s stated commitment to the normative principle
+of solidarity in the refugee crisis and its aftermath, realist regional self-
+interest has prevailed in its practical dealings with Turkey. And the prac-
+tical politics of realism have continued to supersede European values
+now the refugee crisis has deepened in Turkey in 2020. On one hand, in
+
+
+                                                         WINTER 2020       335
+                               POLICY VERSUS PRAXIS
+
+
+the absence of sufficient funding and incentives, Turkey has relaxed con-
+trols on the movement of the latest influx of Syrian refugees toward the
+Greek border, while “European politicians sidestep responsibility and
+instead blame Ankara for the situation” (TRT World 2020). It remains
+to be seen whether the plight of so many will be used as a political tool
+by the regional powers in the months or years to come. The precedents
+covered in this article suggest it is, unfortunately, likely that they will be.
+
+Conclusion
+    This study has discussed some effects of EU supranational gover-
+nance on measures handling the refugee crisis, specifically key mecha-
+nisms that have confounded fair burden sharing among Union members
+regarding refugees and asylum-seeking policy. We argued that normative
+principles, like solidarity and burden sharing, have been incorporated
+into the pillars of regional policy and in the attempts of the Union’s
+supranational institutions to harmonize national policies within, and
+even beyond, the borders of Europe. In practice, though, at both the
+national and supranational levels, several self-interested motives more
+associated with realist motives belie the normative ideals. Our explora-
+tion of the Union’s internal policies managing the refugee crisis (among
+member states, and concerning border security policies and initiatives)
+and in its cooperation with third countries (as in the case of Turkey-EU
+Statement) shows that praxis has continually either trumped or under-
+mined the normative ideals set forth in the EAM, as well as in the various
+EU policy “band aids” applied subsequently.
+    Given the Union’s internal arrangements, as classical realists suppose,
+individual states have acted as unitary actors instead of members of a
+supranational whole facing a politically devastating crisis in common.
+Despite their commitments at the Union level, many have followed
+their perceived national security and other national political interests
+whenever Union-wide directives for a fairer distribution of the refugee
+burden were seen to threaten them. This attitude has led to two key
+problems. First, even though member states officially committed to
+solidarity with the Union in the management of asylum pressures, they
+have been reluctant to engage in burden sharing in practice. Second,
+although seeking asylum is a human right, refraining from ensuring this
+right due to security interests undermines the legitimacy of the very val-
+ues and ideas on which the Union is based. The focus on the return and
+repatriation of people in need of asylum rather than on local admission
+and integration reflects this attitude. Another example of this attitude
+
+
+336    WO R L D A F FA I R S
+                      Sedef Eylemer and Nagihan Söylemez
+
+
+has become visible during the negotiations for the Common European
+Asylum System, since it has not been established yet mostly due to the
+reservations of member states. At the border level, increasing security
+measures have also reverberated throughout the EU member states
+security concerns toward human movement. The new Bureau, based
+on foundations provided by FRONTEX, indicates that even if there are
+strong humanitarian imperatives, either denial of entry or the return
+of refugee flows to unsafe countries (or to safe countries likely to move
+them on again to unsafe ones) may well be prioritized by some member
+states. The complex challenge for the EU is in fact less about “striking a
+working balance” between the normative principle of solidarity and the
+practical considerations of collective responsibility (von der Leyen cited
+in Palaiologos 2020), and more to do with its practical ability (or inabil-
+ity) to cajole, negotiate, or otherwise force a consensus between radically
+self-interested member states on the best ways to handle refugee flows
+and effective repatriation. While successes have been seen, the failures
+are more than prevalent.
+    At the external level, the Turkey-EU Statement appears as potentially
+one of the most innovative policy instruments (applied beyond EU bor-
+ders) since the adoption of the EAM in 2015. The Statement aimed to
+control the largest migration route to the Union via cooperation with
+Turkey. Ultimately, the Union achieved many of its expected outcomes
+to dampen the influx of refugees to EU states. The Turkish state, how-
+ever, did not achieve its aim to join the Union and instead now hosts
+the largest refugee population in the world (3.9 million). One strong
+indication is that conflicts of interest are still more dominant than the
+harmony of interests in bilateral relations between the EU and Turkey,
+in line with the principles of classical realism. The September 2020 EC
+proposal for “compulsory solidarity” may fare no better in balancing a
+genuine commitment to Union-wide solidarity over the refugee situa-
+tion and the fair burden sharing it involves against the prevailing practi-
+calities of national self-interest.
+
+ORCID iD
+Nagihan Söylemez      https://orcid.org/0000-0002-9423-9359.
+
+About the Authors
+Sedef Eylemer is an associate professor in the Department of International Relations
+and Director of the EU Research Centre at Izmir Katip Çelebi University. She received
+her BA in international relations, and MA and PhD in European studies, at Dokuz Eylul
+
+
+                                                             WINTER 2020         337
+                                 POLICY VERSUS PRAXIS
+
+
+University in Izmir. She was also awarded an MA degree in Mediterranean studies from
+King’s College, University of London as the recipient of a Jean Monnet Scholarship.
+Her main research interests include EU external relations and foreign policy analysis,
+EU migration policy, EU-Turkey relations, and European neighborhood policies.
+Nagihan Söylemez is a research assistant in the Department of International Relations
+at the Istanbul Bilgi University, in Istanbul, and a PhD candidate in the Department
+of International Relations at Dokuz Eylül University, Izmir, Turkey. Her main research
+interests are international relations theories, international organizations, European
+Union, international migration, and human movements.
+
+
+References
+Arslan, Mutlu. 2017. “İçerdekiler ve Dışardakiler: Ulus Devlet Sisteminde Göçmenliğin
+  Siyasal Statüsü (Nationals and Foreigners: Political Status of Migration for Nation
+  State).” Ayrıntı 22:25–31.
+Avrupa Birliği Başkanlığı. 2015. “Türkiye-AB Ortak Eylem Planı: 15 Ekim 2015 (Direc-
+  torate for EU Affairs).” http://www.ab.gov.tr/files/AB_Iliskileri/15_ekim_2015_tur-
+  kiye_ab_ortak_eylem_plani_.pdf (accessed May 29, 2017).
+Benvenuti, Bianca. 2017. “The Migration Paradox and EU-Turkey Relations.” Istituto
+  Affari Internazionali. http://www.iai.it/sites/default/files/iaiwp1705.pdf (accessed
+  October 7, 2020).
+Börzel, Tanja A. 2015. “From EU Governance of Crisis to Crisis of EU Governance:
+  Regulatory Failure, Redistributive Conflict, and Eurosceptic Public.” Journal of Com-
+  mon Market Studies 54 (1): 151–62.
+Bulley, Dan. 2014. “Foreign Policy as Ethics: Towards a Re-evaluation of Values.” Foreign
+  Policy Analysis 10:165–80.
+Bulley, Dan. 2017. Migration, Ethics and Power: Spaces of Hospitality in International Politics.
+  London: Sage.
+Carr, E. H. (1939) 2015. Yirmi Yıl Krizi 1919-1939 [The Twenty Years’ Crisis, 1919-1939:
+  An Introduction to the Study of International Relations]. Translated by Can Cemgil.
+  Istanbul: Istanbul Bilgi Üniversitesi Yayınları.
+Carrera, Sergio, Steven Blockmans, Jean-Pierre Cassarino, Daniel Gros, and Elspeth
+  Guild. 2017. The European Border and Coast Guard: Addressing Migration and Asylum
+  Challenges in the Mediterranean? Brussels: Centre for European Policy Studies.
+Collet, Elizabeth. 2014. “Future EU Policy Development on Immigration and Asylum:
+  Understanding the Challenge.” MPI Policy Brief. https://www.migrationpolicy.org/
+  research/future-eu-policy-development-immigration-and-asylum-understanding-
+  challenge (accessed October 7, 2020).
+Council of the European Union. 2017. “Memo: Voluntary Humanitarian Admission
+  Scheme with Turkey.” https://data.consilium.europa.eu/doc/document/ST-14571-
+  2017-REV-1/en/pdf (accessed September 22, 2020).
+Donnelly, Jack. 2005. “Realism.” In Theories of International Relations, edited by Scott
+  Burchill, 29–54. New York: Palgrave Macmillan.
+Dunne, Tim and Brian C. Schmidt. 2004. “Realism.” In The Globalization of World Poli-
+  tics: An Introduction to International Relations, edited by John Baylis and Steve Smith,
+  162–83. Oxford: Oxford University Press.
+
+
+
+338      WO R L D A F FA I R S
+                      Sedef Eylemer and Nagihan Söylemez
+
+
+Ellyatt, Holly. 2020. “‘Saving Lives at Sea Is not Optional’: EU Chief Calls for Unity
+   amid Warnings Migration Crisis Is not Over.” CNBC, September 16. https://www.
+   cnbc.com/2020/09/16/eu-migration-crisis-ursula-von-der-leyen-calls-for-unity.html
+   (accessed September 20, 2020).
+Euractiv. 2019. “Czech Republic, Hungary and Poland ‘Breached EU Law’ by Refusing
+   Refugees.” November 1. https://www.euractiv.com/section/politics/news/czech-
+   republic-hungary-and-poland-breached-eu-law-by-refusing-refugees/ (accessed Sep-
+   tember 24, 2020).
+European Commission. 2011. “The Global Approach to Migration and Mobility.”
+   http://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52011DC074
+   3&from=EN (accessed June 14, 2017).
+European Commission. 2014. “Statement of Commissioner Malmström on the Entry
+   into Force of the Readmission Agreement between Turkey and the EU.” https://
+   ec.europa.eu/commission/presscorner/detail/en/STATEMENT_14_285 (accessed
+   September 24, 2020).
+European Commission. 2015a. “A European Agenda on Migration.” https://ec.europa.
+   eu/home-affairs/sites/homeaffairs/files/what-we-do/policies/european-agenda-
+   migration/background-information/docs/communication_on_the_european_
+   agenda_on_migration_en.pdf (accessed June 11, 2017).
+European Commission. 2015b. “Commission Recommendation of 8.6.2015 on a
+   European Resettlement Scheme.” https://ec.europa.eu/home-affairs/sites/home-
+   affairs/files/e-library/documents/policies/asylum/general/docs/recommenda-
+   tion_on_a_european_resettlement_scheme_en.pdf (accessed July 20, 2019).
+European Commission. 2015c. “Joint Foreign and Home Affairs Council: Ten Point
+   Action Plan on Migration.” http://europa.eu/rapid/press-release_IP-15-4813_
+   en.htm (accessed June 14, 2017).
+European Commission. 2016a. “The EU and the Refugee Crisis.” http://publications.
+   europa.eu/webpub/com/factsheets/refugee-crisis/en/ (accessed June 18, 2017).
+European Commission. 2016b. “The Reform of the Dublin System.” https://
+   www.europarl.europa.eu/RegData/etudes/BRIE/2016/586639/EPRS_
+   BRI%282016%29586639_EN.pdf (accessed October 15, 2020).
+European Commission. 2017a. “Relocation: EU Solidarity between the Member States.”
+   https://ec.europa.eu/home-affairs/sites/homeaffairs/files/what-we-do/policies/
+   european-agenda-migration/20171114_relocation_eu_solidarity_between_mem-
+   ber_states_en.pdf (accessed July 20, 2019).
+European Commission. 2017b. “Resettlement: Ensuring Safe and Legal Access to Pro-
+   tection for Refugees.” https://ec.europa.eu/home-affairs/sites/homeaffairs/files/
+   what-we-do/policies/european-agenda-migration/20171114_resettlement_ensuring_
+   safe_and_legal_access_to_protection_for_refugees_en.pdf (accessed July 20, 2019).
+European Commission. 2017c. “Seventh Report on the Progress Made in Implementa-
+   tion of the EU-Turkey Statement.” https://ec.europa.eu/neighbourhood-enlarge-
+   ment/sites/near/files/20170906_seventh_report_on_the_progress_in_the_imple-
+   mentation_of_the_eu-turkey_statement_en.pdf (accessed July 20, 2019).
+European Commission. 2019a. “Delivering on Resettlement.” https://ec.europa.
+   eu/home-affairs/sites/homeaffairs/files/what-we-do/policies/european-agenda-
+   migration/20190619_managing-migration-factsheet-delivering-resettlement_en.pdf
+   (accessed July 20, 2019).
+
+
+
+                                                              WINTER 2020         339
+                               POLICY VERSUS PRAXIS
+
+
+European Commission. 2019b. “EU-Turkey Statement: Three Years On.” https://
+  ec.europa.eu/home-affairs/sites/homeaffairs/files/what-we-do/policies/europe-
+  an-agenda-migration/20190318_eu-turkey-three-years-on_en.pdf (accessed July 20,
+  2019).
+European Commission. 2019c. “The European Agenda on Migration: EU Needs to
+  Sustain Progress Made over the Past 4 Years.” https://ec.europa.eu/commission/
+  presscorner/detail/en/IP_19_1496 (accessed September 20, 2020).
+European Commission. 2020. “President von der Leyen’s State of the Union Address:
+  Charting the Course Out of the Coronavirus Crisis and into the Future.” https://
+  ec.europa.eu/commission/presscorner/detail/en/ip_20_1657 (accessed Septem-
+  ber 20, 2020).
+European Council. 2005. “The Hague Programme: Strengthening Freedom, Secu-
+  rity and Justice in the European Union.” Official Journal of the European Union.
+  http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2005:053:0001:001
+  4:EN:PDF (accessed June 17, 2017).
+European Council. 2015. “Conclusions of the Representatives of the Governments of
+  the Member States Meeting within the Council on Resettling through Multilateral
+  and National Schemes: 20,000 Persons in Clear Need of International Protection.”
+  http://data.consilium.europa.eu/doc/document/ST-11130-2015-INIT/en/pdf
+  (accessed June 17, 2017).
+European Council. 2016. “EU-Turkey Statement, 18 March 2016.” http://www.con-
+  silium.europa.eu/en/press/press-releases/2016/03/18-eu-turkey-statement/
+  (accessed June 29, 2017).
+European Council on Refugees and Exiles. 2006. “Report on the Application of the
+  Dublin II Regulation in Europe.” European Legal Network on Asylum. https://www.
+  ecre.org/wp-content/uploads/2016/07/ECRE-ELENA-Report-on-the-Application-
+  of-the-Dublin-II-Regulation-in-Europe-_March-2006.pdf (accessed October 7, 2020).
+European Parliament. 1999. “Tampere European Council 15 and 16 October 1999:
+  Presidency Conclusions.” http://www.europarl.europa.eu/summits/tam_en.htm
+  (accessed March 23, 2017).
+European Parliament. 2015. “Legislation on Emergency Relocation of Asylum-seekers
+  in the EU.” http://www.europarl.europa.eu/RegData/etudes/BRIE/2015/569018/
+  EPRS_BRI%282015%29569018_EN.pdf (accessed July 23, 2019).
+European Parliament. 2019a. “Reform of the Dublin System.” http://www.europarl.
+  europa.eu/RegData/etudes/BRIE/2016/586639/EPRS_BRI%282016%29586639_
+  EN.pdf (accessed July 20, 2019).
+European Parliament. 2019b. “Tanja Fajon: ‘If We Lose Schengen, We Will Lose
+  the European Project.’” https://www.europarl.europa.eu/news/en/headlines/
+  security/20181116STO19210/schengen-suspension-how-long-should-internal-bor-
+  der-checks-last (accessed September 20, 2020).
+European Union. 2017. “A European Agenda on Migration: State of Play.” https://
+  ec.europa.eu/home-affairs/sites/homeaffairs/files/what-we-do/policies/european-
+  agenda-migration/20170302_eam_state_of_play_en.pdf (accessed April 16, 2017).
+Faure, Raphaëlle, Mikaela Gavas, and Anna Knoll. 2015. “Challenges to a Compre-
+  hensive EU Migration and Asylum Policy.” Oversea Development Institute. http://
+  ecdpm.org/wp-content/uploads/ECDPM_ODI_Migration_EU_Policy_2015.pdf
+  (accessed June 28, 2017).
+
+
+
+340    WO R L D A F FA I R S
+                       Sedef Eylemer and Nagihan Söylemez
+
+
+France 24. 2020. “EU Unveils ‘Compulsory Solidarity’ Plan to Share Burden of Migra-
+   tion.” September 23. https://www.france24.com/en/20200923-eu-to-present-new-
+   plan-on-asylum-seekers-austria-warns-against-mandatory-quotas (accessed Septem-
+   ber 24, 2020).
+FRONTEX. 2017. “Risk Analysis for 2017.” http://frontex.europa.eu/assets/Publica-
+   tions/Risk_Analysis/Annual_Risk_Analysis_2017.pdf (accessed June 28, 2017).
+Global Utmaning. 2020. “The EU-Turkey Statement on Migration: Three Years On.”
+   https://www.globalutmaning.se/utblick/eu-turkey-statement-migration-three-
+   years/ (accessed September 24, 2020).
+Glossary on Migration. 2011. “Geneva International Organization for Migration.”
+   https://publications.iom.int/system/files/pdf/iml25_1.pdf (accessed October 15,
+   2020).
+Glossary on Migration. 2019. “Geneva: International Organization for Migration.”
+   https://publications.iom.int/system/files/pdf/iml_34_glossary.pdf (accessed June
+   28, 2019).
+Hampshire, James. 2016. “European Migration Governance since the Lisbon Treaty:
+   Introduction to the Special Issue.” Journal of Ethnic and Migration Studies 42 (4):
+   537–53.
+Huysmans, Jef. 2006. The Politics of Insecurity: Fear, Migration and Asylum in the EU. New
+   York: Routledge.
+International Organization for Migration. 2020. “IOM: Mediterranean Arrivals
+   Reach 110,699 in 2019; Deaths Reach 1,283. World Deaths Fall.” United Nations.
+   https://www.iom.int/news/iom-mediterranean-arrivals-reach-110699-2019-deaths-
+   reach-1283-world-deaths-fall (accessed September 20, 2020).
+Jackson, Robert and George Sørensen. 2013. Introduction to International Relations: Theo-
+   ries and Approaches. Oxford: Oxford University Press.
+Krastev, Ivan. 2017. “Çoğunlukçu Gelecekler (Majoritarian Futures).” In Büyük Gerileme:
+   Zamanımızın Ruh Hali Üstüne Uluslararası Bir Tartışma, edited by Heinrich Geisel-
+   berger and translated by Merisa Şahin, Aslı Biçen, Ahmet Nüvit Bingöl, and Orhan
+   Kılıç, 87–100. Istanbul: Metis.
+Machiavelli, Niccolò. (1532) 2008. The Prince. Translated by James B. Atkinson. India-
+   napolis: Hackett Publishing Company.
+Meretab, Simon. 2018. “Poland, Hungary, Czech Republic and the Future of the
+   Union.” South EU Summit, April 23. https://www.southeusummit.com/europe/
+   poland-hungary-czech-republic-future-union/ (accessed July 17, 2019).
+Mitsilegas, Valsamis. 2018. “Solidarity beyond the State in Europe’s Common Euro-
+   pean System.” In Critical Perspectives on Migration in the Twenty-First Century, edited
+   by Marianna Karakoulaki, Laura Southgate, and Jakob Steiner, 196–20. Bristol:
+   E-International Relations Publishing.
+Morgenthau, Hans J. (1948) 1993. Politics among Nations: The Struggle for Power and Peace.
+   New York: Alfred A. Knopf.
+Morillas, Pol. 2017. “Setting the Brexit Agenda: Populism and UKIP in the United
+   Kingdom.” CIODB Report. https://www.cidob.org/en/articulos/cidob_report/
+   n1_1/setting_the_brexit_agenda_populism_and_ukip_in_the_united_kingdom
+   (accessed September 20, 2020).
+Moses, Lauren. 2016. “The Deficiencies of Dublin: An Analysis of the Dublin System in
+   the European Union.” Policy Analysis 6 (2): 6–16.
+
+
+
+                                                                 WINTER 2020          341
+                                POLICY VERSUS PRAXIS
+
+
+Nas, Çiğdem. 2016. “Türkiye- AB Vize Serbestliği Diyaloğunun Üyelikle Paralel Hikâyesi
+   (The Parallel Story of the EU-Turkey accession and Visa Liberalization Dialogue).”
+   In Mülteci Krizi Ekseninde Türkiye-AB İşbirliği: Fırsatlar ve Zorluklar, edited by Ahmet
+   Ceran, 31–34. Istanbul: Iktisadi Kalkınma Vakfı Yayınları.
+Nielsen, Nikolaj and Eszter Zalan. 2017. “Czech Republic, Poland and Hungary Face
+   EU Sanctions on Migrants.” EUobserver, June 13. https://euobserver.com/migra-
+   tion/138216 (accessed June 18, 2017).
+Palaiologos, Yannis. 2020. “Migration Pact Eyes ‘Mandatory Solidarity’ in EU.” Ekathi-
+   merini.com, September 25. https://www.ekathimerini.com/257319/article/ekathi-
+   merini/news/migration-pact-eyes-mandatory-solidarity-in-eu (accessed September
+   25, 2020).
+Refugee Council Briefing. 2002. “The Dublin Convention on Asylum Applications:
+   What It Means and How It’s Supposed to Work.” https://www.refugeecouncil.org.
+   uk/assets/0001/5851/dublin_aug2002.pdf (accessed June 18, 2017).
+Rynning, Sten and Stefano Guzzini. 2002. “Realism and Foreign Policy Analysis.”
+   In Politique Etrangere: Nouveaux Regards, edited by Frédéric Charillon, 1–19. Paris:
+   Presses Universitaires de France.
+Saatçioğlu, Beken. 2016. “Turkey and the EU: Strategic Rapprochement in the Shad-
+   ow of the Refugee Crisis.” E-International Relations, January 21. https://www.e-ir.
+   info/2016/01/21/turkey-and-the-eu-strategic-rapprochement-in-the-shadow-of-the-
+   refugee-crisis/ (accessed September 21, 2020).
+Stancova, Katerina. 2009. Integrating EU Migration Policy into the European Neighborhood
+   Policy: The Origins, Achievements, and Prospects. Saarbrucken: Verlay Dr. Müller.
+Thielemann, Eiko. 2017. “Why Refugee Burden-Sharing Initiatives Fail: Public Goods,
+   Free-Riding and Symbolic Solidarity in the EU.” Journal of Common Market Studies 56
+   (1): 63–82.
+Thucydides. 1972. History of the Peloponnesian War. 431 B.C.E. Translated by Rex Warner.
+   London: Penguin Classics.
+TRT World. 2020. “European Values at Stake as Refugee Crisis Deepens.” March 6.
+   https://www.trtworld.com/europe/european-values-at-stake-as-refugee-crisis-deep-
+   ens-34248 (accessed September 20, 2020).
+Uçarer, Emek M. 2010. “Justice and Home Affairs.” In European Union Politics, edited
+   by Michelle Cini and Nieves Perez-Solorzano Borragan, 306–23. Oxford: Oxford
+   University Press.
+UNICEF. 2020. “UNICEF Refugee and Migrant Crisis in Europe: Humanitarian
+   Situation Report #36 (January—June 2020).” https://reliefweb.int/report/greece/
+   unicef-refugee-and-migrant-crisis-europe-humanitarian-situation-report-36-january-
+   june (accessed September 20, 2020).
+United Nations. 2010. GAOR Convention and Protocol Relating to the Status of Refu-
+   gees [1951, 1967]. New York: United Nations.
+Yılmaz-Elmas, Fatma. 2016. Avrupa ‘Kapı-Duvar’: Göç Yaklaşımında Söylem Eylem Tutarsızlığı
+   (Europe Gets No Answer: Inconsistency between Discourse and Action in Migration
+   Approach). Ankara: Uluslararası Stratejik Araştırmalar Kurumu.
+
+
+
+
+342     WO R L D A F FA I R S
+Copyright of World Affairs is the property of Sage Publications Inc. and its content may not
+be copied or emailed to multiple sites or posted to a listserv without the copyright holder's
+express written permission. However, users may print, download, or email articles for
+individual use.
+

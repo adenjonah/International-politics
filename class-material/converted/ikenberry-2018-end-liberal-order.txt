@@ -1,0 +1,986 @@
+# Source: ikenberry-2018-end-liberal-order.pdf
+# Converted: 2026-03-06 14:39
+# Note: Line numbers here differ from PDF page numbers
+---
+
+                          The end of liberal international order?
+
+
+
+
+                                                           G. JOHN IKENBERRY
+
+
+                 For seven decades the world has been dominated by a western liberal order. After
+                 the Second World War, the United States and its partners built a multifaceted and
+                 sprawling international order, organized around economic openness, multilateral
+                 institutions, security cooperation and democratic solidarity. Along the way, the
+                 United States became the ‘first citizen’ of this order, providing hegemonic leader-
+                 ship—anchoring the alliances, stabilizing the world economy, fostering coopera-
+                 tion and championing ‘free world’ values. Western Europe and Japan emerged as
+                 key partners, tying their security and economic fortunes to this extended liberal
+                 order. After the end of the Cold War, this order spread outwards. Countries in east
+                 Asia, eastern Europe and Latin America made democratic transitions and became
+                 integrated into the world economy. As the postwar order expanded, so too did its
+                 governance institutions. NATO expanded, the WTO was launched and the G20
+                 took centre stage. Looking at the world at the end of the twentieth century, one
+                 could be excused for thinking that history was moving in a progressive and liberal
+                 internationalist direction.
+                    Today, this liberal international order is in crisis. For the first time since the
+                 1930s, the United States has elected a president who is actively hostile to liberal
+                 internationalism. Trade, alliances, international law, multilateralism, environ-
+                 ment, torture and human rights—on all these issues, President Trump has made
+                 statements that, if acted upon, would effectively bring to an end America’s role as
+                 leader of the liberal world order. Simultaneously, Britain’s decision to leave the
+                 EU, and a myriad other troubles besetting Europe, appear to mark an end to the
+                 long postwar project of building a greater union. The uncertainties of Europe, as
+                 the quiet bulwark of the wider liberal international order, have global significance.
+                 Meanwhile, liberal democracy itself appears to be in retreat, as varieties of ‘new
+                 authoritarianism’ rise to new salience in countries such as Hungary, Poland, the
+                 Philippines and Turkey. Across the liberal democratic world, populist, nationalist
+                 and xenophobic strands of backlash politics have proliferated.1
+                    How deep is this crisis? It might simply be a temporary setback. With new
+                 political leadership and renewed economic growth, the liberal order could bounce
+                 1
+                     On the troubles of western liberal democracy, see Edward Luce, The retreat of western liberalism (New York:
+                     Atlantic Monthly Press, 2017); Bill Emmott, The fate of the West: the battle to save the world’s most successful political
+                     idea (New York: Public Affairs, 2017).
+
+                 International Affairs 94: 1 (2018) 7–23; doi: 10.1093/ia/iix241
+                 © The Author(s) 2018. Published by Oxford University Press on behalf of The Royal Institute of International Affairs. All rights
+                 reserved. For permissions, please e-mail: journals.permissions@oup.com
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 7                                                                                                                    11/12/2017 16:34
+                        G. John Ikenberry
+                        back. But most observers think there is something more fundamental going on.
+                        Some observers see a crisis of American hegemonic leadership. For 70 years,
+                        the liberal international order has been tied to American power—its economy,
+                        currency, alliance system, leadership. Perhaps what we are witnessing is a ‘crisis
+                        of transition’, whereby the old US-led political foundation of the liberal order
+                        will give way to a new configuration of global power, new coalitions of states,
+                        new governance institutions. This transition might be leading to some sort of
+                        post-American and post-western order that remains relatively open and rules-
+                        based.2 Others see a deeper crisis, one of liberal internationalism itself. In this
+                        view, there is a long-term shift in the global system away from open trade, multi-
+                        lateralism and cooperative security. Global order is giving way to various mixtures
+                        of nationalism, protectionism, spheres of influence and regional Great Power
+                        projects. In effect, there is no liberal internationalism without American and
+                        western hegemony—and that age is ending. Liberal internationalism is essentially
+                        an artefact of the rapidly receding Anglo-American era.3 Finally, some go even
+                        further than this, arguing that what is happening is that the long era of ‘liberal
+                        modernity’ is ending. Beginning with the Enlightenment and running through
+                        the industrial revolution and the rise of the West, world-historical change seemed
+                        to be unfolding according to a deep developmental logic. It was a progressive
+                        movement driven by reason, science, discovery, innovation, technology, learning,
+                        constitutionalism and institutional adaptation. The world as a whole was in the
+                        embrace of this global modernizing movement. Perhaps today’s crisis marks the
+                        ending of the global trajectory of liberal modernity. It was an artefact of a specific
+                        time and place—and the world is now moving on.4
+                           No one can be sure how deep the crisis of liberal internationalism runs. In
+                        what follows, I argue that, despite its troubles, liberal internationalism still has a
+                        future. The American hegemonic organization of liberal order is weakening, but
+                        the more general organizing ideas and impulses of liberal internationalism run
+                        deep in world politics. What liberal internationalism offers is a vision of open and
+                        loosely rules-based order. It is a tradition of order-building that emerged with the
+                        rise and spread of liberal democracy, and its ideas and agendas have been shaped as
+                        these countries have confronted and struggled with the grand forces of modernity.
+                        Creating an international ‘space’ for liberal democracy, reconciling the dilemmas
+                        of sovereignty and interdependence, seeking protections and preserving rights
+                        within and between states—these are the underlying aims that have propelled
+                        liberal internationalism through the ‘golden eras’ and ‘global catastrophes’ of the
+                        last two centuries. Despite the upheavals and destruction of world war, economic
+                        depression, and the rise and fall of fascism and totalitarianism, the liberal interna-
+                        2
+                            See G. John Ikenberry, Liberal Leviathan: the origins, crisis, and transformation of the American world order ­(Princeton:
+                            Princeton University Press, 2011); Amitav Acharya, The end of American world order (Cambridge: Polity, 2014).
+                        3
+                            See Robert Kagan, The world America made (New York: Vintage, 2013). For recent views, see Ian Buruma, ‘The
+                            end of the Anglo-American order’, New York Times Magazine, 29 Nov. 2016; Ulrich Speck, ‘The crisis of liberal
+                            order’, The American Interest, 12 Sept. 2016; Michael J. Boyle, ‘The coming illiberal era’, Survival 58: 2, 2016,
+                            pp. 35–66.
+                        4
+                            On the crisis of liberal modernity, see Pankaj Mishra, Age of anger: a history of the present (New York: Farrar,
+                            Straus & Giroux, 2017).
+                        8
+                        International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 8                                                                                                                         11/12/2017 16:34
+                 The end of liberal international order?
+                 tional project survived. It is likely to survive today’s crises as well. But to do so this
+                 time, as it has done in the past, liberal internationalism will need to be rethought
+                 and reinvented.
+                     I make this argument in three steps. First, I offer a way of thinking about
+                 liberal internationalism. It is not simply a creature of American hegemony. It is
+                 a more general and longstanding set of ideas, principles and political agendas for
+                 organizing and reforming international order. In the most general sense, liberal
+                 internationalism is a way of thinking about and responding to modernity—its
+                 opportunities and its dangers. What has united the ideas and agendas of liberal
+                 internationalism is a vision of an open, loosely rules-based and progressively
+                 oriented international order. Built on Enlightenment foundations, it emerged in
+                 the nineteenth century with the rise in the West of liberalism, nationalism, the
+                 industrial revolution, and the eras of British and American hegemony. A convic-
+                 tion has run through nineteenth- and twentieth-century liberal internationalists
+                 that the western and—by extension—the global international order is capable of
+                 reform. This separates liberal internationalism from various alternative ideologies
+                 of global order—political realism, authoritarian nationalism, Social Darwinism,
+                 revolutionary socialism and post-colonialism.
+                     Second, I trace liberal internationalism’s crooked pathway into the twenty-
+                 first century, as it evolved and reinvented itself along the way. In the nineteenth
+                 century, liberal internationalism was seen in the movements towards free trade,
+                 international law, collective security and the functional organization of the
+                 western capitalist system. Along the way, liberal internationalism mixed and
+                 intermingled with all the other major forces that have shaped the modern global
+                 system—imperialism, nationalism, capitalism, and the shifting movements of
+                 culture and civilization. In the twentieth century and into the twenty-first, it
+                 moved through a sequence of golden eras, crises and turning points: Wilson and
+                 the League of Nations; the post-Second World War Anglo-American settlement
+                 and the building of the US-led postwar order; crises of capitalism and leadership
+                 in the world economy; the post-Cold War American ‘unipolar’ moment and the
+                 ‘globalization’ of liberalism and neo-liberal ideas; debates about the Responsibility
+                 to Protect (R2P) and liberal interventionism; and today’s crisis of the western
+                 liberal order. Liberal internationalism came into its own as a political order during
+                 the Cold War, under American auspices. American liberal hegemony was essen-
+                 tially a western order built around ‘free world’ social purposes.
+                     Third, I identify the sources of the contemporary crisis of liberal internation-
+                 alism. These can be traced to the end of the Cold War. It is important to recall that
+                 the postwar liberal order was originally not a global order. It was built ‘inside’ one
+                 half of the bipolar Cold War system. It was part of a larger geopolitical project
+                 of waging a global Cold War. It was built around bargains, institutions and social
+                 purposes that were tied to the West, American leadership and the global struggle
+                 against Soviet communism. When the Cold War ended, this ‘inside’ order became
+                 the ‘outside’ order. As the Soviet Union collapsed, the great rival of liberal interna-
+                 tionalism fell away, and the American-led liberal order expanded outwards. With
+
+                                                                                                         9
+                 International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 9                                                                              11/12/2017 16:34
+                        G. John Ikenberry
+                        the end of the Cold War, liberal internationalism was globalized. Initially, this was
+                        seen as a moment of triumph for western liberal democracies. But the globaliza-
+                        tion of the liberal order put in motion two shifts that later became the sources
+                        of crisis. First, it upended the political foundations of the liberal order. With
+                        new states entering the system, the old bargains and institutions that provided
+                        the sources of stability and governance were overrun. A wider array of states—
+                        with a more diverse set of ideologies and agendas—were now part of the order.
+                        This triggered what might be called a ‘crisis of authority’, where new bargains,
+                        roles and responsibilities were now required. These struggles over authority and
+                        governance continue today. Second, the globalization of the liberal order also
+                        led to a loss of capacity to function as a security community. This can be called
+                        a ‘crisis of social purpose’. In its Cold War configuration, the liberal order was a
+                        sort of full-service security community, reinforcing the capacity of western liberal
+                        democracies to pursue policies of economic and social advancement and stability.
+                        As liberal internationalism became the platform for the wider global order, this
+                        sense of shared social purpose and security community eroded.
+                           Taking all these elements together, this account of the crisis can be under-
+                        stood as a crisis of success, in the sense that the troubles besetting the liberal order
+                        emerged from its post-Cold War triumph and expansion. Put differently, the
+                        troubles today might be seen as a ‘Polanyi crisis’—growing turmoil and insta-
+                        bility resulting from the rapid mobilization and spread of global capitalism,
+                        market society and complex interdependence, all of which has overrun the polit-
+                        ical foundations that supported its birth and early development.5 They do not,
+                        on the contrary, constitute what might be called an ‘E. H. Carr crisis’, wherein
+                        liberal internationalism fails because of the return of Great Power politics and the
+                        problems of anarchy.6 The troubles facing liberal internationalism are not driven
+                        by a return of geopolitical conflict, although conflicts with China and Russia are
+                        real and dangerous. In fact, the liberal international order has succeeded all too
+                        well. It has helped usher in a world that has outgrown its political moorings.
+                           Liberal internationalism has survived its 200-year journey into the current
+                        century because, with liberal democracy at the core, it offered a coherent and
+                        functional vision of how to organize international space. The industrial revolu-
+                        tion and the relentless rise of economic and security interdependence generated
+                        both opportunities and threats for liberal democracies. Liberal internationalism,
+                        in all its varied configurations, has provided templates for cooperation in the face
+                        of the grand forces of modernity. To do so again, the liberal international project
+                        will need to rethink its vision. It will either need to offer a ‘small and thick’ vision
+                        of liberal order, centred as it was during the Cold War on the western liberal
+                        democracies; or it will need to offer a ‘large and thin’ version of liberal inter-
+                        nationalism, with global principles and institutions for coping with the dangers
+                        and vulnerabilities of twenty-first-century modernity—cascading problems of
+
+                        5
+                            Karl Polanyi, The great transformation: the political and economic origins of our times (Boston: Beacon, 1957).
+                        6
+                            E. H. Carr, The twenty years crisis, 1919–1939: an introduction to the study of international relations (London: Macmil-
+                            lan, 1951).
+                        10
+                        International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 10                                                                                                                      11/12/2017 16:34
+                 The end of liberal international order?
+                 environmental destruction, weapons of mass destruction, global health pandemics
+                 and all the other threats to human civilization.
+
+                 Liberal internationalism and world order
+                 When the nineteenth century began, liberal democracy was a new and fragile
+                 political experiment, a political glimmering within a wider world of monarchy,
+                 autocracy, empire and traditionalism. Two hundred years later, at the end of
+                 the twentieth century, liberal democracies, led by the western Great Powers,
+                 dominated the world—commanding 80 per cent of global GNP. Across these two
+                 centuries, the industrial revolution unfolded, capitalism expanded its frontiers,
+                 Europeans built far-flung empires, the modern nation-state took root, and along
+                 the way the world witnessed what might be called the ‘liberal ascendancy’—the
+                 rise in the size, number, power and wealth of liberal democracies.7 Liberal inter-
+                 nationalism is the body of ideas and agendas with which these liberal democracies
+                 have attempted to organize the world.
+                    Liberal internationalism has risen and fallen and evolved. But its general logic
+                 is captured in a cluster of five convictions. One concerns openness. Trade and
+                 exchange are understood to be constituents of modern society, and the connec-
+                 tions and gains that flow from deep engagement and integration foster peace and
+                 political advancement. An open international order facilitates economic growth,
+                 encourages the flow of knowledge and technology, and draws states together.
+                 Second, there is a commitment to some sort of loosely rules-based set of relations.
+                 Rule and institutions facilitate cooperation and create capacities for states to make
+                 good on their domestic obligations. This is what John Ruggie describes as ‘multi-
+                 lateralism’—an institutional form that coordinates relations among a group of
+                 states ‘on the basis of generalized principles of conduct’.8 Third, there is a view
+                 that liberal international order will entail some form of security cooperation.
+                 This does not necessarily mean alliances or a formal system of collective security,
+                 but states within the order affiliate in ways designed to increase their security.
+                 Fourth, liberal internationalism is built on the idea that international society is,
+                 as Woodrow Wilson argued, ‘corrigible’. Reform is possible. Power politics can
+                 be tamed—at least to some extent—and states can build stable relations around
+                 the pursuit of mutual gains. Fifth and finally, there is an expectation that a liberal
+                 international order will move states in a progressive direction, defined in terms of
+                 liberal democracy. The order provides institutions, relationships, and rights and
+                 protections that allow states to grow and advance at home. It is a sort of mutual
+                 aid and protection society.9
+                    Seen in this way, a liberal international order can take various forms. It can
+
+                 7
+                     See Michael Doyle, ‘Kant, liberal legacies, and foreign affairs’, parts 1 and 2, Philosophy and Public Affairs 12:
+                     1–2, 1983, pp. 205–35, 323–53.
+                 8
+                     John Gerard Ruggie, ‘Multilateralism: the anatomy of an institution’, in John Gerard Ruggie, ed., Multilateral-
+                     ism matters: the theory and praxis of an institutional form (New York: Columbia University Press, 1993), p. 11.
+                 9
+                     See Tim Dunne and Matt McDonald, ‘The politics of liberal internationalism’, International Politics 50: 1, Jan.
+                     2013, pp. 1–17; Beate Jahn, Liberal internationalism: theory, history, practice (New York: Palgrave, 2013).
+                                                                                                                                    11
+                 International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 11                                                                                                         11/12/2017 16:34
+                        G. John Ikenberry
+                        be more or less global or regional in scope. The early postwar western liberal
+                        order was primarily an Atlantic regional community, while the post-Cold War
+                        liberal system has had a wider global reach. A liberal international order can be
+                        more or less organized around a hegemonic state—that is, it can be more or less
+                        hierarchical in character. It can be more or less embodied in formal agreements
+                        and governance institutions. Perhaps most importantly, the ‘social purposes’ of a
+                        liberal international order can vary. It can have a ‘thin’ social purpose, providing,
+                        for example, only rudimentary rules and institutions for limited cooperation and
+                        exchange among liberal democracies. Or it could have a ‘thick’ social purpose,
+                        with a dense set of agreements and shared commitments aimed at realizing more
+                        ambitious goals of cooperation, integration and shared security. Overall, liberal
+                        internationalism can be more or less open, rules-based and progressively ­oriented.10
+                        Liberal internationalism can be seen as breaking down or disappearing when inter-
+                        national order is increasingly organized around mercantile blocs, spheres of influ-
+                        ence, imperial zones and closed regions.
+                           Taken as a whole, liberal internationalism offers a vision of order in which
+                        sovereign states—led by liberal democracies—cooperate for mutual gain and
+                        protection within a loosely rules-based global space. Glimmerings of this vision
+                        emerged in the late eighteenth and early nineteenth centuries, triggered by
+                        Enlightenment thinking and the emergence of industrialism and modern society.
+                        Over the next century, a variety of economic, political and intellectual develop-
+                        ments set the stage for the reorganization of relations among western states. The
+                        Great Powers of Europe met as the patrons of western order in the Congress of
+                        Vienna. Led by Britain, these states entered into a period of industrial growth and
+                        expanding trade. Political reform—and the revolutions of 1848—reflected the rise
+                        of and struggles for liberal democracy and constitutionalism, the growth of the
+                        middle and working classes, and the creation of new political parties arrayed across
+                        the ideological spectrum from conservative to liberal and socialist. Nationalism
+                        emerged and became tied to the building of modern bureaucratic states. Britain
+                        signalled a new orientation towards the world economy with the repeal of the
+                        Corn Laws. Nationalism was matched with new forms of internationalism—in
+                        law, commerce and social justice. Peace movements spread across the western
+                        world. A new era of European industrial-age imperialism began, as Britain, France
+                        and other European states competed for colonial prizes. Along the way, new ideas
+                        of ‘the global’ emerged, intellectual and political visions of a rapidly developing
+                        global system.11
+                        10
+                           For a discussion of these various dimensions of liberal internationalism, see G. John Ikenberry, ‘Liberal inter-
+                           nationalism 3.0: America and the dilemmas of liberal world order’, Perspectives on Politics 7: 1, March 2009, pp.
+                           71–87.
+                        11
+                           For depictions of the theory and history of liberal internationalism, see Tony Smith, America’s mission: the
+                           United States and the worldwide struggle for democracy (Princeton: Princeton University Press, 1994); Michael
+                           Mandelbaum, The ideas that conquered the world: peace, democracy, and free markets in the twenty-first century (New
+                           York: Public Affairs, 2004); Elizabeth Borgwardt, A new deal for the world: America’s vision for human rights
+                           (Cambridge, MA: Harvard University Press, 2005); Frank Ninkovich, Modernity and power: a history of the
+                           domino in the twentieth century (Chicago: University of Chicago Press, 1994). For a portrait of liberalism within
+                           the wider array of classical theories of international relations, see Michael Doyle, Ways of war and peace: realism,
+                           liberalism, and socialism (New York: Norton, 1997).
+                        12
+                        International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 12                                                                                                                 11/12/2017 16:34
+                 The end of liberal international order?
+                    In this setting, liberal internationalism emerged as a way of thinking about
+                 western and world order. It began as a variety of scattered nineteenth-century
+                 internationalist ideas and movements. Liberal ideas in Britain began with Adam
+                 Smith’s writings in the late eighteenth century and continued with thinkers such
+                 as Richard Cobden and John Bright in the nineteenth. A general view emerged—
+                 captured, for example, in the writings of Walter Bagehot and many others—
+                 that there was a developmental logic to history, a movement from despotic states
+                 to more rules-based and constitutional ones. Kant’s ideas on republicanism and
+                 perpetual peace offered hints of an evolutionary logic in which liberal democra-
+                 cies would emerge and organize themselves within a wider political space. Ideas
+                 of contracts, rights and the law were developed by thinkers from John Locke to
+                 John Stuart Mill.12
+                    The connections between domestic liberalism and liberal internationalism are
+                 multifaceted, and they have evolved over the last two centuries. It is hard to see a
+                 distinctive or coherent liberal international agenda in the nineteenth century. At
+                 this time, such notions were primarily manifest in ideas about world politics that
+                 emerged from thinkers and activists committed to liberalism within countries—in
+                 ideas about liberalization of trade, collective security, arbitration of disputes and
+                 so forth. What emerges during this era is a sense of an international sphere of
+                 action that was opening up within the liberal democratic world, and a convic-
+                 tion that collective efforts could and should be made to manage this expanding
+                 international space. As Mark Mazower has argued, what was new was the notion
+                 that a realm of ‘the international’ was growing and that ‘it was in some sense
+                 governable’.13
+                    In the twentieth century there emerged a much more full-blown sense of
+                 liberal internationalism, understood as a set of prescriptions for organizing and
+                 reforming the world in such a way as to facilitate the pursuit of liberal democ-
+                 racy at home. Beginning with Woodrow Wilson in 1919, liberal internationalism
+                 emerged as an agenda for building a type of order—a sort of ‘container’ within
+                 which liberal democracies could live and survive. In the hands of F. D. Roosevelt
+                 and his generation after 1945, liberal internationalism became to an even greater
+                 extent an agenda for building an international community within which liberal
+                 democracies could be stabilized and protected. Growing out of the New Deal
+                 experience, the postwar ‘embedded liberal’ order was designed in part to safeguard
+                 liberal democracies from growing risks of economic and political upheavals gener-
+                 ated by modernity itself. In this way, liberal internationalism offered a vision of
+                 a reformed and managed western—and, eventually, global—order that would
+                 provide the organizational principles, institutions and capacities to negotiate the
+                 international contingencies and dislocations that threaten the domestic pursuit of
+                 liberal democracy.
+
+
+
+                 12
+                      See Edmund Fawcett, Liberalism: the life of an idea (Princeton: Princeton University Press, 2014).
+                 13
+                      Mark Mazower, Governing the world: the history of an idea (London: Allen Lane, 2012), p. 15.
+                                                                                                                           13
+                 International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 13                                                                                               11/12/2017 16:34
+                        G. John Ikenberry
+
+                        The era of American liberal hegemony
+                        Liberal internationalism emerged after the Second World War as an organizing
+                        vision for the western-led order. As in 1919, so after 1945 the United States used
+                        its postwar position to lead in the building of a postwar order. But along the way,
+                        liberal internationalism took on a new shape and character—and with the rise of
+                        the Cold War, a US-led liberal hegemonic order emerged. In the age of Wilson,
+                        liberal internationalism was a relatively simply vision. International order was to
+                        be organized around a collective security system in which sovereign states would
+                        act together to uphold a system of territorial peace. The Wilsonian vision was
+                        undergirded by open trade, national self-determination, and the expectation of
+                        the continuing spread of liberal democracy. As Wilson himself put it: ‘What we
+                        seek is the reign of law, based on the consent of the governed and sustained by the
+                        organized opinion of mankind.’14 It was an ambitious scheme of order, but one
+                        without a lot of institutional machinery for global economic and social problem-
+                        solving or the management of Great Power relations. It was to be an institution-
+                        ally ‘thin’ system of order in which states—primarily the western powers—would
+                        act cooperatively through a shared embrace of liberal ideas and principles.15 The
+                        great centrepiece and organizational embodiment of Wilsonian liberal interna-
+                        tionalism was the League of Nations.
+                            The dramatic upheavals of the Great Depression, the Second World War and
+                        the Cold War set the stage for another American-led attempt to build a liberal
+                        order. A new moment to remake the world had arrived. Basic questions about
+                        power, order and modernity had to be rethought. From the 1930s onwards, the
+                        viability of western liberal democracy was itself uncertain. The violence and
+                        instabilities of the 1930s and 1940s forced liberal internationalists—and indeed
+                        everyone else—to reassess their ideas and agendas. The First World War was a jolt
+                        to the optimistic narratives of western civilization and progress. But FDR and his
+                        generation—facing the even more frightening rise of fascism and totalitarianism,
+                        followed by the horrors of total war, the Holocaust and the advent of atomic
+                        weapons, not to mention the collapse of the world economy—seemed to face a
+                        far more formidable, even existential array of threats. Modernity itself showed
+                        its dark side.
+                            In this setting, FDR and his contemporaries found themselves advancing a
+                        new—more world-weary—vision of liberal international order. Paradoxically, it
+                        became both more universalistic in its vision and more deeply tied to American
+                        hegemonic power. The universalism can be seen in the Charter of the United
+                        Nations and the Universal Declaration of Human Rights. In the 1940s, liberal
+                        internationalism was reframed. The liberal internationalism of the Woodrow
+                        Wilson era was built around civilizational, racial and cultural hierarchies. It was
+                        a creature of the western white man’s world. It was a narrow type of principled
+                        internationalism. Wilson-era liberal internationalism did not challenge European
+                        14
+                           Woodrow Wilson, speech at Mount Vernon, Virginia, 4 July 1918, https://archive.org/details/address
+                           ofpreside00wilsonw.
+                        15
+                           See Ikenberry, ‘Liberal internationalism 3.0’.
+                        14
+                        International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 14                                                                                               11/12/2017 16:34
+                 The end of liberal international order?
+                 imperialism or racial hierarchies. British liberals explicitly defended empire and
+                 continued to see the world in racial and civilizational terms. The 1940s saw a shift
+                 or reformulation of these ideas. Universal rights and protections became more
+                 central to the ideological vision. FDR’s Four Freedoms (of speech and worship,
+                 from want and fear) were the defining vision for this new conception of liberal
+                 international order. The postwar order was to be a security community—a global
+                 space where liberal democracies joined together to build a cooperative order that
+                 enshrined basic human rights and social ­protections.
+                    At the same time, these universal rights and protections were advanced and
+                 legitimated in terms of the American-led Cold War struggle. The United States
+                 would be the hegemonic sponsor and protector of the liberal order. With American
+                 leadership, the ‘free world’ would be a sort of ‘security community’. It would
+                 have rules, institutions, bargains and full-service political functions. To join the
+                 western liberal order was to join a ‘mutual protection’ society. To be inside this
+                 order was to enjoy trade, expanding growth, and tools for managing economic
+                 stability. Inside, it was warm; outside, it was cold. Countries would be protected
+                 in alliance partnerships and an array of functional organizations. In other words,
+                 in the postwar era, liberal internationalism became both more universal in its ideas
+                 and principles and more tied to an American-led political order.16
+                    Over the Cold War decades, American-led liberal internationalism emerged as a
+                 distinctive type of order. The United States came to take on a variety of functions
+                 and responsibilities. It came to have a direct role in running the order—and it also
+                 found itself increasingly tied to the other states within the order. The United States
+                 became a provider of public goods—or at least ‘club goods’. It upheld the rules
+                 and institutions, fostered security cooperation, led the management of the world
+                 economy, and championed shared norms and cooperation among the western-
+                 oriented liberal democracies. In security affairs, the United States established an
+                 array of security partnerships, beginning with NATO and alliances in east Asia. In
+                 the management of the world economy, the Bretton Woods international finan-
+                 cial institutions became tied to the American market and dollar. Together, in the
+                 shadow of the Cold War, the American domestic system—its market and polity—
+                 became ‘fused’ to the evolving and deepening postwar liberal order.
+                    American liberal hegemony, as a type of international order, had several key
+                 characteristics. First, it was built around open multilateral trade. In many ways,
+                 this was the key vision of the postwar American architects of liberal order. During
+                 the war, the question was debated: how large a geopolitical market space would
+                 the United States need so as to remain a viable global power? This was the era
+                 when most of the world’s regions were divided into imperial zones, blocs and
+                 spheres of influence. The American strategic judgement was that, on the contrary,
+                 the postwar world would need to be open and accessible to the United States.
+                 The worst outcome would be closed regions in Europe, Asia and the Middle
+                 East, dominated by hostile Great Powers. Out of these worries, the United
+                 States launched its efforts to open the world economy and build institutions and
+                 16
+                      For a depiction of the American liberal hegemonic order, see Ikenberry, Liberal Leviathan.
+                                                                                                                   15
+                 International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 15                                                                                       11/12/2017 16:34
+                        G. John Ikenberry
+                        ­partnerships that would establish a durably open global order. At the core of this
+                         system would be the liberal democracies, facilitating trade through GATT and
+                         later the WTO.
+                             Second, American liberal hegemony was also defined by its commitment to a
+                         ‘managed’ open world economy. This is what John Ruggie has called ‘embedded
+                         liberalism’. International agreements, embodied in the Bretton Woods system, were
+                         designed to give governments greater ability to regulate and manage economic
+                         openness to ensure that it was reconciled with domestic economic stability and
+                         policies in pursuit of full employment.17 The New Deal itself provided an inspira-
+                         tion for this new thinking about the organization of an open world economy. The
+                         visionary goal was a middle ground between openness and stability. Free trade
+                         was essential for the sort of economic recovery and growth that would support
+                         centrist and progressive postwar political leadership in the United States and
+                         Europe. But trade and exchange would need to be reconciled with government
+                         efforts to ensure economic stability and the security of workers and the middle
+                         class. Social and economic security went hand in hand with national security.
+                             Third, the postwar liberal order was built around new and permanent inter-
+                         national institutions. To a greater extent than in Wilson’s day, post-1945 liberal
+                         internationalists sought to build order around a system of multilateral gover-
+                         nance. This was a vision of intergovernmentalism more than supranationalism.
+                         Governments would remain the primary source of authority. But governments
+                         would organize their relations around permanent regional and global institutions.
+                         They would conduct relations on multilateral platforms—bargaining, consulting,
+                         coordinating. These institutions would serve multiple purposes. They would
+                         facilitate cooperation by providing venues for ongoing bargaining and exchange.
+                         They would reinforce norms of equality and non-discrimination, thereby giving
+                         the order more legitimacy. And they would tie the United States more closely to
+                         its postwar partners, reducing worries about domination and abandonment. The
+                         result was an unprecedented effort across economic, political and security policy
+                         spheres to build working multilateral institutions.
+                             Fourth, there was a special emphasis on relations among the western liberal
+                         democracies. The core underlying principles and norms of the liberal order could
+                         be construed as ‘universal’. FDR’s Four Freedoms were of this sort, and so too
+                         were the principles of multilateralism embedded in the postwar economic institu-
+                         tions. But the order itself was organized around the United States and its liberal
+                         democratic allies and clients. The fact that it was built inside the larger Cold
+                         War-era bipolar system reinforced this orientation. Architects of the order under-
+                         stood that there was a special relationship among the western liberal democracies.
+                         At first this encompassed essentially just western Europe and Japan; but in the
+                         aftermath of the Cold War a larger and more diverse community of democracies
+                         took hold. The essential premise of American global leadership was that there is
+                         something special and enduring about the alignment of democracies. They have
+                        17
+                             John Ruggie, ‘International regimes, transactions, and change: embedded liberalism in the postwar economic
+                             order’, International Organization 36: 2, Spring 1982, pp. 379–415.
+                        16
+                        International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 16                                                                                                         11/12/2017 16:34
+                 The end of liberal international order?
+                 shared interests and values. American presidents from Woodrow Wilson to Barack
+                 Obama have acted on the assumption that democracies have a unique capacity to
+                 cooperate. In building liberal order during the Cold War, there was an authentic
+                 belief—held in Washington but also in European and Asian capitals—that the
+                 ‘free world’ was not just a temporary defensive alliance ranged against the Soviet
+                 Union: it was a nascent political community—a community of shared fate.18 In
+                 this sense, the American-led order was, at its core, a ‘democratic alliance’ to defend
+                 and support a shared liberal democratic political space.
+                    This liberal hegemonic order flourished over the decades of the Cold War.
+                 It provided a framework for the liberalization of trade and decades of growth
+                 across the advanced industrial world. Incomes and life opportunities steadily
+                 increased for the postwar generations of Europeans, Japanese and Americans. This
+                 open system ushered in, as Paul Johnson argues, ‘the most rapid and prolonged
+                 economic expansion in world history’.19 But the postwar liberal order was more
+                 than a growth machine. It provided a ‘container’ within which liberal democracies
+                 could gain greater measures of security and protection as well. To be inside this
+                 liberal hegemonic order was to be positioned inside a set of full-service economic,
+                 political and security institutions. It was both a Gesellschaft—a ‘society’ defined by
+                 formal rules, institutions and governmental ties—and a Gemeinschaft—a ‘commu-
+                 nity’ defined by shared values, beliefs and expectations.20 Liberal order was a sort
+                 of nascent security community—with ‘security’ defined broadly.
+
+                 Crises and transformations
+                 The foundations of this postwar liberal hegemonic order are weakening. In a simple
+                 sense, this is a story of grand shifts in the distribution of power and the conse-
+                 quences that follow. The United States and its allies are less powerful than they
+                 were when they built the postwar order. The unipolar moment—when the United
+                 States dominated world economic and military rankings—is ending. Europe and
+                 Japan have also weakened. Together, this old triad of patrons of the postwar liberal
+                 order is slowly dwindling in its share of the wider global distribution of power.
+                 This shift is probably not best seen as a transition from an American to a Chinese
+                 hegemonic order, the ‘return to multipolarity’ or a ‘rise of the non-West’. Rather,
+                 it is simply a gradual diffusion of power away from the West. China will probably
+                 not replace the United States as an illiberal hegemon, and the global South will
+                 probably not emerge as a geopolitical bloc that directly challenges the US-led
+                 order. But the United States—and its old allies—will continue to be a smaller part
+                 of the global whole, and this will constrain their ability to support and defend the
+                 liberal international order.
+
+                 18
+                    Timothy Garton Ash, Free world: America, Europe, and the surprising future of the West (New York: Random
+                    House, 2004).
+                 19
+                    Quoted in Paul Ninkovich, The global republic: America's inadvertent rise to world power (Chicago: University of
+                    Chicago Press, 2014), p. 178.
+                 20
+                    These terms were introduced in the early twentieth century by the German sociologists Ferdinand Tonnies
+                    and Max Weber.
+                                                                                                                                17
+                 International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 17                                                                                                      11/12/2017 16:34
+                        G. John Ikenberry
+                            The political troubles of western liberal democracies magnify the implications
+                        of these global power shifts. As noted above, democracies everywhere are facing
+                        internal difficulties and discontents. The older western democracies are experi-
+                        encing rising inequality, economic stagnation, fiscal crisis, and political polariza-
+                        tion and gridlock. Many newer and poorer democracies, meanwhile, are beset by
+                        corruption, backsliding and rising inequality. The great ‘third wave’ of democrati-
+                        zation seems to have crested, and now to be receding. As democracies fail to address
+                        problems, their domestic legitimacy is diminished and increasingly challenged by
+                        resurgent nationalist, populist and xenophobic movements. Together, these devel-
+                        opments cast a dark shadow over the democratic future.
+                            During the Cold War, the American-led liberal order was lodged within the
+                        western side of the bipolar world system. It was during these decades that the
+                        foundations of liberal hegemonic order were laid. With the collapse of the Soviet
+                        Union, this ‘inside’ order became the nucleus of an expanding global system. This
+                        had several consequences. One was that the United States became the sole super-
+                        power—the world entered the unipolar moment. This made American power
+                        itself an issue in world politics. During the Cold War, American power had a
+                        functional role in the system: it served as a balance against Soviet power. With
+                        the sudden emergence of unipolarity, American power was less constrained—and
+                        it did not play the same system-functional role. New debates emerged about the
+                        character of American hegemonic power. What would restrain American power?
+                        Was the United States now an informal empire? The American war in Iraq and
+                        the global ‘war on terror’ exacerbated these worries.21
+                            Ironically, the crisis of the US-led liberal order can be traced to the collapse of
+                        Cold War bipolarity and the resulting spread of liberal internationalism. The seeds
+                        of crisis were planted at this moment of triumph. The liberal international order
+                        was, in effect, globalized. It was freed from its Cold War foundations and rapidly
+                        became the platform for an expanding global system of liberal democracy, markets
+                        and complex interdependence. During the Cold War, the liberal order was a global
+                        subsystem—and the bipolar global system served to reinforce the roles, commit-
+                        ments, identity and community that were together manifest as liberal hegemony.
+                        The crisis of liberal internationalism can be seen as a slow-motion reaction to this
+                        deep transformation in the geopolitical setting of the postwar liberal international
+                        project. Specifically, the globalization of liberal internationalism put in motion
+                        two long-term effects: a crisis of governance and authority, and a crisis of social
+                        purpose.
+                            First, with the collapse of the Soviet sphere, the American-led liberal inter-
+                        national order became the only surviving framework for order, and a growing
+                        number and diversity of states began to be integrated into it. This created new
+                        problems for the governance of the order. During the Cold War, the western-
+                        oriented liberal order was led by the United States, Europe and Japan, and it was
+                        21
+                             See Ikenberry, Liberal Leviathan, ch. 6. For debates about American unipolarity, see Steve Walt, Taming
+                             ­American power: the global response to US primacy (New York: Norton, 2005); Stephen G. Brooks and William C.
+                              Wohlforth, World out of balance: international relations and the challenge of American primacy (Princeton: Princeton
+                              University Press, 2008).
+                        18
+                        International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 18                                                                                                                    11/12/2017 16:34
+                 The end of liberal international order?
+                 organized around a complex array of bargains, working relationships and insti-
+                 tutions. (Indeed, in the early postwar years, most of the core agreements about
+                 trade, finance and monetary relations were hammered out between the United
+                 States and Britain.) These countries did not agree on everything, but relative
+                 to the rest of the world, this was a small and homogeneous group of western
+                 states. Their economies converged, their interests were aligned and they gener-
+                 ally trusted each other. These countries were also on the same side of the Cold
+                 War, and the American-led alliance system reinforced cooperation. This system of
+                 alliance made it easier for the United States and its partners to make commitments
+                 and bear burdens. It made it easier for European and east Asian states to agree to
+                 operate within an American-led liberal order. In this sense, the Cold War roots
+                 of the postwar liberal order reinforced the sense that the liberal democracies were
+                 involved in a common political project.
+                     With the end of the Cold War, these foundational supports for liberal order
+                 were loosened. More, and more diverse, states entered the order—with new visions
+                 and agendas. The post-Cold War era also brought into play new and complex
+                 global issues, such as climate change, terrorism and weapons proliferation, and
+                 the growing challenges of interdependence. These are particularly hard issues on
+                 which to reach agreement among states coming from very different regions, with
+                 similarly different political orientations and levels of development. As a result, the
+                 challenges to multilateral cooperation have grown. At the core of these challenges
+                 has been the problem of authority and governance. Who pays, who adjusts, who
+                 leads? Rising non-western states began to seek a greater voice in the governance of
+                 the expanding liberal order. How would authority across this order be redistrib-
+                 uted? The old coalition of states—led by the United States, Europe and Japan—
+                 built a postwar order on layers of bargains, institutions and working relationships.
+                 But this old trilateral core is not the centre of the global system in the way it once
+                 was. The crisis of liberal order today is in part a problem of how to reorganize
+                 the governance of this order. The old foundations have been weakened, but new
+                 bargains and governance arrangements are yet to be fully negotiated.22
+                     Second, the crisis of the liberal order is a crisis of legitimacy and social purpose.
+                 During the Cold War, the American-led postwar order had a shared sense that
+                 it was a community of liberal democracies that were made physically safer and
+                 economically more secure by affiliating with each other. The first several genera-
+                 tions of the postwar period understood that to be inside this order was to be in a
+                 political and economic space where their societies could prosper and be protected.
+                 This sense was captured in John Ruggie’s notion of ‘embedded liberalism’. Trade
+                 and economic openness were rendered more or less compatible with economic
+                 security, stable employment and advancing living standards. The western-oriented
+                 liberal order had features of a security community—a sort of mutual protection
+                 society. Membership of this order was attractive because it provided tangible
+                 rights and benefits. It was a system of multilateral cooperation that provided
+                 22
+                      For an overview of these governance challenges, see Amitav Acharya, Why govern? Rethinking demand and
+                      progress in global governance (Cambridge: Cambridge University Press, 2016).
+                                                                                                                        19
+                 International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 19                                                                                             11/12/2017 16:34
+                        G. John Ikenberry
+                        national governments with tools and capacities to pursue economic stability and
+                        advancement.
+                            This idea of liberal order as a security community is often lost in the narratives
+                        of the postwar era. The United States and its partners built an order—but they also
+                        ‘formed a community’: one based on common interests, shared values and mutual
+                        vulnerability. The common interests were manifest, for example, in the gains that
+                        flowed from trade and the benefits of alliance cooperation. The shared values were
+                        manifest in a degree of public trust and ready capacity for cooperation rooted in
+                        the values and institutions of liberal democracy. Mutual vulnerability was a sense
+                        that these countries were experiencing a similar set of large-scale perils—flowing
+                        from the great dangers and uncertainties of geopolitics and modernity. This idea
+                        of a western security community is hinted at in the concept of ‘risk society’ put
+                        forward by sociologists Anthony Giddens and Ulrich Beck. Their argument is that
+                        the rise of modernity—of an advanced and rapidly developing global system—
+                        has generated growing awareness of and responses to ‘risk’. Modernization is an
+                        inherently unsettling march into the future. A risk society is, as Beck defines it, ‘a
+                        systematic way of dealing with hazards and insecurities induced and introduced by
+                        modernisation itself ’.23 The Cold War intensified this sense of risk, and out of a
+                        growing sense of shared economic and security vulnerabilities, the western liberal
+                        democracies forged a security community.
+                            With the end of the Cold War and the globalization of the liberal order, this
+                        sense of security community was undermined. This happened in the first instance,
+                        as noted above, through the rapid expansion in the number and variety of states
+                        in the order. The liberal order lost its identity as a western security community.
+                        It was now a far-flung platform for trade, exchange and multilateral cooperation.
+                        The democratic world was now less Anglo-American, less western. It embodied
+                        most of the world—developed, developing, North and South, colonial and post-
+                        colonial, Asian and European. This too was a case of ‘success’ planting the seeds
+                        of crisis. The result was an increasing divergence of views across the order about
+                        its members, their place in the world, and their historical legacies and grievances.
+                        There was less of a sense that liberal internationalism was a community with a
+                        shared narrative of its past and future.
+                            The social purposes of the liberal order were further undermined by rising
+                        economic insecurity and grievance across the western industrial world. Since the
+                        2008 financial crisis at least, the fortunes of workers and middle-class citizens in
+                        Europe and the United States have stagnated.24 The expanding opportunities
+                        and rising wages enjoyed by earlier postwar generations seem to have stalled. For
+                        example, in the United States almost all the growth in wealth since the 1980s has
+                        gone to the top 20 per cent of earners in society. The post-Cold War growth in
+                        23
+                           Ulrich Beck, Risk society: towards a new modernity (London: Sage, 1992), p. 7. See also Anthony Giddens and
+                           Christopher Pierson, Making sense of modernity: conversations with Anthony Giddens (Palo Alto, CA: Stanford
+                           University Press, 1998).
+                        24
+                           For evidence of stagnant and declining incomes among the working and middle classes in the US and Europe,
+                           and connections to the election of Donald Trump and Brexit, see Ronald Ingelhart and Pippa Norris, Trump,
+                           Brexit, and the rise of populism: economic have-nots and cultural backlash, working paper (Cambridge, MA: Harvard
+                           Kennedy School, 19 July 2016).
+                        20
+                        International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 20                                                                                                              11/12/2017 16:34
+                 The end of liberal international order?
+                 trade and interdependence does not seem to have directly advanced the incomes
+                 and life opportunities of many segments of the western liberal democracies. Branko
+                 Milanovic has famously described the differential gains across the global system
+                 over the last two decades as an ‘elephant curve’. Looking across global income
+                 levels, Milanovic finds that the vast bulk of gains in real per capita income have
+                 been made in two very different groups. One comprises workers in countries such
+                 as China and India who have taken jobs in low-end manufacturing and service
+                 jobs, and, starting at very low wage levels, have experienced dramatic gains—even
+                 if they remain at the lower end of the global income spectrum. This is the hump
+                 of the elephant’s back. The other group is the top 1 per cent—and, indeed, the
+                 top 0.01 per cent—who have experienced massive increases in wealth. This is the
+                 elephant’s trunk, extended upward.25 This stagnation in the economic fortunes
+                 of the western working and middle classes is reinforced by long-term shifts in
+                 technology, trade patterns, union organization and the sites for manufacturing
+                 jobs.
+                     Under these adverse economic conditions, it is harder today than in the past
+                 to see the liberal order as a source of economic security and protection. Across
+                 the western liberal democratic world, liberal internationalism looks more like
+                 neo-liberalism—a framework for international capitalist transactions. The
+                 ‘embedded’ character of liberal internationalism has slowly eroded.26 The social
+                 purposes of the liberal order are not what they once were. It is less obvious today
+                 that the liberal democratic world is a security community. What do citizens in
+                 western democracies get from liberal internationalism? How does an open and
+                 loosely rules-based international order deliver security—economic or physical—
+                 to the lives of the great middle class? Liberal internationalism across the twentieth
+                 century was tied to progressive agendas within western liberal democracies. Liberal
+                 internationalism was seen not as the enemy of nationalism, but as a tool to give
+                 governments capacities to pursue economic security and advancements at home.
+                 What has happened in the last several decades is that this connection between
+                 progressivism at home and liberal internationalism abroad has been broken.
+
+                 Conclusions
+                 For the past 70 years, liberal internationalism has been embedded in the postwar
+                 American hegemonic order. It is an order that has been marked by economic
+                 openness and security cooperation as well as collective efforts to keep the peace,
+                 promote the rule of law, and sustain an array of international institutions
+                 organized to manage the modern problems of interdependence. This expansive
+                 version of liberal order emerged in fits and starts during the twentieth century as
+
+                 25
+                    Branko Milanovic, Global inequality: a new approach for the age of globalization (Cambridge, MA: Harvard Univer-
+                    sity Press, 2016), ch. 1.
+                 26
+                    See Jeff D. Colgan and Robert O. Keohane, ‘The liberal order is rigged: fix it now or watch it wither’,
+                    Foreign Affairs 96: 3, May–June 2017, pp. 36–44. For an account of the rise of neo-liberalism in the late twen-
+                    tieth century, see Mark Blyth, Great transformation: economic ideas and institutional change in the twentieth century
+                    (Cambridge: Cambridge University Press, 2002).
+                                                                                                                                     21
+                 International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 21                                                                                                           11/12/2017 16:34
+                        G. John Ikenberry
+                        the United States and Europe struggled with the great dangers and catastrophes
+                        that shocked and shook the world—world war, economic depression, trade wars,
+                        fascism, totalitarianism and vast social injustices. Today this American-led era of
+                        liberal internationalism looks increasingly beleaguered. To bet on the future of
+                        the global liberal order is a little bit like a second marriage—a triumph of hope
+                        over experience. But it is important to take the long view. The liberal interna-
+                        tional project has travelled from the eighteenth century to our own time through
+                        repeated crises, upheavals, disasters and breakdowns—almost all of them worse
+                        than those appearing today. Indeed, it might be useful to think about liberal inter-
+                        national order the way John Dewey thought about democracy—as a framework
+                        for coping with the inevitable problems of modern society. It is not a blueprint
+                        for an ideal world order; it is a methodology or machinery for responding to the
+                        opportunities and dangers of modernity.
+                            The future of this liberal order hinges on the ability of the United States and
+                        Europe—and increasingly a wider array of liberal democracies—to lead and
+                        support it. This, in turn, depends on the ability of these leading liberal democ-
+                        racies to remain stable, well functioning and internationalist. Can these states
+                        recover their stability and bearings as liberal democracies? Can they regain their
+                        legitimacy and standing as ‘models’ of advanced societies by finding solutions to
+                        the current generation’s great problems—economic inequality, stagnant wages,
+                        fiscal imbalances, environmental degradation, racial and ethnic conflicts, and so
+                        forth? Global leadership hinges on state power, but also on the appeal and legiti-
+                        macy of the ideals and principles that Great Powers embody and project. The
+                        appeal and legitimacy of liberal internationalism will depend on the ability of the
+                        United States and other states like it to re-establish their ability to function and to
+                        find solutions to twenty-first-century problems.
+                            It is worth remembering that American liberal internationalism was shaped and
+                        enabled by the domestic programmes of the Progressives, the New Deal and the
+                        Great Society. These initiatives aimed to address American economic and social
+                        inequalities and reorganize the American state in view of the unfolding problems
+                        of industrialism and globalization. FDR and the New Deal were the critical pivot
+                        for America’s liberal internationalist vision of order.
+                            It was an era of pragmatic and experimental domestic and foreign policy. It
+                        was a moment when the regime principles of the American foundation and Civil
+                        War were once again renewed and updated. It was a time of existential crisis—but
+                        also of bold and visionary undertakings. The domestic progressive experience
+                        provides an important lesson for those seeking to grapple with the present genera-
+                        tion’s crisis of liberal democracy. The liberal internationalism of the twentieth
+                        century was closely tied to domestic progressive policy and movements. The
+                        internationalism of Wilson’s and FDR’s generations emerged from their efforts to
+                        build a more progressive domestic order. Internationalism was put at the service
+                        of strengthening the nation—that is, the ability of governments and national
+                        leaders to make good on their promises to promote economic well-being and
+                        social advancement.
+
+                        22
+                        International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 22                                                                                 11/12/2017 16:34
+                 The end of liberal international order?
+                     So the future of liberal internationalism hinges on two questions. First, can the
+                 United States and other liberal democracies recapture their progressive political
+                 orientation? America’s ‘brand’—as seen in parts of the non-western world—is
+                 perceived to be neo-liberal, that is, single-minded in its commitment to capital and
+                 markets. It is absolutely essential that the United States shatter this idea. Outside
+                 the West—and indeed in most parts of Europe—this is not the core of the liberal
+                 democratic vision of modern society. If there is an ideological ‘centre of gravity’
+                 in the wider world of democracies, it is more social democratic and solidarist than
+                 neo-liberal. Or, to put it simply: it looks more like the vision of liberal democracy
+                 that was articulated by the United States during the New Deal and early postwar
+                 decades. This was a period when economic growth was more inclusive and was
+                 built around efforts to promote economic stability and social protections. If liberal
+                 internationalism is to thrive, it will need to be built again on these sorts of progres-
+                 sive foundations.
+                     Second, can the United States and its old allies expand and rebuild a wider
+                 coalition of states willing to cooperate within a reformed liberal global order? It is
+                 a simple fact that the United States cannot base its leadership on the old coalition
+                 of the West and Japan. It needs to actively court and co-opt the wider world of
+                 developing democracies. It is already doing this, but it needs to make the enter-
+                 prise integral to its grand strategic vision. The goal should be to reconfigure rights
+                 and responsibilities in existing institutions to reflect the diffusion of power in an
+                 increasingly multipolar world. This should be done in such a way as to cultivate
+                 deeper relations with democratic states within the rising non-western developing
+                 world. The global multilateral institutions—from the UN and IMF downwards—
+                 need to be reformed to reflect this new global reality.
+                     In the end, the sources of continuity in the postwar liberal international order
+                 become visible when we look at the alternatives. The alternatives to liberal order
+                 are various sorts of closed systems—a world of blocs, spheres and protectionist
+                 zones. The best news for liberal internationalism is probably the simple fact that
+                 more people will be harmed by the end of some sort of global liberal international
+                 order than will gain. This does not mean it will survive, but it does suggest that
+                 there are constituencies—even in the old industrial societies of the West—that
+                 have reason to support it. Beyond this, there is simply no grand ideological alter-
+                 native to a liberal international order. China does not have a model that the rest of
+                 the world finds appealing. Neither does Russia. These are authoritarian capitalist
+                 states. But this type of state does not translate into a broad set of alternative ideas
+                 for the organization of world order. The values, interests and mutual vulner-
+                 abilities that drove the rise and spread of liberal internationalism are still with us.
+                 Crises and transformations in liberal internationalism have marked its 200-year
+                 passage to the present. If liberal democracy survives this era, so too will liberal
+                 internationalism.
+
+
+
+
+                                                                                                      23
+                 International Affairs 94: 1, 2018
+Downloaded from https://academic.oup.com/ia/article-abstract/94/1/7/4762691
+by Adam Ellsworth, Adam Ellsworth
+on 25 January 2018
+
+
+
+
+ INTA94_1_2_241_Ikenberry.indd 23                                                                           11/12/2017 16:34
+Copyright of International Affairs is the property of Oxford University Press / USA and its
+content may not be copied or emailed to multiple sites or posted to a listserv without the
+copyright holder's express written permission. However, users may print, download, or email
+articles for individual use.
+

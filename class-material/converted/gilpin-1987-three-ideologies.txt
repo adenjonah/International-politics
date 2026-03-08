@@ -1,0 +1,944 @@
+# Source: gilpin-1987-three-ideologies.pdf
+# Converted: 2026-03-06 14:39
+# Note: Line numbers here differ from PDF page numbers
+---
+
+CHAPTER TWO
+
+Three Ideologies of Political Economy
+
+
+
+O tionalism, and century
+     VER THE PAST        and a half, the ideologies of liberalism, na-
+                 Marxism have divided humanity. This book uses
+"ideology" to refer to "systems of thought and belief by which [indi-
+viduals and groups] explain ... how their social system operates and
+what principles it exemplifies" (Heilbroner, r 98 5, p. 107). The conflict
+among these three moral and intellectual positions has revolved around
+the role and significance of the market in the organization of society
+and economic affairs.
+   Through an evaluation of the strengths and weaknesses of these
+three ideologies it is possible to illuminate the study of the field of in-
+ternational political economy. The strengths of each perspective set
+forth here will be applied to subsequent discussions of specific issues,
+such as those of trade, investment, and development. Although my val-
+ues are those of liberalism, the world in which we live is one best de-
+scribed by the ideas of economic nationalism and occasionally by those
+of Marxism as well. Eclecticism may not be the route to theoretical pre-
+cision, but sometimes it is the only route available.
+   The three ideologies differ on a broad range of questions such as:
+What is the significance of the market for economic growth and the dis-
+tribution of wealth among groups and societies? What ought to be the
+role of markets in the organization of domestic and international soci-
+ety? What is the effect of the market system on issues of war or peace?
+These and similar questions are central to discussions of international
+political economy.
+   These three ideologies are fundamentally different in their concep-
+tions of the relationships among society, state, and market, and it may
+not be an exaggeration to say that every controversy in the field of in-
+ternational political economy is ultimately reducible to differing con-
+ceptions of these relationships. The intellectual clash is not merely of
+historical interest. Economic liberalism, Marxism, and economic na-
+tionalism are all very much alive at the end of the twentieth century;
+they define the conflicting perspectives that individuals have with re-
+gard to the implications of the market system for domestic and inter-
+national society. Many of the issues that were controversial in the
+                                                                         25
+
+
+
+
+                              This content downloaded from
+            128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                      All use subject to https://about.jstor.org/terms
+CHAPTER TWO
+
+eighteenth and nineteenth centuries are once again being intensely de-
+bated.
+   It is important to understand the nature and content of these con-
+trasting "ideologies" of political economy. The term "ideology" is used
+rather than "theory" because each position entails a total belief system
+concerning the nature of human beings and society and is thus akin to
+what Thomas Kuhn has called a paradigm (Kuhn, 1962). As Kuhn
+demonstrates, intellectual commitments are held tenaciously and can
+seldom be dislodged by logic or by contrary evidence. This is due to the
+fact that these commitments or ideologies allege to provide scientific
+descriptions of how the world does work while they also constitute
+normative positions regarding how the world should work.
+   Although scholars have produced a number of "theories" to explain
+the relationship of economics and politics, these three stand out and
+have had a profound influence on scholarship and political affairs. In
+highly oversimplified terms, economic nationalism (or, as it was origi-
+nally called, mercantilism), which developed from the practice of
+statesmen in the early modern period, assumes and advocates the pri-
+macy of politics over economics. It is essentially a doctrine of state-
+building and asserts that the market should be subordinate to the pur-
+suit of state interests. It argues that political factors do, or at least
+should, determine economic relations. Liberalism, which emerged
+from the Enlightenment in the writings of Adam Smith and others, was
+a reaction to mercantilism and has become embodied in orthodox eco-
+nomics. It assumes that politics and economics exist, at least ideally, in
+separate spheres; it argues that markets-in the interest of efficiency,
+growth, and consumer choice-should be free from political interfer-
+ence. Marxism, which appeared in the mid-nineteenth century as a re-
+action against liberalism and classical economics, holds that economics
+drives politics. Political conflict arises from struggle among classes over
+the distribution of wealth. Hence, political conflict will cease with the
+elimination of the market and of a society of classes. Since both nation-
+alism and Marxism in the modern era have developed largely in reac-
+tion to the tenets of liberal economics, my discussion and evaluation of
+these ideologies will begin with economic liberalism.
+
+
+THE LIBERAL PERSPECTIVE
+
+Some scholars assert that there is no such thing as a liberal theory of
+political economy because liberalism separates economics and politics
+from one another and assumes that each sphere operates according to
+26
+
+
+
+
+                         This content downloaded from
+       128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                 All use subject to https://about.jstor.org/terms
+                          THREE IDEOLOGIES OF POLITICAL ECONOMY
+
+particular rules and a logic of its own.' This view is itself, however, an
+ideological position and liberal theorists do in fact concern themselves
+with both political and economic affairs. Whether it is made explicit in
+their writings or is merely implicit, one can speak of a liberal theory of
+political economy.
+   There is a set of values from which liberal theories of economics and
+of politics arise; in the modern world these political and economic val-
+ues have tended to appear together (Lindblom, 1977). Liberal eco-
+nomic theory is committed to free markets and minimal state interven-
+tion, although, as will be pointed out below, the relative emphasis on
+one or the other may differ. Liberal political theory is committed to in-
+dividual equality and liberty, although again the emphasis may differ.
+We are primarily concerned here with the economic component of lib-
+eral theory.
+   The liberal perspective on political economy is embodied in the dis-
+cipline of economics as it has developed in Great Britain, the United
+States, and Western Europe. From Adam Smith to its contemporary
+proponents, liberal thinkers have shared a coherent set of assumptions
+and beliefs about the nature of human beings, society, and economic
+activities. Liberalism has assumed many forms-classical, neo-classi-
+cal, Keynesian, monetarist, Austrian, rational expectation, etc. These
+variants range from those giving priority to equality and tending to-
+ward social democracy and state interventionism to achieve this objec-
+tive, to those stressing liberty and noninterventionism at the expense of
+social equality. All forms of economic liberalism, however, are com-
+mitted to the market and the price mechanism as the most efficacious
+means for organizing domestic and international economic relations.
+Liberalism may, in fact, be defined as a doctrine and set of principles
+for organizing and managing a market economy in order to achieve
+maximum efficiency, economic growth, and individual welfare.
+   Economic liberalism assumes that a market arises spontaneously in
+order to satisfy human needs and that, once it is in operation, it func-
+tions in accordance with its own internal logic. Human beings are by
+nature economic animals, and therefore markets evolve naturally with-
+out central direction. As Adam Smith put it, it is inherent in mankind
+to "truck, barter and exchange." To facilitate exchange and improve
+
+   ' The term "liberal" is used in this book in its European connotation, that is, a com-
+mitment to individualism, free market, and private property. This is the dominant per-
+spective of most American economists and of economics as taught in American univer-
+sities. Thus, both Paul Samuelson and Milton Friedman, despite important differences
+between their political and theoretical views, are regarded here as representatives of the
+American liberal tradition.
+
+                                                                                      27
+
+
+
+
+                                This content downloaded from
+              128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                        All use subject to https://about.jstor.org/terms
+CHAPTER TWO
+
+their well-being, people create markets, money, and economic institu-
+tions. Thus, in his "The Economic Organization of a P.o.W. Camp,"
+R. A. Radford (1945) shows how a complex and sophisticated market
+arose spontaneously in order to satisfy human wants, but his tale also
+demonstrates how a form of government was necessary to police and
+maintain this primitive market system. 2.
+   The rationale for a market system is that it increases economic effi-
+ciency, maximizes economic growth, and thereby improves human
+welfare. Although liberals believe that economic activity also enhances
+the power and security of the state, they argue that the primary objec-
+tive of economic activity is to benefit individual consumers. Their ulti-
+mate defense of free trade and open markets is that they increase the
+range of goods and services available to the consumer.
+   The fundamental premise of liberalism is that the individual con-
+sumer, firm, or household is the basis of society. Individuals behave ra-
+tionally and attempt to maximize or satisfy certain values at the lowest
+possible cost to themselves. Rationality applies only to endeavor, not
+to outcome. Thus, failure to achieve an objective due to ignorance or
+some other cause does not, according to liberals, invalidate their prem-
+ise that individuals act on the basis of a cost/benefit or means/ends cal-
+culus. Finally, liberalism argues that an individual will seek to acquire
+an objective until a market equilibrium is reached, that is, until the
+costs associated with achieving the objective are equal to the benefits.
+Liberal economists attempt to explain economic and, in some cases, all
+human behavior on the basis of these individualistic and rationalistic
+assumptions (Rogowski, 1978).
+   Liberalism also assumes that a market exists in which individuals
+have complete information and are thus enabled to select the most ben-
+eficial course of action. Individual producers and consumers will be
+highly responsive to price signals, and this will create a flexible econ-
+omy in which any change in relative prices will elicit a corresponding
+change in patterns of production, consumption, and economic institu-
+tions; the latter are conceived ultimately to be the product rather than
+the cause of economic behavior (Davis and North, 1971). Further, in a
+truly competitive market, the terms of exchange are determined solely
+by considerations of supply and demand rather than by the exercise of
+power and coercion. If exchange is voluntary, both parties benefit. In
+colloquial terms, a "free exchange is no robbery."
+   Economics, or rather the economics taught in most American uni-
+versities (what Marxists call orthodox or bourgeois economics), is as-
+
+   ' I would like to thank Michael Doyle for bringing this interesting article to my atten-
+tion.
+
+
+
+
+                           This content downloaded from
+         128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                   All use subject to https://about.jstor.org/terms
+                          THREE IDEOLOGIES OF POLITICAL ECONOMY
+
+sumed to be an empirical science of maximizing behavior. Behavior is
+believed to be governed by a set of economic "laws" that are imper-
+sonal and politically neutral; therefore, economics and politics should
+and can be separated into distinct spheres. Governments should not in-
+tervene in the market except where a "market failure" exists (Baumol,
+1965) or in order to provide a so-called public or collective good (Ol-
+son, 1965).
+   A market economy is governed principally by the law of demand
+(Becker, 1976, p. 6). This "law" (or, if one prefers, assumption) holds
+that people will buy more of a good if the relative price falls and less if
+it rises; people will also tend to buy more of a good as their relative in-
+come rises and less as it falls. Any development that changes the relative
+price of a good or the relative income of an actor will create an incen-
+tive or disincentive to acquire (or produce) more or less of the good;
+this law in turn has profound ramifications throughout the society. Al-
+though certain exceptions to this simple concept exist, it is fundamental
+to the operation and success of a market system of economic exchange.
+   On the supply side of the economy, liberal economics assumes that
+individuals pursue their interests in a world of scarcity and resource
+constraints. This is a fundamental and inescapable condition of human
+existence. Every decision involves an opportunity cost, a tradeoff
+among alternative uses of available resources (Samuelson, I 980, p. 2 7).
+The basic lesson of liberal economics is that "there is no such thing as
+a free lunch"; to get something one must be willing to give up some-
+thing else.
+   Liberalism also assumes that a market economy exhibits a powerful
+tendency toward equilibrium and inherent stability, at least over the
+long term. This "concept of a self-operating and self-correcting equilib-
+rium achieved by a balance of forces in a rational universe" is a crucial
+one for the economists' belief in the operation of markets and the laws
+that are believed to govern them (Condliffe, 1950, p. II2). If a market
+is thrown into a state of disequilibrium due to some external (exoge-
+nous) factor such as a change in consumer tastes or productive tech-
+nology, the operation of the price mechanism will eventually return it
+to a new state of equilibrium. Prices and quantities will once again bal-
+ance one another. Thus, a change in either the supply or the demand for
+a good will elicit corresponding changes in the price of the good. The
+principal technique of modern economic analysis, comparative statics,
+is based on this assumption of a tendency toward systemic equilib-
+rium.3
+ ' The method of comparative statics was invented by David Ricardo. It consists of a
+model of a market in a state of equilibrium, the introduction of an exogenous variable
+
+                                                                                   29
+
+
+
+
+                                This content downloaded from
+              128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                        All use subject to https://about.jstor.org/terms
+CHAPTER TWO
+
+   An additional liberal assumption is that a basic long-term harmony
+of interests underlies the market competition of producers and con-
+sumers, a harmony that will supercede any temporary conflict of inter-
+est. Individual pursuit of self-interest in the market increases social
+well-being because it leads to the maximization of efficiency, and the
+resulting economic growth eventually benefits all. Consequently,
+everyone will gain in accordance with his or her contribution to the
+whole, but, it should be added, not everyone will gain equally because
+individual productivities differ. Under free exchange, society as a whole
+will be more wealthy, but individuals will be rewarded in terms of their
+marginal productivity and relative contribution to the overall social
+product.
+   Finally, most present-day liberal economists believe in progress, de-
+fined most frequently as an increase in wealth per capita. They assert
+that the growth of a properly functioning economy is linear, gradual,
+and continuous (Meier and Baldwin, 1963, p. 70). It proceeds along
+what an economist colleague has called "the MIT standard equilibrium
+growth curve." Although political or other events-wars, revolution,
+or natural disasters-can dramatically disrupt this growth path, the
+economy will return eventually to a stable pattern of growth that is de-
+termined principally by increases in population, resources, and produc-
+tivity. Moreover, liberals see no necessary connection between the
+process of economic growth and political developments such as war
+and imperialism; these political evils affect and may be affected by eco-
+nomic activities, but they are essentially caused by political and not by
+economic factors. For example, liberals do not believe that any causal
+relationship existed between the advance of capitalism in the late nine-
+teenth century and the upheavals of imperialism after r87o and the
+outbreak of the First World War. Liberals believe economics is pro-
+gressive and politics is retrogressive. Thus they conceive of progress as
+divorced from politics and based on the evolution of the market.
+   On the basis of these assumptions and commitments, modern econ-
+omists have constructed the empirical science of economics. Over the
+past two centuries, they have deduced the "laws" of maximizing be-
+havior, such as those of the theory of comparative advantage, the the-
+ory of marginal utility, and the quantity theory of money. As Arthur
+Lewis has commented to me, economists discover new laws at the rate
+of about one per quarter century. These "laws" are both contingent and
+into the system, and a calculation of the new equilibrium state. Because this mode of
+analysis is generally unconcerned with the origins of the exogenous variable itself, it is
+limited as a means of examining the problem of economic change.
+
+
+
+
+                           This content downloaded from
+         128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                   All use subject to https://about.jstor.org/terms
+                        THREE IDEOLOGIES OF POLITICAL ECONOMY
+
+normative. They assume the existence of economic man-a rational,
+maximizing creature-a variant of the species homo sapiens that has
+been relatively rare in human history and has existed only during pe-
+culiar periods of favorable conditions. Further, these laws are norma-
+tive in that they prescribe how a society must organize itself and how
+people must behave if they are to maximize the growth of wealth. Both
+individuals and societies may violate these laws, but they do so at the
+cost of productive efficiency. Today, the conditions necessary for the
+operation of a market economy exist, and the normative commitment
+to the market has spread from its birthplace in Western civilization to
+embrace an increasingly large portion of the globe. Despite setbacks,
+the modern world has moved in the direction of the market economy
+and of increasing global economic interdependence precisely because
+markets are more efficient than other forms of economic organization
+(Hicks, 1969).
+   In essence, liberals believe that trade and economic intercourse are a
+source of peaceful relations among nations because the mutual benefits
+of trade and expanding interdependence among national economies
+will tend to foster cooperative relations. Whereas politics tends to di-
+vide, economics tends to unite peoples. A liberal international economy
+will have a moderating influence on international politics as it creates
+bonds of mutual interests and a commitment to the status quo. How-
+ever, it is important to emphasize again that although everyone will, or
+at least can, be better off in "absolute" terms under free exchange, the
+"relative" gains will differ. It is precisely this issue of relative gains and
+the distribution of the wealth generated by the market system that has
+given rise to economic nationalism and Marxism as rival doctrines.
+
+THE NATIONALIST PERSPECTIVE
+
+Economic nationalism, like economic liberalism, has undergone sev-
+eral metamorphoses over the past several centuries. Its labels have also
+changed: mercantilism, statism, protectionism, the German Historical
+School, and, recently, New Protectionism. Throughout all these mani-
+festations, however, runs a set of themes or attitudes rather than a co-
+herent and systematic body of economic or political theory. Its central
+idea is that economic activities are and should be subordinate to the
+goal of state building and the interests of the state. All nationalists as-
+cribe to the primacy of the state, of national security, and of military
+power in the organization and functioning of the international system.
+Within this general commitment two basic positions can be discerned.
+Some nationalists consider the safeguarding of national economic in-
+
+
+
+
+                              This content downloaded from
+            128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                      All use subject to https://about.jstor.org/terms
+CHAPTER TWO
+
+terests as the minimum essential to the security and survival of the state.
+For lack of a better term, this generally defensive position may be called
+"benign" mercantilism. 4 On the other hand, there are those nationalists
+who regard the international economy as an arena for imperialist ex-
+pansion and national aggrandizement. This aggressive form may be
+termed "malevolent" mercantilism. The economic policies of Nazi eco-
+nomic minister Hjalmar Schacht toward eastern Europe in the 1930s
+were of this type (Hirschman, I 969 ).
+   Although economic nationalism should be viewed as a general com-
+mitment to state building, the precise objectives pursued and the poli-
+cies advocated have differed in different times and in different places.
+Yet, as Jacob Viner has cogently argued in an often-quoted passage,
+economic nationalist (or what he calls mercantilist) writers share con-
+victions concerning the relationship of wealth and power:
+I believe that practically all mercantilists, whatever the period, country, or sta-
+tus of the particular individual, would have subscribed to all of the following
+propositions: (I) wealth is an absolutely essential means to power, whether for
+security or for aggression; (2) power is essential or valuable as a means to the
+acquisition or retention of wealth; (3) wealth and power are each proper ulti-
+mate ends of national policy; (4) there is long-run harmony between these ends,
+although in particular circumstances it may be necessary for a time to make
+economic sacrifices in the interest of military security and therefore also of
+long-run prosperity (Viner, 1958, p. 286).
+
+Whereas liberal writers generally view the pursuit of power and wealth,
+that is, the choice between "guns and butter," as involving a tradeoff,
+nationalists tend to regard the two goals as being complementary
+(Knorr, 1944, p. 10).
+   Economic nationalists stress the role of economic factors in interna-
+tional relations and view the struggle among states-capitalist, social-
+ist, or whatever-for economic resources as pervasive and indeed in-
+herent in the nature of the international system itself. As one writer has
+put it, since economic resources are necessary for national power, every
+conflict is at once both economic and political (Hawtrey, 19 52). States,
+at least over the long run, simultaneously pursue wealth and national
+power.
+   As it evolved in the early modern era, economic nationalism re-
+sponded to and reflected the political, economic, and military devel-
+opments of the sixteenth, seventeenth, and eighteenth centuries: the
+
+  4 One can identify Friedrich List with the benign mercantilist position. List believed
+
+that true cosmopolitanism could only be possible when all states had been developed. For
+a discussion of benign and malevolent mercantilism, see Gilpin 1975, pp. 234-37 and
+Chapter Ten below.
+
+
+
+
+                           This content downloaded from
+         128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                   All use subject to https://about.jstor.org/terms
+                        THREE IDEOLOGIES OF POLITICAL ECONOMY
+
+emergence of strong national states in constant competition, the rise of
+a middle class devoted at first to commerce and increasingly to manu-
+facturing, and the quickening pace of economic activities due to
+changes within Europe and the discovery of the New World and its re-
+sources. The evolution of a monetarized market economy and the wide
+range of changes in the nature of warfare that have been characterized
+as the "Military Revolution" were also critically important (Roberts,
+1956). Nationalists (or "mercantilists," as they were then called) had
+good cause to identify a favorable balance of trade with national secu-
+rity.
+   For several reasons, the foremost objective of nationalists is indus-
+trialization (Sen, 1984). In the first place, nationalists believe that in-
+dustry has spillover effects (externalities) throughout the economy and
+leads to its overall development. Second, they associate the possession
+of industry with economic self-sufficiency and political autonomy.
+Third, and most important, industry is prized because it is the basis of
+military power and central to national security in the modern world. In
+almost every society, including liberal ones, governments pursue poli-
+cies favorable to industrial development. As the mercantilist theorist of
+American economic development, Alexander Hamilton, wrote: "not
+only the wealth but the independence and security of a country appear
+to be materially connected to the prosperity of manufactures" (quoted
+in Rostow, 1971, p. r89); no contemporary dependency theorist has
+put it better. This nationalist objective of industrialization, as will be
+argued in Chapter Three, is itself a major source of economic conflict.
+   Economic nationalism, both in the early modern era and today,
+arises in part from the tendency of markets to concentrate wealth and
+to establish dependency or power relations between the strong and the
+weak economies. In its more benign or defensive form it attempts to
+protect the economy against untoward external economic and political
+forces. Defensive economic nationalism frequently exists in less devel-
+oped economies or in those advanced economies that have begun to de-
+cline; such governments pursue protectionist and related policies to
+protect their nascent or declining industries and to safeguard domestic
+interests. In its more malevolent form, economic nationalism is the con-
+duct of economic warfare. This type is most prevalent in expanding
+powers. The classic example is Nazi Germany.
+   In a world of competing states, the nationalist considers relative gain
+to be more important than mutual gain. Thus nations continually try to
+change the rules or regimes governing international economic relations
+in order to benefit themselves disproportionately with respect to other
+economic powers. As Adam Smith shrewdly pointed out, everyone
+wants to be a monopolist and will attempt to be one unless prevented
+                                                                         33
+
+
+
+
+                              This content downloaded from
+            128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                      All use subject to https://about.jstor.org/terms
+CHAPTER TWO
+
+by competitors. Therefore, a liberal international economy cannot de-
+velop unless it is supported by the dominant economic states whose
+own interests are consistent with its preservation.
+   Whereas liberals stress the mutual benefits of international com-
+merce, nationalists as well as Marxists regard these relations as basi-
+cally conflictual. Although this does not rule out international eco-
+nomic cooperation and the pursuit of liberal policies, economic
+interdependence is never symmetrical; indeed, it constitutes a source of
+continuous conflict and insecurity. Nationalist writers from Alexander
+Hamilton to contemporary dependency theorists thus emphasize na-
+tional self-sufficiency rather than economic interdependence.
+   Economic nationalism has taken several different forms in the mod-
+ern world. Responding to the Commercial Revolution and the expan-
+sion of international trade throughout the early period, classical or fi-
+nancial mercantilism emphasized the promotion of trade and a balance
+of payments surplus. Following the Industrial Revolution, industrial
+mercantilists like Hamilton and List stressed the supremacy of industry
+and manufacturing over agriculture. Following the First and Second
+World Wars these earlier concerns have been joined by a powerful com-
+mitment to the primacy of domestic welfare and the welfare state. In
+the last decades of this century, the increasing importance of advanced
+technology, the desire for national control over the "commanding
+heights" of the modern economy, and the advent of what might best be
+called "policy competitiveness" have become the distinctive features of
+contemporary mercantilism. In all ages, however, the desire for power
+and independence have been the overriding concern of economic na-
+tionalists.
+   Whatever its relative strengths and weaknesses as an ideology or the-
+ory of international political economy, the nationalist emphasis on the
+geographic location and the distribution of economic activities provide
+it with powerful appeal. Throughout modern history, states have pur-
+sued policies promoting the development of industry, advanced tech-
+nology, and those economic activities with the highest profitability and
+generation of employment within their own borders. As far as they can,
+states try to create an international division of labor favorable to their
+political and economic interests. Indeed, economic nationalism is likely
+to be a significant influence in international relations as long as the state
+system exists.
+
+THE MARXIST PERSPECTIVE
+
+Like liberalism and nationalism, Marxism has evolved in significant
+ways since its basic ideas were set forth by Karl Marx and Friedrich En-
+
+34
+
+
+
+
+                          This content downloaded from
+        128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                  All use subject to https://about.jstor.org/terms
+                        THREE IDEOLOGIES OF POLITICAL ECONOMY
+
+international conflict and political change (Gilpin, I 98 I). However, the
+assumptions of the two theories regarding the basis of human motiva-
+tion, the theory of the state, and the nature of the international system
+are fundamentally different. Marxists regard human nature as mallea-
+ble and as easily corrupted by capitalism and correctable by socialism;
+realists believe that political conflict results from an unchanging human
+nature.
+   Whereas Marxists believe that the state is ultimately the servant of
+the dominant economic class, realists see the state as a relatively auton-
+omous entity pursuing national interests that cannot be reduced to the
+particularistic interests of any class. For Marxists, the international sys-
+tem and foreign policy are determined by the structure of the domestic
+economy; for realists, the nature of the international system is the fun-
+damental determinant of foreign policy. In short, Marxists regard war,
+imperialism, and the state as evil manifestations of a capitalism that
+will disappear with the communist revolution; realists hold them to be
+inevitable features of an anarchical international political system.
+   The difference between the two perspectives, therefore, is consider-
+able. For the Marxist, though the state and the struggles among states
+are a consequence of the capitalist mode of production, the future will
+bring a realm of true harmony and peace following the inevitable rev-
+olution that the evil capitalist mode of production will spawn. The real-
+ist, on the other hand, believes there will be no such nirvana because of
+the inherently self-centered nature of human beings and the anarchy of
+the international system itself. The struggle among groups and states is
+virtually ceaseless, although there is occasionally a temporary respite.
+It seems unlikely that either prediction will ever receive scientific veri-
+fication.
+   Each of the three perspectives has strengths and weaknesses, to be
+further explored below. Although no perspective provides a complete
+and satisfactory understanding of the nature and dynamism of the in-
+ternational political economy, together they provide useful insights.
+They also raise important issues that will be explored in succeeding
+chapters.
+Critique of Economic Liberalism
+Liberalism embodies a set of analytical tools and policy prescriptions
+that enable a society to maximize its return from scarce resources; its
+commitment to efficiency and the maximization of total wealth pro-
+vides much of its strength. The market constitutes the most effective
+means for organizing economic relations, and the price mechanism op-
+erates to ensure that mutual gain and hence aggregate social benefit
+                                                                         43
+
+
+
+
+                              This content downloaded from
+            128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                      All use subject to https://about.jstor.org/terms
+CHAPTER TWO
+
+tend to result from economic exchange. In effect, liberal economics
+says to a society, whether domestic or international, "if you wish to be
+wealthy, this is what you must do."
+   From Adam Smith to the present, liberals have tried to discover the
+laws governing the wealth of nations. Although most liberals consider
+the laws of economics to be inviolable laws of nature, these laws may
+best be viewed as prescriptive guides for decision makers. If the laws are
+violated, there will be costs; the pursuit of objectives other than effi-
+ciency will necessarily involve an opportunity cost in terms of lost effi-
+ciency. Liberalism emphasizes the fact that such tradeoffs always exist
+in national policy. An emphasis on equity and redistribution, for ex-
+ample, is doomed to failure in the long run if it neglects considerations
+of efficiency. For a society to be efficient, as socialist economies have
+discovered, it cannot totally disregard the pertinent economic "laws."
+   The foremost defense of liberalism is perhaps a negative one. Al-
+though it may be true, as Marxists and some nationalists argue, that the
+alternative to a liberal system could be one in which all gain equally, it
+is also possible that the alternative could be one in which all lose in ab-
+solute terms. Much can be said for the liberal harmony of interest doc-
+trine; yet, as E. H. Carr has pointed out, evidence to support this doc-
+trine has generally been drawn from historical periods in which there
+was "unparalleled expansion of production, population and prosper-
+ity" (Carr, 1951 [1939], p. 44). When sustaining conditions break
+down (as happened in the 1930s and threatens to occur again in the
+closing decades of the century), disharmony displaces harmony and, I
+shall argue, the consequent breakdown of liberal regimes tends to lead
+to economic conflict wherein everyone loses.
+   The major criticism leveled against economic liberalism is that its
+basic assumptions, such as the existence of rational economic actors, a
+competitive market, and the like, are unrealistic. In part, this attack is
+unfair in that liberals knowingly make these simplifying assumptions in
+order to facilitate scientific research; no science is possible without
+them. What is more important, as defenders correctly point out, is that
+they should be judged by their results and ability to predict rather than
+by their alleged reality (Posner, 1977, ch. I). From this perspective and
+within its own sphere, economics has proven to be a powerful analyti-
+cal tool.
+   By the same token, however, liberal economics can be criticized in
+several important respects. As a means to understand society and es-
+pecially its dynamics, economics is limited; it cannot serve as a compre-
+hensive approach to political economy. Yet liberal economists have
+tended to forget this inherent limitation, to regard economics as the
+44
+
+
+
+
+                         This content downloaded from
+       128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                 All use subject to https://about.jstor.org/terms
+                        THREE IDEOLOGIES OF POLITICAL ECONOMY
+
+master social science, and to permit economics w become imperialistic.
+When this occurs, the nature and basic assumptions of the discipline
+can lead the economist astray and limit its utility as a theory of political
+economy.
+   The first of these limitations is that economics artificially separates
+the economy from other aspects of society and accepts the existing so-
+ciopolitical framework as a given, including the distribution of power
+and property rights; the resource and other endowments of individuals,
+groups, and national societies; and the framework of social, political,
+and cultural institutions. The liberal world is viewed as one of homo-
+geneous, rational, and equal individuals living in a world free from po-
+litical boundaries and social constraints. Its "laws" prescribe a set of
+maximizing rules for economic actors regardless of where and with
+what they start; yet in real life, one's starting point most frequently de-
+termines where one finishes (Dahrendorf, 1979).
+    Another limitation of liberal economics as a theory is a tendency to
+disregard the justice or equity of the outcome of economic activities.
+Despite heroic efforts to fashion an "objective" welfare economics, the
+distribution of wealth within and among societies lies outside the pri-
+mary concern of liberal economics. There is some truth in the Marxist
+criticism that liberal economics is a tool kit for managing a capitalist or
+market economy. Bourgeois economics is, in the Marxist view, a disci-
+pline of engineering rather than a holistic science of society. It tells one
+how to achieve particular objectives at the least cost under a given set
+of constraints; it does not purport to answer questions regarding the
+future and destiny of man, questions dear to the hearts of Marxists and
+economic nationalists.
+   Liberalism is also limited by its assumption that exchange is always
+free and occurs in a competitive market between equals who possess
+full information and are thus enabled to gain mutually if they choose to
+exchange one value for another. Unfortunately, as Charles Lindblom
+has argued, exchange is seldom free and equal (Lindblom, I 977, pp.
+40-50). Instead, the terms of an exchange can be profoundly affected
+by coercion, differences in bargaining power (monopoly or monop-
+sony), and other essentially political factors. In effect, because it neg-
+lects both the effects of noneconomic factors on exchange and the ef-
+fects of exchange on politics, liberalism lacks a true "political
+economy."
+   A further limitation of liberal economics is that its analysis tends to
+be static. At least in the short run, the array of consumer demands, the
+institutional framework, and the technological environment are ac-
+cepted as constants. They are regarded as a set of constraints and op-
+
+                                                                         45
+
+
+
+
+                              This content downloaded from
+            128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                      All use subject to https://about.jstor.org/terms
+CHAPTER TWO
+
+portunities within which economic decisions and tradeoffs are made.
+Questions about the origins of, or the directions taken by, economic in-
+stitutions and the technological apparatus are, for the liberal, a second-
+ary matter. Liberal economists are incrementalists who believe that so-
+cial structures tend to change slowly in response to price signals.
+Although liberal economists have attempted to develop theories of eco-
+nomic and technological change, the crucial social, political, and tech-
+nological variables affecting change are considered to be exogenous
+and beyond the realm of economic analysis. As Marxists charge, liber-
+alism lacks a theory of the dynamics of international political economy
+and tends to assume the stability and the virtues of the economic status
+quo.
+   Liberal economics, with its laws for maximizing behavior, is based
+on a set of highly restrictive assumptions. No society has ever or could
+ever be composed of the true "economic man" of liberal theory. A
+functioning society requires affective ties and the subordination of in-
+dividual self-interest to larger social values; if this were not the case the
+society would fly apart (Polanyi, 1957). Yet Western society has gone
+far in harnessing for social and economic betterment a basic tendency
+in human beings toward self-aggrandizement (Baechler, 1971).
+Through release of the market mechanism from social and political
+constraints, Western civilization has reached a level of unprecedented
+affluence and has set an example that other civilizations wish to emu-
+late. It has done so, however, at the cost of other values. As liberal eco-
+nomics teaches, nothing is ever achieved without a cost.
+Critique of Economic Nationalism
+The foremost strength of economic nationalism is its focus on the state
+as the predominant actor in international relations and as an instru-
+ment of economic development. Although many have argued that
+modern economic and technological developments have made the na-
+tion-state an anachronism, at the end of the twentieth century the sys-
+tem of nation-states is actually expanding; societies throughout the
+world are seeking to create strong states capable of organizing and
+managing national economies, and the number of states in the world is
+increasing. Even in older states, the spirit of nationalist sentiments can
+easily be inflamed, as happened in the Falkland War of 1982. Al-
+though other actors such as transnational and international organiza-
+tions do exist and do influence international relations, the economic
+and military efficiency of the state makes it preeminent over all these
+other actors.
+   The second strength of nationalism is its stress on the importance of
+46
+
+
+
+
+                         This content downloaded from
+       128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                 All use subject to https://about.jstor.org/terms
+                        THREE IDEOLOGIES OF POLITICAL ECONOMY
+
+security and political interests in the organization and conduct of inter-
+national economic relations. One need not accept the nationalist em-
+phasis on the primacy of security considerations to appreciate that the
+security of the state is a necessary precondition for its economic and po-
+litical well-being in an anarchic and competitive state system. A state
+that fails to provide for its own security ceases to be independent.
+Whatever the objectives of the society, the effects of economic activities
+upon political independence and domestic welfare always rank high
+among its concerns (Strange, I98 sc, p. 234).
+    The third strength of nationalism is its emphasis on the political
+framework of economic activities, its recognition that markets must
+function in a world of competitive groups and states. The political re-
+lations among these political actors affect the operation of markets just
+as markets affect the political relations. In fact, the international polit-
+ical system constitutes one of the most important constraints on and
+determinant of markets. Since states seek to influence markets to their
+own individual advantage, the role of power is crucial in the creation
+and sustaining of market relations; even Ricardo's classic example of
+the exchange of British woolens for Portuguese wine was not free from
+the exercise of state power (Choucri, I98o, p. I I I). Indeed, as Carr has
+argued, every economic system must rest on a secure political base
+(Carr, I95I [I939]).
+    One weakness of nationalism is its tendency to believe that interna-
+tional economic relations constitute solely and at all times a zero-sum
+game, that is, that one state's gain must of necessity be another's loss.
+Trade, investment, and all other economic relations are viewed by the
+nationalist primarily in conflictual and distributive terms. Yet, if co-
+operation occurs, markets can bring mutual (albeit not necessarily
+equal) gain, as the liberal insists. The possibility of benefit for all is the
+basis of the international market economy. Another weakness of na-
+tionalism is due to the fact that the pursuit of power and the pursuit of
+wealth usually do conflict, at least in the short run. The amassing and
+exercising of military and other forms of power entail costs to the so-
+ciety, costs that can undercut its economic efficiency. Thus, as Adam
+Smith argued, the mercantilist policies of eighteenth-century states that
+identified money with wealth were detrimental to the growth of the real
+wealth created by productivity increases; he demonstrated that the
+wealth of nations would have been better served by policies of free
+trade. Similarly, the tendency today to identify industry with power can
+weaken the economy of a state. Development of industries without re-
+gard to market considerations or comparative advantage can weaken a
+society economically. Although states in a situation of conflict must on
+                                                                           47
+
+
+
+
+                               This content downloaded from
+             128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                       All use subject to https://about.jstor.org/terms
+CHAPTER TWO
+
+occasion pursue mercantilistic goals and policies, over the long term,
+pursuit of these policies can be self-defeating.
+   In addition, nationalism lacks a satisfactory theory of domestic so-
+ciety, the state, and foreign policy. It tends to assume that society and
+state form a unitary entity and that foreign policy is determined by an
+objective national interest. Yet, as liberals correctly stress, society is
+pluralistic and consists of individuals and groups (coalitions of individ-
+uals) that try to capture the apparatus of the state and make it serve
+their own political and economic interests. Although states possess
+varying degrees of social autonomy and independence in the making of
+policy, foreign policy (including foreign economic policy) is in large
+measure the outcome of the conflicts among dominant groups within
+each society. Trade protectionism and most other nationalist policies
+result from attempts by one factor of production or another (capital,
+labor, or land) to acquire a monopoly position and thereby to increase
+its share of the economic rents. Nationalist policies are most frequently
+designed to redistribute income from consumers and society as a whole
+to producer interests. 8
+   Nationalism can thus be interpreted as either a theory of state build-
+ing or a cloak for the interests of particular producer groups that are in
+a position to influence national policy. In their failure to appreciate
+fully or distinguish between the two possible meanings of economic na-
+tionalism, nationalists can be faulted for not applying, both to the do-
+mestic level and to the determination of foreign policy, their assump-
+tion that the political framework influences economic outcomes. They
+fail to take sufficient account of the fact that domestic political groups
+frequently use a nationalist rationale, especially that of national secu-
+rity, to promote their own interests.
+   Whereas in the past, land and capital were the primary carriers of na-
+tionalist sentiments, in advanced economies labor has become the most
+nationalistic and protectionist of the three factors of production. In a
+world of highly mobile capital and resources, labor seeks to use the
+state to advance its threatened interests. The increased power of labor
+in the contemporary welfare state, as I shall argue below, has become a
+major force for economic nationalism.
+   The validity of nationalists' emphasis on protectionism and indus-
+trialization is more difficult to ascertain. It is true that all great indus-
+trial powers have had strong states that protected and promoted their
+   8 The literature on the political economy of tariffs and other forms of trade protection-
+
+ism as rent-seeking is extensive. As noted earlier, the subject of economic policy making
+falls outside the scope of this book. Frey (r984b) is an excellent discussion of this ap-
+proach to tariff policy and related topics.
+
+
+
+
+                           This content downloaded from
+         128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                   All use subject to https://about.jstor.org/terms
+                          THREE IDEOLOGIES OF POLITICAL ECONOMY
+
+industries in the early stages of industrialization and that without such
+protectionism, the "infant" industries of developing economies prob-
+ably would not have survived the competition of powerful firms in
+more advanced economies. Yet it is also the case that high levels of pro-
+tectionism in many countries have led to the establishment of inefficient
+industries and even retarded economic development (Kindleberger,
+1978b, pp. 19-38). In the final quarter of the twentieth century, econ-
+omies like those of Taiwan and South Korea, which have limited pro-
+tectionism while favoring competitive export industries, have per-
+formed better than those less developed countries that have attempted
+to industrialize behind high tariff walls while pursuing a strategy of im-
+port substitution.
+   The nationalist's bias toward industry over agriculture also must get
+a mixed review. It is true that industry can have certain advantages over
+agriculture and that the introduction of industrial technology into a so-
+ciety has spillover effects that tend to transform and modernize all as-
+pects of the economy as it upgrades the quality of the labor force and
+increases the profitability of capitaJ.9 Yet one must remember that few
+societies have developed without a prior agricultural revolution and a
+high level of agricultural productivity (Lewis, 1978a). In fact, certain
+of the most prosperous economies of the world, for example, Den-
+mark, the American farm belt, and western Canada, are based on effi-
+cient agriculture (Viner, r 9 52). In all these societies, moreover, the state
+has promoted agricultural development.
+   One may conclude that the nationalists are essentially correct in their
+belief that the state must play an important role in economic develop-
+ment. A strong state is required to promote and, in some cases, to pro-
+tect industry as well as to foster an efficient agriculture. Yet this active
+role of the state, though a necessary condition, is not a sufficient con-
+dition. A strong and interventionist state does not guarantee economic
+development; indeed, it might retard it. The sufficient condition for
+economic development is an efficient economic organization of agri-
+culture and industry, and in most cases this is achieved through the op-
+eration of the market. Both of these political and economic conditions
+have characterized the developed economies and the rapidly industrial-
+izing countries of the contemporary international system.
+   It is important to realize that, whatever its relative merits or deficien-
+cies, economic nationalism has a persistent appeal. Throughout mod-
+ern history, the international location of economic activities has been a
+  • Cornwall ( 1977) provides a representative argument of the benefits of industry over
+agriculture in economic development.
+
+                                                                                    49
+
+
+
+
+                                This content downloaded from
+              128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                        All use subject to https://about.jstor.org/terms
+CHAPTER TWO
+
+leading concern of states. From the seventeenth century on states have
+pursued conscious policies of industrial and technological develop-
+ment. Both to achieve stable military power and in the belief that in-
+dustry provides a higher "value added" (see Chapter Three, note 26)
+than agriculture, the modern nation-state has had as one of its major
+objectives the establishment and protection of industrial power. As
+long as a conflictual international system exists, economic nationalism
+will retain its strong attraction.
+
+Critique of Marxist Theory
+Marxism correctly places the economic problem-the production and
+distribution of material wealth-where it belongs, at or near the center
+of political life. Whereas liberals tend to ignore the issue of distribution
+and nationalists are concerned primarily with the international distri-
+bution of wealth, Marxists focus on both the domestic and the inter-
+national effects of a market economy on the distribution of wealth.
+They call attention to the ways in which the rules or regimes governing
+trade, investment, and other international economic relations affect the
+distribution of wealth among groups and states (Cohen, 1977, p. 49). 10
+However, it is not necessary to subscribe to the materialist interpreta-
+tion of history or the primacy of class struggle in order to appreciate
+that the ways in which individuals earn their living and distribute
+wealth are a critical determinant of social structure and political behav-
+IOr.
+   Another contribution of Marxism is its emphasis on the nature and
+structure of the division of labor at both the domestic and international
+levels. As Marx and Engels correctly pointed out in The German Ide-
+ology, every division of labor implies dependence and therefore a polit-
+ical relationship (Marx and Engels, 1947 [r 846)). In a market economy
+the economic nexus among groups and states becomes of critical im-
+portance in determining their welfare and their political relations. The
+Marxist analysis, however, is too limited, because economic interde-
+pendence is not the only or even the most important set of interstate
+relations. The political and strategic relations among political actors
+are of equal or greater significance and cannot be reduced to merely
+economic considerations, at least not as Marxists define economics.
+   The Marxist theory of international political economy is also valua-
+ble in its focus on international political change. Whereas neither lib-
+eralism nor nationalism has a comprehensive theory of social change,
+
+  '"The volume edited by Krasner (I 982c) contains a wide-ranging discussion of the
+concept of international regimes.
+
+50
+
+
+
+
+                          This content downloaded from
+        128.6.45.205 on Wed, 11 Jan 2023 20:07:49 UTC
+                  All use subject to https://about.jstor.org/terms
+

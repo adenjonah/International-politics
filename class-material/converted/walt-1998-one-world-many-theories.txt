@@ -1,0 +1,914 @@
+# Source: walt-1998-one-world-many-theories.pdf
+# Converted: 2026-03-06 14:39
+# Note: Line numbers here differ from PDF page numbers
+---
+
+International Relations: One World, Many Theories
+Author(s): Stephen M. Walt
+Source: Foreign Policy , Spring, 1998, No. 110, Special Edition: Frontiers of Knowledge
+(Spring, 1998), pp. 29-32+34-46
+Published by: Slate Group, LLC
+
+Stable URL: https://www.jstor.org/stable/1149275
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+
+
+
+            is collaborating with JSTOR to digitize, preserve and extend access to Foreign Policy
+
+
+
+
+                                                    This content downloaded from
+                                  128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                                            All use subject to https://about.jstor.org/terms
+   International
+   Relations:
+   One World,
+   Many Theories
+by Stephen M. Walt
+
+
+
+
+ Why should policymakers and practitioners
+            care about the scholarly study of interna-
+            tional affairs? Those who conduct foreign
+ policy often dismiss academic theorists (frequently,
+one must admit, with good reason), but there is an inescapable link
+between the abstract world of theory and the real world of policy. We
+need theories to make sense of the blizzard of information that bom-
+bards us daily. Even policymakers who are contemptuous of "theory"
+must rely on their own (often unstated) ideas about how the world
+works in order to decide what to do. It is hard to make good policy if
+one's basic organizing principles are flawed, just as it is hard to construct
+good theories without knowing a lot about the real world. Everyone uses
+ theories-whether he or she knows it or not-and disagreements about
+policy usually rest on more fundamental disagreements about the basic
+forces that shape international outcomes.
+    Take, for example, the current debate on how to respond to China.
+From one perspective, China's ascent is the latest example of the ten-
+
+
+S T E P H EN M. WA LT is professor of political science and master of the social science colle-
+giate division at the University of Chicago. He is a member of FOREIGN POLICY'S editorial board.
+
+
+                                                                          SPRING 1998 29
+
+
+
+
+                                This content downloaded from
+              128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                        All use subject to https://about.jstor.org/terms
+International Relations
+
+
+
+
+dency for rising powers to alter the global balance of power in poten-
+tially dangerous ways, especially as their growing influence makes them
+more ambitious. From another perspective, the key to China's future
+conduct is whether its behavior will be modified by its integration into
+world markets and by the (inevitable?) spread of democratic principles.
+From yet another viewpoint, relations between China and the rest of
+the world will be shaped by issues of culture and identity: Will China
+see itself (and be seen by others) as a normal member of the world com-
+munity or a singular society that deserves special treatment?
+   In the same way, the debate over NATO expansion looks different
+depending on which theory one employs. From a "realist" perspective,
+NATO expansion is an effort to extend Western influence-well beyond
+the traditional sphere of U.S. vital interests-during a period of Russ-
+ian weakness and is likely to provoke a harsh response from Moscow.
+From a liberal perspective, however, expansion will reinforce the
+nascent democracies of Central Europe and extend NATO'S conflict-
+management mechanisms to a potentially turbulent region. A third
+view might stress the value of incorporating the Czech Republic, Hun-
+gary, and Poland within the Western security community, whose mem-
+bers share a common identity that has made war largely unthinkable.
+   No single approach can capture all the complexity of contemporary
+world politics. Therefore, we are better off with a diverse array of com-
+peting ideas rather than a single theoretical orthodoxy. Competition
+between theories helps reveal their strengths and weaknesses and
+spurs subsequent refinements, while revealing flaws in conventional
+wisdom. Although we should take care to emphasize inventiveness
+over invective, we should welcome and encourage the heterogeneity
+of contemporary scholarship.
+
+
+WHERE ARE WE COMING FROM?
+
+The study of international affairs is best understood as a pr
+petition between the realist, liberal, and radical traditions. R
+sizes the enduring propensity for conflict between sta
+identifies several ways to mitigate these conflictive tend
+radical tradition describes how the entire system of state rela
+transformed. The boundaries between these traditions are so
+and a number of important works do not fit neatly into an
+debates within and among them have largely defined the dis
+
+30 FOREIGN POLICY
+
+
+
+
+                              This content downloaded from
+            128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                      All use subject to https://about.jstor.org/terms
+                                                                             Walt
+
+
+
+
+Realism
+Realism was the dominant theoretical tradition throughout the Cold
+War. It depicts international affairs as a struggle for power among self-
+interested states and is generally pessimistic about the prospects for
+eliminating conflict and war. Realism dominated in the Cold War years
+because it provided simple but powerful explanations for war, alliances,
+imperialism, obstacles to cooperation, and other international phenom-
+ena, and because its emphasis on competition was consistent with the
+central features of the American-Soviet rivalry.
+  Realism is not a single theory, of course, and realist thought evolved
+considerably throughout the Cold War. "Classical" realists such as Hans
+Morgenthau and Reinhold Niebuhr believed that states, like human
+beings, had an innate desire to dominate others, which led them to fight
+wars. Morgenthau also stressed the virtues of the classical, multipolar,
+balance-of-power system and saw the bipolar rivalry between the Unit-
+ed States and the Soviet Union as especially dangerous.
+  By contrast, the "neorealist" theory advanced by Kenneth Waltz
+ignored human nature and focused on the effects of the international
+system. For Waltz, the international system consisted of a number of
+great powers, each seeking to survive. Because the system is anarchic
+(i.e., there is no central authority to protect states from one another),
+each state has to survive on its own. Waltz argued that this condition
+would lead weaker states to balance against, rather than bandwagon
+with, more powerful rivals. And contrary to Morgenthau, he claimed
+that bipolarity was more stable than multipolarity.
+  An important refinement to realism was the addition of offense-
+defense theory, as laid out by Robert Jervis, George Quester, and
+Stephen Van Evera. These scholars argued that war was more likely
+when states could conquer each other easily. When defense was easier
+than offense, however, security was more plentiful, incentives to expand
+declined, and cooperation could blossom. And if defense had the
+advantage, and states could distinguish between offensive and defensive
+weapons, then states could acquire the means to defend themselves
+without threatening others, thereby dampening the effects of anarchy.
+  For these "defensive" realists, states merely sought to survive and great
+powers could guarantee their security by forming balancing alliances and
+choosing defensive military postures (such as retaliatory nuclear forces).
+Not surprisingly, Waltz and most other neorealists believed that the
+United States was extremely secure for most of the Cold War. Their
+
+                                                                  SPRING 1998 31
+
+
+
+                            This content downloaded from
+          128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                    All use subject to https://about.jstor.org/terms
+International Relations
+
+
+
+
+principle fear was that it might squander its favorable position by adopt-
+ing an overly aggressive foreign policy. Thus, by the end of the Cold War,
+realism had moved away from Morgenthau's dark brooding about human
+nature and taken on a slightly more optimistic tone.
+
+Liberalism
+The principal challenge to realism came from a broad family of liber-
+al theories. One strand of liberal thought argued that economic inter-
+dependence would discourage states from using force against each
+other because warfare would threaten each side's prosperity. A second
+strand, often associated with President Woodrow Wilson, saw the
+spread of democracy as the key to world peace, based on the claim that
+democratic states were inherently more peaceful than authoritarian
+states. A third, more recent theory argued that international
+institutions such as the International Energy Agency and the Inter-
+national Monetary Fund could help overcome selfish state behavior,
+mainly by encouraging states to forego immediate gains for the greater
+benefits of enduring cooperation.
+  Although some liberals flirted with the idea that new transnational
+actors, especially the multinational corporation, were gradually
+encroaching on the power of states, liberalism generally saw states as the
+central players in international affairs. All liberal theories implied that
+cooperation was more pervasive than even the defensive version of real-
+ism allowed, but each view offered a different recipe for promoting it.
+
+
+Radical Approaches
+Until the 1980s, marxism was the main alternative to the mainstream
+realist and liberal traditions. Where realism and liberalism took the
+state system for granted, marxism offered both a different explanation
+for international conflict and a blueprint for fundamentally transform-
+ing the existing international order.
+   Orthodox marxist theory saw capitalism as the central cause of inter-
+national conflict. Capitalist states battled each other as a consequence
+of their incessant struggle for profits and battled socialist states because
+they saw in them the seeds of their own destruction. Neomarxist
+"dependency" theory, by contrast, focused on relations between
+advanced capitalist powers and less developed states and argued that the
+former-aided by an unholy alliance with the ruling classes of the
+developing world-had grown rich by exploiting the latter. The solu-
+
+32 FOREIGN POLICY
+
+
+
+
+                               This content downloaded from
+             128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                       All use subject to https://about.jstor.org/terms
+International Relations
+
+
+
+
+tion was to overthrow these parasitic elites and install a revolutionary
+government committed to autonomous development.
+  Both of these theories were largely discredited before the Cold War
+even ended. The extensive history of economic and military coopera-
+tion among the advanced industrial powers showed that capitalism did
+not inevitably lead to conflict. The bitter schisms that divided the
+communist world showed that socialism did not always promote har-
+mony. Dependency theory suffered similar empirical setbacks as it
+became increasingly clear that, first, active participation in the world
+economy was a better route to prosperity than autonomous socialist
+development; and, second, many developing countries proved them-
+selves quite capable of bargaining successfully with multinational cor-
+porations and other capitalist institutions.
+   As marxism succumbed to its various failings, its mantle was
+assumed by a group of theorists who borrowed heavily from the wave
+of postmodern writings in literary criticism and social theory. This
+"deconstructionist" approach was openly skeptical of the effort to
+devise general or universal theories such as realism or liberalism.
+Indeed, its proponents emphasized the importance of language and
+discourse in shaping social outcomes. However, because these scholars
+focused initially on criticizing the mainstream paradigms but did not
+offer positive alternatives to them, they remained a self-consciously
+dissident minority for most of the 1980s.
+
+Domestic Politics
+Not all Cold War scholarship on international affairs fit neatly into the
+realist, liberal, or marxist paradigms. In particular, a number of impor-
+tant works focused on the characteristics of states, governmental orga-
+nizations, or individual leaders. The democratic strand of liberal theory
+fits under this heading, as do the efforts of scholars such as Graham
+Allison and John Steinbruner to use organization theory and bureau-
+cratic politics to explain foreign policy behavior, and those of Jervis,
+Irving Janis, and others, which applied social and cognitive psycholo-
+gy. For the most part, these efforts did not seek to provide a general the-
+ory of international behavior but to identify other factors that might
+lead states to behave contrary to the predictions of the realist or liber-
+al approaches. Thus, much of this literature should be regarded as a
+complement to the three main paradigms rather than as a rival
+approach for analysis of the international system as a whole.
+
+34 FOREIGN POLICY
+
+
+
+
+                              This content downloaded from
+            128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                      All use subject to https://about.jstor.org/terms
+                                                                            Walt
+
+
+
+
+NEW WRINKLES IN OLD PARADIGMS
+
+Scholarship on international affairs has diversified sign
+the end of the Cold War. Non-American voices are more
+wider range of methods and theories are seen as legitim
+issues such as ethnic conflict, the environment, and the
+state have been placed on the agenda of scholars everyw
+   Yet the sense of deja vu is equally striking. Instead of resolv
+gle between competing theoretical traditions, the end of th
+merely launched a new series of debates. Ironically, even as
+embrace similar ideals of democracy, free markets, and hum
+scholars who study these developments are more divided tha
+
+Realism Redux
+Although the end of the Cold War led a few writers to declare that
+realism was destined for the academic scrapheap, rumors of its demise
+have been largely exaggerated.
+  A recent contribution of realist theory is its attention to the problem
+of relative and absolute gains. Responding to the institutionalists' claim
+that international institutions would enable states to forego short-term
+advantages for the sake of greater long-term gains, realists such as Joseph
+Grieco and Stephen Krasner point out that anarchy forces states to
+worry about both the absolute gains from cooperation and the way that
+gains are distributed among participants. The logic is straightforward: If
+one state reaps larger gains than its partners, it will gradually become
+stronger, and its partners will eventually become more vulnerable.
+  Realists have also been quick to explore a variety of new issues. Barry
+Posen offers a realist explanation for ethnic conflict, noting that the
+breakup of multiethnic states could place rival ethnic groups in an anar-
+chic setting, thereby triggering intense fears and tempting each group to
+use force to improve its relative position. This problem would be par-
+ticularly severe when each group's territory contained enclaves inhabit-
+ed by their ethnic rivals-as in the former Yugoslavia-because each
+side would be tempted to "cleanse" (preemptively) these alien minori-
+ties and expand to incorporate any others from their ethnic group that
+lay outside their borders. Realists have also cautioned that NATO,
+absent a clear enemy, would likely face increasing strains and that
+expanding its presence eastward would jeopardize relations with Russia.
+Finally, scholars such as Michael Mastanduno have argued that U.S.
+
+                                                                SPRING 1998 35
+
+
+                           This content downloaded from
+         128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                   All use subject to https://about.jstor.org/terms
+International Relations
+
+
+
+
+                          Waiting for Mr. X
+   The post-Cold War world still awaits its "X" article. Although many
+   have tried, no one has managed to pen the sort of compelling analysis
+   that George Kennan provided for an earlier era, when he articulated the
+   theory of containment. Instead of a single new vision, the most impor-
+   tant development in post-Cold War writings on world affairs is the con-
+   tinuing clash between those who believe world politics has been (or is
+   being) fundamentally transformed and those who believe that the future
+   will look a lot like the past.
+          Scholars who see the end of the Cold War as a watershed fall into
+    two distinct groups. Many experts still see the state as the main actor
+    but believe that the agenda of states is shifting from military competi-
+    tion to economic competitiveness, domestic welfare, and environmen-
+    tal protection. Thus, President Bill Clinton has embraced the view
+    that "enlightened self-interest [and] shared values.., will compel us to
+    cooperate in more constructive ways." Some writers attribute this
+    change to the spread of democracy, others to the nuclear stalemate,
+    and still others to changes in international norms.
+           An even more radical perspective questions whether the state is
+    still the most important international actor. Jessica Mathews believes
+    that "the absolutes of the Westphalian system [of] territorially fixed
+    states . . . are all dissolving," and John Ruggie argues that we do not
+    even have a vocabulary that can adequately describe the new forces
+    that (he believes) are transforming contemporary world politics.
+    Although there is still no consensus on the causes of this trend, the
+    view that states are of decreasing relevance is surprisingly common
+    among academics, journalists, and policy wonks.
+         Prominent realists such as Christopher Layne and Kenneth Waltz
+    continue to give the state pride of place and predict a return to familiar
+    patterns of great power competition. Similarly, Robert Keohane and
+    other institutionalists also emphasize the central role of the state and
+    argue that institutions such as the European Union and NATO are
+    important precisely because they provide continuity in the midst of dra-
+    matic political shifts. These authors all regard the end of the Cold War
+    as a far-reaching shift in the global balance of power but do not see it as
+    a qualitative transformation in the basic nature of world politics.
+         Who is right? Too soon to tell, but the debate bears watching
+    in the years to come.
+                                                                         -S.W.
+
+36 FOREIGN POLICY
+
+
+
+
+                              This content downloaded from
+            128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                      All use subject to https://about.jstor.org/terms
+                                                                                 Walt
+
+
+
+
+foreign policy is generally consistent with realist principles, insofar as its
+actions are still designed to preserve U.S. predominance and to shape a
+postwar order that advances American interests.
+   The most interesting conceptual development within the realist par-
+adigm has been the emerging split between the "defensive" and "offen-
+sive" strands of thought. Defensive realists such as Waltz, Van Evera,
+and Jack Snyder assumed that states had little intrinsic interest in mili-
+tary conquest and argued that the costs of expansion generally out-
+weighed the benefits. Accordingly, they maintained that great power
+wars occurred largely because domestic groups fostered exaggerated per-
+ceptions of threat and an excessive faith in the efficacy of military force.
+   This view is now being challenged along several fronts. First, as Ran-
+dall Schweller notes, the neorealist assumption that states merely seek
+to survive "stacked the deck" in favor of the status quo because it pre-
+cluded the threat of predatory revisionist states-nations such as Adolf
+Hitler's Germany or Napoleon Bonaparte's France that "value what
+they covet far more than what they possess" and are willing to risk anni-
+hilation to achieve their aims. Second, Peter Liberman, in his book
+Does Conquest Pay?, uses a number of historical cases-such as the Nazi
+occupation of Western Europe and Soviet hegemony over Eastern
+Europe-to show that the benefits of conquest often exceed the costs,
+thereby casting doubt on the claim that military expansion is no longer
+cost-effective. Third, offensive realists such as Eric Labs, John
+Mearsheimer, and Fareed Zakaria argue that anarchy encourages all
+states to try to maximize their relative strength simply because no state
+can ever be sure when a truly revisionist power might emerge.
+   These differences help explain why realists disagree over issues such
+as the future of Europe. For defensive realists such as Van Evera, war is
+rarely profitable and usually results from militarism, hypemrnationalism,
+or some other distorting domestic factor. Because Van Evera believes
+such forces are largely absent in post-Cold War Europe, he concludes
+that the region is "primed for peace." By contrast, Mearsheimer and
+other offensive realists believe that anarchy forces great powers to com-
+pete irrespective of their internal characteristics and that security com-
+petition will return to Europe as soon as the U.S. pacifier is withdrawn.
+
+New Life for Liberalism
+The defeat of communism sparked a round of self-congratulation in the
+West, best exemplified by Francis Fukuyama's infamous claim that
+
+                                                                   SPRING 1998 37
+
+
+
+                             This content downloaded from
+           128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                     All use subject to https://about.jstor.org/terms
+       International Relations
+
+
+
+
+COMPETING
+                        REALISM                LIBERALISM
+PARADIGMS                                                                   CONSTRUCTIVISMI
+
+
+Main Theoretical Self-interested states Concern for power State behavior shaped
+Proposition compete constantly for overridden by economic/ by l61ite beliefs,
+                      power or security political considerations collective norms,
+                                               (desire for prosperity, and social identities
+                                               commitment to
+
+                                               liberal values)
+
+
+Main Units of Analysis States States Individuals
+                                                                              (especially l61ites)
+
+Main Instruments Economic and Varies (international Ideas and
+                especially military institutions, economic discourse
+                      power exchange, promotion
+                                               of democracy)
+
+Modern Theorists Hans Morgenthau, Michael Doyle, Alexander Wendt,
+              Kenneth Waltz Robert Keohane John Ruggie
+Representative Waltz, Theory of Keohane, Wendt, "Anarchy Is
+Modern Works International Politics After Hegemony What States Make of It"
+                      Mearsheimer, "Back to Fukuyama, "The End of (International
+                      the Future: Instability History?" (National Organization, 1992);
+                      in Europe after Interest, 1989) Koslowski &
+                      the Cold War" Kratochwil, "Under-
+                      (International Security, standing Changes in
+                       1990) International Politics"
+                                                                              (International
+                                                                              Organization, 1994)
+
+Post-Cold War Resurgence of Increased cooperation Agnostic because it
+Prediction overt great power as liberal values, free cannot predict the
+                      competition markets, and interna- content of ideas
+                                               tional institutions spreac
+
+Main Limitation Does not account for Tends to ignore the Better at describing the
+                      international change role of power past than anticipating
+                                                                              the future
+
+
+
+
+      38 FOREIGN POLICY
+
+
+
+
+                                 This content downloaded from
+               128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                         All use subject to https://about.jstor.org/terms
+                                                                              Walt
+
+
+
+
+humankind had now reached the "end of history." History has paid lit-
+tle attention to this boast, but the triumph of the West did give a
+notable boost to all three strands of liberal thought.
+   By far the most interesting and important development has been the
+lively debate on the "democratic peace." Although the most recent
+phase of this debate had begun even before the Soviet Union collapsed,
+it became more influential as the number of democracies began to
+increase and as evidence of this relationship began to accumulate.
+   Democratic peace theory is a refinement of the earlier claim that
+democracies were inherently more peaceful than autocratic states. It rests
+on the belief that although democracies seem to fight wars as often as
+other states, they rarely, if ever, fight one another. Scholars such as
+Michael Doyle, James Lee Ray, and Bruce Russett have offered a number
+of explanations for this tendency, the most popular being that democra-
+cies embrace norms of compromise that bar the use of force against
+groups espousing similar principles. It is hard to think of a more influen-
+tial, recent academic debate, insofar as the belief that "democracies don't
+fight each other" has been an important justification for the Clinton
+administration's efforts to enlarge the sphere of democratic rule.
+   It is therefore ironic that faith in the "democratic peace" became the
+basis for U.S. policy just as additional research was beginning to identify
+several qualifiers to this theory. First, Snyder and Edward Mansfield
+pointed out that states may be more prone to war when they are in the
+midst of a democratic transition, which implies that efforts to export
+democracy might actually make things worse. Second, critics such as
+Joanne Gowa and David Spiro have argued that the apparent absence of
+war between democracies is due to the way that democracy has been
+defined and to the relative dearth of democratic states (especially before
+1945). In addition, Christopher Layne has pointed out that when
+democracies have come close to war in the past their decision to remain
+at peace ultimately had little do with their shared democratic character.
+Third, clearcut evidence that democracies do not fight each other is con-
+fined to the post-1945 era, and, as Gowa has emphasized, the absence of
+conflict in this period may be due more to their common interest in con-
+taining the Soviet Union than to shared democratic principles.
+   Liberal institutionalists likewise have continued to adapt their own
+theories. On the one hand, the core claims of institutionalist theory have
+become more modest over time. Institutions are now said to facilitate
+cooperation when it is in each state's interest to do so, but it is widely
+
+                                                                   SPRING 1998 39
+
+
+                             This content downloaded from
+           128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                     All use subject to https://about.jstor.org/terms
+International Relations
+
+
+
+
+agreed that they cannot force states to behave in ways that are contrary
+to the states' own selfish interests. [For further discussion, please see
+Robert Keohane's article.] On the other hand, institutionalists such as
+John Duffield and Robert McCalla have extended the theory into new
+substantive areas, most notably the study of NATO. For these scholars,
+NATO'S highly institutionalized character helps explain why it has been
+able to survive and adapt, despite the disappearance of its main adversary.
+   The economic strand of liberal theory is still influential as well. In par-
+ticular, a number of scholars have recently suggested that the "globaliza-
+tion" of world markets, the rise of transnational networks and
+nongovernmental organizations, and the rapid spread of global commu-
+nications technology are undermining the power of states and shifting
+attention away from military security toward economics and social wel-
+fare. The details are novel but the basic logic is familiar: As societies
+around the globe become enmeshed in a web of economic and social
+connections, the costs of disrupting these ties will effectively preclude
+unilateral state actions, especially the use of force.
+   This perspective implies that war will remain a remote possibility
+among the advanced industrial democracies. It also suggests that bring-
+ing China and Russia into the relentless embrace of world capitalism is
+the best way to promote both prosperity and peace, particularly if this
+process creates a strong middle class in these states and reinforces pres-
+sures to democratize. Get these societies hooked on prosperity and com-
+petition will be confined to the economic realm.
+   This view has been challenged by scholars who argue that the actu-
+al scope of "globalization" is modest and that these various transactions
+still take place in environments that are shaped and regulated by states.
+Nonetheless, the belief that economic forces are superseding tradition-
+al great power politics enjoys widespread acceptance among scholars,
+pundits, and policymakers, and the role of the state is likely to be an
+important topic for future academic inquiry.
+
+Constructivist Theories
+Whereas realism and liberalism tend to focus on material factors such as
+power or trade, constructivist approaches emphasize the impact of ideas.
+Instead of taking the state for granted and assuming that it simply seeks
+to survive, constructivists regard the interests and identities of states as
+a highly malleable product of specific historical processes. They pay
+close attention to the prevailing discourse(s) in society because dis-
+
+40 FOREIGN POLICY
+
+
+
+
+                              This content downloaded from
+            128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                      All use subject to https://about.jstor.org/terms
+                                                                              Walt
+
+
+
+
+course reflects and shapes beliefs and interests, and establishes accepted
+norms of behavior. Consequently, constructivism is especially attentive
+to the sources of change, and this approach has largely replaced marx-
+ism as the preeminent radical perspective on international affairs.
+   The end of the Cold War played an important role in legitimating
+constructivist theories because realism and liberalism both failed to
+anticipate this event and had some trouble explaining it. Construc-
+tivists had an explanation: Specifically, former president Mikhail
+Gorbachev revolutionized Soviet foreign policy because he embraced
+new ideas such as "common security."
+   Moreover, given that we live in an era where old norms are being
+challenged, once clear boundaries are dissolving, and issues of identi-
+ty are becoming more salient, it is hardly surprising that scholars have
+been drawn to approaches that place these issues front and center.
+From a constructivist perspective, in fact, the central issue in the
+post-Cold War world is how different groups conceive their identities
+and interests. Although power is not irrelevant, constructivism
+emphasizes how ideas and identities are created, how they evolve, and
+how they shape the way states understand and respond to their situa-
+tion. Therefore, it matters whether Europeans define themselves pri-
+marily in national or continental terms; whether Germany and Japan
+redefine their pasts in ways that encourage their adopting more active
+international roles; and whether the United States embraces or rejects
+its identity as "global policeman."
+   Constructivist theories are quite diverse and do not offer a unified
+set of predictions on any of these issues. At a purely conceptual level,
+Alexander Wendt has argued that the realist conception of anarchy
+does not adequately explain why conflict occurs between states. The
+real issue is how anarchy is understood-in Wendt's words, "Anarchy
+is what states make of it." Another strand of constructivist theory has
+focused on the future of the territorial state, suggesting that transna-
+tional communication and shared civic values are undermining tradi-
+tional national loyalties and creating radically new forms of political
+association. Other constructivists focus on the role of norms, arguing
+that international law and other normative principles have eroded ear-
+lier notions of sovereignty and altered the legitimate purposes for
+which state power may be employed. The common theme in each of
+these strands is the capacity of discourse to shape how political actors
+define themselves and their interests, and thus modify their behavior.
+
+                                                                   SPRING 1998 41
+
+
+
+                             This content downloaded from
+           128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                     All use subject to https://about.jstor.org/terms
+International Relations
+
+
+
+
+Domestic Politics Reconsidered
+As in the Cold War, scholars continue to explore the impact of domes-
+tic politics on the behavior of states. Domestic politics are obviously
+central to the debate on the democratic peace, and scholars such as
+Snyder, Jeffrey Frieden, and Helen Milner have examined how domes-
+tic interest groups can distort the formation of state preferences and lead
+to suboptimal international behavior. George Downs, David Rocke,
+and others have also explored how domestic institutions can help states
+deal with the perennial problem of uncertainty, while students of psy-
+chology have applied prospect theory and other new tools to explain
+why decision makers fail to act in a rational fashion. [For further dis-
+cussion about foreign policy decision making, please see the article by
+Margaret Hermann and Joe Hagan.]
+   The past decade has also witnessed an explosion of interest in the
+concept of culture, a development that overlaps with the constructivist
+emphasis on the importance of ideas and norms. Thus, Thomas Berger
+and Peter Katzenstein have used cultural variables to explain why Ger-
+many and Japan have thus far eschewed more self-reliant military poli-
+cies; Elizabeth Kier has offered a cultural interpretation of British and
+French military doctrines in the interwar period; and lain Johnston has
+traced continuities in Chinese foreign policy to a deeply rooted form of
+"cultural realism." Samuel Huntington's dire warnings about an immi-
+nent "clash of civilizations" are symptomatic of this trend as well, inso-
+far as his argument rests on the claim that broad cultural affinities are
+now supplanting national loyalties. Though these and other works
+define culture in widely varying ways and have yet to provide a full
+explanation of how it works or how enduring its effects might be, cul-
+tural perspectives have been very much in vogue during the past five
+years. This trend is partly a reflection of the broader interest in cultural
+issues in the academic world (and within the public debate as well) and
+partly a response to the upsurge in ethnic, nationalist, and cultural con-
+flicts since the demise of the Soviet Union.
+
+
+TOMORROW'S CONCEPTUAL TOOLBOX
+
+While these debates reflect the diversity of contemporary scholar
+international affairs, there are also obvious signs of convergence. M
+
+ists recognize that nationalism, militarism, ethnicity, and other d
+factors are important; liberals acknowledge that power is central t
+
+42 FOREIGN POLICY
+
+
+
+
+                               This content downloaded from
+             128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                       All use subject to https://about.jstor.org/terms
+                                                                                 Walt
+
+
+
+
+national behavior; and some constructivists admit that ideas will have
+greater impact when backed by powerful states and reinforced by enduring
+material forces. The boundaries of each paradigm are somewhat perme-
+able, and there is ample opportunity for intellectual arbitrage.
+   Which of these broad perspectives sheds the most light on contem-
+porary international affairs, and which should policymakers keep most
+firmly in mind when charting our course into the next century?
+Although many academics (and more than a few policymakers) are
+loathe to admit it, realism remains the most compelling general frame-
+work for understanding international relations. States continue to pay
+close attention to the balance of power and to worry about the possi-
+bility of major conflict. Among other things, this enduring preoccupa-
+tion with power and security explains why many Asians and Europeans
+are now eager to preserve-and possibly expand-the U.S. military
+presence in their regions. As Czech president Vaiclav Havel has
+warned, if NATO fails to expand, "we might be heading for a new glob-
+al catastrophe ... [which] could cost us all much more than the two
+world wars." These are not the words of a man who believes that great
+power rivalry has been banished forever.
+   As for the United States, the past decade has shown how much it likes
+being "number one" and how determined it is to remain in a predominant
+position. The United States has taken advantage of its current superiori-
+ty to impose its preferences wherever possible, even at the risk of irritat-
+ing many of its long-standing allies. It has forced a series of one-sided arms
+control agreements on Russia, dominated the problematic peace effort in
+Bosnia, taken steps to expand NATO into Russia's backyard, and become
+increasingly concerned about the rising power of China. It has called
+repeatedly for greater reliance on multilateralism and a larger role for
+international institutions, but has treated agencies such as the United
+Nations and the World Trade Organization with disdain whenever their
+actions did not conform to U.S. interests. It refused to join the rest of the
+world in outlawing the production of landmines and was politely unco-
+operative at the Kyoto environmental summit. Although U.S. leaders are
+adept at cloaking their actions in the lofty rhetoric of "world order," naked
+self-interest lies behind most of them. Thus, the end of the Cold War did
+not bring the end of power politics, and realism is likely to remain the sin-
+gle most useful instrument in our intellectual toolbox.
+    Yet realism does not explain everything, and a wise leader would
+also keep insights from the rival paradigms in mind. Liberal theories
+
+                                                                    SPRING 1998 43
+
+
+                              This content downloaded from
+            128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                      All use subject to https://about.jstor.org/terms
+International Relations
+
+
+
+
+identify the instruments that states can use to achieve shared inter-
+ests, highlight the powerful economic forces with which states and
+societies must now contend, and help us understand why states may
+differ in their basic preferences. Paradoxically, because U.S. protec-
+tion reduces the danger of regional rivalries and reinforces the "liber-
+al peace" that emerged after 1945, these factors may become relatively
+more important, as long as the United States continues to provide
+security and stability in many parts of the world.
+   Meanwhile, constructivist theories are best suited to the analysis of
+how identities and interests can change over time, thereby producing
+subtle shifts in the behavior of states and occasionally triggering far-
+reaching but unexpected shifts in international affairs. It matters if
+political identity in Europe continues to shift from the nation-state to
+more local regions or to a broader sense of European identity, just as it
+matters if nationalism is gradually supplanted by the sort of "civiliza-
+tional" affinities emphasized by Huntington. Realism has little to say
+about these prospects, and policymakers could be blind-sided by
+change if they ignore these possibilities entirely.
+   In short, each of these competing perspectives captures important
+aspects of world politics. Our understanding would be impoverished
+were our thinking confined to only one of them. The "compleat diplo-
+mat" of the future should remain cognizant of realism's emphasis on the
+inescapable role of power, keep liberalism's awareness of domestic forces
+in mind, and occasionally reflect on constructivism's vision of change.
+
+
+
+WANT TO KNOW MORE?
+
+For a fair-minded survey of the realist, liberal, and m
+see Michael Doyle's Ways of War and Peace (New Y
+1997). A guide to some recent developments in in
+thought is Doyle & G. John Ikenberry, eds., New
+national Relations Theory (Boulder, CO: Westview
+  Those interested in realism should examine The P
+Contemporary Realism and International Security
+MIT Press, 1995) by Michael Brown, Sean Lynn-Jon
+eds.; "Offensive Realism and Why States Expand
+(Security Studies, Summer 1997) by Eric Labs; and
+(International Organization, Summer 1997) by Stephen
+
+44 FOREIGN POLICY
+
+
+
+
+                              This content downloaded from
+            128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                      All use subject to https://about.jstor.org/terms
+                                                                               Walt
+
+
+
+
+native realist assessments of contemporary world politics, see John
+Mearsheimer's "Back to the Future: Instability in Europe after the
+Cold War" (International Security, Summer 1990) and Robert Jervis'
+"The Future of World Politics: Will It Resemble the Past?" (Interna-
+tional Security, Winter 1991-92). A realist explanation of ethnic con-
+flict is Barry Posen's "The Security Dilemma and Ethnic Conflict"
+(Survival, Spring 1993); an up-to-date survey of offense-defense theory
+can be found in "The Security Dilemma Revisited" by Charles Glaser
+(World Politics, October 1997); and recent U.S. foreign policy is
+explained in Michael Mastanduno's "Preserving the Unipolar
+Moment: Realist Theories and U.S. Grand Strategy after the Cold
+War" (International Security, Spring 1997).
+   The liberal approach to international affairs is summarized in
+Andrew Moravcsik's "Taking Preferences Seriously: A Liberal Theo-
+ry of International Politics" (International Organization, Autumn
+1997). Many of the leading contributors to the debate on the democra-
+tic peace can be found in Brown & Lynn-Jones, eds., Debating the
+Democratic Peace (Cambridge, MA: MIT Press, 1996) and Miriam
+Elman, ed., Paths to Peace: Is Democracy the Answer? (Cambridge,
+MA: MIT Press, 1997). The contributions of institutionalist theory and
+the debate on relative gains are summarized in David Baldwin, ed., Neo-
+realism and Neoliberalism: The Contemporary Debate (New York,
+NY: Columbia University Press, 1993). An important critique of the
+institutionalist literature is Mearsheimer's "The False Promise of Inter-
+national Institutions" (Intemrnational Security, Winter 1994-95), but one
+should also examine the responses in the Summer 1995 issue. For appli-
+cations of institutionalist theory to NATO, see John Duffield's "NATO's
+Functions after the Cold War" (Political Science Quarterly, Winter
+1994-95) and Robert McCalla's "NATO's Persistence after the Cold
+War" (International Organization, Summer 1996).
+   Authors questioning the role of the state include Susan Strange in
+The Retreat of the State: The Diffusion of Power in the World Econ-
+omy (Cambridge: Cambridge University Press, 1996); and Jessica Math-
+ews in "Power Shift" (Foreign Affairs, January/February 1997). The
+emergence of the state is analyzed by Hendrik Spruyt in The Sovereign
+State and Its Competitors (Princeton, NJ: Princeton University Press,
+1994), and its continued importance is defended in Globalization in
+Question: The International Economy and the Possibilities of Gover-
+nance (Cambridge: Polity, 1996) by Paul Hirst and Grahame Thomp-
+
+                                                                    SPRING 1998 45
+
+
+                              This content downloaded from
+            128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                      All use subject to https://about.jstor.org/terms
+International Affairs
+
+
+
+
+son, and Governing the Global Economy: International Finance and
+the State (Cambridge, MA: Harvard University Press, 1994) by Ethan
+Kapstein. Another defense (from a somewhat unlikely source) is "The
+World Economy: The Future of the State" (The Economist, Septem-
+ber 20, 1997), and a more academic discussion of these issues is Peter
+Evans' "The Eclipse of the State? Reflections on Stateness in an Era
+of Globalization" (World Politics, October 1997).
+   Readers interested in constructivist approaches should begin with
+Alexander Wendt's "Anarchy Is What States Make of It: The Social
+Construction of Power Politics" (International Organization, Spring
+1992), while awaiting his Social Theory of International Politics
+(Cambridge: Cambridge University Press, forthcoming). A diverse
+array of cultural and constructivist approaches may also be found in
+Peter Katzenstein, ed., The Culture of National Security (New York,
+NY: Columbia University Press, 1996) and Yosef Lapid & Friedrich
+Kratochwil, eds., The Return of Culture and Identity in IR Theory
+(Boulder: CO: Lynne Rienner, 1996).
+   For links to relevant Web sites, as well as a comprehensive index of
+related articles, access www.foreignpolicy.com.
+
+
+
+
+      aheanwaaetl g place o
+      ah fregng gg icyCmuiy
+
+
+  http://www.foreignpolicy.com
+ Selected full-text articles from the current issue of
+ FOREIGN POLICY * Access to international data and
+ resources * Over 150 related Web site links * Interactive
+ Letters to the Editor * Debates * 10 years of archival
+ summaries and more to come...
+
+
+                          Access the issues!
+
+
+                              This content downloaded from
+            128.6.45.205 on Tue, 29 Aug 2023 18:07:16 +00:00
+                      All use subject to https://about.jstor.org/terms
+

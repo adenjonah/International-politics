@@ -1,0 +1,1844 @@
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+4
+The State and Societal Level
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Explaining war in terms of causal factors internal to states is an old tradition in the study of international
+relations. In his influential book Man, the State, and War, Waltz (1959) traces a long line of “second-image”
+theorists who locate the causes of war in the conditions and processes within states. He examined theories
+that focused on the international political and economic structures of states and societies, with particular
+attention to liberal theories and to Marxist–Leninist theories. As we noted earlier, however, Waltz (1979)
+believed that the fundamental causes of war were located at the systemic level, so he was critical of most
+nation-state-level theories of war and their prescriptions for a more peaceful world.
+There is a wide range of more specific arguments through which state structures, conditions, and
+processes are said to increase the likelihood of war. Some cultures or ideologies may be particularly warlike,
+though Wright ([1942]1965) found little evidence to support that popular argument. Kant, Bentham, and
+other Enlightenment philosophers believed that the warfare that had plagued Europe for centuries could be
+traced to the personal and political interests of the aristocratic leaderships that ruled territorial states. These
+scholars argued that states with representative institutions would be much less likely to wage war because
+those systems invest ultimate political authority in the hands of those who must suffer the hardships of war
+(Kant, [1795]1949).
+Marx and his followers focused attention on the economic rather than political organization of societies,
+and argued that modern war arises from the economic imperatives of capitalist societies and the inequitable
+distribution of wealth within them (Lenin, [1916]1939). A world of socialist states based on classless societies,
+they argued, would suffer little war. Other scholars have focused on domestic political institutions, cultures,
+ideologies, and religions as sources of war.1 In the past half century more attention has been given to
+nationalism as a leading cause of war, with particular attention to the role of ethnonationalism in civil war.
+The degree of emphasis on the state and societal level of analysis in the causes of war has varied over
+time. It has also varied by discipline. Especially beginning in the 1960s, contemporary historians began to
+place enormous emphasis on the role of these societal-level factors.2 At that time, however, international
+relations theorists in political science continued to focus on system-level realist variables in their study of
+war (Morgenthau, 1967; Waltz, 1979), as Vasquez (1998b) and Walker and Morton (2005) have shown in their
+systematic assessment of the field. International relations scholars began to develop new decision-making
+paradigms at both the organizational (Allison, 1971) and individual levels (Jervis, 1976; Lebow, 1981) in the
+1970s and early 1980s, but they gave relatively little attention to societal-level variables (Levy, 1989b).
+The focus of international relations scholars began to change in the late 1980s, and today there is as
+much attention devoted to societal sources of war as to any other level. A major factor leading to this shift
+was the growing interest in the “democratic peace,” after scholars realized that democracies rarely if ever go
+to war with each other. The study of the democratic peace has been one of the most influential lines of
+research in the international relations field for the last two decades, and it has generated enormous interest
+in other aspects of the security behavior of democracies. Scholars have also devoted a lot of attention to the
+diversionary theory of war and, more recently, to the impact of the domestic political economy on incentives
+and opportunities for war and peace. In the study of civil war, to which we return in chapter 7, there is
+enormous scholarly interest in ethnic and religious identity, the political capacity of states, levels of
+economic welfare, migration, and other factors that operate at the societal level or that include societal
+factors as a major step in the hypothesized causal chain leading to war.
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+It is important to recall at this point that domestic-level theories, if they consist exclusively of variables
+internal to the state, cannot provide a theoretically complete explanation of the causes of war and peace. As
+we emphasized in the introductory chapter, war and other forms of strategic interaction are the joint
+product of the actions of two or more states at the dyadic or systemic levels. Internal-level variables–
+whether at the societal, bureaucratic/organizational, or individual levels–are not logically sufficient to explain
+the outcomes of strategic interaction between states. Such explanations require the inclusion of dyadic or
+systemic-level causal variables. This is what Waltz (1979) meant when he argued, in the course of his critique
+of Marxist–Leninist theories, that a theory of foreign policy is not a theory of international politics.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+It is quite useful for many purposes to distinguish between state-level and societal-level variables. This
+practice is standard among scholars in international political economy (Ikenberry, Lake, and Mastanduno,
+1988), but is also common in many analyses of war, peace, and international security (Rosenau, 1966). For
+the purposes of organizing our survey of theories of the causes of war, however, we follow Waltz’s (1959)
+original formulation and combine state and societal variables in a single category. Our rationale is that in
+many theories it is extraordinarily difficult to disentangle state-and societal-level variables. Many
+explanations of the democratic peace, for example, combine the institutional structure of democratic states
+with the role of democratic political cultures that leave publics averse to war and particularly to the
+casualties of war. Similarly, some scholars who focus on political elites emphasizes both the structure of
+power within the state and the nature of the societal interests that form the ruling coalitions.
+With these considerations in mind, we turn to some of the leading state/ societal theories of interstate
+war. We begin with Marxist–Leninist theories of imperialism, which trace international conflict to the
+interests and influ-ence of the capitalist class within society. After a brief examination of Schumpeter’s
+critique of Marxist–Leninist theory and his emphasis on the dominant influence of a military rather than an
+economic elite, we then consider a number of coalitional theories that argue that decisions for expansion or
+other grand strategies are the product of the actions of coalitions of different actors that act on the basis of
+their own parochial interests. These include Snyder’s (1991) theory of logrolled coalitions and the theories of
+the political economy of grand strategy advanced by Narizny (2007) and Lobell (2006). Next is a discussion of
+the democratic peace, the evidence behind it, and theories constructed to explain it. We end with an
+examination of Huntington’s (1993b, 1996) “clash of civilizations” thesis.
+
+Marxist–Leninist Theories of Imperialism and War
+One of the oldest and most comprehensive of all societal-level approaches to international conflict can be
+found in the Marxist–Leninist theory of imperialism. Implicit in Marxist–Leninist theories, and in certain other
+forms of elite explanations of imperialism and war, is the view that these practices are costly for society in
+human and economic terms, that any benefits from war fall far short of justifying those costs, and that the
+capitalist class benefits from war and is ultimately responsible for war. The capitalist class captures or
+“hijacks” the state and uses the apparatus of the state to formulate policies to advance its own parochial
+interests while shifting most of the costs of those policies to other societal groups. In terms of the
+Clausewitzian framework emphasized earlier, imperialism and war, instead of being instruments of state
+policy for the advancement of state interests, are instruments of the ruling elite for the advancement of class
+interests.3
+Karl Marx was a nineteenth-century philosopher who argued that all social and political relationships were
+determined by the underlying economic structure and economic relationships, particularly the relationship
+between the owners of the means of production (capitalists) and the workers (the proletariat). The ongoing
+class struggle between the capitalists and the proletariat was, for Marx, the driving force of history. Marx
+himself focused primarily on domestic politics and did not develop a systematic international theory. The
+international component was added primarily by Lenin ([1916]1939), who built on the ideas of Hobson
+([1902]1965), Hilferding ([1910]1981), and Luxemburg ([1913]1964). Given Lenin’s central role we often refer
+to the “Marxist–Leninist” theory of imperialism, though there are in fact a number of variations of the theory
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+(Kubalkova and Cruickshank 1980; Semmel, 1981). These theories all include the basic argument that
+international conflict can be traced to the nature of capitalist economic systems and the interests of the
+capitalist class.
+In the standard Marxist–Leninist worldview, capitalist systems are not self-sufficient. They contain a
+number of “contradictions” that generate an inherent tendency toward stagnation and collapse in the
+absence of some kind of additional stimulus. That stimulus is provided by aggressive or imperialist foreign
+policies, which stabilize capitalist economies and enhance the profits of the capitalist class through several
+related causal mechanisms. This is clearly a societal-level theory, in which societal-level independent
+variables explain the foreign policy actions of states.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Although the vast majority of Marxist–Leninists emphasize the domestic sources of imperialism and war,
+it is important to note that some focus on system-level sources of international patterns, behavior, and
+conflict, and particularly on the structure of the world political economy. They emphasize relations of
+dominance and dependence between a wealthy “core” that was historically centered in Europe and a
+“periphery” located outside of Europe. Similar arguments are advanced by proponents of “world systems
+theory” in sociology. Wallerstein (1984), for example, traces such a system back to 1500 and examines
+hegemonic wars for the control of the system.4
+
+Earlier, in chapter 2, we discussed “hegemonic” theories of international politics and general war–power
+transition theory (Organski, 1958; Tammen et al., 2000), Gilpin’s (1981) related hegemonic transition theory,
+and Thompson’s (1988) long-cycle theory. None of these theories prioritizes economic classes, and none can
+be described as Marxist. Each, however, emphasizes the hierarchical structure of the world system, the
+importance of the world economy, and attempts by leading states to control it. It is often hard to
+differentiate system-level Marxist–Leninist theories from many alternative hegemonic theories.5 It is also
+difficult to analytically distinguish between versions of Marxist theory that emphasize the role of the
+capitalist class in stabilizing and advancing the domestic economy as a whole6 from realist theories
+emphasizing power and interest.
+Although recent history has not been kind to communist regimes, and although Marxist–Leninist theories
+have declined in influence in the social sciences, particular Marxist–Leninist hypotheses emphasizing the
+influence of parochial economic interests on foreign policy have been sufficiently influential to have been
+incorporated, with some modifications, into more conventional liberal, pluralist, and sectoral approaches to
+the study of international politics. Questions about the viability of Marxism as an ideology do not necessarily
+invalidate specific causal propositions associated with the theory. As we note below, a number of nonMarxist theories borrow some elements from Marxist–Leninist theories of imperialism, though not the
+philosophical underpinnings of Marxist theory.
+Marxist–Leninists propose a number of motivations or causal mechanisms though which capitalist states
+adopt aggressive foreign policies.7 First, capitalist economies are characterized by excess production and
+underconsumption, which derive from the inadequate purchasing power of the proletariat and ultimately
+from the inequitable distribution of wealth in capitalist societies. The result is surplus products, which
+generate pressures for imperialist expansion to secure external markets to absorb the surplus. This is the
+underconsumptionist theory of imperialism often associated with Hobson ([1902]1965). It is also referred to
+as the “surplus products” hypothesis.
+A related hypothesis, one given greater emphasis by Hilferding ([1910]1981) and Lenin ([1916]1939), is the
+existence of surplus capital resulting from the declining rate of return on capital invested in the domestic
+economy. This line of argument suggests that capitalist economies and their inequitable distribution of
+wealth cannot absorb all of the profits generated by the capitalist class. Surplus capital generates pressures
+for external expansion in search of better investment opportunities and of higher rates of return on capital.
+In this view, expansionist foreign policies are necessary to secure those opportunities for investment
+overseas.
+Lenin and others also emphasized the need of capitalist states for raw materials to fuel their rapidly
+growing industrial economies. For Lenin, however, raw materials were secondary, and the dominant factor
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+was the need for investment opportunities abroad that provided higher rates of return on capital. Other
+Marxist–Leninists give more importance to raw materials and to the expansionist foreign policies necessary
+to secure them. Many attribute what they regard as aggressive American foreign policies in Vietnam in the
+1960s to the search for raw materials (Magdoff, 1969), while most non-Marxist interpretations of the
+Vietnam War downplay those factors (Logevall, 1999). Similarly, arguments that American foreign policy in
+the Middle East and its military intervention in Iraq in 1990–91 and 2003 were driven by the goal of
+controlling oil at cheap prices are quite consistent with a Marxist–Leninist perspective.8
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Another form of stimulus in capitalist economies, but one that does not necessarily involve expansion and
+territorial control abroad, takes the form of high levels of military spending to stimulate the economy and to
+compensate for the lack of demand in capitalist economies that results from underconsumption. Luxemburg
+([1913]1964) first made this point, arguing that the production of armaments was the only means by which
+surplus capital could be re-circulated into the economy. This argument suggests that capitalist economies
+need war–or at least the constant threat of war in the form of arms races, rivalries, and crises–to rationalize
+the high levels of military spending that are necessary to maintain high levels of aggregate demand in the
+economy and keep unemployment low.
+This causal argument is often referred to as military Keynesianism, which draws parallels with the role of
+fiscal policy in stimulating the economy in Keynesian economics. The resulting “war economy” increases the
+likelihood of interstate war by triggering arms races, which increases tensions and contributes to conflict
+spirals. Some have argued, for example, that the United States was finally able to escape the “Great
+Depression” of the 1930s by building up a war economy at the end of the decade to confront Nazi Germany,
+thus providing the American economy the stimulus it needed. Others, however, are quite critical of this
+historical argument (Higgs, 2006).9
+
+The above-mentioned paths to war in Marxist–Leninist theory focus on the structural needs of capitalist
+economies as a whole. There are simply not enough markets for surplus products or investment
+opportunities for surplus capital, because the aggregate demand for goods and capital is too low. Another
+line of argument, which originated with Marxist–Leninist theories of imperialism but which have been
+incorporated into other materialist theories of conflict, focuses on the private economic interests of
+individual firms or sectors, on their willingness to put their parochial interests above the national economic
+interests of the state, and on their political power to get their policy preferences accepted as government
+policy. This approach abandons the concept of a unified capitalist class with homogenous interests and
+recognizes important divisions among different economic groups within the capitalist class. The capitalist
+class as a whole may not benefit from imperialism or war, but individual firms might have incentives to use
+their political influence to push for a more aggressive or expansionist foreign policy.10
+A version of this argument gained influence among segments of the American public in the 1920s in
+response to the dissatisfaction with the United States’ intervention in World War I. Many believed that
+armaments manufacturers had a disproportionate impact on the decision to enter the war. More
+specifically, the argument was that shipbuilders, munitions makers, the builders of tanks and trucks, and
+certain other firms anticipated that they would secure increased profits from war and use their influence to
+pressure the government to adopt increasingly hardline policies that were likely to lead to war (Tansill, 1938).
+This view came to be known as the merchants of death hypothesis.11
+This interpretation of American entry into World War I has been rejected by most historians, who
+emphasize the role of balance of power considerations, American liberal ideology, the role of German
+submarines in attacking American commerce, and other factors. The critics argue that while arms
+manufacturers and shipbuilders did profit from the war, there was little evidence that they had a substantial
+impact on political leaders’ decision to intervene in the war and that they induced President Wilson to take
+actions that he would not have otherwise taken.12
+Whereas Hobson and Lenin aimed primarily to explain the imperial expansion of the European powers in
+the late nineteenth century, their intellectual descendants have applied many of their arguments to the
+United States during the last century and during the Cold War in particular (Williams, 1962; Baran and
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Sweezy, 1966). Theories of the military–industrial complex give great emphasis to the role of private economic
+interests in shaping policy and generating military build-ups and a “war system” that produces profits for
+business but that go far beyond reasonable security precautions (Melman, 1970; Rosen, 1973). Indeed, many
+of these arguments have been incorporated into mainstream liberal critiques of American foreign policy–
+without accepting the broader philosophical system underlying Marxism.13
+
+Critiques of Marxist–Leninist international theory
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+This is not the place for a lengthy critique of the Marxist–Leninist theory of imperialism, and we refer the
+reader to other treatments (Aron, 1968; Cohen, 1973; Krasner, 1978: chap. 1; Waltz, 1979; Brewer, 1980). It
+would be useful, however, to mention a few major lines of argument. Waltz (1979), for example, questioned
+the Marxist–Leninist argument that economic pressures internal to capitalist states were the primary source
+of aggressive foreign policies. He argued that the great powers often engaged in expansionist behavior not
+because they were capitalist, but instead because they were powerful. Capitalism may have contributed to
+the power of the great imperialist states of the late nineteenth century, since it was the most efficient
+economic system of the time, just as mercantilism was the most efficient economic system of an earlier time.
+But it was power itself that led states to expand their interests and act more aggressively in pursuit of their
+interests.
+Waltz’s theory of “great power imperialism” is a more general theory of imperialism than that proposed by
+Lenin, since it is not restricted to a particular historical era. The fact that Lenin ([1916]1939:88–9) defines
+imperialism as “the monopoly stage of capitalism” has important implications, because it suggests that his
+theory is not able to explain imperialism that occurs before capitalism has reached the stage of monopoly.14
+This is critical, because the great period of European imperial expansion at the end of the nineteenth
+century took place prior to the development of monopoly capitalism or finance capital, which Lenin dated to
+the beginning of the twentieth century (Doyle 1997:355–6). There are also great power imperialisms going
+back to the ancient Greeks, the Persians, and others. These cannot be easily explained by the Marxist–
+Leninist theory of industrial capitalism, though class-based theories have been invoked in explanations of
+many past wars.15
+
+Liberal theorists advance a different line of argument. They criticize the Marxist–Leninist view that the
+internal requirements of capitalist states for markets, investment opportunities, and raw materials leads to
+imperial and colonial wars to achieve those objectives. That view assumes that access to markets,
+investment opportunities, and raw materials requires formal political control of the relevant territories, or
+economic spheres of influence that were closed to competing states. This assumption neglects the fact that
+even without closed trading spheres, the leading economies can dominate world trade by virtue of their
+economic efficiencies in production, transportation, and finance. Free trade benefits the economically most
+efficient states, as Robinson and Gallagher (1950) recognized in their classic study of the “imperialism of free
+trade.”16
+
+It is useful to think of conquest and commerce as two alternative strategies for increasing national wealth
+(Rosecrance, 1986). The great sea powers of Europe, including Britain and the Netherlands, deliberately
+chose policies that emphasized the efficiency of production in free markets rather than political and
+territorial control that was more common for the leading continental states (Rasler and Thompson, 1989).
+While conquest was often the more efficient strategy for some states in earlier historical eras, in the last two
+centuries a commerce-oriented strategy has generally been more efficient for most states, and certainly for
+the economically advanced states, especially with the spread of globalization and the efficiency of economic
+exchange (Rosecrance, 1986).
+Other theorists question the specific causal linkages between imperialism and war proposed by Marxist–
+Leninists. Just because states have motivations to expand to secure markets, investment opportunities, and
+resources does not necessarily imply that they will end up in war against each other. The link between
+imperialism and war is underdeveloped in Marxist–Leninist theory. Some of the paths from imperialism to
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+colonial war against a subject people for markets or resources are clear enough, but the links to a war
+between great powers are less clear.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Many traditional balance of power theorists spoke of the benefits of an “open colonial frontier” that
+provided ample opportunities for great power expansion in the periphery of the system (at the expense of
+non-European peoples). Whereas great power conflicts in Europe directly engaged the most vital interests of
+the great powers, conflicts in the colonies were less likely to engage such vital interests and consequently
+were more easily resolved. Thus Morgenthau (1967) and many other balance of power theorists argue that
+imperial expansion might have actually reduced the likelihood of great power war by serving as a “safety
+valve” and diverting the points of conflict between the great powers from Europe to the periphery. Lenin
+([1916]1939: chap. VI) implicitly recognized the validity of this point in his argument that great power wars
+are relatively unlikely until the world has been territorially divided among the major capitalist states (or
+monopolies), at which point further expansion becomes zero-sum and more likely to lead to war between
+the leading capitalist states.
+We have relatively little systematic empirical research on the question of whether colonial expansion
+actually promoted great power peace in the past. Individual historical cases have been examined in
+considerable detail. One example is World War I. Marxists argue that World War I is a classic case of a war
+resulting from imperialist rivalries–between Germany and France in Africa, between England and Russia in
+central Asia, between England and France in Africa. Others argue that imperial expansion served as a safetyvalve and that the cross-cutting nature of the imperial and European interests of the great powers
+dampened the pressures for war. It is significant that many of the leading colonial rivalries were between
+states that ended up fighting on the same side in World War I (Joll, 1984: chap. 7). Britain opposed Russia in
+the “great game” in Asia and opposed France in Africa, but the three states fought on the same side against
+Germany. In addition, most of the colonial rivalries were settled before World War I, in part because of the
+German threat in Europe.17 Marxist–Leninist theories have trouble explaining these patterns.
+Even some Marxists have questioned the link between imperialism and great power war. The Marxist Karl
+Kautsky ([1914]1970) referred to an “ultra-imperialism” (or “hyper-imperialism,” in which the leading
+capitalist states formed a cartel to regulate their conflictual tendencies and maintain the peace. Kautsky’s
+argument generated a major debate among Marxist theorists.
+
+Schumpeter and military elites
+
+In response to the Marxist–Leninist view that the primary cause of imperial expansion was capitalism, and in
+particular the economic interests of the capitalist class, the liberal theorist Schumpeter ([1919]1951), like the
+Marxist Kautsky, argued that imperialism was harmful not only to the country as a whole but also to the
+capitalist class within a country. He argued that modern imperialism and war were bad for business, that
+capitalist leaders and industrial workers both recognized this, and that they opposed imperialist policies.
+Other liberal theorists had made similar arguments, but Schumpeter provided a new twist. The reason why
+states, including capitalist states, pursue imperialist policies, he argued, is that those policies serve the
+interests of a politically powerful military elite. That elite had long ago gained control of the power of the
+state, managed to maintain its position of dominance, and used the state to advance its interests through
+aggressive foreign policies.
+Warrior elites first came to power, Schumpeter argued, in earlier eras when war served a useful function
+in the protection of empires and states against external predators. Once in power, however, warrior elites
+created a new military aristocracy and used war and the threat of war to justify their policies and maintain
+their dominant positions despite the fact that the state was secure and that aggressive military policies no
+longer served a useful purpose. This led Schumpeter ([1919]1951:6) to define imperialism as “an objectless
+disposition on the part of a state to unlimited forcible expansion,”18 and to argue that modern military elites
+are “atavistic” holdovers from an earlier era when they played a useful role providing external security for
+the state.19 This is a variant of the “war makes the state” argument advanced by Tilly (1975, 1990).20 In a
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+memorable statement of his theoretical argument, Schumpeter ([1919]1951:33) argued that “created by the
+wars that required it, the machine now created the wars it required.”
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+In arguing that wars result primarily from the parochial interests of military organizations, Schumpeter
+([1919]1951) seriously underestimated the real conflicts of interests between states, the difficulty of
+resolving those conflicts, and the escalatory pressures induced by security dilemmas, misperceptions,
+ideological differences, and domestic pressures. We return to the role of military organizations in chapter 6,
+but the recent American war in Iraq serves as a reminder that pressures from war often come more from
+civilian elites than from the military. The German military resisted Hitler’s early policies of military expansion
+(H. Deutsch, 1974), and it was Stalin and the communist party, not the military, that was in back of Soviet
+expansionism. There is also a big gap in Schumpter’s argument about how military elites initially came to
+power and how they have been able to hold on to power for centuries after that. Still, Schumpeter provided
+one of the most powerful statements of the idea of politically influential and self -interested military
+organizations imposing their parochial interests on states. This is an enormously influential argument, one
+that is central to many theories of the military–industrial complex (Mills, 1956; Rosen, 1973),21 militarism
+(Vagts, 1959; Berghahn, 1982), and bureaucratic politics.
+
+Coalitional Models
+
+Most analysts reject the view that either the capitalist class or the military is strong enough to be able to fully
+capture the state apparatus and use it to advance its own economic or domestic political interests. They
+focus instead on the kinds of coalitions that form to gain and maintain power and to conduct domestic and
+foreign policy.
+
+Snyder and logrolled coalitions
+
+For Hobson and for Lenin, imperialism is driven by the economic interests of the capitalist class that gains
+control of the state. For Schumpeter, imperialism is driven by the political interests of atavistic military elites
+who use war and the threat of war to rationalize their hold on power. Both arguments emphasize that
+imperialism and war are contrary to the interests of society as a whole. This raises the question of how
+economic elites could maintain their hold on power for extended periods when their policies were harmful
+to the interests of the great majority of people. Jack Snyder (1991) attempted to answer this question in his
+book Myths of Empire, and in the process constructed an alternative theory of expansionist foreign policies.
+Snyder concedes that more limited forms of expansion are often explained by system-level factors and by
+a rational cost–benefit calculation to advance state interests, but his primary focus is “overexpansion.” These
+are cases of expansion–including both overly aggressive policies that trigger great power balancing coalitions
+and imperial overextension on the “periphery” of the international system–that generate costs that are
+substantially higher than any conceivable gain from expansion.22 Snyder accepts the premise that
+imperialism or overexpansion is harmful to society as a whole, and notes that the only way it can be
+beneficial to the elite in power is if the elite is relatively small in size, so that members of the elite can reap
+substantial benefits from socially harmful policies while spreading the costs of such policies throughout
+society as a whole in the form of taxation.
+In terms of collective action theory (Olson 1971), elite interests must be “concentrated” and fairly narrowly
+defined. But if groups are concentrated enough and narrow enough to benefit from overexpansion while
+passing the costs of overexpansion on to others, they are almost certainly too narrow to maintain their
+control over state policy. At some point the vast majority of people, who suffer from overexpansionist
+policies, would rebel. On the other hand, if the elite in power were broad enough to control state policy, its
+interests would have to be diffused over many groups, and it would not be able to reap enough of the
+benefits from socially costly over-expansion to make that expansion worthwhile, since they could not pass
+on the broader costs of those policies to society.
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+The solution to this dilemma, according to Snyder, is that key internal groups–each with parochial
+interests in limited but different forms of imperial expansion, military build-ups, or autarkic economic
+policies–create logrolled coalitions. The joint political strength of these coalitions is strong enough for them
+to be able to rule, and their joint interests are concentrated enough to be able to reap many of the benefits
+of expansionist policies while passing on the broader social costs to society as a whole. This comes at a cost,
+however, since the policies emerging from these logrolled compromises are more expansionist than either
+would prefer individually and often also more expansionist than can be supported by the available resources
+of the state.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+In Snyder’s view, logrolled coalitions among elites with shared interests are not sufficient to explain
+overexpansion or the stability of the ruling coalition behind it, because they fail to explain why the public
+goes along. Snyder (1991) argues that key elites justify their power and policies by promoting “strategic
+myths” that provide a justification for their expansionist policies. These myths include exaggeration of the
+current hostility of other states and of historical injustices committed by those states, of the strategic and
+economic value of empire, and of the likelihood that the adversary will back down in the face of hardline
+policies or that any war will involve minimal costs. The use of historical analogies based on lessons from the
+past plays an important part in the creation of national myths.
+Note that in Snyder’s (1991) model, political leaders are not really learning from history, but instead
+selectively using history to rationalize their predetermined views and influence others. This “strategic” or
+“rhetorical” use of history runs contrary to a “learning model,” in which individuals genuinely learn from
+historical experience (Jervis, 1976; Khong, 1992). We examine theories of learning in chapter 5
+Although elite behavior is rational and strategic in Snyder’s (1991) model, the same cannot be said of
+behavior of the masses, since the majority of people are driven by symbolic politics and appeals to
+patriotism. This explains why they succumb to these myths and support the existing coalition even though
+its policies are often contrary to their interests. Snyder goes on to argue that in the end even elites depart
+from a pure rationality by buying into their own myths. They often internalize their own rhetoric or become
+politically entrapped in it. This inhibits their ability to learn from history. It also increases the obstacles to
+disengaging from increasingly costly expansionist policies.
+Snyder (1991) further develops his theory by specifying the conditions under which these kinds of
+logrolled coalitions are most likely to arise. That occurs in cartelized political systems dominated by distinct
+concentrated interests and the lack of a centralized political leadership to minimize the role of parochial
+interests. This is illustrated by Germany prior to World War I. Many historians have traced German
+expansionism to the “coalition of iron and rye” that dominated German politics for many years (Fischer,
+1975; Wehler, 1985). Snyder’s theoretical model captures these dynamics quite well. Navalists and their
+shipbuilding allies wanted to expand the navy, but that risked alienating England. Agriculturalists in the East
+wanted protectionist policies to shield them from inexpensive grain from Russia, but those policies risked
+alienating Russia. Neither group had the political power to implement their preferred policies.
+In response, these groups formed a coalition in which each backed the preferred policies of the other. The
+result was a policy of both naval expansion and economic protectionism against Russia. Germany could
+probably have handled either of these external threats individually. What they could not handle was a
+combination of British and Russian hostility, which was the price the coalition of iron and rye paid to secure
+both of their policies. This increased hostility was an important domestic factor contributing to the rise of
+tensions leading to World War I. It was particularly important in generating both the Anglo–German naval
+race (Kennedy, 1982) and the Franco–Russian Alliance, which contributed to the encirclement of Germany
+and the intensity of the security dilemma for Germany.
+Snyder argued that overexpansion occurs in democratic political systems, but that it is less frequent and
+less extreme. In democracies, where political leaders are responsible to a large electorate, interests are
+diffuse rather than concentrated. Consequently, it is harder for a single economic interest group to gain the
+concentrated benefits from expansionist policies and also harder for coalitions to form. In addition, in
+democracies in which there is a relatively free press, the expression of multiple points of view inhibits the
+formation of information monopolies and the development of strategic myths that serve parochial interests.
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Overexpansion is less likely in unitary oligarchies, in which a small elite has clear responsibility for policy and
+encompassing interests in avoiding the costs of overexpansion. Snyder argues that overexpansion is less
+predictable in dictatorial systems (Saddam’s Iraq, for example) in which there is no check on the preferences
+of the leader.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+The theory of logrolled coalitions advanced by Snyder focuses on the foreign policy of a particular state,
+and particularly on state strategies that lead to overexpansion. Snyder’s model is not technically a model of
+war, because whether or not war occurs depends on the reaction of other states. Note that even the concept
+of overexpansion is somewhat problematic, because whether expansion is over expansion depends on the
+reactions of other states. Presumably, if expansionist behavior is not forcibly resisted or if the expansionist
+state wins the war at acceptable costs, the outcome is not defined as overexpansion. Snyder’s theory implies
+that we need one theory to explain overexpansion and a different theory to explain expansionist policies
+that fall short of overexpansion. It would be far preferable to have a single theory of expansion. Still, Snyder
+has made an important contribution to the literature by emphasizing the role of concentrated and
+encompassing interests and their impact on coalition formation in foreign security policy.
+
+Other coalitional theories
+
+While Snyder (1991) focuses on imperial expansion and gives primary emphasis to the politics and
+compromises within the imperial bloc, other theorists have focused on the competition between opposing
+coalitions for power and influence within the liberal state (Fordham, 1998; Lobell, 2006; Narizny, 2007). Like
+Snyder’s (1991) theory of overexpansion, these are not so much theories of the causes of war as theories of
+the grand strategies states adopt in response to external threats. Each emphasizes the internal distributional
+consequences of alternative foreign policies for different groups within society (Rogowski, 1989), since the
+costs of increased defense spending and the policies associated with them are not borne equally by all
+groups within society. These theorists assume that domestic economic coalitions pressure the government
+based on their own economic self-interests.
+Narizny (2007) presents a class-based analysis of the grand strategies of liberal democratic states, but one
+that departs from a Marxist framework in its theoretical foundations and in many of its predictions. He notes
+the conventional wisdom that leftist governments are weak on defense, and argues instead that leftist
+governments have historically been more likely than rightist governments to undertake major increases in
+military spending in response to external threats. Confronted with external threats, conservative
+governments are more inclined to seek external alliances or to attempt to appease their adversaries. Narizny
+explains these patterns by focusing on the economic interests of the primary coalition partners of left and
+right governments.
+Conservative governments hesitate to pay for increased military spending through regressive taxation
+that imposes a burden on the poor because leaders fear both the electoral consequences of such taxation
+and possibly also some short-term mass social unrest, which might impede efforts to mobilize the economy
+and the country for war. Conservative governments also hesitate to raise taxes on the wealthy because the
+upper and upper -middle classes tied to rightist coalitions are unwilling to accept the increased taxes
+required for armament. They also fear the economic inflation and general monetary instability that often
+accompany massive increases in military spending, along with the increased government intervention in the
+economy and imposition of economic controls that are likely to follow.
+Narizny argues that labor governments are generally more willing to support policies of massive
+rearmament in response to external threat. They are less constrained in taxing the rich, who are not part of
+their political coalition. Labor governments also see national security threats as providing an opportunity to
+take steps toward advancing some of their other political goals over the long term. Although a massive
+rearmament program usually precludes the expansion of social welfare programs in the short term,
+increasing taxation increases the extractive power of the state, which can eventually be used to expand
+social welfare programs. The economic regulation associated with rearmament programs can also be
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+retained after the threat passes, resulting in more controls and greater regulation of the economy over the
+long term.
+Thus Narizny concludes that leftist governments are more willing than rightist governments to build up
+armaments when faced with an external threat, while conservative governments prefer to avoid defense
+spending by securing allies against external threats or perhaps appeasing those threats. Narizny is careful,
+however, to suggest scope conditions that specify when the model should and should not apply.
+First of all, Narizny argues that the theory applies only to states that are sharply divided by class, where
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+one major party represents the interests of the working poor and another represents the wealthy.23 He
+restricts his hypotheses to the behavior of the government, not to the party in opposition. He also argues
+that the theory applies to situations in which a democratic government faces a sharp increase in threat in its
+strategic environment, but not to situations involving only a modest increase in threat, where a massive
+rearmament program would not be necessary. Under such conditions, Narizny concedes that the
+conventional wisdom of leftist pacifism and conservative militarism might hold.24 In addition, Narizny
+suggests that his theory does not apply to states at war or at the brink of war, where any government may
+have few policy alternatives to a rapid increase in armaments.25 These scope conditions add to the precision
+of Narizny’s model, and are useful for that purpose, but they significantly limit the generalizabil-ity of the
+model.
+Narizny (2007) applies his theory to Britain and the United States since the 1860s and to France before the
+two world wars of the twentieth century. He concedes that one situation in which his theory fails to explain
+observed behavior is for the United States during the 1980s, where a conservative Reagan Administration
+undertook a major defense build-up against the Soviet Union. A better fit for the model is Britain in the
+1930s. The conservative government of Neville Chamberlain, faced with the rising threat from Nazi Germany,
+adopted a strategy of appeasement rather than one of confrontation, while the opposition of the left was
+much more willing to support a confrontational policy against Germany. Narizny argues that the
+conservative Chamberlain government adopted the appeasement policy and was slow to rearm because
+they hesitated to impose taxes on the wealthy or to take actions that would result in increased government
+controls over the economy.26
+
+Lobell (2006) proposes a similar political economy model that explains responses to external threat in
+terms of the internal distributive consequences of different policy responses to external threat. Lobell
+identifies two primary domestic coalitions. One group is an outward-looking internationalist coalition that
+consists of the internationally competitive sectors of the economy and their allies, and the other is an
+economic nationalist coalition consisting of less competitive sectors and domestic-oriented groups. The
+internationalist coalition includes fiscal conservatives, export -oriented firms, large banking and financial
+services, skilled labor, and finance-oriented bureaucracies. It prefers balanced budgets, low taxation, and
+low government spending, and it favors strong ties to the outside world and policies of conciliation and
+appeasement, arms control alliances, collective security arrangements. These internationalist groups oppose
+building up armaments except as a last resort, for fear that an arms build-up will increase the cost of capital,
+curtail savings and investment, and reduce foreign exchange. They also fear that an arms build-up would
+increase inflation, budget deficits, taxes, economic controls, and state planning.
+The supporters of the economic nationalist coalition, Lobell (2006) argues, are the domestic beneficiaries
+from the extraction of societal resources and other policies associated with the mobilization for war. These
+groups include inefficient industry and agriculture, import-substituting manufacturing firms, labor-intensive
+industry, public sector managers and workers, and imperial bureaucracies. They prefer policies that protect
+domestic industry and agriculture from foreign competition, that favor greater military preparedness and
+rearmament in the face of external threat, and (in older times) that favor stronger links to empire and
+colonies.
+In an application of his model to Britain prior to World War I, Lobell (2006) argues that it was the shift from
+an internationalist coalition in the 1912–14 period to a nationalist coalition in the 1914–16 period that led to
+a shift in Britain’s grand strategy from one of “limited liability” to one involving a “continental commitment”
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+and a more aggressive war plan. Lobell’s interpretation of the 1930s is similar to Narizny’s (2007): the
+Chamberlain government pursued a policy of appeasement because it was unwilling to pay for significant
+increases in defense spending through increased taxation, which would burden the supporters of the
+internationalist coalition. That coalition would also object to the increased regulation of the market economy
+that would follow.27
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+The domestic theories of grand strategy advanced by Narizny (2007) and Lobell (2006) are important
+theoretical contributions that provide alternatives to standard realist arguments that grand strategy aims to
+maximize state interests. In addition, their explanations of the appeasement policies of the 1930s are
+important contributions to the historical literature. Some have argued, however, that a realist interpretation
+of appeasement in the 1930s cannot so easily be dismissed. They argue that appeasement was based on the
+recognition that Britain was weak both in military and economic terms. Appeasement was a strategy for
+buying time for rearmament against Germany and for delaying a confrontation until Britain was in a stronger
+position to either deter Hitler from military aggression (Layne, 2008) or to prepare for a war they believed
+was probable (Ripsman and Levy, 2008).
+Britain did in fact accelerate its defense spending beginning in the mid -1930s and then with more
+urgency in 1938. The primary reason that military spending did not increase more rapidly, in this view, was
+British leaders’ fears that Britain’s long-term decline and the worldwide depression left the British economy
+in a precarious position. More rapid spending would undermine the economic foundations that were
+necessary for Britain’s ability to mount a sustained recovery and fight a long war, which was the only kind of
+war Britain would be able to win. In this view, the economic costs of excessively rapid rearmament would
+hurt the country as a whole, not just the upper and middle classes. The primary constraint on political
+leaders was the national economic interest, not pressures from particular domestic groups or classes. In this
+view, British appeasement policy was a realist strategy driven by the aim of advancing the national interest,
+not parochial private interests, but was conducted under severe internal and external constraints.28
+Narizny (2007) and Lobell (2006) offer purely economic models of grand strategy, and posit that the
+willingness to accept the costs of a military build-up is a function of the economic interests of particular
+domestic groups. One factor they neglect is the ability of the political leader to use the symbolic politics of
+nationalism to unite a country facing an external threat behind his or her government. This is a key theme in
+the diversionary theory of war, to which we now turn.
+
+The Diversionary Theory of War
+
+Four centuries ago, Bodin ([1576]1955:168–9) wrote that “the best way of preserving a state, and
+guaranteeing it against sedition, rebellion, and civil war is … to find an enemy against whom they can make
+common cause.” At about the same time, Shakespeare ([1596]1845) suggested to statesmen that: “Be it thy
+course to busy giddy minds/With foreign quarrels.” Wright (1965:727) argued that a key cause of war is the
+belief that war is a “necessary or convenient means … to establish, maintain, or expand the power of a
+government, party, or class within a state.” It is now conventional wisdom that the use of force by an
+American president, under nearly any circumstances, generates a “rally’ round the flag” effect that boosts his
+popularity among the electorate, if only temporarily (Mueller, 1973; Kernell, 1978).
+The tendency for foreign crises and wars to generate a “rally’ round the flag” effect that increases popular
+support for political leaders and often the power of the government is often explained in terms of the “ingroup/ out-group” (or “conflict–cohesion”) hypothesis. This was first proposed by Simmel (1898), who argued
+that conflict with an out-group increases the cohesion and political centralization of the in-group. He
+extended the hypothesis to international relations, and argued that “war with the outside is sometimes the
+last chance for a state ridden with inner antagonisms to overcome these antagonisms, or else to break up
+definitely.” Political leaders understand this, and leaders feeling insecure about their leadership positions
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+may be tempted to provoke hostility with external groups in order to trigger a “rally” effect and thereby
+bolster their own support within the group.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Simmel recognized a need to qualify his argument, however, because under some conditions war can
+have the opposite effect and lead to a reduction of social cohesion. He noted that war “might either cause
+domestic quarrels to be forgotten, or might on the contrary aggravate them beyond reconciliation” (Simmel,
+1898:832). This line of argument was developed further by Coser (1956:93–5), who argued that external
+conflict will increase the cohesion of the in-group only under certain conditions: if the group already exists as
+a “going concern,” if it has some minimal level of internal cohesion, if it perceives itself as a group and the
+preservation of the group as worthwhile, and if it believes that the external threat menaces the in -group as
+a whole and not just one part of it. In the absence of these conditions, external conflict will exacerbate
+internal conflict rather than dampen it, perhaps to the point of rebellion. While some German leaders in
+1914 were eager for war because they feared the rising tide of social democracy at home and believed that
+war would distract attention from social issues and unite the country around the German leadership (Kaiser,
+1983), German Chancellor Bethmann-Hollweg feared the divisive and potentially revolutionary
+consequences of war (Berghahn, 1973).
+The in-group/out-group or conflict–cohesion hypothesis has been so widely accepted among social
+scientists (although often without acknowledgment of the Simmel–Coser qualifications) that some have
+suggested that it has acquired the status of a general law of behavior. Dahrendorf (1959:58), for example,
+argues that: “It appears to be a general law that human groups react to external pressure by increased
+internal coherence.” This is a major theme in social identity theory (Worchel and Austin, 1986) and in the
+literature on the anthropology of war (Ferguson, 1999), and it has potentially significant implications for
+international relations theory (Mercer, 1995).
+Historians and political scientists have identified numerous cases in which political leaders’ concerns
+about their low or falling levels of domestic support contributed, in some instances quite significantly, to
+their decisions to go to war. As the Russian minister of the interior supposedly said on the eve of the Russo–
+Japanese War in 1904, “What this country needs is a short victorious war to stem the tide of revolution”
+(White, 1964:38; Lebow 1981:66).29 Similarly, the Crimean War (1853–6) has been interpreted by many in
+terms of Louis Napoleon’s attempt to increase his political support at home, particularly among French
+Catholics, by aggressively supporting the Catholics in Jerusalem against the Russian-backed Greek Orthodox.
+As Karl Marx said of the French leader, he “has no alternative left but revolution at home or war abroad”
+(Mayer, 1977:225). Finally, the scholarly consensus is that a leading motivation for the Argentine invasion of
+the British-controlled Malvinas Islands in 1982 was the hope of maintaining the internal political power of
+the Argentine military junta through a major military success abroad (Levy and Vakili, 1992).30
+Despite the numerous examples of leaders being drawn to war by the hopes of bolstering their domestic
+political support, it is clear that domestic political insecurity does not always lead to external scapegoating. It
+is also clear that the use of low-level military force for diversionary purposes does not always lead to war.
+Statistical studies of the relationship between domestic problems and the use of external military force–
+between domestic threats to regime security and the tendency of governments to respond by “bashing the
+foreigners” (Russett, 1990)–have generated mixed results, with most of the evidence suggesting that any
+relationship, if it exists, is not a strong one (Meernick, 2004).31
+The mixed nature of the statistical evidence raises the question of the conditions under which leaders are
+most likely to adopt a diversionary strategy. Among the conditions that scholars have identified are low to
+moderate levels of domestic political support and legitimacy and poor economic performance, which is a
+major factor contributing to low support levels. It is also argued that democractic regimes are more prone to
+the “political” use of force during certain periods of the electoral cycle. Most scholars argue that the
+likelihood of external scapegoating is greatest in the periods leading up to an election, as long as it is not so
+close as to be too obvious (Russett, 1990; James and Oneal, 1991).32 Although most studies focus on overall
+support levels for political leaders as a key independent variable, some scholars argue that overall political
+support for the leader is less important than the level of partisan support–that is, support from citizens who
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+are members of the leader’s own political party and who therefore are most likely to vote for the leader
+(Morgan and Bickers, 1992).
+The fact that democratic leaders are more directly accountable to their constituents than are
+authoritarian leaders generates the common argument that external scapegoating is more likely in
+democratic states than in non -democratic states (Gelpi, 1997).33 Although this is a plausible hypothesis,
+even non-democratic leaders must maintain domestic support from key groups in government and society–
+the military, internal security apparatus, financial community, or labor (Haggard and Kaufman, 1995;
+Geddes, 2003)–and the support of those constituencies may also be enhanced by diversionary behavior.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Many of the examples of scapegoating noted above involve external military action by non-democratic
+regimes. The question of whether democratic or non-democratic groups are more prone to external
+scapegoating is an interesting empirical question that scholars have only begun to investigate. Also
+interesting are the questions of whether some types of democratic regimes–presidential or parliamentary–
+are more prone to diversionary behavior than others (M. Elman, 2000), and whether some types of
+authoritarian regimes–personalist, military, or single-party (Geddes, 2003)–are more prone to external
+scapegoating than are others (Pickering and Kisangani, 2005; Weeks, 2008).
+Another question that has received relatively little attention by scholars is that of who are the targets of
+diversionary action.34 Presumably some states or groups make more useful targets than others for the
+purposes of generating a substantial and sustained domestic rally effect at minimum risk, but diversionary
+theory lacks a theory of targets.35 One hypothesis is that because a leaders’ domestic support is rarely
+enhanced by losing a war, they tend to avoid militarily superior adversaries.36 Some might argue that weak
+states do not pose sufficiently serious threats to generate rally effects, but the popular response to the US
+military intervention against Grenada in 1983 illustrates the power of symbolic scapegoating even in the
+absence of a serious external threat.
+Going back to the discussion of international rivalries in the last chapter, we might hypothesize that
+historical rivals make particularly good targets for scapegoating, especially if those rivals are not too strong
+(Mitchell and Prins, 2004). Another hypothesis is that because of the emotions generated by ethnic loyalties
+and the historical grievances associated with them, ethnic rivals, unfortunately, make particularly useful
+targets for scapegoating by political elites. This is well-illustrated by Yugoslavian President Milošević’s
+manipulation of ethnic rivalries in the Yugoslav wars in the early 1990s (Gagnon, 2004).
+The selection of the targets of diversionary behavior, as well as the perceived degree of hostility of the
+target, can also influenced by the media.
+Autocratic governments can often manipulate the media to exaggerate the hostility of other states, by
+emphasizing historical injustices or current actions or intentions. Alternatively, in states characterized by
+weak central governments and strong divisions among communal groups within society, media loyal to
+particular groups can themselves engage in scapegoating rhetoric against external foes.
+In Yugoslavia, for example, increasing liberalization during the 1980s provided an opportunity for each of
+the ethnic republics to form their own television stations. In the absence of centralized institutional
+regulation, each of these stations offered quite unflattering portrayals of the neighboring republics rather
+than objectively reporting the news. The lack of “strong central state institutions to promote a professional,
+unbiased, pan-Yugoslav mass media” encouraged the post-Tito fragmentation of popular conceptions of
+state identity, and contributed to the tensions precipitating the wars of 1992–5. To take another example,
+the Hutu majority in Rwanda responded to international pressure to democratize by quickly terminating all
+media censorship, which unleashed a torrent of anti-Tutsi propaganda that directly contributed to the
+Rwandan genocide of 1994 (Snyder 2000:219, 301–4; Knievel, 2008).
+This discussion of diversionary behavior against “other” communal groups reinforces the argument made
+earlier about the lack of integration of the scholarly literatures on interstate war and on civil war. Scholars of
+interstate warfare study “diversionary behavior,” and scholars of civil war study the role of “ethnic
+entrepreneurs” in mobilizing opinion against certain groups (often ethnic) as a means of enhancing their
+own legitimacy and political power. These two groups of scholars are talking about essentially the same
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+thing, but it is striking how little each group of scholars engages the theoretical and empirical work of the
+other. It is symbolic of the gap between the analysis of interstate and intrastate war.
+Another interesting puzzle is the gap between the findings of two different approaches to the study of
+diversionary behavior in interstate war. Those who look in depth at historical cases tend to conclude that
+diversionary behavior is fairly common and that it can have a significant impact on state behavior. Those
+who do statistical analyses of large numbers of cases, however, tend to find rather mixed evidence for the
+general theoretical argument that domestic problems contribute to the external use of military force for
+political purposes. From a social science perspective, these differences are troubling, as we can usually be
+most confident in the validity of a theoretical argument if we get the same answer by using a number of
+different approaches. International relations scholars are currently attempting to resolve these differences.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Earlier we noted that scholars have yet to fully resolve the question of whether democratic or nondemocratic states are more likely to engage in the diversionary use of force. We also noted that scholars
+have paid relatively little attention to the question of what kinds of states are the most common targets of
+diversionary behavior. One combination that is particularly unlikely, however, is a democracy taking
+diversionary action involving high levels of military force against another democracy. There is strong
+evidence that democratic states, whatever their motivations, rarely if ever go to war with each other.
+Scholars refer to this as the “democratic peace,” which we now examine.
+
+The Democratic Peace
+
+Although liberals have always argued that democracies are somehow more peaceful than are other states,
+and although Immanuel Kant ([1795]1949) spoke of a “pacific union” among republican regimes and Thomas
+Paine ([1791/92]1969) offered an even stronger conception of democratic peace a few years earlier (Walker,
+2000), the dominant view of democracy among international relations scholars for many years after World
+War II reflected the prevailing realist orthodoxy. Hans Morgenthau (1967), who was the primary inspiration
+for American realism, worried that “nationalistic uni-versalism,” which included popular ideologies like
+democracy and communism, would detract from the effective functioning of a balance of power system.
+George Kennan (1951), the intellectual founder of American containment doctrine, criticized the
+“moralistic/legalistic approach” that characterized American foreign policy and that detracted from the
+pursuit of the national interest, which he defined in terms of power. The general argument was made over a
+century earlier by Alexis de Tocqueville ([1835]1975:243–4) in his famous book Democracy in America, which
+he wrote while visiting the United States from his native France:
+Foreign policies demand scarcely any of those qualities which are peculiar to a democracy; they require,
+on the contrary, the perfect use of almost all those in which it is deficient. … a democracy can only with
+great difficulty regulate the details of an important undertaking, persevere in a fixed design, and work
+out its execution in spite of serious obstacles. It cannot combine its measures with secrecy or await their
+consequences with patience. … Democracies … obey impulse rather than prudence and … abandon a
+mature design for the gratification of a momentary passion.
+The argument that democracies are sometime driven more by passion than by prudence is often linked to
+the idea that democracies, because they often need to justify their foreign policies in terms of liberal
+democratic ideologies that appeal to their constituents, have a tendency to engage in ideological wars that
+can be particularly destructive and that are sometimes transformed into crusades to rid the world of evil.37
+US President Woodrow Wilson, for example, stated that the purpose of American intervention in World War I
+was to “make the world safe for democracy.” President Franklin Roosevelt presented World War II to the
+American people as an ideological crusade. The potential destructiveness of the wars of democracies was
+not a surprise to some. In a speech in the House of Commons, May 13, 1901, Winston Churchill argued that
+“democracy is more vindictive than Cabinets. The wars of peoples will be more terrible than those of kings.”
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Since the 1980s, however, a new consensus has emerged about the unique features of democratic states
+and their foreign policy behavior. The point of departure for this new conceptualization of the role of
+democracy in international relations was an article published in a non-political science journal by a nonpolitical scientist (Babst, 1972). It argued that democracies almost never go to war with each other. This was
+followed by an article by Singer and Small (1976) that expressed skepticism about this claim, and then by two
+articles by Doyle (1983), who offered systematic evidence that democracies rarely if ever go to war with each
+other and a plausible theoretical explanation for why this might be true.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+At that point the “democratic peace” became a central focus of scholarly research in international
+relations (Russett, 1993; Ray, 1995; Maoz, 1997; Russett and Starr, 2000; Bueno de Mesquita et al., 2003;
+Russett and Oneal, 2001; Rasler and Thompson, 2005). This extraordinarily strong empirical regularity, with
+few if any compelling counterexamples (more on this later), was quite striking in a domain as complex as
+international relations, where the actions and interactions of states are influenced by so many different
+factors and where regularized patterns of behavior are difficult to find.38
+
+Although interest in the democratic peace began with an unusually strong empirical finding, that interest
+was intensified by the fact that the observed pattern contradicted realist theories,39 provided the core of an
+emerging liberal theory of peace and war, reinforced the ideological foundations of American foreign policy,
+provided some justification for an interventionist foreign policy, and gave some reason for optimism that the
+persistent pattern of international war might one day be broken.
+One point of possible confusion regarding the democratic peace relates to our comment in chapter 1 that
+patterns of behavior at one unit of analysis are not necessarily replicated at, or are transferable to, another
+unit of analysis. Evidence that democratic states rarely if ever go to war with each other, which is what most
+scholars mean by the “democratic peace” and which is a dyadic-level proposition, does not necessarily imply
+that democratic states are more “peaceful” than other states, which is a national or “monadic”-level
+proposition about a state’s involvement in wars, regardless of the nature of the adversary.40
+In the early stages of research on democracy and war, most scholars believed that democracies were just
+as likely to get involved in wars (regardless of the adversary’s regime type) as were non-democratic states.
+This was based on evidence that democratic–autocratic dyads were the most war -prone of all dyads, which
+countered the peaceful nature of democratic–democratic dyads, with authoritarian–authoritarian dyads
+falling in between in terms of their degree of war-proneness.41 More recently, a number of scholars have
+contested this assumption and argued that democracies are in fact more peaceful in their monadic war
+behavior (Rummel, 1995a; Benoit, 1996; Maoz, 1997; Russett and Starr, 2000), but a strong consensus has
+yet to arise. In part it depends on what kinds of wars one counts. The inclusion of colonial wars, many of
+which were fought by democracies beginning in the late nineteenth century, would increase the average
+frequency of war for democratic states, whereas a focus only on interstate wars would lower that average
+frequency.
+The study of the democratic peace has gone through a number of phases. The first phase was largely
+descriptive, aimed at validating the statement that democracies rarely if ever go to war with each other. This
+phase involved carefully defining war and defining democracy (Doyle, 1983; Russett, 1993; Ray, 1995),
+compiling a list of wars during the nineteenth and twentieth centuries, and ascertaining whether any of the
+pairs of democracies ever engaged in wars.
+Research on the democratic peace generally accepts the definition of war as “large-scale, institutionally
+organized, lethal violence” (Russett, 1993:12), with large scale defined in terms of 1,000 battle-related deaths
+on both sides (following the “Correlates of War Project” criteria offered by Singer and Small, 1972). Scholars
+vary somewhat in their definition of democracy. Common elements include regular, free, and competitive
+elections involving the free participation of opposition parties; a voting franchise for a substantial proportion
+of citizens, where the vote could be either for an executive or for a parliament to which the executive is
+responsible; at least one peaceful or constitutional transfer of power; and a minimal period of longevity as a
+democracy, which allows time for a culture of democracy to arise (Russett, 1993; Ray, 1995; Doyle, 1997).42
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+There was a fair amount of early skepticism about the validity of the democratic peace proposition, and
+critics identified a number of possible exceptions to the hypothesized absence of war between democracies.
+This led to the next stage of the democratic peace research program–a detailed examination of these
+hypothesized exceptions through intensive case study analysis, with particularly close attention to the
+definitions of democracy and of war.
+One such case was the War of 1812 between Great Britain and the United States. Most scholars
+concluded, however, that Britain was still ruled by a king who was not responsible to parliament in the
+conduct of foreign policy. In addition, some emphasized that American leaders did not perceive Britain as
+democratic until much later in the nineteenth century (Owen, 1997). This was relevant given the argument,
+particularly by constructivists, that political leaders’ perceptions of its adversary are critical because those
+perceptions strongly influence the degree of cooperation from the adversary.43
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+The American Civil War was also raised as a possible exception to the democratic peace proposition.
+Although its status as a civil war does not technically violate the “no war between democratic states”
+criterion, and although the South did not satisfy the definitional criterion of being an enduring democracy
+for a minimal period (usually taken to be three years), the war does violate the spirit of many of the
+theoretical arguments advanced in support of the democratic peace hypothesis. The Spanish–American War
+(1898) is also suggested as a possible anomaly in the democratic peace, but many question whether Spain
+met the criteria for a democracy at that time. Still other critics point to World War I, but the fact that
+Germany’s elected Reichstag had little impact on German foreign policy violates one of the definitional
+criteria for democracy.44
+
+The problematic nature of many of the proposed exceptions to the democratic peace have led many to
+conclude that it is a highly robust proposition, one that is not particularly sensitive to small modifications in
+the definition of democracy. That is, there are very few unambiguous cases of democracies going to war with
+each other.45 Most of the proposed exceptions are genuine borderline cases, either in terms of crossing the
+threshold for democracy or crossing the threshold for war. Some argue that a recent exception, however, is
+the 1999 Kargil War between India and Pakistan. India was clearly a democracy, Pakistan is coded as
+democracy in 1999 by the Polity III data, and most treatments list the conflict as surpassing the minimum
+1,000 battle death threshold required a war. Many South Asian specialists reject Polity III’s classification of
+Pakistan as a democracy (though not a continuous one), however, given the influence of the non-elected
+Pakistani armed forces on the decisions of elected political leaders and on how long they stay in power
+(Tremblay and Schofield, 2005:231–3).
+With the reasonably strong consensus that democratic states rarely if ever fight each other, some scholars
+have argued that this result is a statistical artifact that results from the limited number of democratic states
+in the international system (at least until recent times), from the geographic separation of democratic states
+(since the vast majority of wars are between contiguous states), or from the fact that democratic dyads trade
+a lot with each other and that trade has pacifying effects. Still others argue that the democratic peace exists
+primarily in the period since World War II and happens to coincide with the Cold War and American
+hegemonic power, which suppressed potential conflicts between democracies (Farber and Gowa, 1995;
+Gowa, 1999).
+Another line of argument is that democracies have a distinctive set of interests, and that is the mutually
+compatible interests between democratic states, and not anything to do with their internal makeup, that
+explains the rarity of war between them (Gartzke, 2000). A variation on this theme is that the relationship
+between democracy and peace is not universal but applies most strongly to economically developed states,
+in part because market economies generate shared interests (Mousseau 2000, 2009; Gartzke, 2007). Gibler
+(2007) argues that many democracies are older, established states that have resolved their territorial
+conflicts, thus significantly reducing a potent source of violent conflict. Others agree that democratic dyads
+are peaceful but argue that causality runs from peace to democracy rather than from democracy to peace–
+peaceful conditions promote the rise and maturation of stable democratic states (Thompson, 1996; Rasler
+and Thompson, 2005; but see Mousseau and Shi 1999).
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Debates about the democratic peace continue, but there is now a strong consensus that democracies
+rarely if ever fight each other and that this regularity is not the spurious result of other factors like relative
+power, alliances, and contiguity (Bremer, 1992; Brown et al., 1996; Doyle, 1997; Maoz, 1997; Ray, 1995, 2000;
+Russett and Oneal, 2001).46 An explanation for the absence of war between democracies must have
+something to do with democracy, though it might involve other factors as well.47
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+The major debate now concerns what it is about democracy that contributes to the dyadic democratic
+peace. Scholars have proposed a number of alternative answers but there is little agreement on which one
+provides the best explanation. At this point most scholars would agree that the relative absence of war
+between democracies is an extraordinarily strong empirical regularity in search of a theory to explain it. This
+is significant, because in the absence of a good theoretical explanation, we cannot say with confidence that
+the democratic peace will persist into the future as international and domestic conditions change.
+One criterion that we can use to rule out some possible explanations for the inter-democratic peace is
+that a viable explanation must be consistent with other empirically validated patterns of behavior involving
+democratic states.48 At a minimum, any explanation for the dyadic peace between democracies must not
+contradict these other observed relationships, and ideally it should explain them.49 For example, although
+debate continues on the monadic question as to whether democracies are more peaceful than are other
+states, it is clear that if there is a positive relationship, it is probably only modest in strength. Otherwise the
+monadic debate would have been settled by now. This suggests that any theoretical argument that implies
+that democracies are significantly more peaceful than are other states is problematic.
+We also know that democracies frequently fight imperial wars; that in wars between democracies and
+autocracies the democracy is more likely to be the initiator than the target; and that democracies
+occasionally use covert action against each other (Ray, 1995, 2000; Reiter and Stam, 2002; Russett and Oneal,
+2001; Bueno de Mesquita et al., 2003). In addition, democratic–authoritarian dyads are more war-prone than
+are pure authoritarian dyads, and democracies are much less prone to civil war or extreme human rights
+violations (Hegre et al., 2001; Rummel, 1995b). These are each fairly strong patterns, and an explanation for
+the absence of war between democracies must not violate these patterns. We must reject, for example, any
+hypothesized explanation of the absence of war between democracies that implies that democracies do not
+initiate wars.
+An explanation for the democratic peace must also be consistent with evidence that democracies almost
+never end up on opposing sides in multilateral wars, that they win a disproportionate number of the wars
+they fight, that they suffer fewer casualties in the wars they initiate (Reiter and Stam, 2002), and that they
+engage in more peaceful processes of conflict resolution when they get into disputes with other democracies
+(Dixon, 1994).
+At the present time there are several alternative explanations for the democratic peace and its related
+hypotheses, though new explanations are being offered all the time. One is the democratic culture and norms
+model (Owen, 1997; Russett and Oneal, 2001). There are several variations. One, which overlaps with the
+institutional constraints model, suggests that democratic societies are inherently averse to war because, as
+Kant ([1795]1949:438) argued, “the consent of the citizens is required in order to decide whether there
+should be war or not,” and the people will “hesitate to start such an evil game” by voting to send themselves
+off to war. For these reasons, democracies are highly averse to the casualties of war.50 In addition,
+democracies share norms of bounded political competition and peaceful resolution of disputes; and these
+internal democratic norms are extended to relations between democratic states.51 Democracies shed norms
+of peaceful conflict resolution in relations with non-democratic states, however, for fear of being exploited.52
+The plausibility of the normative model of the democratic peace is undercut by the fact that such norms
+have not precluded democratic states from initiating imperial wars against weaker opponents despite the
+absence of any threat of exploitation by the latter, or from fighting wars against autocracies with an intensity
+that is disproportionate to any plausible security threat. These concerns led some to supplement a
+democratic culture argument with a constructivist emphasis on shared identity (Risse-Kappen, 1995), which
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+provides a more plausible explanation for democratic hostility toward non-democratic states. The argument
+is that other democratic states are treated as part of a shared identity group, while non-democratic states
+are treated as the “other,” which psychologically facilitates hostile behavior. Yet democracies do engage in
+covert action against each other (James and Mitchell, 1995), and they occasionally use low levels of military
+force against each other (Bueno de Mesquita and Lalman, 1992; Bueno de Mesquita et al., 2003), which is
+not consistent with the idea of a shared identity of democratic states.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+The institutional constraints model of the democratic peace emphasizes checks and balances, the
+dispersion of power, and the role of a free press. These institutions preclude political leaders from taking
+unilateral military action, ensure an open public debate, and require leaders to secure a broad base of public
+support before adopting risky policies. As a result, leaders are risk-averse with respect to decisions for war
+and can take forceful actions only in response to serious immediate threats (Morgan and Campbell, 1991;
+Siverson, 1995).
+Although the institutional constraints model provides a plausible explanation for the relative absence of
+wars between democracies, like the democratic norms model it fails to explain why democracies frequently
+fight imperial wars despite the absence of direct and serious security threats. It also fails to explain why
+democracies get involved in wars just as frequently, or almost as frequently, as do non-democratic states.
+Proponents of the institutional and cultural models respond by arguing that because there are fewer
+internal constraints on the use of force by authoritarian leaders, they often attempt to exploit the
+conciliatory tendencies of democracies. This undermines democratic political leaders’ expectations that their
+peaceful conflict resolution strategies will be reciprocated, reduces their internal constraints on the use of
+force, and provides additional incentives for democratic regimes to use force against authoritarian regimes
+to eliminate their violent tendencies. This does not necessarily imply that democracies fight autocracies only
+in defense against aggression. In fact, most of the wars between democratic and non-democratic states are
+initiated by democracies (Reiter and Stam, 2002).
+In addition, the institutional model assumes that leaders have more warlike preferences than do their
+publics, which is why leaders need to be constrained by peoples who hesitate to vote to send themselves off
+to war, knowing that they will be the ones to suffer. The combination of hawkish rulers and pacifistic publics
+may often be the case, but it is not always true. Belligerent publics sometimes push their leaders into wars
+those leaders prefer to avoid.
+A good example is the Spanish–American War of 1898, a common explanation for which is that the US
+was pushed into war by jingoist public opinion fueled by a “yellow press” (May, 1961).53 To take another
+case, it is often argued that before his assassination in 1963, President Kennedy had come to realize that an
+American victory in the Vietnam War was not possible, and that he planned to withdraw American troops
+from the Indochina. He was afraid to do so until after the next election, however, because he feared that he
+would be blamed politically for losing Vietnam to the communists (Ellsberg, 1972). Kennedy felt constrained
+to continue the war, at least for a time, because of what he perceived as a hawkish public opinion. There are
+countless other cases in which political leaders might prefer to make compromises with the adversary but
+conclude that it would be political suicide to do so. Negotiations between Arab and Israeli leaders often fit
+this pattern. Mass publics, or at least a politically influential segment of them, are sometimes more hawkish
+than are political leaders, which raises questions about the validity of the institutional model of the
+democratic peace.
+Many of the patterns associated with democratic war behavior are explained by Bueno de Mesquita et al.
+(2003), whose general selectorate model of politics provides an alternative institutional explanation of the
+democratic peace. The selectorate model begins with the premise that the primary goal of political leaders is
+the maintenance of their positions of political power. A key variable in the model is the relative sizes of the
+“selectorate” (hence the label for the model) and of the “winning coalition” in a political system. The
+selectorate consists of all people who have some influence on policy. The winning coalition consists of those
+whose support is necessary for a political leader and his or her regime to maintain their positions of power.
+In the United States, the selectorate consists of all eligible voters, and a winning coalition consists of enough
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+of the selectorate to generate a majority of votes in the Electoral College (since 1964, at least 270). In an
+autocracy, the winning coalition generally consists of some combination of the military, internal security
+forces, business, labor, or other groups. Thus the relative size of the winning coalition in an autocratic state
+is much smaller than that in a democracy.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+The central hypothesis of the model is that the smaller the ratio of the size of the winning coalition to the
+size of the selectorate, the more easily a political leader can distribute “private goods” to the winning
+coalition but not to other members of society. Autocratic leaders can maintain the support of their small
+group of core supporters, and hence maintain their hold on political power, by distributing private goods to
+them, but that is not economically possible for democratic leaders, who require a much broader base of
+public support. Democratic leaders maintain their support by providing “public goods” for society as a whole
+through policies that benefit everybody. Thus the provision of public goods through good policies is more
+important for democratic leaders than for autocratic leaders, assuming their primary goal is to maintain
+their positions of power.
+Since democratic leaders have to provide public goods for society, they are more sensitive to the outcome
+of wars than are authoritarian leaders.
+An unsuccessful war involves greater political costs for a democratic leader than for an autocratic leader,
+as long as the latter continues to provide private goods to his/her smaller base of political support. This is
+consistent with the finding that democratic leaders are more likely than their authoritarian counterparts to
+be removed from office after an unsuccessful war (Bueno de Mesquita and Siverson, 1995).54 Because of the
+political benefits of successful wars and the political costs of unsuccessful wars, democratic leaders tend to
+initiate only those wars they are confident of winning and, once in war, to devote enormous resources to win
+those wars. Autocratic leaders devote fewer resources to war because the costs of failure in war are less and
+because they need some of those resources to distribute to their key supporters at home.55 This helps to
+explain the fact that democracies win a disproportionate number of their wars (Lake, 1992; Reiter and Stam,
+2002; Desch, 2008 ; Downes, 2009).
+The selectorate model posits that in a hypothetical war between democracies both sides would invest
+enormously in the war effort, given the political cost to leaders of defeat in war. As a result, such a war
+would be economically costly to both sides as well as politically costly to the loser. Democratic leaders,
+anticipating this outcome, have strong incentives to avoid such wars to begin with, which helps to explain
+the inter-democratic peace.
+The selectorate model also accounts for other empirical regularities regarding democratic war behavior. It
+helps to explain why democracies get involved in wars fairly frequently despite the fact that they do not fight
+substantial wars against each other. Because democratic leaders benefit from successful wars, especially
+those involving low casualties, they will not hesitate to initiate imperial wars and wars against weaker
+autocracies. The model also explains why strong democracies sometimes initiate low levels of force against a
+much weaker democracy (there are few domestic political risks), why the target capitulates immediately (it
+anticipates that leaders in the stronger state have strong incentives to win the war), and thus why militarized
+disputes between democracies do not escalate to war.
+The willingness of democracies to invest heavily in the war effort makes them unattractive targets of
+aggression, but autocrats also take greater gambles in war because the outcome of war has less of an
+impact on their political survival. That is, there are relatively few domestic downside risks of gambling in war
+to counteract the potential upside benefits of such gambles. The selectorate model predicts that autocracies
+will initiate wars against weak democracies but rarely against strong democracies. If ex ante military
+capabilities are approximately equal, the likelihood of a democratic–autocratic war depends on the specific
+values of key variables in the model. Democratic leaders will consider war if they believe that their greater
+investment in the war effort guarantees victory, while autocratic leaders’ greater willingness to gamble might
+lead them to consider war if the democratic effort advantage is only modest.56
+Schultz (2001) provides an alternative institutional explanation of the democratic peace, one based on
+information and signaling. Schultz begins with the premise that democratic institutions and processes are
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+more transparent than those of non-democratic states (J. Ritter, 2000). He also makes a number of
+simplifying assumptions. One is that political opposition groups have access to the same information as
+does the government. Another is that the opposition’s primary concern is gaining power (as opposed to
+contributing to good public policy, even in its role in the opposition). This creates a zero-sum situation of
+electoral competition between government and opposition.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+In a crisis with an external adversary, each state wants to maximize its bargaining leverage by convincing
+the adversary that it is more highly committed and resolved than the adversary is. Although the government
+has an incentive to bluff and exaggerate its resolve, the opposition’s primary goal of gaining power means
+that it does not always have incentives to join the government’s bluff. Instead, it has incentives to support
+the government in a crisis only if it expects that any war resulting from the crisis would be successful and
+popular, because at least then it will get some of the credit for the victory. If the opposition expects an
+unpopular and unsuccessful war outcome, however, it has incentives to oppose the government, in order to
+capitalize on the political repercussions of an unsuccessful war and in doing so further its goals of gaining
+power. This means that the behavior of the opposition in democratic states sends a credible “signal” of the
+likely intentions of the government.57 If the opposition supports the government, it expects a positive
+outcome of the war for the state, while if the opposition opposes the government it expects a negative
+outcome for the state.
+Schultz argues that because a free press guarantees transparency and because the political opposition
+has different incentives than does the government, democracies are better able than non-democracies to
+send credible signals of their resolve in crises. This reduces the dangers of misperceptions in crises involving
+one and particularly two democratic states, and thus minimizes the dangers of crisis escalation. More
+specifically, the transparency of the democratic process makes it obvious whether democratic political
+leaders involved in international crises have the support of the political opposition and the public in an
+international crisis. In the absence of domestic support the government cannot stand firm in a crisis because
+it cannot implement its threats. The adversary understands this and adopts a harder line in crisis bargaining.
+Democratic leaders anticipate their adversary’s resolve and refrain from getting involved in crises in the first
+place. Knowing the path through which a crisis is likely to escalate makes it unlikely that actors will walk
+down that path.
+On the other hand, if leaders expect public support, they will initiate disputes knowing they will be able to
+stand firm if the adversary resists. The adversary understands this and behaves more cautiously. As a result,
+crises involving democratic states, and particularly those between democratic states, are less likely to be
+characterized by misperceptions regarding the adversary’s resolve and less likely to escalate to war because
+of misperceptions.
+This reduction in misperceptions is critical if we recall, from our earlier discussion of the bargaining model
+of war, that misperceptions based on private information and incentives to misrepresent that information
+constitute one of the few paths by which rational states can end up in war with each other (Fearon, 1995).
+There are also non-rational paths through which misperceptions lead to war (Jervis, 1976 ; Lebow, 1981), and
+democracy reduces the likelihood of those paths arising as well. If both adversaries are democracies,
+misperceptions are reduced even further, though it is not clear whether this reduction is enough to account
+for the near-absence of war between democracies.58
+
+Schultz’s (2001) information-based model of democratic bargaining behavior in crisis situations is an
+important contribution to the literature on the democratic peace. Like most parsimonious models, however,
+it is based on some fairly strong assumptions. One such assumption is that in a democratic state the
+opposition has access to the same information as the government. The case of the second Bush
+Administration’s distortion of information about Iraqi weapons of mass destruction in the period leading up
+to the 2003 American war in Iraq (Kaufman, 2004 ; Rich, 2006) is but one of many historical cases that
+contradict this assumption. This is consequential for Schultz’s model. If the opposition does not always have
+the same information as the government does, then the adversary does not know whether the behavior of
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+the opposition is a credible signal of the government ’s expectations and resolve in a crisis, or whether it
+reflects differences in information between the government and the opposition.
+Another limitation of Schultz ’s (2001) rationalist model is that it assumes that the only way the
+government benefits from war is by advancing the national interest. This assumption ignores diversionary
+theory, which suggests that the leader can reap domestic political benefits from a war because war usually
+generates a “rally ’ round the flag effect” that benefits the leader but not the country. Schultz correctly argues
+that rally effects are temporary, but what he ignores is that a leader can exploit his/her temporary boost in
+popular support by conducting policies that have far-reaching consequences, or making institutional
+changes that further shift the balance of power within the government in his/her favor.
+Among other things, war usually results in an increased centralization of power in the executive branch of
+the government. As James Madison
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+wrote to Thomas Jefferson in 1793, “War is … the true nurse of executive aggrandizement” because it is
+the executive that directs war and unlocks the public treasuries in order to do so (in Hunt, 1906:174). War is
+a particularly severe kind of crisis, and crises enable governments to do things they might not otherwise be
+able to do. As Rahm Emanuel, White House Chief of Staff under President Barack Obama, said in November
+2008, “You never want a serious crisis to go to waste. And what I mean by that is an opportunity to do things
+that you didn ’ t think you could do before.”
+The opposition party often fears the growth of executive power and its consequences, and may prefer
+that war not occur. This implies that under certain conditions the political opposition might have incentives
+to oppose war not only when it anticipates an unsuccessful or unpopular war, but also when it expects a
+successful war, since such wars are invariably followed by an increase in popular support for government.
+The opposition ’s incentives to oppose war depend on its expectations as to whether the regime in power
+would be likely to exploit its advantages for political purposes, and what that might entail. Some argue that
+during the crisis with France in 1798 (often referred to as the “Quasi War”), the Republicans opposed war
+because they feared that the Federalists would exploit a successful war by taking actions to curtail public
+dissent and impede the efforts of Republicans to return to power (Levy and Mabe, 2004).
+Research on the democratic peace has evolved through a number of stages during the last quartercentury. It began by describing a strong empirical regularity, and then demonstrated, at least in the eyes of
+its proponents, that the regularity was not simply the by-product of other factors that happen to be
+correlated with democracy.59 It explored ambiguous cases in more detail to ascertain whether a more finegrained analysis would show that they were consistent or inconsistent with the democratic peace
+hypothesis. After scholars reached a consensus that democracies rarely if ever go to war with each other,
+and that the answer had something to do with the nature of democracy rather than “spurious” influences,
+scholars began constructing models to explain the democratic peace. Models that generated additional
+predictions that run contrary to other known facts about democratic war or foreign policy behavior were
+rejected. The new models have generated new predictions about a wide range of other types of behavior
+(conflict resolution, intervention, covert action, the conduct and outcome of war, perceptions of the
+adversaries, etc.) that might differentiate democratic from non-democratic states, and those predictions
+were subject to empirical test (Russett and Starr, 2000). Scholars have yet to reach a consensus about the
+“true” explanation for the democratic peace, but there are clear signs of progress in the sophistication of our
+models.
+
+Democratization and war
+The models of the democratic peace discussed above all deal with relatively mature democracies. This raises
+the interesting question as to whether the model applies to new democracies, those just making the
+transition from authoritarian rule. If that were true, the policy implications would be enormous. Among
+other things, it would suggest that by promoting the development of democracies around the world the
+United States and other advanced democratic states could contribute to the elimination of war as well as to
+the establishment of liberal institutions and political freedom. In fact, in his 1994 State of the Union address
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+President Bill Clinton justified a policy of promoting democratization around the world by referring to the
+absence of war among democracies.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Some researchers question this prescription, however, and argue that although well-established
+democratic dyads are peaceful, the process of transition to democracy can be a particularly destabilizing
+period, and that democratizing states occasionally go to war against other states and even against each
+other (Mansfield and Snyder, 2002, 2005). The democratization process brings new social groups with widely
+divergent interests into the political process at a time when the state lacks the institutional capacity to
+accommodate conflicting interests and respond to popular demands (Huntington, 1968). This can create
+enormous social conflict. This conflict can be exacerbated if democratization is coupled with the introduction
+of market forces into non-market economies, which leads to popular pressures for state protection against
+the pain of economic adjustment (Snyder, 2000). The resulting high levels of political instability can
+contribute to war through a number of paths, including the diversionary mechanisms discussed in the next
+chapter.
+Democratization can be particularly destabilizing in multi-ethnic societies where ethnic groups are
+uncertain about how fully their rights will be protected, especially if the state in transition is too weak to
+maintain a monopoly of violence to protect those rights (Gurr, 2000 ; Ayoob, 2001). Elites competing for
+mass political support are tempted to make nationalist appeals and engage in external scapegoating in
+order to bolster their internal support. This scapegoating is particularly appealing to those elites whose
+interests are threatened by the democratization process and who believe that an external enemy might help
+reverse that process and strengthen centralized political power at home (Mansfield and Snyder, 2005). These
+considerations led Mansfield and Snyder (2005) to argue, supported by statistical evidence, that while it may
+be true that politically developed and stable democracies rarely if ever go to war with each other, states
+involved in transitions to democracy are actually more likely to end up in war than are other states.
+The democratization and war hypothesis generated considerable scholarly debate. Critics raised
+questions about the case selection and research designs upon which the evidence was based, and
+generated new evidence that suggested that democratizing states are not more warlike (Thompson and
+Tucker, 1997 ; Ward and Gleditsch, 1998 ; Russett and Oneal, 2001). Mansfield and Snyder (2005) responded
+by arguing that it is important to distinguish between the very earliest stages of transitions away from
+authoritarian rule and later stages when democratic institutions have begun to consolidate. They provided
+evidence that war is significantly more likely in these early transitional stages than in the later ones, but that
+evidence and the techniques used to analyze it has been challenged by other scholars.60
+One can certainly point to other societal-level variables contributing to the outbreak of war. Ideological,
+religious, ethnic, and racial differences between states are among the factors that come to mind. With
+respect to interstate war, these factors tend to supplement other variables surveyed in these chapters
+rather than serve as the primary drivers of war. Cultural differences might help to explain the identity of
+international rivalries, or the selection of targets for diversionary behavior. Snyder ’s (1991) political economy
+model of overexpansion incorporates the strategic use of national cultural myths to rationalize their policies
+to the public. Transnational, system-level norms also influence the behavior of states on issues of war and
+peace (Katzenstein, 1996 ; Finnemore, 2003 ; Farrell, 2005 ; Tannen-wald, 2007). As we will see in the next
+chapter, ideological, religious, and cultural differences between states often contribute to misperceptions
+that increase the probability of interstate war.
+We can also identify some historical cases in which cultural factors arguably played a primary role–religion
+in the early stages of the Thirty Years ’ War (1618–48) (Parker, 1984), for example–or a supporting role–
+ideology in the Cold War (Gaddis, 1997) and (to a lesser extent) race in the Pacific War between the United
+States and Japan (1941–5) (Dower, 1987). Some historians emphasize cultural factors in the evolution of
+warfare (Keegan, 1984 ; Lynn, 2003). We have relatively few specific theories of the causes of interstate war,
+however, that are built primarily around cultural variables.61 One important exception is the “clash of
+civilizations” hypothesis.
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Culture and War: The “Clash of Civilizations” Thesis
+The “clash of civilizations” hypothesis (Huntington, 1993b; 1996) is one of the most prominent culture-based
+
+civilization.63
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+explanations for war.62 It is also a forecast about the future. Huntington (1993b:22–3) argued that the clash
+of civilizations is the most recent phase in the evolution of international conflict since the Treaty of
+Westphalia in 1648. Until the French Revolution the primary conflicts in the world were between princes
+(emperors, absolute monarchs, and then constitutional monarchs) trying to expand their territory externally
+and their armies and bureaucracies internally. From the French Revolution in 1789 to World War I (1914–18),
+the primary conflicts were between nation-states. After the Russian Revolution (1917) and the reaction to it,
+the primary conflicts shifted from nations to ideologies. These three phases were all conflicts within Western
+The collapse of the Soviet Union and the end of the Cold War, Hunt-ington argued, ended the ideological
+struggle between capitalism and communism and initiated a new phase of conflict. Nation-states were (and
+would continue to be) the most powerful actors in the global system, but the primary axes of conflict are
+now not ideological or economic, but instead cultural and religious. More specifically, Huntington (1993b:25)
+argued, “the principal conflicts of global politics will occur between nations and groups of different
+civilizations. The clash of civilizations will dominate global politics. The fault lines between civilizations will be
+the battle lines of the future.” He went on to say (1993b:39) that “The next world war, if there is one, will be a
+war between civilizations.”
+Huntington (1993b:24) defined civilizations as the “the highest cultural grouping of people and the
+broadest level of identity people have short of that which distinguishes humans from other species.”
+Civilizations are defined by their language, history, religion, customs, institutions, and the subjective selfidentifications of peoples. They can include several states (the West) or just one (Japan). Huntington
+(1993b:25) identified seven or eight distinct civilizations: Western, Confucian, Japanese, Islamic, Hindu, Slavic
+-Orthodox, Latin American, and possibly African civilization.
+Conflicts along the fault lines between civilizations have been the source of the most prolonged and most
+violent conflicts in history, Huntington (1993b:25–31) argued.64 There are a number of factors that have
+increased the likelihood of such conflicts in the future. The end of the ideologically based divisions of the
+Cold War has allowed other identities to become more salient, a process that has been reinforced by a
+reaction against the West and its history of domination over non-Western peoples. Economic globalization
+and social change are weakening both national identities and local identities, and increasing interactions
+among people from different civilizations have heightened awareness of civilizational identities. Huntington
+mentioned the potential threat to Western civilization from China because of its rapid economic growth, but
+gave particular emphasis to the threat from Islam. Conflict between Western and Islamic civilizations has
+persisted for 1,300 years, in part because of its proximity to many civilizations (Western, Orthodox,
+Confucian, and African). With regard to the future, Huntington emphasized the destabilizing effects of the
+rapid growth of population in the Islamic world.65
+
+The clash of civilizations thesis, published in Foreign Affairs, a journal perceived to be closely tied to the
+American foreign policy establishment, “sent shock waves around the world” (Hassner, 1996:63, quoted in
+Welch, 1997:198). The article further alienated much of the Islamic world by reinforcing negative images of
+the United States, and it led others to fear that Huntington ’s forecast about the future could turn into a selffulfilling prophecy, or that it was an attempt to provide legitimacy for American aggression against Islam. The
+rise of anti-Western terrorism and the 9/11 attacks in particular confirmed the validity of the clash of
+civilizations thesis among many, and led some initial skeptics to change their views (Ajami, 1993, 2008).
+Huntington’s thesis also generated a strong scholarly reaction, almost all of it negative (Council on Foreign
+Relations, 1993). Many argued that Huntington ’s definition of civilization was so vague that it failed to
+provide the basis for the identification of specific civilizations, and that in the absence of an operational
+definition it is impossible to conduct an empirical assessment of the hypothesis that the primary sources of
+violent conflict are civilizational differences. It appears that a people ’s predominant religion is Huntington ’s
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+primary criterion for identifying civilizations, but ethnic and linguistic similarity and even geographical
+proximity also appear to play a role. The lack of congruence among these criteria leads to questions about
+some of Huntington ’s classifications. Religious criteria would lead us to classify the Iran–Iraq War (1980–88)
+as an intra-civilizational war within Islam, while ethnic/linguistic criteria would suggest an inter-civilizational
+war between Persians and Arabs. Most Latin American countries have republican regimes and Christian
+leaders of European descent, so it is not clear why they should constitute a distinct civilization (Welch, 1997:
+202–3).66
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Scholars have also questioned whether differences between civilizations as Huntington (1993b; 1996)
+defined them constitute the primary determinants of conflict, and whether it is in fact true that conflicts
+within civilizations are as frequent as conflicts between civilizations (Kirkpatrick, 1993). Given each person ’s
+multiple identities, it is not clear why civilizational identities necessarily dominate other identities. Welch
+(1997:205) argued that at any level of aggregation, violence is generally more likely within a group than
+between groups. There is more violence within families than outside of families, within villages than between
+villages, within ethnic groups than between ethnic groups, and within states than between states.
+This argument fits the history of modern Europe from 1500–1945, where the most destructive conflicts
+have been within the European system (Wright, 1965). Huntington (1993b:23) himself acknowledges this, by
+stating that “conflicts between princes, nation-states, and ideologies were primarily conflicts within Western
+civilization” and describing them as “Western civil wars.” This statement clearly contradicts Huntington’s
+(1993b:25) argument that “Over the centuries … differences among civilizations have generated the most
+prolonged and the most violent conflicts.”
+The clash of civilizations hypothesis is also problematic for the period since 1945. The genocide in Rwanda
+and “Africa’s World War” in the mid-1990s were among the world’s bloodiest conflicts since World War II, but
+they were fought entirely within the African civilization identified by Huntington. The civil wars within Iraq
+and Afghanistan have each been fought within Islam. The US intervened militarily against Slavic Serbia in
+support of Islamic Bosnia, and most Arab states supported the United States in its military intervention
+against Iraq. Each of these actions runs diametrically opposed to Huntington’s thesis.
+Quantitative tests of the clash of civilizations hypothesis have reinforced empirical arguments against the
+clash of civilizations hypothesis. These studies have generally found that states are not more prone to
+militarized conflict across civilizational lines than within civilizations (Chiozza, 2002). Russett, Oneal, and Cox
+(2000) find that variables associated with realist theory (geographic contiguity, alliance patterns, and relative
+power) and with liberal theory (economic interdependence and levels of democratization) provide better
+explanation of occurrences of militarized interstate disputes between states than do civilizational identities.
+In summary, Huntington is correct to emphasize the importance of identities in global politics, but he
+overestimates both the importance of civili-zational identities relative to other identities and the impact of
+civilizational differences on militarized conflicts. His clash of civilizations hypothesis is more useful as a
+specification of a particular path to war than as a general theory of war.
+Having surveyed a variety of nation-state level causes of war, we now turn to the role of decision-making,
+beginning at the individual level.
+
+Notes
+1. On religion and war, see Little (1996), Huntington (1996), and D. Martin (1997). On ideology and war, see
+Nelson and Olin (1979) and Haas (2005).
+2. This attention was due in part to the influence of revisionism in the study of American diplomatic
+history, which focused on the internal social and especially economic factors driving American policy
+(Williams, 1962). Historical revisionism was in part a response to the Cold War, and it grew in influence in
+response to the Vietnam War.
+3. Some Marxist–Leninists are quite explicit in describing war in Clausewitzian terms (Kubalkova and
+Cruickshank, 1980 ; Semmel, 1981).
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+4. For additional work in world systems theory, see Chase-Dunn and Podobnik (1995) and the brief review
+in Rasler and Thompson (forthcoming). In the 1970s, proponents of “dependency theory” argued that the
+primary explanation for the delayed development of the “South” was the structure of dominance and
+dependence in the global political economy and the exploitation of the South by the North (Cardoso and
+Faletto, 1979), though these scholars did not give much attention to the problem of war per se.
+5. Similarly, while lateral pressure theory (Choucri and North, 1975) gives less emphasis to the world
+economy and the hierarchical structure of power, it shares with Marxist–Leninist theories the emphasis on
+competition for scarce resources.
+6. Krasner (1978: chap. 1) calls this “structural Marxism” and distinguishes it from “instrumental Marxism,”
+which emphasizes the hijacking of the state by the capitalist class in order to advance its own parochial
+class interests.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+7. These different explanations are not universally accepted by all Marxist–Leninists, and in fact different
+variations of Marxist theory are quite critical of some other variations.
+8. If the imperatives of oil drove American foreign policy, however, it would be hard to explain why the
+United States continues to strongly align with Israel rather than with the Arab oil-producing states.
+9. Even if it were true that economic recovery was a consequence of the preparation for war, that does not
+necessarily imply that the goal of economic recovery was the primary goal of the war. The relative
+importance of different motivations needs to be established through further empirical research.
+10. See the section later in this chapter on coalitional theories of war and peace.
+
+11. The argument gained enough traction that in 1934–with the rise of Hitler, renewed fears of another
+European war, and concerns (especially by increasingly influential isolationists) that armaments
+manufacturers might once again push the United States into war–that Congress set up a Special Senate
+Committee to investigate the munitions industry. The “Nye Committee,” so named after its chair, held
+hearings for 18 months but found little evidence to support the “merchants of death” hypothesis. That
+finding did little, however, to dampen popular suspicions of “greedy munitions makers.” See Schlesinger
+and Bruns (1975).
+12. See Bass (1964) for a collection of alternative interpretations of American entry into World War I.
+13. One significant primary difference between Marxist and non-Marxist theories of economic imperialism
+is that Lenin and other Marxists believed that capitalist states could not be reformed, that imperialism is
+inevitable, and that violent revolution is necessary for the redistribution of wealth and the elimination of
+imperialism. Non-Marxist critics, like Hobson and his descendants, recognized the feasibility of reform
+within capitalist states.
+14. The monopoly stage of capitalism is defined by five basic features: the concentration of production and
+capital into monopolies; the merging of bank capital with industrial capital, leading to the dominance of
+“finance capital” under a financial oligarchy; the distinctive importance of the export of capital as opposed
+to the export of commodities; the formation of international capitalist monopolies which share the world
+among themselves; and the territorial division of the world among the biggest capitalist powers (Lenin,
+[1916]1939:88–9).
+15. For a class-based explanation of the Peloponnesian War, see Cornford (1971).
+
+16. Also, recall long-cycle theory ’s emphasis on leadership in leading economic sectors (Modelski and
+Thompson, 1996).
+17. The German threat and World War I did not help settle Anglo–Russian colonial disputes, as the rivalry
+continued after the war.
+18. Analytically, this is not a useful definition, because it explicitly excludes expansionist behavior that
+served a useful purpose in providing protection or securing territory or trade. The definition is also
+circular. If imperialism is objectless by definition, then if it serves a useful function, then by definition it is
+not imperialism. With this definition, one could not investigate the empirical question of whether
+imperialism could be useful. See Doyle (1997:243).
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+19. Schumpeter ([1919]1951) also examined the imperialisms of Persia, Assyria, Alexander the Great,
+Egypt, Rome, and modern European states, each of which reflects a variation on the central theme of
+imperialism.
+20. It is also reminiscent of interpretations of the “military revolution” in early modern Europe (Roberts,
+[1956]1995). A more general theoretical analysis of the mutual linkages among external threat
+environment, war, political organization, military organization, and political economy is provided by Levy
+and Thompson (2010b).
+21. While some theories of the military–industrial complex give primary emphasis to the economic
+interests of leading firms (Domhoff, 1967), others give primary emphasis to the role of the military (Mills,
+1956).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+22. Snyder (1991) was responding to Kennedy’s (1987) theory of “imperial overstretch.” Kupchan (1994)
+constructs an alternative theory of overexpansion.
+23. This might exclude the United States prior to the twentieth century.
+
+24. This puts a premium on defining a “sharp” increase in threat, and on doing so independently of the
+government’s response to the threat. Otherwise, we would be left with the meaningless statement that a
+sharp increase in threat (as operationally defined by a strong response to that threat) would lead to a
+strong response to that threat.
+25. Narizny neglects the fact that on the brink of war defensive alliances can be implemented more quickly
+than substantial increases in armaments.
+26. Haas (2005) explains these variations of policy preferences between left and right in terms of ideology.
+The left was more hostile to fascist Germany and more sympathetic to the Soviet Union, a potential ally of
+Britain’s. The right was ideologically more hostile to Soviet communism than to German fascism.
+27. Schweller (2006) also examines “underbalancing” in the 1930s, in an attempt to explain why Britain and
+France pursued such conciliatory policies in response to a rapidly growing threat. He gives less emphasis
+to economic factors and more attention to other political factors: the absence of elite consensus on policy
+preferences, the absence of elite cohesion, the political vulnerability of the regime, and the social cohesion
+of the country. For a more detailed analysis of the domestic politics of grand strategy in Britain and France
+in the 1930s, see Imlay (2003).
+28. One particular component of the national economic interest that is omitted from the Narizny (2007)
+and Lobell (2006) models is the creditworthiness of the state, which varies significantly across regime type
+and also across specific contexts. The greater the state ’s access to international credit markets, the more
+it can borrow, and the less it needs to rely on immediate taxation to fund rearmament in response to
+external threat (Rasler and Thompson, 1983). Democratic states tend to have greater access to credit
+markets than do authoritarian states, because lenders are more confident that democratic states will not
+default on their loans. Democracies are more likely to repay their debts because they know that
+democratic publics are likely to punish leaders that pursue costly economic policies, including those that
+weaken a state ’s credit rating (Schultz and Weingast, 1998).
+29. Some dispute the validity of the evidence behind this quote (Blainey, 1988:76–7).
+30. For a rationalist state actor interpretation of the Crimean War, see Gochal and Levy (2004). For an
+interpretation of the Falklands/Malvinas War that gives more attention the failure of coercive bargaining at
+the dyadic level, see Freedman and Gamba-Stonehouse (1990).
+31. One explanation for the absence of a strong observed relationship between the political insecurity of
+elites emphasizes the strategic behavior between governments and adversaries. If governments are
+insecure and have incentives to scapegoat, adversaries recognize this and will “lie low” and not provide an
+easy target for scapegoating (R. Miller, 1999). This is an interesting argument and it needs further study. If
+a politically insecure leader is really determined to find an external scapegoat, however, a potential
+adversary can only back off so far before sacrificing its vital interests. Another possibility is that stronger
+adversaries can also threaten to escalate minor disputes to war, in an attempt to deter low-level
+diversionary behavior. For a game-theoretic model of diversionary behavior that emphasizes both
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+bargaining between governments and adversaries and signaling between constituents and the
+government, see Tarar (2006).
+32. Some scholars dispute this, however, and present evidence that scapegoating is most likely in the
+period immediately after elections (Gaubatz, 1999).
+33. One argument is that non-democratic states have an alternative policy option that is generally not
+available to their democratic counterparts–direct repression of internal dissent (Enterline and Gleditsch,
+2000).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+34. Diversionary theory almost always assumes that the targets are external states. Governments can also
+engage in diversionary behavior against certain domestic groups, especially if those groups are defined as
+somehow different, as the “other” (Tir and Jasinski, 2008). Hitler ’s action against German Jews provides
+one example.
+35. Diversionary theorists usually invoke the in-group/out-group hypothesis to explain how the use of
+external force increases a leader ’s domestic political support. Some rational choice theorists invoke a
+different mechanism. They construct principal–agent models that treat the successful use of military force
+as a “signal” of the leader ’s competence, which might otherwise be in doubt if his/her policies (domestic as
+well as foreign) have generated internal dissatisfaction (Richards, et al., 1993 ; Smith, 1996). One might
+question, however, whether popular perceptions of a leader ’s competence in foreign policy translate into
+perceptions of competence in domestic policy (handling the economy, for example), leading to an increase
+in domestic support. If a leader is in real trouble domestically, however, s/he might conclude that they
+have nothing to lose and “gamble for resurrection” through the use of military force (Downs and Rocke,
+1994).
+36. Low-level diversionary actions against stronger targets might be a plausible strategy if one expects that
+the adversary is unlikely to respond. President Fidel Castro of Cuba has greatly enhanced his domestic
+support over the years by thumbing his nose at the United States, but always through actions short of
+military force.
+37. An alternative explanation for powerful liberal democracies getting involved in large and destructive
+wars lies in the fact that they often take the lead in grand balancing coalitions against potential hegemonic
+land powers.
+38. The strength of this regularity is reflected in Levy’s (1989b:270) observation that “the absence of war
+between democratic states comes as close as anything we have to an empirical law in international
+relations.” This probably says more about the absence of lawlike behavior in international relations than
+about the behavior of democracies. Still, this is the strongest empirical regularity that scholars have
+observed in the international relations field. For comparable claims about the “lawlike” nature of the
+democratic peace, see Gleditsch (1995), Chan (1997), Russett and Starr (2000), and Braumoeller and Goertz
+(2000).
+39. As a system-level explanation, realism argues that all states respond in roughly the same way to similar
+threats, opportunities, and conditions. The implication is that, ceteris parabus, democratic dyads will go to
+war as often (proportionately) as any other pairs of states.
+40. Similarly, the dyadic democratic peace does not imply that the international system will become more
+peaceful as the number of democratic states in the system increases. That would be true if there were
+already a substantial number of democracies in the system, but not if there were relatively few. In the
+latter case, adding more democracies would add more democratic–autocratic dyads, which have a higher
+propensity to war (Rasler and Thompson, 2005).
+41. Some research has suggested that there is a “dictatorial peace” among authoritarian regimes (Peceny,
+Beer, and Sanchez-Terry 2002).
+42. Most quantitative studies of the democratic peace use the Polity III data, which was developed by Gurr
+and his colleagues (Jaggers and Gurr, 1995).
+43. This raises the question of whether the appropriate standard is whether states satisfy some objective
+set of criteria for democracy, or whether it is each state ’s perceptions of the democratic character of other
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+states that matters. On the latter, see Oren (1984).
+44. For more detailed discussions of these potentially anomalous cases, see Ray (1995).
+45. Admittedly, the criteria for democracy are rather weak, in the sense that there is no insistence that
+criteria for democracy approximate the normative standard of an ideal democracy. But that is precisely the
+point. If we insisted on a definition of a perfect democracy, then we would conclude that there are no wars
+between democracies because there are few if any real democracies. That would not be an informative
+finding. What is so significant about the democratic peace is that even pairs of states that satisfy only the
+weakest criteria for democracy still rarely if ever fight each other.
+46. For critiques of democratic peace theory, see Brown et al. (1996), Henderson (2002), Rosato (2003), and
+Rasler and Thompson (2005).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+47. As we saw in chapter 3 ’s discussion of economic interdependence and peace, a growing number of
+scholars now argue that the capitalist peace reinforces the democratic peace (Mousseau, 2000 ; Hegre,
+2000 ; Gartzke, 2007). Some scholars also argue that international institutions also contribute to the
+democratic peace (Russett and Oneal, 2001).
+48. This discussion draws on Levy (2002:359–61).
+
+49. Bueno de Mesquita et al. (2003) make a similar argument.
+
+50. The hypothesis of aversion to costly wars by democratic publics and therefore by their leaders is
+plausible, but it is not clear whether this is a universal generalization that applies to all democracies, or
+whether it is a generalization that is temporally or culturally bounded and perhaps overly influenced by
+contemporary Western and particularly American attitudes since the Vietnam War. Images of Pickett ’s
+charge in the American Civil War or frontal assaults by democracies against well-entrenched positions in
+World War I do not reflect an aversion to casualties. For empirical and experimental studies, see Gartner,
+Segura, and Barratt (2004) and Gartner (2008).
+51. For a critique of this argument, see Rosato (2003).
+
+52. It is sometimes argued that democratic cultures preclude democratic leaders from fighting certain
+types of wars. Schweller (1992), for example, argues that democracies cannot fight “preventive wars”
+motivated not by a current con-flict of interest but rather by the fear of the adversary ’s rising power.
+There are enough exceptions, however, to seriously question this hypothesis. Examples include the Israeli
+attack against Iraq in 1981 and the use of preventive logic by the second Bush Administration in the United
+States to rationalize its 2003 war against Iraq (Levy, 2008a).
+53. The impact of jingoistic publics and the press in helping to push governments into war is not confined
+to democratic states. In 1739, when Britain was a constitutional monarchy, both the public and the press
+demanded war against Spain. A reluctant First Minister Walpole agreed, leading to the “War of Jenkins ’
+Ear” (Young and Levy, forthcoming).
+54. Recall that after being soundly defeated in the 1990–91 Persian Gulf War, Saddam Hussein of Iraq
+stayed in power for another 12 years before he was overthrown during the 2003 American intervention in
+Iraq. US President George H. W. Bush was defeated in the 1992 elections, 18 months after a popular
+American war.
+55. Although it is true that since democratic leaders are more likely to be thrown out of office after a losing
+war effort, and are therefore particularly sensitive to the political costs of a military defeat, authoritarian
+leaders have other things to worry about. It is not just the probability of being thrown out of office but also
+what happens to those who are removed from office. Former democratic leaders play golf and give
+speeches. Disgraced authoritarian leaders often suffer a crueler fate. Some are dragged through the
+streets to their death. Given the greater personal costs to authoritarian leaders removed from office, they
+presumably base their calculations on the potential costs of negative outcomes as well as the probabilities
+of those outcomes (Goemans, 2000).
+56. Another possible explanation of gambling by autocratic leaders, especially leaders of personalist
+autocratic regimes, is based on the type of leader that is likely to come to power in different types of
+regimes. Accession to high office in centralized authoritarian regimes often requires a risk-taking strategy.
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Those who take big gambles win big or lose big, and the leaders who end up on top are those who win big.
+This argument almost certainly applies to authoritarian leaders like Adolf Hitler and Saddam Hussein, who
+did not rise to power by sitting on the sidelines. It probably does not apply to leaders in collective (rather
+than personalist) authoritarian regimes, where the incentives point toward a more cautious strategy in the
+rise to power.
+57. The signal is credible because it would be politically costly for the opposition to say one thing and do
+the other. For an influential early treatment of signaling, see Jervis (1970).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+58. Lipson (2003) also emphasizes the importance of information in his explanation of the democratic
+peace. Democratic states can more easily reach agreements and make credible promises than can
+autocratic states because of democracies ’ higher transparency (to outsiders and to domestic publics);
+their greater constitutional restrictions limiting the powers of public officials and ensuring due process;
+their greater continuity of governance and orderly successions; the greater ability of domestic publics in
+democratic states to punish leaders if they break their promises; and constitutional governance. These
+“contracting advantages” of democracies increase the level of trust and reduce the level of uncertainty in
+their mutual interactions, significantly reducing the probability of war between them.
+59. Others question this conclusion and argue that inferences of causality between democracy and peace
+at the dyadic level are spurious (Rasler and Thompson, 2005). That is, the observed relationship is due to
+other factors.
+60. See the exchange in Wolf et al. (1996).
+
+61. Cultural variables are more central to theories of civil war, which we examine in chapter 7. Many
+“constructivist” international relations theorists argue that cultural factors such as ideas and identities are
+the underlying factors shaping human behavior (Ruggie, 1998 ; Wendt, 1999 ; Hopf, 2002 ; Lebow, 2008),
+but they do not directly focus on war.
+62. The term “clash of civilizations” was first used by Lewis (1990) in his discussion of the historical
+evolution of civilizational conflicts between the Muslim world and others.
+63. For other, more detailed, classifications of the evolution of international con-flict over the past six
+centuries or longer, see Howard (1976), Luard (1986), and Levy and Thompson (2010b). With respect to
+modern history’s most destructive wars and rivalries, we question Huntington’s argument that while wars
+from 1648 to 1792 were primarily about territory, wars from 1792 to 1917 were fundamentally different
+and about clashes between nations defined as peoples, and that World War II and the Cold War were
+different still and primarily about ideology.
+64. Huntington (1996) distinguished between fault- line conflicts and core-state conflicts. Fault-line conflicts
+are local, and occur between adjacent states belonging to different civilizations or within states that
+include peoples from different civilizations. Core-state conflicts are global and take place between the
+major states of different civilizations.
+65. Huntington (1996) also argued that rapid population increases in the Islamic world was generating a
+“youth bulge” that contributes to internal conflict (through the rise of fundamentalism in Islamic societies,
+for example) and to external conflict as well. In a different demographic argument, Hudson and Den Boer
+(2005) argued that a high ratio of males to females in a country (and particularly a high proportion of
+unmarried males) has historically led to an increase in domestic and (to a somewhat lesser extent)
+international conflict. They argue that through culturally induced sex-selection, China and India are
+generating a disproportionately high (and historically unprecedented) proportion of low-status young
+males (whom the Chinese refer to as “bare branches”), with ominous implications for both domestic
+stability and international conflict. For other theories of demographic change and international conflict,
+see Krebs and Levy (2001).
+66. Some question the inclusion of a distinctive Japanese civilization despite its Westernization since World
+War II, and others make a similar argument about Russia over a longer historical span.
+
+

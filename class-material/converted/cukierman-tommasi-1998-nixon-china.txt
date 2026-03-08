@@ -1,0 +1,1244 @@
+# Source: cukierman-tommasi-1998-nixon-china.pdf
+# Converted: 2026-03-06 14:39
+# Note: Line numbers here differ from PDF page numbers
+---
+
+When Does It Take a Nixon to Go to China?
+Author(s): Alex Cukierman and Mariano Tommasi
+Source: The American Economic Review , Mar., 1998, Vol. 88, No. 1 (Mar., 1998), pp. 180-
+197
+Published by: American Economic Association
+
+Stable URL: https://www.jstor.org/stable/116824
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide
+range of content in a trusted digital archive. We use information technology and tools to increase productivity and
+facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at
+https://about.jstor.org/terms
+
+
+
+
+            is collaborating with JSTOR to digitize, preserve and extend access to The American Economic
+            Review
+
+
+
+
+                                                    This content downloaded from
+                                  128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                            All use subject to https://about.jstor.org/terms
+                    When Does It Take a Nixon to Go to China?
+
+
+                            By ALEX CUKIERMAN AND MARIANO TOMMASI*
+
+
+          Substantial policy changes (like market-oriented reforms by populist parties and
+          steps towards peace by "hawks") are sometimes implemented by "unlikely"
+          parties. To account for such episodes this paper develops a framework in which
+          incumbent politicians have better information about the state of the world than
+          voters. The incumbent is unable to credibly transmit all this informnation since
+          voters are also imperfectly informed about his ideology. This paper identifies
+          conditions under which an incumbent party's electoral prospects increase the
+          more atypical the policy it proposes. Popular support for a policy, or its "cred-
+          ibility," depends on the policy maker-policy pair. (JEL D7, D8, E6, C72)
+
+
+
+   The history of public policy contains several                    ident Mitterand. In the late 1970's, after ten
+episodes in which structural reforms or im-                         years of vehement opposition to trading land
+portant economic or foreign policy shifts were                      for peace, hawkish Israeli Prime Minister
+implemented by parties or policy makers                             Begin yielded the entire Sinai peninsula in re-
+whose traditional position was to oppose such                       tumn for peace with Egypt. His partner to this
+policies. Argentina under (Peronist) Menem,                         historical deal was President Sadat of Egypt,
+Peru under Fujimori, and Bolivia under (pop-                        who is considered to be the first Arab leader
+ulist) Paz Estenssoreo underwent profound                           to mount a relatively effective military cam-
+market-oriented economic reforms.' France                           paign against Israel. Having established a
+privatized some of its public sector and shifted                    strong and persistent anti-Communist record
+the emphasis of economic policy to price sta-                       during the 1950's and 1960's, President Nixon
+bility during the 1980's, under socialist Pres-                     then opened the door to the international le-
+                                                                    gitimization of the People's Republic of China
+                                                                    in the early 1970's.
+                                                                       Tlhese episodes should not be interpreted to
+   * Cukierman: Eitan Berglas School of Economics, Tel
+Aviv University, Tel Aviv 69978, Israel, and Center for             imply that large shifts in policy can be imple-
+Economic Research, Tilburg University, Tilburg 5000 LE,             mented only by political parties having an his-
+The Netherlands; Tommasi: Universidad de San Andr6s                 torical bias against such policies. Privatization
+(1644) Victoria, Buenos Aires, Argentina. The Amnon
+                                                                    and other reforms under Thatcher are an obvious
+Ben Nathan Chair in Economics at Tel Aviv University,
+the Harvard/MIT RTG in Positive Political Economy and
+                                                                    counterexample. But the examples in the pre-
+CIBER, and the Academic Senate at UCLA provided fi-                 ceding paragraph raise an intriguing and impor-
+nancial support. We benefited from useful suggestions of            tant question about the circumstances under
+three anonymous referees. We are indebted to Olivier
+                                                                    which policies are implemented by "unlikely"
+Blanchard, Greg Hess, Eric Rasmusen, Tom Piketty, and
+                                                                    political parties rather than by parties the ideol-
+seminar participants at Boston College, Brown University,
+the University of Chicago, Dartmouth College, the Euro-             ogies of which favor such policies. Our objective
+pean Center for Advanced Research in Economics at the               in this paper is to identify conditions under
+Universite Libre de Bnixelles, the University of Geneva,            which shifts in policy are more likely to be im-
+Groningen University, the Innocenzo Gasparini Institute
+                                                                    plernented by improbable characters. To this
+for Economic Research at Bocconi University, the Uni-
+versity of Limburgh, MIT, the Universidad de San Andres,
+                                                                    end, we first develop a political economy frame-
+the University of Strathclyde, Tel Aviv University, the             work in which such a phenomenon can occur
+University of Tilburg, and UCLA for helpful comments,               and use it to pin down a set of conditions which
+and to C(arola Schenone for research assistance.                    makes it more likely that such policies will be
+   i Dani Rodrik (1993) points out that it is ironic that
+                                                                    implemented by the "wrong" parties.
+populist and interventionist parties have implemented rad-
+ical trade liberalizations, fiscal adjustments, and market-            We then develop an explanation for "policy
+oriented reforms.                                                   reversals" within the framework of asymmet-
+                                                              180
+
+
+
+
+                                            This content downloaded from
+                          128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                    All use subject to https://about.jstor.org/terms
+VOL. 88 NO. 1 CUKIERMAN AND TOMMASI: WHEN DOES IT TAKE A NIXON TO GO TO CHINA? 181
+
+
+
+ric information about the mapping of policy                       gruity is that the public has less reason to
+instruments into policy outcomes.2 Incumbent                      suspect that the right-wing policy is proposed
+politicians normally have better information                      solely because of the natural ideological ten-
+than the general public about the likely out-                     dencies of the party in office, i.e., it may be
+comes of alternative policies. Governments                        perceived as an objectively motivated policy.
+deal with public policy issues on a daily basis,                     Another important element of our frame-
+they have access to the advice of specialists,                    work is the inability of voters to fully distin-
+and in some cases, they possess classified in-                    guish policy shifts that are due to changes in
+formation. Furthermore, since information                         (information about) the mapping of policy into
+collection is costly, a large part of the voting                  outcomes from those that are due to intraparty
+public has neither the incentive nor the ability                  politics.4 This inability prevents the public
+to become fully informed about all the aspects                    from making precise inferences about govern-
+of complex public policy issues.3 This idea is                    ment's private information concerning this
+captured here by assuming that a key stochas-                     mapping (the state of the world). T'he reason
+tic parameter of the mapping of policies into                     is that the policy proposals of incumbent gov-
+outcomes is observed by policy makers in of-                      ernments are affected by shocks to this map-
+fice but not by the voting public.                                ping as well as by changes in the incumbent
+    People's welfare depends on outcomes, and                     party's preferred policy position. The second
+policy choices affect outcomes. However, out-                     type of change makes the proposed policy a
+comes are also influenced by external circum-                     noisy indicator for the state of the world.
+ stances about which policy makers normally                          Some conditions make a policy reversal
+have better information than does the general                     more likely. The policy switch that--in view
+public. Thus, depending on external circum-                       of external circumstances-is desirable
+ stances, a right-wing policy may or may not                      should be considerable and relatively rare.
+be desirable from the point of view of a ma-                      These conditions appear to have been satisfied
+jority of the population. Suppose that it is, and                 in the episodes mentioned before. Major eco-
+ that the incumbent party is fully informed                       nomic reforms, the trading of land for peace,
+ about this. In order to implement a policy, the                  and the opening of a pathway towards China
+party in office has to elicit support. To that                    are policy decisions of a scope that occurs in-
+end, it has to transmit to the public its private                 frequently. Furthermore, policy reversals are
+information about the relative desirability of,                   more likely when the voting public has sub-
+in this case, right-wing policies. When the in-                   stantial uncertainty about the governments'
+cumbent is a recognized left-winger, his ability                  exact preferences. In addition, the final out-
+to do so and to implement the required policies                   comes of the policies under consideration oc-
+is greater than the ability of a right-wing in-                   cur far in the future-that is why thie voting
+cumbent. The reason for this apparent incon-                      public has to use the policy proposals of in-
+                                                                  cumbents as signals for the likely future out-
+                                                                  comes of the proposed policies. This feature is
+                                                                  formalized by assuming that voting takes place
+   2 The notion that this mapping is stochastic is not new.
+                                                                  before the realization of final outcomes.'
+Recent references are Thomas Gilligan and Keith Krehbiel
+(1989), Alberto Alesina and Cukierman (1990), Kenneth
+                                                                    The basic ideas of the paper are presented in
+Rogoff (1990), Joseph E. Harrington, Jr. (1993), John             Section I with a representative-democracy model
+Roemer (1994), and Christian Schultz (1996). David                in which, after receiving some information
+Austen-Smith (1993) emphasizes that legislation (or pol-
+icy more generally) is a means to an end rather than a final
+objective. Several of these authors also postulate, as we
+do, that incumbent parties have better information about
+some aspects of the mapping of policies into outcomes                'Michael Laver and Norman Schofield (1990) have
+than does the general public.                                    stressed the effects of intraparty politics on policy choices.
+   : This naturally leads to specialization in knowledge             ' This timing is a crucial difference between our model
+(some people know more about some things than others)            and that in Harrington (1993). Harrington uses an other-
+and to rational ignorance. This idea goes back to Anthony        wise similar informational structure to derive implications
+Downs (1957); for recent treatments see Arthur Lupia             from voter uncertainty to policy manipulation for reelec-
+(1992), Gilligan (1993), and John Matsusaka (1995).              tion purposes.
+
+
+
+
+                                             This content downloaded from
+                           128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                     All use subject to https://about.jstor.org/terms
+ 182 THE AMERICAN ECONOMIC REVIEW MARCH 1998
+
+
+
+about the mapping of policies into outcomes,                      available to the voter. (cj + )ye) is the (per-
+the incumbent party commits to a policy plat-                     ceived) ideal policy of a type j voter. It de-
+form.6 This is followed by elections. If the in-           pends on the type-specific "taste" parameter
+ cumbent is reelected, he implements the                   Cj, as well as on the voter's perception of the
+proposed policy; if another party is elected,              realization of an exogenous state-of-nature pa-
+ it picks the policy that is nearest to its own            rameter, y, that induces a unidirectional shift
+preferences given the realization of the sto-              in the preferred policies of all voters.
+chastic component of the policy-to-outcome                    y is meant to capture the effect of external
+mapping.7                                                  circumstances on the ideal policies of voters.
+    We show in Section II that moderate right-             Voters have well-defined and stable prefer-
+ wing policies are more likely to be imple-                ences over outcomes, but the mapping of pol-
+ mented by right-wing parties (and similarly for           icies into outcomes, and hence the indirect
+the left), but extreme right-wing policies are             utility function over policies, has a stochastic
+more likely to be implemented by left-wing                 element.
+parties (and vice versa). Section III contains                People generally have different preferences/
+comparative statics. In Section IV, we discuss             opinions about the desirability of alternative
+ some implications for credibility. Section V              policies. But when they leam that there has
+concludes, pointing to the next steps in this              been a shift in exogenous circumstances, all
+research agenda.                                           voters shift their preferred policies in the same
+                                                           direction. To illustrate, consider the "land ver-
+                     I. The Model                          sus peace" issue in the ongoing negotiations
+                                                           between Israel and Syria. Different individuals
+    The economy consists of a large number of              in Israel have different opinions about how
+ individual voters with different preferences              much territory to give up for a peace of a given
+over a single policy issue. The utility of a type          quality; some would give up very little and
+j voter is given by:                                       others a lot. In the language of economics, they
+                                                           possess different marginal rates of substitu-
+  (1) IXe _ (Cj + ye)I                                     tion. But the policy preferred by each individ-
+                                                           ual (how much land to give up) also depends
+  where x is policy, cj is a constant,                     on his or herand perception
+                                                                                y is of a the "deal" that
+normally distributed stochastic variable with              Israel can work out with Syria. Again in the
+ zero mean and variance a'. The superscript e              language of economics, preferred policies also
+ attached to x and y denotes expected values of            depend on the exogenous marginal rate of
+these variables conditioned on the information             transformation between land and peace. When
+                                                           they believe that it is possible to obtain a
+                                                           higher-quality peace for a given amount of ter-
+    6 We are assuming that the incumbent takes an action   ritory, all Israelis advocate more dovish
+that commits him to a future policy (like making a state-  policies, although hawks are still willing to
+ment or sending a bill to Congress) thereby revealing part give up less territory than doves. The hetero-
+or all of his private information to the public. Although
+                                                                   geneity of preferences is captured by cj and the
+the action taken by the policy maker might include a ver-
+bal statement, it is not "cheap talk" in the sense of
+                                                                  common effect of perceived external circum-
+Vincent Crawford and Joel Sobel (1982). As stressed by            stances by e.
+Cukierman and Nissan Liviatan (1991), announcements of               In a representative democracy, voters do not
+future policies by incumbent politicians are not necessarily      choose policy directly. Instead, they choose
+costless from their point of view. Thus, although our an-
+                                                                  elected officials who decide what policy to fol-
+alytical structure bears some resemblance to models of
+information transmission in debates-such as those in              low. We model this institutional setup by pos-
+Austin-Smith (1990, 1992)-it is based on costly rather            tulating two parties, the right R and the left L,
+than costless signalling.                                         that compete for office. Each party cares about
+   'In Cukierman and Tommasi (1998), we explore the
+                                                                  the issues as well as about being in office per
+same ideas in the context of a referendum game (direct
+democracy). The broad conditions for the type of reversal
+                                                                  se (this Downsian component is called ego-
+discussed in this paper apply to both institutional               rents by Rogoff and Anne Sibert, 1988.) We
+structures.                                                       use h to denote this "value of office" term,
+
+
+
+
+                                              This content downloaded from
+                            128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                      All use subject to https://about.jstor.org/terms
+VOL. 88 NO. ] CUKIERMAN AND TOMMASI: WHEN DOES IT TAKE A NIXON TO GO TO CHINA? 183
+
+
+                                                                                   o Incumbent reelected
+                                                                                   o Implements platform
+
+
+
+
+           11 ~~~I I e- I-
+                o Incumbent o Incumbent oPublic votes
+                 observes announces
+                 y and ?i platform 1 o Challenger elected
+                                                                                   o Picks his preferred policy
+
+
+                                       FIGURE 1. SEQUENCE OF EVENTS
+
+
+
+
+and ci to denote the (deterministic part of the) erences, it is not able to transmit fully this in-
+bliss point of party i = L, R, with cL < CR.                formation to voters. But the voting public
+   An idea well established in political                    normally learns something about the realiza-
+science-see Otto Kirchheimer (1966) and                     tion of y from the incumbent's policy
+Laver and Schofield (1990)-is that different                proposal.
+parties cater to the interests of different but
+contiguous groups of constituencies. The ideal                  A. Timing, Information, and Elections
+policy of the left-wing party reflects a com-
+promise between the different leftist groups,                 It is convenient to divide the sequence of
+and similarly for the right-wing party. The rel-            events, illustrated in Figure 1, into two peri-n
+ative ability of each such group to affect the              ods. At the beginning of the first period, the
+party's policy position is usually in a state of   incumbent observes y and his own e:. He then
+flux and not fully known by the general public.    makes a proposal x. After having observed the
+We model this effect by postulating that the       incumbent's proposal, the general public votes
+preferred policies of parties are subject to in-   for or against the incumbent. In the second and
+traparty shocks labelled si, i = L, R. The         last period, public policy is carried out. If the
+realizations of these shocks, which are inde-      incumbent is reelected, he carries out the pol-
+pendently and normally distributed with mean       icy proposed in the first period (the proposal
+zero and variance a', are known to the parties is a binding commitment). If the challenger
+but not to the public. In addition, as is the case gets elected, he picks the policy that maxi-
+with voters, the parties' ideal points also de-    mizes the ex post value of his objectives
+pend on y. Those factors are incorporated by (knowing y and his own s).
+postulating that the bliss point of party i is        This way of modeling the interaction be-
+given by (ci + si + y), and its objective func-    tween the voting public and government is de-
+tion by                                            signed to capture the fact that a policy has to
+                                                   satisfy two conditions in order to be imple-
+           h - |x - (ci + si + 1)                  mented. First, the government has to propose
+                                                   the policy; second, the proposal should draw
+The deterministic component, ci, is common         sufficient public support. Obviously, the
+knowledge, but the stochastic component, si,       model can be interpreted literally as stated in
+is not known by the public. Similarly, the re-     the previous paragraph. But it is also possible
+alization of y is observed by the incumbent        to interpret the model more broadly, as cap-
+party, but not by the general public. This is a    turing the fact that a policy cannot be imple-
+stylized way of expressing the presumption         mented if it does not gather sufficient public
+that government has a more precise notion          support or if it raises too much opposition. Un-
+than does the general public about the effect      der such a broader interpretation, a "vote
+of external circumstances on the way in which against the incumbent" would refer to a state
+policy instruments map into outcomes. Since        in which the proposed policy is abandoned af-
+the incumbent party has its own policy pref-       ter some trial period for lack of sufficient
+
+
+
+
+                                        This content downloaded from
+                      128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                All use subject to https://about.jstor.org/terms
+ 184      THE       AMERICAN                   ECONOMIC                      REVIEW            MARCH               1998
+
+
+
+public support (even in the absence of formal                    certainty about the distribution of voters' ideal
+elections), while a "vote for the incumbent"                     points induces probabilistic voting-the prob-
+permits the continuation of the policy.8                         ability of reelection of an incumbent party is,
+  Note that there is an asymmetry between the                    in general, strictly between zero and one (see
+incumbent and the challenger. While the first                    Peter J. Coughlin, 1992). '
+commits to a policy prior to elections, the
+second-if elected-gets to choose his pre-                                             B. Equilibrium
+ferred policy. This asymmetry reflects the
+presumption that reputational and other consid-                     Suppose, for concreteness and without loss
+erations make it more difficult to adjust policy                 of generality, that the incumbent is party L.
+for the incumbent than for the challenger.9                      Since policy must be chosen prior to elections
+   At election time, each individual votes for the               and since the election outcome is uncertain,
+party that he perceives is going to implement a                  the incumbent party takes into consideration
+policy nearest to his own preferred policy. But                  the effect of the current policy choice on the
+this depends, in tum, on the individual's percep-                probability of reelection. More precisely it
+tion of the exogenous shock y. Knowing that the                  chooses policy XL so as to maximize:
+incumbent's proposed policy partially reflects
+that party's private information about y, each(2) pL(XL)Lh IXL - (C + L + Y)I]
+voter utilizes governmental policy as a signal for
+y (in a way that will be made explicit below).                               + [1 _ pL(XL)]
+   Let g(cj, w) be the fraction, or density, of
+voters with preference parameter cj, where w                                 X [-IE(XRI Y) - (CL + Y) I]
+is a stochastic shift parameter. Given the re-
+                                               pL(. ) is the probability that L will be reelected
+alization of w, the distribution of Cj is nonsto-
+chastic, so that electoral uncertainty is        and depends on policy choice XL. The second
+captured by the distribution of w. Each reali-   term in the incumbent party's objective is the
+zation of w induces a different nonstochastic    utility it expects to obtain if it loses the election
+distribution of cj, each with its own median cm. and policy is chosen by the challenger.11 As
+The median cm is, hence, a function of w; we     the incumbent knows y, the policy it expects
+assume that it is a linear function, and that w  from R is E(XR I7)
+has a uniform distribution. This implies that cm    The functional form of pL( ) depends on the
+also possesses a uniform distribution. Let c     way the voting public forms its perception of
+and c be, respectively, the upper and lower      y. However, the formation of this perception
+bounds of this distribution.                     depends on the (optimal) policy rule of the in-
+   Since voters' preferences are single-peaked,  cumbent which depends, in turn, on pL( ). In
+the outcome of the elections is determined by    equilibrium, the policy rule that the public pos-
+the preferred policy of the median voter. The    tulates in order to form perceptions of -y has
+party whose expected policy position is near-    to be consistent with the actual policy rule fol-
+est to the ideal policy (cm + ye) of the median  lowed by the incumbent, and the public's ex-
+voter on election day wins the elections. Un-
+
+
+                                                                    10 It is commonly accepted that probabilistic voting is
+                                                                more realistic than deterministic voting. For example,
+   8 Policy is known to react to opinion polls even be- Randall Calvert (1986 p. 54) points out that "this view is
+tween elections. See Benjamin Page and Robert Shapiro           in harmony with the importance attached by traditional
+(1983) for U.S. evidence. These considerations are devel-       political scientists to the role of imperfect information in
+oped in more detail in Cukierman and Tommasi (1998),            politics."
+with a focus on developing countries.                               " We assume that the intraparty shock eL iS "semi-
+   'Daniel Ingberman (1984) and M. Daniel Bernhardt             persistent." That is, it persists into the postelection period
+and Ingberman (1985) analyze the notion that the plat-          only if the incumbent party is reelected. Besides simpli-
+forms of incumbents are more reliable indicators of their       fying the algebra considerably, this assumption has some
+future policies than are the platforms of challengers.          descriptive realism since success in the elections normally
+Schultz (1996) discusses the case in which both parties         increases the durability of a given deviation from the mean
+commit to their respective policy platform.                     bliss point, CL, while failure normally reduces it.
+
+
+
+
+                                           This content downloaded from
+                         128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                   All use subject to https://about.jstor.org/terms
+VOL. 88 NO. I CUKIERMAN AND TOMMASI: WHEN DOES IT TAKE A NIXON TO GO TO CHINA? 185
+
+
+
+pectation formation process assumed by the                       The equiliblium solution for XL is obtained
+incumbent has to be identical to the actual pro-            by the method of undetermined coefficients.
+cess of expectation formation. A full definition            We first postulate that the equilibrium choice
+of equilibrium follows.                                     of XL is the following linear function of y and
+                                                           iL:
+Definition 1: An equilibrium is a pair of pol-
+icy functions, XL(y, EL) and XR(), CR), together
+                                               (6) xL = BL + bL7yy + bL,8L
+with voters' beliefs, ye(XL), such that:
+                                                            where BL, bL,, and bL, are coefficients to
+* The incumbent party chooses policy (prior                 determined. Observation of XL by voters does
+  to elections) so as to maximize (2).                      not enable them to disentangle the effect of y
+* If elected, the challenging party chooses                 fromi the effect of EL; it is easy to verify that
+  policy after elections so as to minimize                  this implies that bL, = bLh= bL. Therefore, (6)
+   |XR - (CR + CR + 7Y) I                                   simplifies to
+* Given his perception of y (and of the policy
+  of the challenging party), the median voter               (7) XL= BL+ bL(7Y + EL)e
+  votes for the party whose expected policy is
+  nearest to his ideal point.                                Voters know the decision rule in (7), ob-
+* Voters' perceptions about y (and about the               serve XL prior to elections, and use it to im-
+  policy of the challenging party, if elected)             prove their forecast of y. Since BL is a known
+  are formed rationally, using all the available           combination of parameters, it is easy to show
+  information.                                              that the expected value of y, conditional on
+                                                            XL, is given by (Morris De Groot, 1970 p.
+   If the right-wing challenger is elected, he              169):
+selects the policy that maximizes his ex post
+objectives, namely, he implements policy:
+                                                            (8) ye E(ylXL)_ (XL- bLBL)
+(3) XR - CR + CR + Y-
+                                                           where
+   The policy expected by voters from R, prior
+                                                                                       2
+to elections is, therefore:
+                                                                 (9)      2       +   (2
+(4) E(XR ( XL) = CR + Y'-
+                                                  Since the policy of any incumbent becomes
+Note that the policy expected from R depends      more right-wing the larger the y (it will be
+on the policy proposed by the left-wing incum-    shown that bL> 0)-and this is known by the
+bent prior to elections. The reason is that the   public -a more right-wing policy (a larger xL)
+choice of policy by both R and L depends on       is partially interpreted by the public as being
+y, and that voters receive information about y due to a larger y. But this signal is noisy be-
+from XL.                                          cause the incumbent's policy choice is also in-
+   The choice of policy by the left-wing in-      fluenced by the intraparty shock. For this
+cumbent is more complicated, since he has to      reason, the impact of XL on ye is weighted
+take into consideration the effect of his current by 0.
+policy on voters' expectations and, through
+them, on the probability of reelection. Using     ASSUMPTION 1: We assume that voters
+(3) and the fact that E(CR) = 0 and that E(XR I   believe that the policy proposed by the in-
+-y) = CL + Py, the objective function (2) can be  cumbent L is always to the left of that of the
+rewritten as:                                               challenger R, or: XL = XL < XR. The assump-
+                                                           tion states that party R is always perceived
+(5) PL(xL)[h - IXL - (CL + CL + Y)                         to be the right-wing party. Conditions on
+                                                           the model's parameters for the fulfillment
+         - 1 pL (XL)](CR - CL).                            of this assumption are presented in the
+
+
+
+
+                                       This content downloaded from
+                     128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                               All use subject to https://about.jstor.org/terms
+186 THE AMERICAN ECONOMIC REVIEW MARCH 1998
+
+
+
+Appendix (see also Alesina and Cukierman,                        Case 1: If XL > CL + ?L + y, the first- and
+1990).                                                           second-order conditions are given respectively
+                                                                by:
+   Assumption 1, together with the decision
+rule of the median voter, implies that there                     (14) d(h- x + EL + Y + CR)
+exists a critical value of cm, denoted cC, such
+that if cm c cc, the incumbent L wins the                                             -(c C)PL(XL) = 0,
+elections, and if cm > cc, the challenger R
+wins the elections. The value of cc is ob-                        (15)         -d          <   0.
+tained from:
+
+
+          IXL7          CI    =    I   R     m                   Case 2: If XL < CL + EL + y, the first- and
+                                                                 second-order conditions are given respectively
+which, due to Assumption 1, is equiva-                          by:
+lent to:
+
+
+(10) (ye + Cm) - XL = XR - (ye + CC). (16) d[h+ XL -(2CL + CL + Y) + CR]
+
+   Rearranging (10) and using (4), we                                         + 2(- c)PL(xL) = 0,
+obtain:
+
+
+ (1 1) Cm 2 (CR+ , ).                                              (17)           d<O.
+
+
+   The probability PL(XL) that the left-wing in-
+                                         Rearranging
+cumbent is reelected, is equal to the probabil-                                                                      the   f
+ity that the ideal point, cm, of the stochastic                    obtain:
+median voter falls to the left of c'. Since cm is
+uniformly distributed, this probability is given                 Case 1: (XL > CL + ?L + Y)
+by'2
+                                                                                       1I        BL
+                              cc _ c
+                                                                 (18) XL - d(cR+ h)- CR -0-b+ 2c
+                                                                          2d LbL J
+ (12) pL(XL) m -
+                               c E c
+
+
+
+ Using (8) in (1 1) and the resulting       expression
+                                 + - (^Y + CL).
+                                                                                  2
+in (12), we obtain:
+                                                                 Case 2: (XL < CL + ?L + 7).
+(13) PL (XL)
+
+
+                    I    F     2       BLd                                  F BL
+                                                                 (19) XL - 2c -CR - 0
+               2(C7C)L - 2c + b + dXL                                                      2d ~~~bL
+
+
+where d 1 - OfbL-                                                                          + d(2CL - CR- h)]
+   Substituting (13) into L's objective function
+(5), we obtain the following first- and second-
+order conditions for an internal maximum:                                         + - (Y + EL)*
+                                                                                       2
+
+
+                                                                      Equating coefficients across equations (18),
+                          (19), and (7) we obtain:
+    2 Obviously, the probability function is bound to b
+long to [0, 1]. In Part 2 of the Appendix, we analyze what
+happens when c < c and when c' > E.                                (20)           bL-2
+
+
+
+
+                                            This content downloaded from
+                          128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                    All use subject to https://about.jstor.org/terms
+VOL. 88 NO. 1 CUKIERMAN AND TOMMASI: WHEN DOES IT TAKE A NIXON TO GO TO CHINA? 187
+
+
+and                                                           prospects. It therefore chooses a policy that is
+                                                              more extreme than its ideal point.
+ (21) 2 (s-R 1 2                                                 It is shown below that in both Cases 1 and 2,
+                                                              a right-wing incumbent (RWI) is more likely to
+                                                              propose a relatively right-wing policy. In Case 2,
+                + (h2+ CR) - h) ]                             as policy shifts to the right, the probability of re-
+                                                              election of a left-wing incumbent (LWI) falls and
+                                                              that of a RWI rises. Hence, policy reversals (i.e.,
+                                                              higher chances of a right-wing policy being
+                                                              adopted by a left-wing incumbent) are ruled out
+                                                              in Case 2. Since we are interested in the condi-
+                                                              tions determining policy reversals, we concentrate
+                                                              on Case 1 in the following. C2 < C2 is, thferefore,
+                                                              one of the conditions required for policy rever-
+                                                              sals. A relatively small Or2 means that the mass
+                                                              assigned to the tails of the normal distribution of
+            for XL < CL + ?L + y (Case 2).
+                                                              y is small in comparison to the tails of the distri-
+                                                              bution of SL (i.e., that the probability of y taking
+  Equation (20) implies that (in both cases)                  extreme values is small in comparison to the
+                                                              probability of sL taking extreme values).
+                        2    2
+
+                  d = ~2- ~2'
+                                                                II. Which Party is More Likely to Implement
+so that the second-order conditions for a max-                                      Which Policies?
+
+
+imum in the two cases are, respectively:                         We now come to the central issue, stated in
+                                                              the title of this section. To do that, we focus
+Case]1: o2 <cr2 forxL > CL +S?L +y.2                          on a comparison between the behavior of left-
+                                                              wing and right-wing incumbents.
+Case 2: u >uf 2 forXL < CL++ ?L + s .                            A derivation equivalent to that of the pre-
+                                                              vious section, for a right-wing incumbent (for
+  Frojm (13), (15), and (17), PL(xl) will be in-.    a 2 < ') leads to:
+creasing fin Case 1 and decreasing in Case 2. The
+intuition underlyingme th wo cases is the follow-                 XR = BR + 2 (Y + CR),
+ing. When L moves policy to the right, he tiggers
+two conflicting effects on his reelection prospects. with the mean (equilibrium) policy choice of
+For a given ^)ye, this moves himn closer to the centera right-wing incumbent being
+of the political spectru and increases his prob-
+abilit of reelection. We shall refer to this as the
+"Hotelling effect." But thie shift of policy to thie          (22) BR - - - rI ) (CL - h)
+right also raises thie forecast of -y. This moves thie
+ideal points of all voters to thie right and increases                                   (   2
+the electoral prospects of thie challenging right-                                   + + ~i(25- CL)]
+wing party. We refer to this as te "'expectation
+effect." When c2 < o2, this shift of policy in-
+duces a moderate reduction in the reelection pros-
+                                                 The probability of reelection of a right-wing
+pects of L via the expectation effect, and te    incumbent as a function of his (individually
+Hotelling effect dominates, raising the reelection
+                                                 optimal) policy choice is:
+prospects of the left-wing incumbent. It; therefore
+pays L to choose a policy that is more centist                (23) P(xR)
+than its ideal policy (CL + EL + y). Wen Cr >
+so, the expectation effect doiates and a shift                           - - [2C- cL - 2OBR dXR].
+to the rght reduces, on balance, L's reelection                            2(C 5c)
+
+
+
+
+                                         This content downloaded from
+                       128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                 All use subject to https://about.jstor.org/terms
+ 188 THE AMERICAN ECONOMIC REVIEW MARCH 1998
+
+
+
+  Notice, comparing Case 1 of (21) and (22),                  where
+that as the value of office, h, increases, both
+parties' policies converge to the center (the
+Hotelling effect). On the other hand, as the de-               A =2(1 - 2)c+ ( 2(2 + 2)CR
+gree of electoral uncertainty increases (a larger
+c- and/or smaller c), the policy of R becomes
+more right-wing (and that of L becomes more                             + h.
+left-wing). Finally, CR and CL also enter with                           (a 2                    +        CJ2)
+the expected sign.
+   Let Pl(x) be the probability that incumbent              Notice, as before, that the (average) policy of
+party i implements policy x, and Q'(x) be the               each of the parties contains the following fac-
+probability that incumbent party i proposes                 tors: an electoral uncertainty effect (B increas-
+policy x. For a policy to be implemented, it                 ing in c), a Hotelling-Downs effect (B
+has to be proposed by the incumbent party                   decreasing in h), and an ideological preference
+and, given this proposal, the incumbent party               effect (B increasing in CR). 3
+has to receive public support via reelection. It               Let
+follows that the probability of implementation
+of policy x by party i is:                                                API(x) = Pl(x) - PIL(x).
+
+                                                            When /tPI(x) > 0, policy x is more likely to
+               PP(x) = Qi(X)pi(X)
+                                                            be implemented by a right-wing party than by
+                                                            a left-wing party; the converse is true when
+where Pi(x) are the probabilities of reelection             API(x) < o.'4 Let
+as stated in (13) and (23).
+   Notice that xi = Bi + 1/2(y + si) implies
+that                                                            F(x) = V x + ln(A - dx) - ln(A + dx).
+
+                 Xi N[Bi, V],
+                                                             LEMMA 1: Sign[API(x)] = sign[F(x)].
+
+with V = (4r2 + r2 )/4. Hence:                              PROPOSITION 1: If Vd/B < A < 2c, then
+                                                            the range of policies x can be partitioned in
+                                                            the following way:
+         Q'(x) (2 ~1A/2)1..(x - Bi )21
+       QiU) =(27rV,-( exp- V
+                                                             (1) There is a central region (x, ix) in which
+                                                                  the conventional result obtains (policies
+  To simplify the calculations, we confine                        to the left of the center of the political
+ourselves, henceforth, to the symmetric case:
+in which c- -c > 0 and CR CL > 0. This
+implies that
+                                                                '1 We assume, henceforth, that the mean policy pro-
+                                                            posed by a RWI is larger than the mean policy proposed
+                                                            by a LWI. That is, BR > BL. This is the case when the
+         BR =-BL= B = I + '                                 systematic difference between the ideological positions of
+                                                            the two parties is sufficiently large in comparison to their
+                                                            (shared) love of office, h. In the symmetric case, this im-
+                                                            plies that BR is positive, BL is negative, and that they are
+                                                            positioned at equal distances from the center of the polit-
+                     - -+ ' CR,                             ical spectrum (which is at x = 0).
+                                                                1 Notice that we concentrate on comparing the proba-
+                                                            bilities of implementation attached to different incum-
+                                                            bents. We believe that this is the relevant comparison since
+                                                            in our (two-penod) model, only the incumbent behaves in
+  PL(x) =A + dx and an
+                   PR(        ) A
+                       interesting         -way; the
+                                   strategic   dx    behavior of challengers is
+                    4E      ~~~~45c                         passive.
+
+
+
+
+                                        This content downloaded from
+                      128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                All use subject to https://about.jstor.org/terms
+VOL. 88 NO. 1 CUKIERMAN AND TOMMASI: WHEN DOES IT TAKE A NIXON TO GO TO CHINA? 189
+
+
+
+    spectrum are more likely to be imple-                   extreme policies are proposed infrequently,
+    mented by L, and policies to the right of               policy reversals will also be infrequent events
+    the center are more likely to be imple-                 that will be associated with extreme and rela-
+    mented by R).                                           tively rare realizations of y.
+(2) (Policy Reversals) There is a region out-                  In order to gain additional insights, we will
+    side (x, x) in which very left-wing policies            now perform comparative statics to see how
+    (x < x) are more likely to be implemented               the range of reversals, the complement of (x,
+    by R, and very right-wing policies (x > x7)x4, varies with the parameters of the model.
+    are more likely to be implemented by L.                 We know that x, 0 and x-are the three roots of
+(3) (Only Nixon) For even more extreme val-                 F(x) = 0 (although only the location of x and
+    ues of x, above xR and below x? (where     x-varies with the underlying parameters).'5 Let
+    xR > x-and x < x), only the unlikely party a denote any parameter. Applying the implicit
+    can implement policy x (i.e., PR[x >R] =                function theorem to F(x) = 0,
+    0, and PL[X < XL] = 0).
+
+  Proofs of Lemma 1 and Proposition 1 are pro-
+                                                                      dx 1 2x('DB DV
+vided in the Appendix. Figure 2 summarizes the               (24)          1-~I         -     V--B1
+intuition of the proposition. Panel A shows the                       da F'F(x) V2 Oa a
+probabilities of each proposal, Qi(x). Panel B
+shows the probabilities of winning the election
+as a function of the proposal, P(x). Notice that                                             DA Od
+the picture of PIL(x) = QL(x)PL(x), shown in                                                 Oa Oa
+Panel C, can be obtained by increasing the mass
+                                                                                          + A - dx
+of the right tail and decreasing the mass of the
+left tail of QL(x), and conversely for R. Panel D
+shows the behavior of F(x).                                                                 D9A Od
+
+            III. Comparative Statics
+                                                                                             a + xa
+                                                                                              A + dx
+  Figure 2, Panel C, suggests that, in general,
+relatively extreme policies are unlikely to be              where x = x, 0, x.
+implemented by either party. The reason is that                Applying (24) to the electoral uncertainty
+extreme realizations of the stochastic compo-              parameter c, we obtain
+nent of the mapping of policies into outcomes
+and of the intraparty shocks are relatively rare.
+However, when such events do appear, the
+probability that the corresponding extreme
+policy will be implemented by an "unlikely"                      (2)dx= x|( )
+party is greater than the probability that it will                    dJ F' (x) V
+be implemented by the "likely" party.
+   Intuitively, the conditions that are condu-
+cive to policy reversals can be summarized as                                               4(1 -?!)d
+follows: First, the variability of intraparty pol-
+icy preferences has to be large in comparison                                                2 -(dX)2J
+to the variability in the mapping of policies
+into outcomes. This assures that when the
+policy proposal of the incumbent party shifts
+towards the center, the Hotelling effect dom-
+inates the expectation effect, thus increasing                 '" Note that the probability of implementatio
+                                                           policy x = 0, at the center, is identical for both parties.
+the reelection prospects of the party. Second,
+                                                           The fact that F(O) = 0 is a consequence of the postulated
+reversals are more likely to occur the more ex-            symmetry, but the general qualitative nature of Proposi-
+treme the policy that is being proposed. Since             tion 1 does not depend on the symmetry assumption.
+
+
+
+
+                                        This content downloaded from
+                      128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                All use subject to https://about.jstor.org/terms
+190 THE AMERICAN ECONOMIC REVIEW MARCH 1998
+
+
+                                                                RESULT 1: An increase in electoral uncer-
+                                                                tainty (measured by c), reduces the range of
+                                                                "policy reversals.
+                                 Qv() Q.( )
+                  * I                                  x
+
+                    BL    BR                                       Similarly,
+
+     A. PROBABILITIES OF POLICY PROPOSALS BY
+                 INCUMBENTS L AND R
+                                                                                                + I T I
+  P(X).                PL           (X)
+                                                                     dx~~~~ _ _ 2x __ _(~?9
+                                                                   dcR F'(x) VuF A _ (dx)2
+
+
+                                                                Since (c2 /o2) < 1, (1 - 2(o2 /U2)0) is po
+              x~~~~~~~~~~~~~~~~~~                               It is easy to see the following:
+         XL                XR
+
+
+                                                                RESULT 2: An increase in the degree of
+ B. PROBABILITIES OF REELECTION AS A FUNCTION OF
+                  POLICY PROPOSALS
+                                                               party polarization or ideological distance be-
+                                                                tween the parties (measured by CR), decreases
+                                                                the range of "policy reversals. "6
+
+          PiL*
+                                                                   Following a similar procedure, we are able
+                     ~~~~~~~~~~~P '.X
+          P1 R~~~~~~~~~~~ I~~~1,X                               to show:
+
+                _+ ~~~~~~~~~~~~~~~~~x
+                                                                RESULT 3: An increase in uncertainty about
+        X        X       XRO
+                                                                the incumbent's ideological position (mea-
+       C. PROBABILITIES OF IMPLEMENTATION:                      sured by U2), increases the range of "policy
+                  Pli(x) = Qi(x)Pi(x)                           reversals."
+
+
+                                                                   Result 3 suggests that the policy reversals
+                                                                we are studying should be more common in
+                                                                countries characterized by "catchall" parties
+                                                      -bx
+
+      XL          x     0R
+                                                                that comprise a wide spectrum of relatively
+                                                                heterogeneous constituencies, or by coalition
+                                           F      (x)
+                                                                governments within which there are agree-
+                                                                ments (deals) which are not easily observed by
+                                                                the general public. The Peronist movement in
+               D. F(x) = PIR(x) - PIL(X)
+                                                                Argentina fits the first interpretation quite well,
+FIGURE 2. PROBABILITY OF POLICY IMPLEMENTATION BY               and some of the broad "unity" governments
+              EACH TYPE OF INCUMBENT                            in Israel conform to the second.
+
+
+                                                                          IV. Implications for Credibility"7
+
+                                                                  Politicians usually justify their policy pro-
+Notice that                                                     posals by claiming that the state of the world
+
+                    [<0 atx = x < O
+
+                 - X =0 atx = O
+                                                                   16 Schultz (1996) addresses other effects of polarization
+              F'(x)                                            in a model that also emphasizes asymmetric information
+                   >z0 atx=xT>O                                 about a parameter that he calls "the functioning of the
+                                                               economy," which plays the exact same role as our y.
+ and that the expression in braces                           in 17
+                                                                 (25)
+                                                                    The is  pos-
+                                                                        notions of credibility that we use in this section
+itive. This leads to:                                           are by no means the only ones possible. Alternative no-
+
+
+
+
+                                            This content downloaded from
+                          128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                    All use subject to https://about.jstor.org/terms
+VOL. 88 NO. I CUKIERMAN AND TOMMASI: WHEN DOES IT TAKE A NIXON TO GO TO CHINA? 191
+
+
+is the one that (if believed) would elicit
+maximum public support for their proposed
+policies. In order to elicit support for their
+policies, politicians argue that those policies                     fR(y,               X)   f   .y,X)
+are beneficial for the majority of the popu-
+lation. In the context of our model they                                                                             y
+                                                                                    Y R(X) 0 x (x)
+would argue that y is quite large (small)
+when they propose a right (left)-wing                            FIGURE 3. POSTERIOR BELIEFS ABOUT y, AFrER POLICY
+policy. 18                                                                        ANNOUNCEMENT X
+   In this section, we use two notions which
+measure the credibility of (implicit) statements
+about y by looking at the posterior beliefs                        Recalling that BL < BR, it is easy to see that
+about y held by voters after having observed                     y'(x) < y'(x) for all x. This means that any
+policy proposals. We shall continue to refer to                  given policy, x, is interpreted by the public as
+any policy that is to the right of the center of                 being associated with a lower (posterior mean)
+the political spectrum as "right wing" and to                    value of y when this policy is proposed by a
+any policy that is to the left of this center as                 RWI than when it is proposed by a LWI. The
+"left wing." (For the symmetric case, the cen-                   intuition is simple. Being aware of the system-
+ter of the political spectrum is at 0.)                          atic ideological differences between the two
+1. The credibility of a given policy maker when                  parties, the public expects to observe the same
+he proposes a relatively left (right)-wing pol-                  policy from both incumbents only when the
+icy can be characterized as the posterior prob-                  RWI observes a lower value of y than his left-
+ability that y is smaller (larger) than a given                  ist counterpart.
+value of y.                                       The posterior distribution that the public as-
+   The public's observation of the policy pro- signs to y after observing a proposal x, is de-
+posal x, given its knowledge of Bi and of bi = picted (for the symmetric case) in Figure 3. It
+1/2, is equivalent to an observation of (y +   is clear that, for any given x,
+si) = 2(x - Bk), for i = L, R. We are interested
+in inferences about the unknown value of y     (26) fL(y, x) < J(y, x) for y < Ox,
+made from the observation of (y + si). This
+observation is a random drawing from a nor-
+mal distribution with an unknown mean y and                              f(MY, X) > fMY, x) for y > Ox
+variance U2. The prior distribution over that
+unknown mean is N(O, o'). Using Theorem 1                        and
+of Section 9.5 of De Groot (1970 p. 167), the
+posterior distribution of y, f(y, x) is N(yi(x),                               FL(y, X) < FA(Y, X), V^Y,
+12), where y-(x) = O(y + ei) = 20(x -B),
+and 2 = 02 2 2 + 42).                                            where F is the cumulative distribution function
+                                                                 off.
+
+
+                                                                 RESULT 4: (Credibility of implicit state-
+tions of credibility are discussed in Chapter 11 of              ments about -y across policy makers) For any
+Cukierman (1992). See also the discussion of Allan               given (common) policy proposal: (i) a left-
+Drazen and Paul Masson (1994) in Section V of this paper.        wing policy maker is more credible than a
+   18 In Roemer (1994), political parties make announce-
+                                                                 right-wing policy maker when he claims that
+ments about "the way the economy works" (y in our
+model), and then propose policies. In his model, there isright-wing policies are desirable, and (ii) a
+complete convergence of policies (the median voter the-  right-wing policy maker is more credible than
+orem) but different parties announce different y's in an a left-wing policy maker when he claims that
+attempt to influence people's reduced-form preferences.
+                                                         left-wing policies are desirable.
+Roemer does not model the formation of beliefs explicitly.
+He just postulates a mapping of announcements into be-
+liefs. Here, we deduce the belief-formation process from         2. Consider now "extreme" policies. Ex-
+the rational (Bayesian) behavior of voters.                      treme policies are defined as policies that are
+
+
+
+
+                                             This content downloaded from
+                           128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                     All use subject to https://about.jstor.org/terms
+ 192    THE      AMERICAN                  ECONOMIC                   REVIEW             MARCH              1998
+
+
+
+to the right of the average policy proposal                  map into outcomes, policy proposals convey
+made by a RWI or to the left of the average                  infor-mation. This may lead to situations in
+policy proposal made by a LWI. Politicians                   which extreme, but rarely proposed, policies
+can convince a majority that an extreme policy               are more likely to be implemented by "un-
+is necessary by claiming that there has been                 likely" actors. A necessary, but not sufficient,
+an extreme realization of y. We therefore mea-               condition for such reversals is that the uncer-
+sure the credibility of policy proposals by the              tainty about the preferred policy position of
+posterior probability assigned by the public to              parties be sufficiently large compared to the
+the event "y is larger than a sufficiently large             uncertainty about the state of the world.
+and positive 5s" when an extreme right-wing                    A main result of the paper is that policy re-
+policy x is proposed-and by the posterior                    versals are more likely following the realiza-
+probability assigned by the public to the event              tion of extreme and relatively unlikely values
+"4y is smaller than -5" when an extreme left-                of paraineters that map policy choices into out-
+wing policy is proposed.                                     comes. A corollary to this result is that policy
+  Consider a policy x > B > 0 and its mirror                 reversals occur infrequently.
+image (in the symmetric case) -x, and let                       This logic can be applied to several policy
+5 > 20(B + x). We know that y}(x)       arenas. In Cukier-man and Tommasi (1998) we
+                                        apply
+20(B + x) and that y'(-x) = 20(B -- x). It is it to the specific issue of market-oriented
+easy to see that B > 0 implies                               reforms undertaken by many countries over
+                                                             the last decade. We argue there that politicians
+                                              coming from the left of the spectrum, when
+         YL4(-x) - (- ) > 5 - YL(X);
+                                              faced with the fact that such policies were
+                                              necessary, had a comparative advantage in
+                                              convincing people of the long-run necessity
+ that is, 5 deviates from y'(x) less than (-5)
+ deviates from y'(-x). This yields of these changes, even if they hurt now. There
+                                              is some preliminary evidence in favor of this
+                                              point. John. Williamson asked the contri-
+ (27) [1 -FL(^, x)] > FL(- ; -x).             butors to his 1994 edited volume to check the
+                                              conventional wisdom that market-oriented re-
+A similar derivation for a right-wing incum-  forms are creatures of right-wing govern-
+bent yields:                                  ments. Little support was found for such an
+                                              association, as summarized by Williamson and
+                                              Stephan Haggard (1994). As a matter of fact,
+ (28) FR(-, -x) > [1 - FR(5, X)].             in only three of their 13 cases was market-
+                                              oriented reform implemented by what they
+In words, (27) and (28) imply:                classified as right-wing governments. Interest-
+                                              ingly, these three cases included the two mil-
+RESULT 5: (Credibility of a given policy      itary dictatorships in their sample (Chile and
+maker across extreme policies) (i) A left-    Korea). This seems consistent with the predic-
+wing policy maker has more credibility when   tion that, under democratic conditions, large
+he proposes a significant policy shift to the shifts in policy are more likely to involve re-
+right than when he proposes a significant     versals of a party's traditional policy posi-
+policy shift to the left. (ii) A right-wing pol-             tion.'9 In Cukiernan and Tommasi (1998) we
+icy maker has more credibility when he pro-
+poses a significant policy shift to the left than
+                                                                O On a related issue, Cesar Martinelli and Tommasi
+when he proposes a significant policy shift                  (1997) argue that the implementation of reform packages
+to the right.                                               might suffer from time-consistency problems. Groups that
+                                                            benefit from early reforms but suffer from later ones may
+                                                            blockade the later stages, making some reform paths time-
+                 V. Conclusions
+                                                            inconsistent. An implication of the logic of this paper is
+                                                            that policy makers may, then, initiate a reform sequence
+  When governments have better information                  by implementing those measures that hurt their own
+than do voters about the way in which policies              constituencies.
+
+
+
+
+                                        This content downloaded from
+                      128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                All use subject to https://about.jstor.org/terms
+VOL. 88 NO. I CUKIERMAN AND TOMMASI: WHEN DOES IT TAKE A NIXON TO GO TO CHINA? 193
+
+
+
+discuss some cases, other than those included                 view of the majority than the challenging
+in the Williamson volume, which display sim-                  party's policy. In both cases there is uncer-
+ilar characteristics.                                         tainty about the policy that will, ultimately, be
+  Some well-known foreign policy reversals                    implemented. In our case the uncertainty is
+are also consistent with the framework of this                due to political competition in conjunction
+paper, such as the opening up to the People's                 with electoral uncertainty, while in Drazen and
+Republic of China by staunch anti-Communist                   Masson it is due to uncertainty about the pol-
+Richard Nixon, and the trading of land for                    icy maker's type in conjunction with uncer-
+peace by hawkish Israeli Prime Minister Begin,                tainty about economic shocks. Each notion of
+cited above. Begin managed to overcome                        credibility is natural whitin the framework un-
+strong, and sometimes violent, opposition to the              der consideration. Combining the two frame-
+dismantling of Jewish settlements in the Sinai                works may yield more general insights about
+Peninsula largely because he had a long and                   basic institutional detemlinants of credibility.
+respectable record against such a policy. His                 We leave this task for future work.
+record as a hawk helped him convince voters
+that the agreement was beneficial for a majority                                     APPENDIX
+of Israelis. If the same policy had been adopted
+by the dovish Labor Party, mobilization of suf-                  Note: This Appendix focuses on the case
+ficient public support would have been harder,                 a2 < U2, which is necessary for policy
+if not impossible. Similarly, if the opening up               reversals.
+to China had been attempted by Humphrey
+rather than by Nixon, opposition to that policy               1. Conditions on Exogenous Parameters for
+would have been more difficult to overcome.                   Assumption 1
+   The analysis has some interesting implica-
+tions for the question of credibility. In partic-                Assumption 1 requires that
+ular, we show that the credibility of a policy
+depends on the ideological identity of the pol-               (A 1) XL= BL + 2(Y + EL)
+icy maker proposing it, as well as on the policy
+he proposes. This is related, although not iden-                                < CR + O(Y + EL) = XR
+tical, to the distinction between the credibility
+of policies and the credibility of policy makers
+made by Drazen and Masson (1994).2? In both                   Using (21) we can rearrange (Al) as:
+papers, the notion of credibility employed de-
+pends upon the policy-policy maker pair. But                             (Y + EL)
+there are also important differences. In Drazen                (A2) (-2 + 2
+and Masson credibility refers to the likelihood
+that an announced policy will be carried out
+(under discretion), within a framework in
+which there is uncertainty about the policy
+maker's type and about economic shocks that
+may alter his ex post preferred policy. Here
+there is no uncertainty about the policy of the               T'he left-hand side of (A2) is a standard nor-
+incumbent since he is committed to the an-                    mal. Therefore, the condition is satisfied with
+nounced policy. Hence, our concept of credi-                  very high probability if CR is sufficiently larger
+bility refers to the incumbent's ability to                   than c and/or the (positive) difference (5 -
+convince voters that the policy he will imple-                T)hiS sufficiently small. (It is also more likely
+ment, if reelected, is better from the point of               to be satisfied, the smaller the value of h.)
+
+                                                              2. Taking Care of Corners
+
+                                                                 Note: For the sake of brevity, we work di-
+  20 See also Drazen (1996) for a more general treatment.rectly with the symmetric case, as in Section II.
+
+
+
+
+                                          This content downloaded from
+                        128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                  All use subject to https://about.jstor.org/terms
+194        THE     AMERICAN                  ECONOMIC                  REVIEW          MARCH          1998
+
+
+
+  The analysis in the text was undertaken                     by noting that it is a fortiori satisfied for higher
+under the implicit assumption that the prob-                  values of XL and lower values of UL-
+ability of reelection described by equation                      Hence, when AL < U(L, the incumbent chooses
+(13) belongs to (0, 1). For the incumbent L,                  a policy that gives PL(x) = 0 since, in order to
+this means that                                               attain P"(x) > 0 he would have to commit to a
+                                                              policy too far from his (ex post) preferred one.
+                                                              This means that any policy function XL(IL) that
+(A3) PL(X) = xC (0, 1).                                       gives XL < -Aid V/IL < ,tUL is consistent with
+                        4C
+                                                              PL(X) = 0 Vx < -Ald. In particular, XL(JIL)
+                                                              BL + 1'2,1L is one such function.
+Let IAL = -Y + EL From the policy function (ii) When AL > 4I, the previous policy
+XL = BL + 1i21L, it is easy to see that (A3) function induces an XL so large that (A + dx)!
+requires                                                      45 > 1, which means that all potential median
+                                                              voters would vote for the incumbent (so that
+                                                              PL(X), properly defined, equals 1). In this
+                   ALL E (4L ALb)
+                                                              range, the electoral effect on policy becomes
+                                                              irrelevant, since the incumbent is going to be
+where AL = -2(A/d + BL) and a4 2[(4- A)/                      reelected with certainty. Hence, the incumbent
+d - BL]. (The corresponding values of XL are                  party adopts its most preferred policy, XL = CL +
+X = -Ald and XL (45 - A)ld.)                                  /L? If the public knows that XL = CL + AL, it
+  In equilibrium, the probability of reelection               forns expectations according to ye = O(XL
+PL(X) can be thought of as the stochastic ag-                 CL). This expectation function leads to the in-
+gregation of the median voter's best response                 cumbent L being reelected with probability
+to the policy function XL(LL). This policy func- one for XL 2 2-(1 - 0) - CR or, equivalently,
+tion is, in turn, the best response to PL(x). We 14L> 2C/(1 - 0). Notice that, depending on the
+have established in Section I that PL(x) =       values of the underlying parameters, UiL can be
+(A + dx)14E and XL(JL) = BL + '/2AL are          smaller
+                                                      bestthan, larger than, or equal to 2c-(1 -
+responses to each other, which is true only for  0). For the sake of brevity, assume that i. >-
+                                         2c-(1 - 0). In that case, {PL(x) = (A + dx)14c-,
+ALL E (AL2' AL). Now we proceed to describe
+behavior outside that range.             XL(/L) = BL + /2I tL} for ALL < AL PL(X) = 1,
+  (i) When AL < AL, P = 0 and XL(ALL)    XL(/LL) = CL + 1LL} for 4L > /1L, and both are
+                                         best-response pairs for /UL E (27(1 - 0), ,LuD
+BL + I/2AL are best responses to each other. For
+XL <-Ald, all potential median voters If, as a refinement, we require continuity of
+                                      prefer
+                                         the= 0.
+to vote for the challenger R, so that PL(X)  PL(X) function, the full characterization of
+Therefore, the incumbent faces the decision of                equilibrium is:
+either definitely losing the election, or com-
+mitting to a policy XL> -Ald. The first course
+of action gives a payoff of-(CR - CL) -2CR                                       IBL + 2AL for ALL 14L
+and the second, an expected payoff of                               XJL(/I) =
+                                                                                 L CL + AL forAIL > bL
+
+
+           (+ dxJ [h- XL + CL + ALL]
+              45                                              and
+
+
+                  (lA + dx 2
+                                                                               O for x c AId
+                                                                              A + dx
+It can be shown that [h - XL + CL + ALL] <                             IA+dx for -AId < x
+-2CR for XL> -Ald and ALL < AL2, implying                        pL(X) 4c
+that the first course of action is preferred. This                                         < (4c- A)ld
+is demonstrated by showing that this inequal-
+ity is satisfied for XL =-Ald and AL = AOL and                                 I for x ? (4c - A)ld.
+
+
+
+
+                                          This content downloaded from
+                        128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                                  All use subject to https://about.jstor.org/terms
+VOL. 88 NO. I CUKIERMAN AND TOMMASI: WHEN DOES IT 7AKE A NIXON TO GO TO CHINA? 195
+
+
+
+3. PROOF OF LEMMA 1:                                           We now proceed to characterize F(x). Note
+                                                            that F(O) = 0, that F(x) o so as x x? from
+API(x)                                                      above, and that F(x) -- oo as x -x ? from
+                                                            below. Hence, we know from continuity, that
+      (2Vh V {(1 -x p (x - B)]                              F(x) = 0 at least three times, at x -- x E (XOL
+                                                            O), at x = 0, and at x = x e (0, x?).
+                  -(Aj-dx)exp[- 2V                            We can verify that these are indeed the three
+                                                            crossings by analyzing
+                  - (A + dx)exp2V (x
+                                                                    F'(x) = 2B d d
+                                                                                  V (A - dx) (A + dx)
+    -(2ir V)-( 1/2) e xp[ x2B2]
+                                                            Notice that F'(x) 0 at
+
+
+                   exp~~
+      X {(A - dx)expf 4x]-
+                                                                                      1 r Vd
+                                                              (A4) x=d AB
+          - (A - dx)exp B- x-
+           -(A+ dx)exp[-' x]}
+                                                            Since Vd < AB, F'(x) = 0 has exactly two real
+Clearly,                                                    roots, one positive and one negative, which are
+                                                            equidistant from zero.
+                                                               Also,
+API(x) ? 0 as (A - dx)exp[ xi
+
+                                                                         F 4x) - (A _dX)2 (A + dX)2
+                       ? (A + dx)exp x1.
+Taking the logarithms (a monotonic transfor-                It is easy to see that FP(x) < 0 for x > 0 and
+mation) of both sides of the inequality, we ar-             that F'(x) > 0 for x < 0. This implies that the
+rive at                                                     negative root of (A4) corresponds to a mini-
+                                                            mum of F(x), and that the positive root of (A4)
+ API(X) 2 0 as -x + ln(A-dx)                                corresponds to a maximum of F(x). Hence, in
+                                                            the range (x?, x?), the slope of F(x) switches
+                               B                            signs three times. Since F(x) is positive near
+                          2-xx+ln(A + dx),                  the lower end of this range, negative near its
+                                                            upper end, and 0 at x = 0, it follows that F(x)
+as claimed.
+                                                            has exactly three roots and that Figure 2, Panel
+                                                            D, correctly represents the curve. Since the fig-
+4. PROOF OF PROPOSITION 1:
+                                                            ure and the proposition are equivalent, this
+  First notice that Panels C and D of Figure 2
+                                                            completes the proof.
+are equivalent.
+  In order for the curves to be as presented, it
+                                                                                  REFERENCES
+is necessary that the interior regions (x?, x4)
+and (x%, XR) overlap, or X = (4c - A)ld > (A -
+                                                            Alesina, Alberto and Cukierman, Alex. "The Pol-
+401d = xR, which is to say 4T > A.2'                          itics of Ambiguity." Quarterly Journal of
+                                                              Economics, November 1990, 105(4), pp.
+                                                              829-50.
+   21 For the detailed drawing of Figure 2, it matters Austen-Smith, David. "Information Trans-
+whether xL is smaller than, equal to, or greater than xR, the
+value of x such that P(x?,) 0 O. The figure is drawn with
+                                                              mission in Debate." American Journal of
+xR < xL, which implies 2c > A, which is stronger than the     Political Science, February 1990, 34(1),
+condition in the text.                                        pp. 124-52.
+
+
+
+
+                                       This content downloaded from
+                     128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                               All use subject to https://about.jstor.org/terms
+196 THE AMERICAN ECONOMIC REVIEW MARCH 1998
+
+
+
+       _ "Strategic Models of Talk in Political            Gilligan, Thomas. "Information and the Allo-
+  Decision Making." International Political                   cation of Legislative Authority." Journal of
+  Science Review, January 1992, 13(1), pp.                   Institutional and Theoretical Economics,
+  45-58.                                                     March 1993, 149(1), pp. 321-41.
+        . "Information Acquisition and Or-                 Gilligan, Thomas and Krehbiel, Keith. "Asym-
+  thogonal Argument," in William Barnett,                    metric Information and Legislative Rules
+  Melvin Hinich, and Norman Schofield, eds.,                 with a Heterogeneous Committee." Ameri-
+  Political economy: Institutions, competition               can Journal of Political Science, May 1989,
+  and representation. Cambridge: Cambridge                   33(2), pp. 459-90.
+  University Press, 1993, pp. 407-36.                      Harrington, Joseph E., Jr. "Economic Policy,
+Berndhart, M. Daniel and Ingberman, Daniel.                  Economic Performance, and Elections."
+   "Candidate Reputations and the Incum-                      American Economic Review, March 1993,
+  bency Effect." Journal of Public Econom-                    83(1), pp. 27-42.
+  ics, June 1985, 27(1), pp. 47-67.                        Ingberman, Daniel. '"Campaign Contributions,
+Calvert, Randall. Models of imperfect infor-                 Candidate Reputations, and Spatial Competi-
+  mation in politics, Vol. 6. Chur, Switzer-                 tion." Carnegie Mellon Graduate School of
+  land: Harwood Academic Publishers,                         Industrial Administration Working Paper Se-
+  1986.                                                      ries: WP #6-84-85, November 1984.
+Coughlin, J. Peter. Probabilistic voting theory.           Kircheimer, Otto. "The Transformation of the
+  Cambridge: Cambridge University Press,                     Western European Party Systems," in
+  1992.                                                      Joseph La Palombra and Myron Weiner,
+Crawford, Vincent and Sobel, Joel. "Strategic                eds., Political parties and political devel-
+  Information Transmission." Econometrica,                   opment. Princeton, NJ: Princeton University
+  November 1982, 50(6), pp. 1431-51.                         Press, 1966, pp. 177-200.
+Cukierman, Alex. Central bank strategy,                    Laver, Michael and Schofield, Norman. Multi-
+  credibility, and independence: Theory and                  party government: The politics of coalition
+  evidence. Cambridge, MA: MIT Press,                        in Europe. New York: Oxford University
+  1992.                                                       Press, 1990.
+Cukierman, Alex and Liviatan, Nissan. "Optimal             Lupia, Arthur. "Busy Voters, Agenda Control
+  Accommodation by Strong Policymakers                       and the Power of Information." American
+  under Incomplete Information." Journal of                  Political Science Review, June 1992, 86(2),
+  Monetary Economics, February 1991,                         pp. 390-403.
+  27(1), pp. 99-127.                             Martinelli, Cesar and Tommasi, Mariano. "Se-
+Cukierman, Alex and Tommasi, Mariano. "Cred-       quencing of Economic Reforms in the
+  ibility of Policymakers and of Economic          Presence of Political Constraints." Eco-
+  Reform," in Federico Sturzenegger and            nomics and Politics, July 1997, 9(2), pp.
+  Mariano Tommasi, eds., The political econ-        115-31.
+  omy of economic reforms. Cambridge, MA:        Matsusaka, John. "The Economic Approach to
+  MIT Press, 1998 (forthcoming).                   Democracy," in Mariano Tommasi and
+De Groot, Morris. Optimal statistical decisions.   Kathryn lerulli, eds., The new economics of
+  New York: McGraw-Hill, 1970.                     human behavior. Cambridge: Cambridge
+Downs, Anthony. An economic theory of democ- University Press, 1995, pp. 140-54.
+   racy. New York: Harper and Row, 1957.         Page, Benjamin and Shapiro, Robert. "Effects of
+Drazen, Allan. "Policy Signalling in the           Public Opinion on Policy." American Po-
+   Open Economy: A Re-examination."                litical Science Review, March 1983, 77, pp.
+  Working Paper No. 19, Center for Inter-           175-90.
+  national Economics, University of Mary-        Rodrik, Dani. "The Positive Economics of Pol-
+  land, March 1996.                                           icy Reform." American Economic Review,
+Drazen, Allan and Masson, Paul. "Credibility of               May 1993 (Papers and Proceedings), 83(2),
+  Policies versus Credibility of Policymak-                   pp. 356-61.
+  ers." Quarterly Journal of Economics, Au-                 Roemer, John. "The Strategic Role of Party
+  gust 1994, 109(3), pp. 735-54.                              Ideology When Voters Are Uncertain about
+
+
+
+
+                                       This content downloaded from
+                     128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                               All use subject to https://about.jstor.org/terms
+VOL 88 NO. 1 CUKIERMAN AND TOMMASI: WHEN DOES IT TAKE A NIXON TO GO TO CHINA? 197
+
+
+  How the Economy Works." American Po-                     Schultz, Christian. "Polarization and Inefficient
+  litical Science Review, June 1994, 88(2), pp.              Policies." Review of Economic Studies,
+  327-35.                                                    April 1996, 63(2), pp. 331-44.
+Rogoff, Kenneth. "Equilibrium Political                    Williamson, John. The political economy ofpol-
+  Budget Cycles." American Economic                          icy reform. Washington, DC: Institute for
+  Review, March 1990, 80(1), pp. 21-                         International Economics, 1994.
+  36.                                                      Williamson, John and Haggard, Stephan. "The Po-
+Rogoff, Kenneth and Sibert, Anne. "Elections                  litical Conditions for Economic Reform," in
+  and Macroeconomic Policy Cycles." Re-                       John Williamson, ed., The political economy of
+  view of Economic Studies, January 1988,                     policy reform. Washington, DC: Institute for
+  55(1), pp. 1-16.                                            International Economics, 1994, pp. 527-36.
+
+
+
+
+                                      This content downloaded from
+                    128.59.222.107 on Fri, 23 Aug 2024 20:20:41 UTC
+                              All use subject to https://about.jstor.org/terms
+

@@ -1,0 +1,1206 @@
+# Source: rudolf-2021-sino-american.pdf
+# Converted: 2026-03-06 14:39
+# Note: Line numbers here differ from PDF page numbers
+---
+
+      Survival
+      Global Politics and Strategy
+
+
+
+
+      ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/tsur20
+
+
+
+
+The Sino-American World Conflict
+
+Peter Rudolf
+
+To cite this article: Peter Rudolf (2021) The Sino-American World Conflict, Survival, 63:2,
+87-114, DOI: 10.1080/00396338.2021.1905980
+To link to this article: https://doi.org/10.1080/00396338.2021.1905980
+
+
+
+
+       Published online: 30 Mar 2021.
+
+
+
+       Submit your article to this journal
+
+
+
+       Article views: 2255
+
+
+
+       View related articles
+
+
+
+       View Crossmark data
+
+
+
+
+                      Full Terms & Conditions of access and use can be found at
+             https://www.tandfonline.com/action/journalInformation?journalCode=tsur20
+The Sino-American World Conflict
+Peter Rudolf
+
+
+
+
+In Beijing a new consensus has emerged: that, in the words of Yonsei
+University professor Xiangfeng Yang, ‘a shift in the tectonic plates of China’s
+relations with the United States is afoot, or indeed already complete’.1
+Chinese officials had noted the Trump administration’s stated determination
+to undertake a ‘fundamental restructuring’ of the relationship with China
+and to adopt a ‘whole-of government approach’ to managing US–Chinese
+competition.2 President Joe Biden’s China policy may be less confrontational
+and more nuanced than his predecessor’s, but Secretary of State Antony
+Blinken has stated that although ‘extreme competition’, a phrase used by
+Biden,3 does not exclude engagement with China, any such engagement
+will need to take place ‘from a position of strength’.4 Meanwhile, the domi-
+nant view in China seems to be that its strategic rivalry with the US will be
+intense and long-lasting.5 It is widely expected that the United States, as the
+world’s most powerful country, will use its resources to preserve its status
+and privileges, and to prevent China from rising further.6 The coronavirus
+pandemic has only worsened the deterioration of US–China relations.7
+    The danger for international politics is that the intensifying strategic
+rivalry between the two states threatens to harden into what might be
+called a ‘structural world conflict’, with the attendant economic and mili-
+tary risks.8 In this sense, talk of a ‘new cold war’ is not entirely misplaced,
+
+
+
+
+Peter Rudolf is a Senior Fellow at Stiftung Wissenschaft und Politik (SWP), the German Institute for International
+and Security Affairs, Berlin.
+
+Survival | vol. 63 no. 2 | April–May 2021 | pp. 87–114https://doi.org/10.1080/00396338.2021.1905980
+88 | Peter Rudolf
+
+
+
+despite the problems and limitations of the analogy. In the United States,
+China’s rise is widely seen as a threat to America’s pre-eminent international
+position. The expectation among elites and the public alike is that China will
+threaten traditional US predominance not only in the Western Pacific and
+East Asia, but also globally.9 Perceptions of China’s ‘unstoppable’ economic
+and military rise, and of a relative decline in US power, may be based on
+questionable assumptions and projections.10 However, China can arguably
+be described as an ‘emerging potential superpower’, a status with implica-
+tions both for the United States and its allies, and for the international order
+more generally.11
+
+
+Debating the Thucydides Trap
+History shows that integrating a rising power into the international system
+is not an easy task.12 Power-transition theory holds that even states without
+an aggressive, revisionist or risk-prone foreign policy tend to come into con-
+flict with other powers as they attempt to secure raw materials, markets and
+military bases.13 Thus, power shifts pose a considerable risk to the stability of
+the international system. This is sometimes known as ‘Thucydides Trap’, fol-
+lowing Thucydides’ interpretation of the Peloponnesian War as an inevitable
+result of the rising power of Athens, which forced a fearful Sparta to go to
+war.14 The idea has been widely debated in both the United States and China.
+   Discussion about the Thucydides Trap in both countries testifies to an
+awareness of the risks associated with China’s rise. Top Chinese officials,
+including President Xi Jinping himself, have repeatedly declared their inten-
+tion to avoid the trap.15 Sensitivity to the risks resulting from China’s rise
+has been reflected in talk of seeking a ‘new type of great power relationship’
+between the United States and China.16
+   The power-transition theories underpinning this discussion are not
+without their problems, however. Above all, it is important to note that such
+theories, by acting as frames that influence perceptions, are political con-
+structs.17 Frames contextualise facts and structure the flow of events. They
+serve to define problems and to diagnose their causes. They provide crite-
+ria for assessing developments, offer solutions and set the boundaries of
+debate. In this way, they contribute to the construction of political reality.18
+                                                The Sino-American World Conflict | 89
+
+
+
+   Within the power-transition frame, conflicts that might otherwise be
+seen as regional or local in character gain such salience that they add up to
+a global hegemonic rivalry. To the extent that Chinese policies nourish and
+strengthen this perception in the United States, this might lead to a kind
+of self-fulfilling prophecy. At the very least, this frame can have a conflict-
+hardening effect resulting from the built-in expectation that a rising power
+will inevitably question the existing international order.19 From this per-
+spective, China is by definition a revisionist power.
+   If one takes official documents and statements as a yardstick, the prevail-
+ing perception in the United States is that China is thoroughly revisionist.
+Any hope that China’s integration into international institutions and the
+global economy would make it a reliable partner has given way to the view
+that China – as well as Russia – is aiming to shape ‘a world antithetical to
+U.S. values and interests’.20 The 2017 US National Security Strategy states
+that both powers ‘are contesting [the United States’] geopolitical advantages
+and trying to change the international order in their favor’.21 According to
+the Pentagon, China ‘seeks Indo-Pacific regional hegemony in the near-term
+and, ultimately global preeminence in the long-term’.22 As then-secretary
+of state Mike Pompeo put it in 2019, ‘China wants to be the dominant eco-
+nomic and military power of the world, spreading its authoritarian vision for
+society and its corrupt practices worldwide’.23 As these statements indicate,
+the Trump administration based its China policy on worst-case assumptions
+about the long-term intentions of China’s leadership.24
+   The Trump White House saw the relationship with China through the
+lens of a zero-sum logic, resolutely propagating the narrative of great-
+power competition and thereby shaping the China debate in the unique way
+that only authoritative speakers such as presidents and members of their
+administrations can do.25 Narratives present an interpretation of the past
+(‘the cooperative China policy has failed’), they interpret the current situa-
+tion (‘China is disputing US supremacy’) and they offer strategic instruction
+for future action (‘offensively compete using every available resource’).26
+   While the revisionist label may serve a range of domestic and foreign-
+policy purposes in the United States, it does not necessarily provide an
+accurate picture of Chinese behaviour.27 Indeed, China is not fundamentally
+90 | Peter Rudolf
+
+
+
+questioning the existing international order. This order consists of many
+principles, norms and functional regimes. China supports some of them and
+rejects others.28 The term ‘revisionist stakeholder’ is a more precise way of
+describing the Chinese position: China operates within the framework of
+existing international organisations, especially the United Nations system,
+and insists on a traditional understanding of state sovereignty. However,
+it rejects US and Western dominance in international institutions and is
+dissatisfied with its own status. From the Chinese perspective, this status
+no longer corresponds to the country’s increased power and the relative
+decline of the United States.29
+   Within Chinese discourse, the US narrative of great-power competi-
+tion has been criticised as reflecting a Cold War, zero-sum mentality.30 The
+Chinese government denies striving for hegemony or establishing spheres
+of influence. Beijing insists it will not follow the path taken by other rising
+powers.31 President Xi’s vision is for a rejuvenated China to become an
+economic, technological and cultural world power that exerts greater influ-
+ence over the rules of international politics.32 In this way, he has linked the
+Communist Party’s claim to legitimacy with China’s emergence as a leading
+world power.33
+
+
+A new cold war?
+A Cold War analogy is often used to interpret current conflicts in US–China
+relations, if only to highlight the differences between the Sino-American
+and the US–Soviet conflicts.34 Indeed, some elements of American–Chinese
+relations lend themselves well to a comparison with the East–West conflict,
+such as the presence of an emerging bipolarity and ideological antagonism; a
+security dilemma and arms competition; and global power rivalry.35 Like any
+analogy, however, Cold War comparisons are problematic and of limited use.
+
+
+Status competition
+The US–Chinese conflict encompasses regional and global competition for
+status in an international system characterised by an emerging bipolarity,
+even though there is no parity of power between America and China.36 This
+is comparable to the Cold War era, during which the international order
+                                                The Sino-American World Conflict | 91
+
+
+
+was generally regarded as bipolar even though power resources were by no
+means equally distributed between the United States and the Soviet Union.
+Because the gap between these two states and the remaining powers was
+considerable, they were both regarded as superpowers.
+   In contrast to the Cold War, however, the relationship between the
+United States and China is not a confrontation between two mutually exclu-
+sive, opposing blocs, but a competition for influence within a globalised
+international system in which the two powers are highly intertwined eco-
+nomically.37 In 2018, China was America’s number-one trading partner – the
+third-largest export market for American products and the main source of
+the country’s imports. For China, the United States tops the list of buyers of
+Chinese products.38 There is also a high degree of industrial interdepend-
+ence between the two economies, which has developed since the early 1990s
+as a result of an almost revolutionary change in the organisation of indus-
+trial production.39 Today, components manufactured in China are used in
+many US products. Mutual dependencies have also arisen because China
+had long held the largest share of US treasury bonds until Japan overtook
+it in July 2019.40
+   China’s actual and projected increase in power has aroused anxiety in the
+United States that it might lose its status as the predominant international
+superpower. States (or more precisely, the officials representing them) may
+aspire to high status as an end in itself: a high status creates the satisfying
+feeling of superiority over other people or states, while the prospect of losing
+one’s status can threaten one’s identity. But status is also associated with
+material gains. In the long run, China threatens not only the status of the
+United States as the lone superpower, but also its privileges and economic
+advantages.41 If China were to become the world’s predominant political,
+economic and technological power, it could, as the US fears, widely set rules
+and standards, and establish a kind of illiberal sphere of influence. If this
+were to happen, American security and prosperity would no longer be as
+secure as before.42 The fear is that the US dollar would no longer dominate as
+the international reserve currency, and that the US would no longer attract
+the financial inflows that help secure American prosperity. Under these con-
+ditions, the United States would see its freedom of action curtailed.43
+92 | Peter Rudolf
+
+
+
+Ideological differences
+It may be that, were China a liberal democracy, its rise would appear less
+threatening to the US. Since it is not a liberal democracy, the competition
+between China and the US contains an element of ideological antagonism.
+Unlike in the case of the East–West confrontation, however, this is not the
+core feature of the US–Chinese rivalry. During the Cold War, Soviet ide-
+ology completely ruled out any permanent coexistence with the capitalist
+system led by the United States, and the supposedly inevitable victory of
+communism worldwide was seen as guaranteeing the security of the Soviet
+Union. This element is missing in the Sino-American conflict. China’s stance
+is better described as ‘nationalist’ rather than ‘internationalist’.44
+   It is true that the human-rights situation in China has long been a source
+of friction in Sino-American relations, but as long as China’s rise was not
+perceived as a global challenge, and as long as there was hope that China
+would liberalise, the country was not seen in the United States as an ideo-
+logical antagonist. From the Chinese perspective, the ideological dimension
+has always been more pronounced, since Western ideas of liberal democ-
+racy and freedom of expression threaten the ideological dominance of the
+Communist Party.45
+   Recent debates in the United States, however, suggest that Americans
+have begun to perceive the ideological conflict between the American and
+Chinese systems as being of a similar dimension to that between Western
+democracy and Soviet communism. It has been argued that China’s eco-
+nomically successful ‘authoritarian capitalism’ could find international
+resonance at a time when confidence in the systemic superiority of ‘demo-
+cratic capitalism’ is weakening. In this scenario, competition for geopolitical
+power is mixed with a struggle for ideological superiority.46
+   China has even been portrayed as an existential threat both to the United
+States and to the world order.47 The Trump administration, for example,
+characterised the conflict with China as an ideological clash between
+‘civilizations’.48 China was accused of trying to ‘reorder the world’ by con-
+structing ‘a worldwide socialist order with Beijing at the center’.49 This view
+plays down the fact that China lacks a ‘coherent ideology with international
+appeal’, as Cornell professor Jessica Chen Weiss has argued,50 and that
+                                                  The Sino-American World Conflict | 93
+
+
+
+Chinese policies are not aimed at establishing clientelist relationships with
+countries that share its own ideological orientation, as the Soviet Union once
+did.51 The Chinese leadership under Xi may promote a development model
+that implicitly calls into question liberal democracy as a political ideal, and
+China’s model of governance may be attractive for authoritarian states.52
+However, China’s economic success is based on specific preconditions,
+including a large domestic market, an abundance of labour, the govern-
+ment’s willingness to experiment and a spirit of pragmatic improvisation.
+Yes, China supports many authoritarian regimes, exports surveillance
+technology and exerts pressure on critical voices abroad. But this does not
+add up to a struggle against democracy or a strategy to undermine demo-
+cratic systems.53 Nevertheless, it is likely that a narrative of systemic conflict
+between ‘digital authoritarianism’ and ‘liberal democracy’ will become pre-
+dominant in the US discourse, since it might help to mobilise long-term
+domestic political support for a costly competitive policy towards China.54
+
+
+Security dilemma
+Although the ideological element in the Sino-American rivalry is not its
+dominant feature, an increasing emphasis on the ideological differences
+between the two sides can be expected to influence their threat perceptions,
+thus reinforcing the security dilemma between them.55 In an anarchic inter-
+national system, no state can be certain that it will not be attacked, dominated
+or even extinguished. Measures to strengthen one’s own security, however,
+whether through arms, territorial expansion or alliances, can reduce the
+security of other states, and thus lead to a competition for weaponry and
+power.56 In its classical form, a security dilemma arises when offensive mili-
+tary doctrines and capabilities pose a threat to a state’s territorial integrity,
+either in the form of an invasion or a nuclear first strike. In the context of the
+US–China rivalry, the United States has not accepted mutual nuclear vulner-
+ability as the basis of its strategic relationship.57 This could, it is feared, be
+understood as a lack of American resolve to defend its allies and interests in
+Asia. Moreover, Beijing would probably not be convinced by any US state-
+ments that it does not have plans to eliminate China’s nuclear capability in
+the case of an escalating crisis.58 Similarly, China does not trust American
+94 | Peter Rudolf
+
+
+
+assurances that the development of missile-defence systems is not directed
+against China’s strategic nuclear potential.59
+   China has rejected the first use of nuclear weapons in its declaratory
+nuclear doctrine; it relies on a minimum-deterrence strategy and thus on the
+ability to retaliate.60 Beijing fears that Washington’s development of recon-
+naissance, surveillance and conventional prompt global-strike capabilities,
+as well as missile-defence systems, could jeopardise China’s second-strike
+capability. China maintains a relatively small nuclear arsenal of an esti-
+mated 290 warheads.61 However, there are plans to expand this arsenal by
+acquiring a greater number of missiles with multiple warheads. The United
+States is faced with the question of whether to accept its nuclear vulnerabil-
+ity in relation to China, which may result from the deployment of mobile
+intercontinental and sea-based ballistic missiles, or to pursue a damage-
+limitation strategy that at least opens up the possibility of limiting its own
+losses should deterrence fail. In accordance with the traditional logic of
+American deterrence policy, the US would need options for pre-emptively
+eliminating the enemy’s nuclear arsenal.62
+   According to fears voiced in the US debate, a secure Chinese second-
+strike capability could lead to a greater Chinese willingness to take risks in
+crises. In the debate on nuclear strategy, this is referred to as the ‘stability–
+instability paradox’.63 This means that stability at the strategic level could
+tempt one side to use limited force in the expectation that the other will shy
+away from a massive nuclear strike, as this would lead to mutual destruc-
+tion. According to this scenario, a secure Chinese second-strike capability
+threatens to raise doubts among America’s Asian allies about the credibility
+of extended deterrence. If the United States follows the traditional line of its
+operational deterrence strategy by pursuing pre-emptive damage-limiting
+‘counterforce’ options as a prerequisite for credible extended deterrence, the
+result will probably be an intensified arms competition.64 The US nuclear
+posture, which is geared to limiting damage in the event of war, must be
+perceived as threatening by China – irrespective of the defensive motives of
+the American side.
+   In Sino-American relations a security dilemma is also present in the
+Taiwan question. This unresolved conflict over the sovereignty of Taiwan
+                                               The Sino-American World Conflict | 95
+
+
+
+carries the risk of war.65 The Chinese leadership expressly reserves the
+right to use military force to prevent Taiwan’s complete independence, as
+President Xi reiterated in January 2019.66 Once it had normalised relations
+with the People’s Republic of China in 1978, the United States ended offi-
+cial diplomatic ties with Taiwan and terminated the defence treaty between
+them. However, the Taiwan Relations Act of 1979 states that it is US policy
+to regard any attempt to decide Taiwan’s future other than by peaceful
+means as a threat to peace and security in the Western Pacific. Consequently,
+the US policy is one of ‘strategic ambiguity’; although Washington has
+promised to respond to any threat to Taiwan, it is not formally commit-
+ted to doing so. For China, the goal of preventing
+Taiwan’s lasting independence from mainland China
+is a defensive one. Beijing wants to militarily deter      The US policy is
+Taiwan from changing the status quo and declaring
+independence. However, Chinese military options
+                                                           one of ‘strategic
+might be perceived in an offensive sense, as enabling          ambiguity’
+Beijing to compel reunification. The United States
+sees its security assurance to Taiwan, and the weapons systems it supplies
+to prevent an invasion by the People’s Republic, as defensively motivated.
+Nevertheless, Washington’s arming of Taiwan and maintaining of its own
+ability to intervene in a crisis might be perceived by Beijing as a protective
+umbrella enabling Taiwan to declare independence.67
+   China sees the development of its own anti-access/area-denial capabilities
+in the South and East China seas as necessary to safeguard its core inter-
+ests, which include preventing Taiwan from declaring independence. China
+may see this development as defensively motivated, but it is perceived in
+the United States as aimed at developing offensive capabilities which could
+make US power projection in the region more difficult and risky.68
+   Breaking out of a security dilemma is rarely easy. In order to assure an
+opponent of one’s own defensive intentions, steps are needed that may be
+considered too risky – certainly if the opponent’s present or future inten-
+tions are perceived as offensive.69 Security dilemmas between states can
+be mitigated by mutual transparency, confidence-building measures and
+arms control.70 However, in the case of Sino-American relations, each side
+96 | Peter Rudolf
+
+
+
+continues to insist that its intentions are purely defensive. Officially, China
+sees itself as a power that is retaking its position as a respected nation after
+a century of humiliation. Chinese history is interpreted as demonstrating
+that the country is peacefully minded, non-aggressive and non-expansive,
+whose rise has been hindered by the United States.71 The US sees itself as
+a liberal democracy that does not pose a threat to other states and whose
+superior military strength serves the interests of all well-meaning people
+by guaranteeing international stability.72 The danger is that each side’s ten-
+dency to see itself as defensive and peaceful while attributing offensive and
+aggressive intentions to the other side will trigger a conflict spiral.73
+
+
+Dissecting the strategic rivalry
+The US–Chinese relationship is perhaps best interpreted as a complex
+‘strategic rivalry’. Both countries are not only competitors for power and
+influence, but also potential military opponents.74 Their intensifying strate-
+gic rivalry, rooted in incompatible goals and mutual threat perceptions, has
+a regional dimension, a global dimension and a technological dimension.
+
+
+The regional dimension
+China has been expanding its military options to counter US intervention
+capabilities on its periphery and to project its own military power into the
+East Asian region and beyond. In conjunction with increased economic
+influence, this might enable China to ‘decouple’ the United States from Asia
+and thereby to gain supremacy in the region.75 The US–China conflict is
+especially pronounced in the Western Pacific.76 In ‘maritime Asia’, the rela-
+tionship is antagonistic, imbued with military threat perceptions.77 In the
+United States, it is widely believed that China intends to establish an exclu-
+sive ‘maritime sphere of influence’ in the South China Sea.78
+   In Chinese discourse, the prevailing self-perception seems to be that
+China does not intend to exclude non-regional actors from the region as is
+often assumed in the United States. Chinese behaviour in the South China
+Sea, however, can be taken as an indication that China is moving towards a
+policy of exclusion. Beijing has resolutely asserted legally questionable ter-
+ritorial claims and established military outposts on artificial islands.79 In the
+                                                 The Sino-American World Conflict | 97
+
+
+
+South China Sea, China’s claims to some islands, rocks, reefs and low-tide
+elevations clash with those of four other littoral states (Brunei, Malaysia,
+the Philippines and Vietnam). In addition, China’s sovereignty claims
+within what it calls the ‘nine-dash line’ (an area encompassing most of the
+South China Sea) conflict with the exclusive economic zones of these states
+and Indonesia. Moreover, China’s interpretation of the United Nations
+Convention on the Law of the Sea (an interpretation that is shared by some
+other governments) is that states have the right to regulate and prohibit the
+military activities of other states in their exclusive economic zones, which
+extend up to 200 nautical miles from the coast. The United States firmly
+rejects this interpretation.80
+   The South China Sea is where the two sides’ incompatible interpretations
+of the law of the sea are most apparent.81 The US claims to be upholding
+the freedom of the seas, while the Chinese have been asserting a claim to a
+sphere of influence. The conflict is heightened by the mutual perception that
+in a crisis the other side could block important maritime lines of commu-
+nication. If China were to block them, the economic costs would probably
+be bearable if shipping traffic to Australia, Japan and South Korea could be
+diverted, for example via the Sunda or Lombok straits. However, a large pro-
+portion of the goods shipped across the South China Sea come from China
+or go there. It is therefore in China’s interest to ensure maritime transport
+remains unhindered in the region. The Chinese fear that the US military
+could block the Strait of Malacca in the event of a crisis, thus severely affect-
+ing China’s energy supply.82
+   The geopolitical conflict over the South China Sea also has a nuclear
+dimension.83 China seems to be fortifying the South China Sea as a protected
+bastion for ballistic-missile submarines as part of a survivable second-strike
+capability. According to information from the United States, at least four
+ballistic-missile submarines are already in service, and construction of a
+follow-on class, with a more advanced design, is expected to begin in the
+early 2020s.84 China still has no sea-based ballistic missiles in service that
+could reach the continental United States from the South China Sea. The new
+missile (JL-3) in development for the planned next generation of submarines
+will have a significantly greater range than the current design, but even this
+98 | Peter Rudolf
+
+
+
+may not be enough.85 Due to the limited range of the sea-based nuclear
+missiles currently in service, in the event of a serious international crisis,
+China may try to relocate ballistic-missile submarines to the deeper and thus
+safer waters of the Pacific, through the bottlenecks of the ‘first island chain’
+(which extends from the Kuril Islands via the principal Japanese islands and
+Taiwan to Borneo). Securing the South China Sea against US anti-submarine
+forces is already an enormous challenge, a consideration that is relevant to
+China’s expansion of its artificial islands.86
+   While the East–West conflict was stabilised to a significant degree by
+the establishment of clear spheres of influence in Europe, the geostrategic
+situation in East Asia is less stable. There is no clear demarcation between
+spheres of influence in Asia, and there are no acknowledged buffer zones.
+China’s efforts to establish a kind of security zone within the first island
+chain are regarded as highly provocative in the United States as the region’s
+leading sea power.87
+   A worsening crisis between the United States and China poses a con-
+siderable risk of military instability in Asia. US military planners assume
+that China will pursue offensive pre-emptive options in a crisis. Certainly,
+there are significant incentives for pre-emptive action against US armed
+forces in the region – for example, in the form of massive missile salvoes.
+Since the termination of the Intermediate-range Nuclear Forces Treaty,
+Washington has been free to deploy medium-range systems in Asia. These
+could be based on the island of Guam, or – should America’s allies agree
+– in the north of Japan, the southern Philippines or the northern part of
+Australia. With conventionally equipped medium-range systems, the US
+military could destroy Chinese forces in the South and East China seas
+without sending naval units into these risk zones. This would also obviate
+the need to initially eliminate missile systems on the Chinese mainland
+that would endanger US surface ships. Such an attack could inadvertently
+neutralise Chinese nuclear forces or their command-and-control facili-
+ties since, according to available information, China’s conventional and
+nuclear forces seem to be entangled. It cannot be ruled out that, in the event
+of a serious confrontation, China will be tempted to use nuclear weapons
+before they are put out of action.88
+                                               The Sino-American World Conflict | 99
+
+
+
+The global dimension
+The Trump administration believed that any gains in influence by China
+would come at the expense of the United States. In particular, China’s
+Belt and Road Initiative (BRI) was viewed with suspicion. The BRI and
+the Asian Infrastructure Investment Bank (AIIB) have allowed China to
+open new markets as outlets for its industrial overcapacities; to build
+road and rail networks to reduce its dependence on vulnerable sea lanes;
+and to widen its economic leverage and shore up its position in the global
+power competition.89
+   The Trump administration pushed the idea of a ‘Free and Open Indo-
+Pacific’ as a kind of counter-narrative to the BRI. The idea has been rightly
+characterised as a ‘strategic narrative’ that promotes American interests.90
+Like all narratives, it is intended to reduce complexity and mobilise domestic
+and international support. At the international level, the narrative contrasts
+a rules-based international order with an order shaped by China; at the
+national level, it signals the antithesis of democracy and autocracy; and at
+the thematic level, it highlights the difference between a defensive policy
+aimed at maintaining the status quo and an expansive, revisionist one.
+   The United States is trying to dissuade other countries from further
+developing economic ties with China. Washington has warned Israel against
+participating in infrastructure projects with China. Particularly worrisome
+is the prospect that the state-owned Shanghai International Port Group will
+operate the port of Haifa.91 Similarly, during his visit to Panama in 2018,
+Pompeo warned the country’s president against expanding economic rela-
+tions with China. Washington is apparently concerned that Panama could
+become a ‘bridgehead’ for China’s growing economic influence in the western
+hemisphere. China, whose ships are heavily reliant on the Panama Canal, is
+already involved in several infrastructure projects in Panama.92
+   Africa is regarded as the new front in the Sino-American struggle for
+influence. The Trump administration believed that Beijing was trying to
+make African countries submissive to Chinese interests through loans,
+bribery and dubious agreements. Introducing the United States’ ‘new Africa
+strategy’ in December 2018, then-national security advisor John Bolton
+warned against China’s ‘predatory’ practices in Africa.93 Shortly before
+100 | Peter Rudolf
+
+
+
+leaving office, UN ambassador Nikki Haley tried to prevent a Chinese dip-
+lomat from being appointed UN Special Ambassador for the Great Lakes
+region in Africa. There may have been some concern that a Chinese ambas-
+sador could use this role to expand China’s influence in the region. There
+is also more general concern about China’s growing clout within the UN;
+China has been seeking to place its own diplomats in UN leadership posi-
+tions. In addition, Beijing has considerably expanded its participation in UN
+peace missions, both financially and in terms of personnel. These develop-
+ments have prompted the United States to scrutinise Chinese influence in
+the UN and other international organisations.94
+   Washington also sees the Arctic as an arena for great-power rivalry.
+China has displayed a growing interest in the region, releasing its own Arctic
+policy in January 2018. Not only does the Northern Sea Route shorten the
+distance between China and Europe considerably, but China is also inter-
+ested in exploiting Arctic energy resources.95
+   The United States views China’s presence in the Arctic as a poten-
+tial security threat. In its 2019 report on Chinese military power, the US
+Department of Defense warned against China’s growing presence in the
+region, including the possibility that China could deploy submarines
+there.96 The Pentagon’s report on its Arctic strategy published in June
+2019 describes the region as a ‘potential vector for an attack on the U.S.
+homeland’.97 The deployment of ballistic-missile submarines in the Arctic
+would have two advantages for China. Firstly, if Chinese strategic sub-
+marines were able to operate under the ice, this would probably reduce
+their vulnerability to American anti-submarine warfare. Secondly, the
+flight times to targets in the continental United States are consider-
+ably shorter from the Arctic than from the Western Pacific. However,
+these scenarios are not likely to occur in the short term, in part because
+Chinese submarines would likely require a developed infrastructure in
+Arctic Russia.98 Nevertheless, US military planners appear to be incor-
+porating Arctic scenarios into their worst-case assumptions. Although
+China’s White Paper on Arctic policy does not explicitly mention mili-
+tary aspects, the strategic importance of the Arctic is an important topic
+in Chinese military discourse.99
+                                              The Sino-American World Conflict | 101
+
+
+
+The technological dimension
+The Sino-American conflict has a pronounced technological dimension
+as each side struggles for technological supremacy in the digital age.
+America wants to maintain its technological superiority over China, which
+is favourably positioned to benefit from the ‘fourth industrial revolution’,
+in which artificial intelligence plays an important role.100 Competition for
+technological leadership is so pronounced because the introduction of new
+technologies creates economic growth and secures competitive advantages
+with military implications.101 Many Americans now view China as a serious
+threat to the industrial foundations of the United States, and therefore as
+a threat to national security.102 For the Chinese leadership, which believes
+that the technological superiority of the West has secured its global domi-
+nance, catching up and even surpassing the West in the field of advanced
+technology is a key priority.103 It aims to do so through industrial-policy
+initiatives within the Made in China 2025 framework, technology transfer
+and industrial espionage.
+   The technological component of the US–China rivalry differs consider-
+ably from the United States’ arms race with the Soviet Union. During the
+Cold War, the United States faced a technologically backward opponent,
+and was therefore able to shift military competition to areas where the
+Soviet Union was weak. With China, the United States faces an opponent
+against whom this option does not exist, since China has caught up tech-
+nologically and is even leading in some areas, such as quantum computing
+and robotics. Maintaining or restoring technological leadership is thus of
+eminent military importance for the United States.104
+   The Trump administration undertook several initiatives aimed at
+impeding China’s technological progress and protecting the United States’
+technological base. The Committee on Foreign Investment in the United
+States began to examine Chinese investments in the United States more
+closely, and even to restrict them. The Foreign Investment Risk Review
+Modernization Act of 2018 extended the scope of the review to include ‘criti-
+cal technology’.105 The Export Control Reform Act, which came into force in
+August 2018, authorises export restrictions on ‘emerging and foundational’
+technologies that are considered essential for US national security but are
+102 | Peter Rudolf
+
+
+
+not subject to existing controls. Among the technologies that the Bureau of
+Industry and Security within the US Department of Commerce (which is
+responsible for administering and enforcing the restrictions) has in mind
+are those that are central to Made in China 2025, including biotech, artificial
+intelligence and quantum computing.106 There are also efforts under way to
+reduce the transfer of knowledge to China by Chinese students and scien-
+tists resident in the United States.
+   By decoupling the two economies as much as possible, the White House
+hoped to reduce US economic, technological and security vulnerabilities
+created by the countries’ interdependence. (The pandemic appears only to
+have hastened these efforts.) Perhaps the most high-profile initiative was
+the Trump administration’s campaign against Huawei, one of China’s most
+important technology groups. For the ‘China hawks’ within the administra-
+tion – particularly Peter Navarro, a presidential advisor on trade issues and
+director of the Office of Trade and Manufacturing Policy – the fight against
+Huawei was an important stage in the competition for future technological
+supremacy and control of information systems employing 5G networks.107
+Washington has especially sought to restrict Huawei’s access to cutting-
+edge semiconductors, thereby focusing on an area where Chinese firms are
+heavily dependent on foreign suppliers.108
+   The campaign against Huawei reflects the abandonment of the positive-
+sum logic in economic relations. This logic, which was based on absolute
+gains, was linked to the expectation that economic interdependence would
+promote political cooperation. Now that China is seen as a global strategic
+rival, economic logic has given way to a security-policy logic, the dominant
+concern of which is the relative distribution of gains and the negative conse-
+quences of economic interdependence for preserving the technological basis
+of military superiority.109
+   The defensive and offensive measures adopted by the US will likely lead
+China to seek to reduce its own dependence on the United States and any
+other countries that might partner with the US in denying China access
+to advanced technology. As James Crabtree has written, Donald Trump’s
+‘erratic and aggressive policies have succeeded in convincing Chinese elites
+that the U.S. is now irrevocably set on blocking China’s technological rise’.110
+                                              The Sino-American World Conflict | 103
+
+
+
+Beijing’s response, combined with US actions, could lead to the emergence
+of a new ‘geoeconomic world order’, in which the question of the relative
+distribution of gains, and concerns about the security consequences of
+economic interdependence, play a far more important role in determining
+government policy than in recent decades.111 It is possible that as the
+economic interdependence between the United States and China dissolves,
+the world will experience de-globalisation and the emergence of economic
+blocs or closed economic spaces.112
+   The Sino-American world conflict could even trigger the emergence of
+two ‘bounded orders’, one led by the United States and the other by China.113
+This kind of bipolarisation would present dilemmas for American allies that
+favour a multipolar world order.114
+
+
+                              *       *       *
+
+
+Martin Wolf has suggested that the United States’ strategic rivalry with China
+has the potential to develop into the ‘organising principle of US economic,
+foreign and security policies’.115 Certainly, there is ample reason to believe
+that Washington increasingly perceives all of its international relationships
+through a ‘China prism’, including its relationship with Europe.116 The
+Biden administration can be expected to increase the pressure on US allies
+to take a stand in the intensifying Sino-American conflict and to join with
+the United States in balancing against China by restricting Chinese access to
+advanced technologies and screening Chinese foreign investments.117
+   From a European perspective, it is an open and vexing question whether
+Washington will rely on the power of persuasion or resort to economic
+pressure by means of its extraterritorial sanction levers to obtain European
+cooperation. US and European interests with regard to China are by no means
+identical, although European perceptions of China primarily as a source of
+economic opportunities have been giving way to a more nuanced view. A
+European Commission paper from March 2019 reflects this shift, referring
+to China as a ‘cooperation partner’, an ‘economic competitor’ and a ‘sys-
+temic rival promoting alternative models of governance’ depending on the
+policy field.118 Even so, China’s rise affects the United States and Europe to
+104 | Peter Rudolf
+
+
+
+different degrees, so their threat perceptions will continue to diverge. There
+is neither a status conflict nor a global competition for influence between
+Europe and China. Moreover, no security dilemmas are shaping the rela-
+tionship, meaning that security concerns do not overshadow all aspects
+of the relationship. The coronavirus pandemic has led to some discussion
+of how much dependence on China is tolerable, but only with respect to
+a diversification of supply chains and production sites, rather than in the
+sense of a broad decoupling.119
+    Given partly converging, partly diverging interests on each side of the
+Atlantic, as well as within the European Union, there is a widespread sense
+that transatlantic policy coordination on China will have to become an
+institutionalised feature in US–EU relations, whether in the guise of the US–
+European Dialogue on China initiated in 2020 by Josep Borrell, the EU high
+representative for foreign affairs and security policy, or in more functional
+formats occasionally suggested in the US debate and apparently taken up
+by the Biden administration in its evolving ‘modular approach’ to restrict-
+ing Chinese access to advanced technology.120 Certainly, European allies are
+faced with the question of how far and under which conditions they will
+support the United States in its strategic rivalry with China.
+
+
+Acknowledgements
+This article is adapted from a research paper published by Stiftung Wissenschaft und
+Politik (SWP), the German Institute for International and Security Affairs.
+
+
+
+Notes
+1   Xiangfeng Yang, ‘The Great Chinese        event/video-vice-president-pence-
+    Surprise: The Rupture with the United     delivers-inaugural-frederic-v-malek-
+    States Is Real and Is Happening’,         public-service-leadership; and White
+    International Affairs, vol. 96, no. 2,    House, ‘United States Strategic
+    2020, p. 420.                             Approach to the People’s Republic
+2   See remarks by Vice President             of China’, 20 May 2020, p. 16, https://
+    Pence at the Frederic V. Malek            www.whitehouse.gov/wp-content/
+    Public Service Leadership Lecture,        uploads/2020/05/U.S.-Strategic-
+    Washington DC, 24 October 2019,           Approach-to-The-Peoples-Republic-
+    https://www.wilsoncenter.org/             of-China-Report-5.20.20.pdf.
+                                                         The Sino-American World Conflict | 105
+
+
+3   Quoted in Cassidy McDonald,                       W. Kohlhammer, 1988), pp. 35–53.
+    ‘Biden Says There Will Be “Extreme           9    See Kim Parker, Rich Morin and
+    Competition” with China, but                      Juliana Menasce Horowitz, ‘America
+    Won’t Take Trump Approach’,                       in 2050’, Pew Research Center, 21
+    CNBC, 7 February 2021, https://                   March 2019.
+    www.cnbc.com/2021/02/07/                     10   See Michael Beckley, ‘Stop Obsessing
+    biden-will-compete-with-china-but-                About China: Why Beijing Will Not
+    wont-take-trump-approach.html.                    Imperil U.S. Hegemony’, Foreign
+4   US Department of State, ‘Secretary                Affairs, 21 September 2018; and
+    Antony J. Blinken with Wolf Blitzer               Michael Beckley, Unrivaled: Why
+    of CNN’s The Situation Room’, 8                   America Will Remain the World’s Sole
+    February 2021, https://www.state.gov/             Superpower (Ithaca, NY: Cornell
+    secretary-antony-j-blinken-with-wolf-             University Press, 2018).
+    blitzer-of-cnns-the-situation-room/.         11   See Stephen G. Brooks and William
+5   See Minghao Zhao, ‘Is a New Cold                  C. Wohlforth, ‘The Rise and Fall of
+    War Inevitable? Chinese Perspectives              the Great Powers in the Twenty-
+    on US–China Strategic Competition’,               first Century: China’s Rise and the
+    Chinese Journal of International Politics,        Fate of America’s Global Position’,
+    vol. 12, no. 3, 2019, pp. 371–94.                 International Security, vol. 40, no. 3,
+6   See Andrew J. Nathan and Andrew                   Winter 2015/16, pp. 7–53.
+    Scobell, ‘How China Sees America:            12   See, for example, Yuen Foong Khong,
+    The Sum of Beijing’s Fears’, Foreign              ‘Primacy or World Order? The United
+    Affairs, vol. 91, no. 5, 2012, pp. 32–47;         States and China’s Rise – A Review
+    and Suisheng Zhao, ‘A New Model                   Essay’, International Security, vol. 38,
+    of Big Power Relations? China–US                  no. 3, Winter 2013/14, pp. 153–75;
+    Strategic Rivalry and Balance of                  and John J. Mearsheimer, ‘Can China
+    Power in the Asia-Pacific’, Journal of            Rise Peacefully?’, National Interest, 25
+    Contemporary China, vol. 24, no. 93,              October 2014.
+    2015, pp. 377–97.                            13   See Randall L. Schweller, ‘Managing
+7   See, for example, Richard Haass, ‘The             the Rise of Great Powers: History and
+    Pandemic Will Accelerate History                  Theory’, in Alastair Iain Johnston and
+    Rather than Reshape It: Not Every                 Robert S. Ross (eds), Engaging China:
+    Crisis Is a Turning Point’, Foreign               The Management of an Emerging Power
+    Affairs, 7 April 2020. On the more                (London and New York: Routledge,
+    structural factors driving the com-               1999), pp. 1–31.
+    petition, see Evan S. Medeiros, ‘The         14   Political scientist Graham Allison has
+    Changing Fundamentals of US–China                 helped to popularise this term and
+    Relations’, Washington Quarterly, vol.            the associated power-transition theo-
+    42, no. 3, 2019, pp. 93–119.                      ries in a wealth of publications since
+8   On ‘structural world conflicts’, see              2012, such as Graham Allison, ‘The
+    Werner Link, Der Ost-West-Konflikt.               Thucydides Trap: Are the U.S. and
+    Die Organisation der internationalen              China Headed for War?’, Atlantic, 24
+    Beziehungen im 20. Jahrhundert (Stuttgart:        September 2015.
+106 | Peter Rudolf
+
+
+15   See Rosemary Foot, ‘Constraints on                DEPARTMENT-OF-DEFENSE-INDO-
+     Conflict in the Asia-Pacific: Balancing           PACIFIC-STRATEGY-REPORT-
+     “the War Ledger”’, Political Science,             2019.PDF.
+     vol. 66, no. 2, 2014, pp. 129–31.            23   As quoted in Edward Wong and Catie
+16   See Jinghan Zeng, ‘Constructing                   Edmonson, ‘Trump Administration
+     a “New Type of Great Power                        Plans to Sell More than $2 Billion of
+     Relations”: The State of Debate in                Arms to Taiwan’, New York Times, 6
+     China (1998–2014)’, British Journal of            June 2019.
+     Politics and International Relations, vol.   24   On the scholarly debate as to whether
+     18, no. 2, 2016, pp. 422–42.                      states can safely assess the intentions
+17   See Steve Chan, The Power-transition              of other powers, see Sebastian Rosato,
+     Discourse and China’s Rise (Oxford:               ‘The Inscrutable Intentions of Great
+     Oxford Research Encyclopedia                      Powers’, International Security, vol. 39,
+     of Politics, May 2017), p. 17; and                no. 3, Winter 2014/15, pp. 48–88.
+     Steve Chan, ‘More than One                   25   On the different logics, see Thomas
+     Trap: Problematic Interpretations                 J. Christensen, ‘Fostering Stability
+     and Overlooked Lessons from                       or Creating a Monster? The Rise of
+     Thucydides’, Journal of Chinese Political         China and U.S. Policy Toward Asia’,
+     Science, vol. 24, no. 1, 2019, pp. 1–24.          International Security, vol. 31, no. 1,
+18   On the role of framing, see Robert M.             2006, pp. 81–126.
+     Entman, Projections of Power: Framing        26   For a general discussion on the role
+     News, Public Opinion, and U.S. Foreign            of narratives, see Ronald R. Krebs,
+     Policy (Chicago, IL: University of                Narrative and the Making of US National
+     Chicago Press, 2004), pp. 5–6.                    Security (Cambridge: Cambridge
+19   For a critical view, see Richard Ned              University Press, 2015), p. 3.
+     Lebow and Benjamin Valentino, ‘Lost          27   See Steve Chan, Weixing Hu and Kai
+     in Transition: A Critical Analysis                He, ‘Discerning States’ Revisionist and
+     of Power Transition Theory’,                      Status-quo Orientations: Comparing
+     International Relations, vol. 23, no. 3,          China and the US’, European Journal
+     2009, pp. 389–410.                                of International Relations, vol. 25, no. 2,
+20   White House, ‘National Security                   2019, pp. 613–40.
+     Strategy of the United States of             28   See Alastair Iain Johnston, ‘China
+     America’, December 2017, p. 25,                   in a World of Orders: Rethinking
+     https://trumpwhitehouse.archives.                 Compliance and Challenges in
+     gov/wp-content/uploads/2017/12/NSS-               Beijing’s International Relations’,
+     Final-12-18-2017-0905.pdf.                        International Security, vol. 44, no. 2,
+21   Ibid., p. 27.                                     2019, pp. 9–60.
+22   US Department of Defense, ‘Indo-             29   See Suisheng Zhao, ‘A Revisionist
+     Pacific Strategy Report: Preparedness,            Stakeholder: China and the Post-
+     Partnerships, and Promoting                       World War II World Order’, Journal of
+     a Networked Region’, 1 June                       Contemporary China, vol. 27, no. 113,
+     2019, p. 8, https://media.defense.                2018, pp. 643–58.
+     gov/2019/Jul/01/2002152311/-1/-1/1/          30   See Michael D. Swaine, ‘Chinese
+                                                        The Sino-American World Conflict | 107
+
+
+     Views on the U.S. National                     Science Quarterly, vol. 133, no. 3,
+     Security and National Defense                  2018, pp. 497–525.
+     Strategies’, Carnegie Endowment for       37   See ‘Policy Roundtable: Are the
+     International Peace, China Leadership          United States and China in a New
+     Monitor, 1 May 2018.                           Cold War?’, Texas National Security
+31   See, for example, Ministry of National         Review, 15 May 2018.
+     Defense of the People’s Republic of       38   See Andres B. Schwarzenberg,
+     China, ‘Speech at the 18th Shangri-La          U.S.–China Trade and Economic
+     Dialogue by Gen. Wei Fenghe, State             Relations: Overview (Washington DC:
+     Councilor and Minister of National             Congressional Research Service, 7
+     Defense, PRC’, 2 June 2019, http://eng.        August 2019).
+     mod.gov.cn/leadership/2019-06/02/         39   See Barry C. Lynn, ‘War, Trade and
+     content_4842884.htm.                           Utopia’, National Interest, no. 82,
+32   See Chu Shulong and Zhou Lanjun,               Winter 2005/06, pp. 31–8.
+     ‘The Growing U.S.–China Competition       40   See Andres B. Schwarzenberg, U.S.–
+     Under the Trump Administration’,               China Investment Ties: Overview and
+     in National Committee on American              Issues for Congress (Washington DC:
+     Foreign Policy, U.S.–China Relations:          Congressional Research Service, 28
+     Manageable Differences or Major Crisis?        August 2019).
+     (New York: NCAFP, 2018), pp. 10–18.       41   See William C. Wohlforth,
+33   See Elizabeth C. Economy, The Third            ‘Unipolarity, Status Competition,
+     Revolution: Xi Jinping and the New             and Great Power War’, World Politics,
+     Chinese State (Oxford and New York:            vol. 61, no. 1, 2009, pp. 28–57; Tudor
+     Oxford University Press, 2018), p. 190.        A. Onea, ‘Between Dominance and
+34   See, for example, Charles Edel and             Decline: Status Anxiety and Great
+     Hal Brands, ‘The Real Origins of the           Power Rivalry’, Review of International
+     U.S.–China Cold War’, Foreign Policy,          Studies, vol. 40, no. 1, 2014, pp. 125–52;
+     2 June 2019; and David L. Roll, ‘The           Timothy R. Heath, ‘The Competition
+     Key to Avoiding a New Cold War with            for Status Could Increase the Risk of
+     China’, Washington Post, 10 July 2019.         a Military Clash in Asia’, RAND Blog,
+35   For interpretations of the East–West           2 February 2018, https://www.rand.
+     conflict, see Ernst-Otto Czempiel,             org/blog/2018/02/the-competition-for-
+     Weltpolitik im Umbruch. Das inter-             status-could-increase-the-risk.html;
+     nationale System nach dem Ende des             Michael Mastanduno, ‘System Maker
+     Ost-West-Konflikts (Munich: C.H. Beck,         and Privilege Taker: U.S. Power and
+     1991), pp. 20–6.                               the International Political Economy’,
+36   See Øystein Tunsjø, The Return of              World Politics, vol. 61, no. 1, 2009, pp.
+     Bipolarity in World Politics: China,           121–54; Daniel W. Drezner, ‘Military
+     the United States, and Geostructural           Primacy Doesn’t Pay (Nearly as Much
+     Realism (New York: Columbia                    as You Think)’, International Security,
+     University Press, 2018); and Richard           vol. 38, no. 1, 2013, pp. 52–79; and
+     Maher, ‘Bipolarity and the Future              Doug Stokes and Kit Waterman,
+     of U.S.–China Relations’, Political            ‘Security Leverage, Structural Power
+108 | Peter Rudolf
+
+
+     and US Strategy in East Asia’,                      ‘Technology and Power in China’s
+     International Affairs, vol. 93, no. 5, 2017,        Geopolitical Ambitions’, tes-
+     pp. 1,039–60.                                       timony before the U.S.–China
+42   See Ely Ratner, ‘There Is No Grand                  Economic and Security Review
+     Bargain with China’, Foreign Affairs, 27            Commission, Washington DC, 20
+     November 2018.                                      June 2019, https://www.state.gov/
+43   See Ashley J. Tellis, Balancing Without             technology-and-power-in-chinas-
+     Containment: An American Strategy                   geopolitical-ambitions/; and Policy
+     for Managing China (Washington DC:                  Planning Staff, Office of the Secretary
+     Carnegie Endowment for International                of State, ‘The Elements of the China
+     Peace, 2014), pp. 14, 18–19.                        Challenge’, November 2020, p. 45.
+44   See Odd Arne Westad, ‘The Sources              50   Jessica Chen Weiss, ‘No, China
+     of Chinese Conduct: Are Washington                  and the U.S. Aren’t Locked in an
+     and Beijing Fighting a New Cold                     Ideological Battle. Not Even Close’,
+     War?’, Foreign Affairs, 12 August 2019.             Washington Post, 4 May 2019.
+45   See Elsa Kania, ‘The “Regime Security          51   See Kevin Rudd, ‘How to Avoid an
+     Dilemma” in US–China Relations’,                    Avoidable War: Ten Questions About
+     Strategist, 21 March 2019.                          the New U.S. China Strategy’, Foreign
+46   For this view, see Tarun Chhabra, ‘The              Affairs, 22 October 2018.
+     China Challenge, Democracy, and U.S.           52   See Andreas Møller Mulvad, ‘Xiism as
+     Grand Strategy’, Brookings Institution,             a Hegemonic Project in the Making:
+     Policy Brief, 15 February 2019.                     Sino-Communist Ideology and the
+47   See David Brooks, ‘How China Brings                 Political Economy of China’s Rise’,
+     Us Together: An Existential Threat for              Review of International Studies, vol. 45,
+     the 21st Century’, New York Times, 14               no. 3, 2019, pp. 449–70; and Economy,
+     February 2019.                                      The Third Revolution, p. 221.
+48   Kiron Skinner, during her tenure as            53   See Jessica Chen Weiss, ‘A World
+     the director of policy planning at the              Safe for Autocracy? China’s Rise
+     US State Department, said that the                  and the Future of Global Politics’,
+     US is engaged in a ‘fight with a really             Foreign Affairs, vol. 98, no. 4, 2019,
+     different civilization and a differ-                pp. 92–102; and Emily S. Chen, Is
+     ent ideology, and the United States                 China Challenging the Global State of
+     hasn’t had that before … It’s the first             Democracy? (Honolulu, HI: Pacific
+     time that we’ll have a great power                  Forum, June 2019).
+     competitor that is not Caucasian.’             54   See Nicholas Wright, ‘How Artificial
+     Quoted in Abraham M. Denmark,                       Intelligence Will Reshape the Global
+     ‘Problematic Thinking on China                      Order: The Coming Competition
+     from the State Department’s Head of                 Between Digital Authoritarianism
+     Policy Planning’, War on the Rocks, 7               and Liberal Democracy’, Foreign
+     May 2019.                                           Affairs, 10 July 2018. On the ideo-
+49   Christopher A. Ford, Assistant                      logical dimension of great-power
+     Secretary of State for International                conflicts, see Hal Brands, ‘Democracy
+     Security and Nonproliferation,                      vs Authoritarianism: How Ideology
+                                                         The Sino-American World Conflict | 109
+
+
+     Shapes Great-power Conflict’,                   Logan, ‘Hard Constraints on a Chinese
+     Survival, vol. 60, no. 5, October–              Nuclear Breakout’, Nonproliferation
+     November 2018, pp. 61–114. For a                Review, vol. 24, nos 1–2, 2017, pp.
+     view critical of accentuating the ideo-         13–30; and M. Taylor Fravel, Active
+     logical dimension, see Elbridge Colby           Defense: China’s Military Strategy
+     and Robert D. Kaplan, ‘The Ideology             Since 1949 (Princeton, NJ: Princeton
+     Delusion: America’s Competition with            University Press, 2019), pp. 236–69.
+     China Is Not About Doctrine’, Foreign      61   See Hans M. Kristensen and Matt
+     Affairs, 4 September 2020.                      Korda, ‘Chinese Nuclear Forces, 2019’,
+55   On the general role of ‘ideological             Bulletin of the Atomic Scientists, vol. 5,
+     difference’ in threat perceptions, see          no. 4, 2019, pp. 171–8.
+     Mark L. Haas, The Ideological Origins of   62   See Peter Rudolf, US Nuclear
+     Great Power Politics, 1789–1989 (Ithaca,        Deterrence Policy and Its Problems
+     NY: Cornell University Press, 2005).            (Berlin: Stiftung Wissenschaft und
+56   See John H. Herz, ‘Idealist                     Politik, November 2018), p. 14.
+     Internationalism and the Security          63   See Bryan R. Early and Victor Asal,
+     Dilemma’, World Politics, vol. 2, no. 2,        ‘Nuclear Weapons, Existential Threats,
+     1950, pp. 157–80; and Robert Jervis,            and the Stability–Instability Paradox’,
+     ‘Cooperation Under the Security                 Nonproliferation Review, vol. 25, no. 3,
+     Dilemma’, World Politics, vol. 30,              2018, pp. 223–47.
+     no. 2, 1978, pp. 67–214. For a further     64   See Austin Long, ‘U.S. Strategic
+     elaborated view, see Ken Booth and              Nuclear Targeting Policy: Necessity
+     Nicholas J. Wheeler, The Security               and Damage Limitation’, in
+     Dilemma: Fear, Cooperation and Trust in         International Security Studies
+     World Politics (Basingstoke: Palgrave           Forum, ‘Policy Roundtable 1–4 on
+     Macmillan, 2008), pp. 4–7.                      U.S. Nuclear Policy’, 22 December
+57   See Adam Mount, The Case Against                2016, https://networks.h-net.org/
+     New Nuclear Weapons (Washington                 node/28443/discussions/157862/
+     DC: Center for American Progress,               issf-policy-roundtable-9-4-us-nuclear-
+     May 2017), p. 41.                               policy#_Toc470037165; Charles L.
+58   See Brad Roberts, The Case for U.S.             Glaser and Steve Fetter, ‘Should the
+     Nuclear Weapons in the 21st Century             United States Reject MAD? Damage
+     (Stanford, CA: Stanford University              Limitation and U.S. Nuclear Strategy
+     Press, 2016), p. 173.                           Toward China’, International Security,
+59   See Susan Turner Haynes, ‘China’s               vol. 41, no. 1, 2016, pp. 49–98; and
+     Nuclear Threat Perceptions’, Strategic          Fiona S. Cunningham and M. Taylor
+     Studies Quarterly, vol. 10, no. 2, 2016,        Fravel, ‘Assuring Assured Retaliation:
+     pp. 25–62.                                      China’s Nuclear Posture and U.S.–
+60   For more detail, see Eric Heginbotham           China Strategic Stability’, International
+     et al., China’s Evolving Nuclear                Security, vol. 40, no. 2, 2015, pp. 7–50.
+     Deterrent: Major Drivers and Issues for    65   See Scott L. Kastner, ‘Is the Taiwan
+     the United States (Santa Monica, CA:            Strait Still a Flash Point? Rethinking
+     RAND Corporation, 2017); David C.               the Prospects for Armed Conflict
+110 | Peter Rudolf
+
+
+     Between China and Taiwan’,                      Contemporary China, vol. 21, no. 76,
+     International Security, vol. 40, no. 3,         2012, pp. 713–21.
+     Winter 2015/16, pp. 54–92.                 72   See Christopher J. Fettweis,
+66   See Chris Buckley and Chris Horton, ‘Xi         ‘Unipolarity, Hegemony, and the New
+     Jinping Warns Taiwan that Unification           Peace’, Security Studies, vol. 26, no. 3,
+     Is the Goal and Force Is an Option’,            2017, pp. 443–5.
+     New York Times, 1 January 2019.            73   See Nicholas J. Wheeler, Trusting
+67   See Thomas J. Christensen, ‘The                 Enemies: Interpersonal Relationships in
+     Contemporary Security Dilemma:                  International Conflict (Oxford: Oxford
+     Deterring a Taiwan Conflict’,                   University Press, 2018), pp. 92f., 273f.
+     Washington Quarterly, vol. 25, no. 4,           On the ‘spiral model’, see Robert
+     2002, pp. 5–21.                                 Jervis, Perception and Misperception in
+68   See James Johnson, The US–China                 International Politics (Princeton, NJ:
+     Military and Defense Relationship During        Princeton University Press, 1976),
+     the Obama Presidency (Basingstoke:              pp. 62–7.
+     Palgrave Macmillan, 2018), pp. 97–8.       74   See Manjeet S. Pardesi, Image
+     As Sulmaan Wasif Khan writes in                 Theory and the Initiation of Strategic
+     his book Haunted by Chaos, even a               Rivalries (Oxford: Oxford Research
+     ‘defensive policy can look suspiciously         Encyclopedia of Politics, March 2017).
+     aggressive’ in an apparently threat-            On the many aspects of rivalry, see
+     ening environment. Sulmaan Wasif                Barbara Lippert and Volker Perthes
+     Khan, Haunted by Chaos: China’s Grand           (eds), Strategic Rivalry Between the
+     Strategy from Mao Zedong to Xi Jinping          United States and China: Causes,
+     (Cambridge, MA: Harvard University              Trajectories, and Implications for Europe
+     Press, 2018), p. 218.                           (Berlin: Stiftung Wissenschaft und
+69   On this problem, see Evan Braden                Politik, April 2020).
+     Montgomery, ‘Breaking Out of               75   See Ashley J. Tellis, ‘Protecting
+     the Security Dilemma: Realism,                  American Primacy in the Indo-Pacific’,
+     Reassurance, and the Problem of                 testimony before the Senate Armed
+     Uncertainty’, International Security,           Services Committee, Washington DC,
+     vol. 31, no. 2, 2006, pp. 151–85.               25 April 2017, https://www.armed-
+70   See Adam P. Liff and G. John                    services.senate.gov/imo/media/doc/
+     Ikenberry, ‘Racing Toward Tragedy?              Tellis_04-25-17.pdf.
+     China’s Rise, Military Competition         76   For a more detailed discussion, see
+     in the Asia Pacific, and the Security           Michael Paul, Kriegsgefahr im Pazifik?
+     Dilemma’, International Security, vol.          Die maritime Bedeutung der sino-
+     39, no. 2, 2014, pp. 88–90.                     amerikanischen Rivalität (Baden-Baden:
+71   See Merriden Varrall, Chinese                   Nomos, 2017).
+     Worldviews and China’s Foreign Policy      77   See Joel Wuthnow, ‘Asian Security
+     (Sydney: Lowy Institute, November               Without the United States? Examining
+     2015); and Andrew Scobell, ‘Learning            China’s Security Strategy in Maritime
+     to Rise Peacefully? China and                   and Continental Asia’, Asian Security,
+     the Security Dilemma’, Journal of               vol. 14, no. 3, 2018, pp. 230–45.
+                                                           The Sino-American World Conflict | 111
+
+
+78   Kurt M. Campbell and Ely Ratner,                  Fiona S. Cunningham, ‘The Maritime
+     ‘The China Reckoning: How Beijing                 Rung of the Escalation Ladder: Naval
+     Defied American Expectations’,                    Blockades in a US–China Conflict’,
+     Foreign Affairs, 13 February 2018.                Security Studies, vol. 29, no. 4, 2020,
+79   See Steven F. Jackson, China’s Regional           pp. 730–68.
+     Relations in Comparative Perspective:        83   See Andrew Scobell, ‘The South China
+     From Harmonious Neighbors to Strategic            Sea and U.S.-China Rivalry’, Political
+     Partners (London: Routledge, 2018),               Science Quarterly, vol. 133, no. 2, 2018,
+     pp. 146–52; and Denny Roy, ‘Assertive             pp. 199–224.
+     China: Irredentism or Expansionism?’,        84   See US Department of Defense,
+     Survival, vol. 61, no. 1, 2019, pp. 51–74.        ‘Military and Security Developments
+80   See Michael McDevitt, ‘Whither Sino-              Involving the People’s Republic
+     U.S. Relations: Maritime Disputes in              of China 2020: Annual Report to
+     the East and South China Seas?’, in               Congress’, p. 45, https://media.
+     National Committee on American                    defense.gov/2020/Sep/01/2002488689/-
+     Foreign Policy, U.S.–China Relations,             1/-1/1/2020-DOD-CHINA-MILITARY-
+     pp. 41–52; and Ronald O’Rourke,                   POWER-REPORT-FINAL.PDF;
+     U.S.–China Strategic Competition in               Michael Paul, Chinas nukleare
+     South and East China Seas: Background             Abschreckung. Ursachen, Mittel und
+     and Issues for Congress (Washington               Folgen der Stationierung chinesischer
+     DC: Congressional Research Service,               Nuklearwaffen auf Unterseebooten,
+     23 August 2019).                                  SWP-Studie 17/2018 (Berlin: Stiftung
+81   See Huiyun Feng and Kai He, ‘The                  Wissenschaft und Politik, September
+     Bargaining Dilemma Between the                    2018); and Tong Zhao, Tides of
+     United States and China in the South              Change: China’s Nuclear Ballistic
+     China Sea’, in Huiyun Feng and Kai                Missile Submarines and Strategic
+     He (eds), US–China Competition and                Stability (Washington DC: Carnegie
+     the South China Sea Disputes (London:             Endowment for International
+     Routledge, 2018), pp. 14–28.                      Peace, 2018).
+82   See James Laurenceson, ‘Economics            85   Recent estimates for the maximum
+     and Freedom of Navigation in East                 range of the JL-3 missile vary between
+     Asia’, Australian Journal of International        9,000 and 10,000 km. See Kristensen
+     Affairs, vol. 71, no. 5, 2017, pp. 461–73;        and Korda, ‘Chinese Nuclear Forces,
+     Bobby Andersen and Charles M.                     2019’, pp. 175–6; and National Air
+     Perry, Weighing the Consequences of               and Space Intelligence Center,
+     China’s Control over the South China Sea          Defense Intelligence Ballistic Missile
+     (Cambridge, MA: Institute for Foreign             Analysis Committee, ‘2020 Ballistic
+     Policy Analysis, November 2017), pp.              and Cruise Missile Threat’, p. 33,
+     12–13; and Marc Lanteigne, ‘China’s               https://media.defense.gov/2021/
+     Maritime Security and the “Malacca                Jan/11/2002563190/-1/-1/1/2020%20
+     Dilemma”’, Asian Security, vol. 4, no.            BALLISTIC%20AND%20CRUISE%20
+     2, 2008, pp. 143–61. For further detail           MISSILE%20THREAT_FINAL_2OCT_
+     on the option of a naval blockade, see            REDUCEDFILE.PDF.
+112 | Peter Rudolf
+
+
+86   See Tong Zhao, The Impact of Chinese           Congressional Research Service, 3
+     Supporting Capabilities (Beijing:              October 2018).
+     Carnegie–Tsinghua Center for Global       91   See William A. Galston, ‘What’s
+     Policy, 24 October 2018).                      Beijing Doing in Haifa?’, Wall Street
+87   See Tunsjø, The Return of Bipolarity in        Journal, 29 May 2019; and Amos Harel,
+     World Politics, pp. 133–8.                     ‘With Its National Security at Stake,
+88   See Nathan Levine, ‘Why America                Israel Takes Sides in U.S.–China Trade
+     Leaving the INF Treaty Is China’s              War’, Haaretz, 26 May 2019.
+     New Nightmare’, National Interest, 22     92   See Edward Wong, ‘Mike Pompeo
+     October 2018; and Eric Sayers, ‘The            Warns Panama Against Doing
+     Intermediate-range Nuclear Forces              Business with China’, New York
+     Treaty and the Future of the Indo-             Times, 19 October 2018. For more
+     Pacific Military Balance’, War on the          detail on Chinese activities in Latin
+     Rocks, 13 February 2018. On the risks          America, see Katherine Koleski and
+     of escalation, see James M. Acton,             Alec Blivas, China’s Engagement
+     ‘Escalation Through Entanglement:              with Latin America and the Caribbean
+     How the Vulnerability of Command-              (Washington DC: U.S.–China
+     and-control Systems Raises the Risks           Economic and Security Review
+     of an Inadvertent Nuclear War’,                Commission, 17 October 2018).
+     International Security, vol. 43, no. 1,   93   ‘Remarks by National Security
+     2018, pp. 56–99; and Caitlin Talmadge,         Advisor Ambassador John R. Bolton
+     ‘Would China Go Nuclear? Assessing             on the Trump Administration’s New
+     the Risk of Chinese Nuclear Escalation         Africa Strategy’, Washington DC,
+     in a Conventional War with the                 13 December 2018, https://www.
+     United States’, International Security,        whitehouse.gov/briefings-statements/
+     vol. 41, no. 4, 2017, pp. 50–92.               remarks-national-security-advisor-
+89   See Kevin G. Cai, ‘The One Belt One            ambassador-john-r-bolton-trump-
+     Road and the Asian Infrastructure              administrations-new-africa-strategy/.
+     Investment Bank: Beijing’s New            94   See Robbie Gramer and Colum Lynch,
+     Strategy of Geoeconomics and                   ‘Haley Tried to Block Appointment
+     Geopolitics’, Journal of Contemporary          of Chinese Diplomat to Key U.N.
+     China, vol. 27, no. 114, 2018,                 Post. He Got the Job Anyway’, Foreign
+     pp. 831–47.                                    Policy, 14 February 2019.
+90   See Giulio Pugliese, ‘The “Free and       95   See Steven Lee Myers and Somini
+     Open Indo-Pacific” as a Strategic              Sengupta, ‘Latest Arena for China’s
+     Narrative’, China–US Focus, 18                 Growing Global Ambitions: The
+     February 2019, https://www.                    Arctic’, New York Times, 27 May 2019.
+     chinausfocus.com/foreign-policy/          96   US Department of Defense, ‘Annual
+     the-free-and-open-indo-pacific-as-a-           Report to Congress: Military and
+     strategic-narrative; and Bruce Vaughn          Security Developments Involving the
+     et al., The Trump Administration’s             People’s Republic of China 2019’, May
+     ‘Free and Open Indo-Pacific’: Issues           2019, p. 114, https://media.defense.
+     for Congress (Washington DC:                   gov/2019/May/02/2002127082/-
+                                                      The Sino-American World Conflict | 113
+
+
+    1/-1/1/2019_CHINA_MILITARY_                    Times, 5 October 2018.
+    POWER_REPORT.pdf. See also US              103 See Julian Baird Gewirtz, ‘China’s
+    Department of the Navy, ‘A Blue                Long March to Technological
+    Arctic: A Strategic Blueprint for the          Supremacy: The Roots of Xi Jinping’s
+    Arctic’, January 2021, https://media.          Ambition to “Catch up and Surpass”’,
+    defense.gov/2021/Jan/05/2002560338/-           Foreign Affairs, 27 August 2019.
+    1/-1/0/ARCTIC%20BLUEPRINT%20               104 See Robert O. Work and Greg Grant,
+
+    2021%20FINAL.PDF/ARCTIC%20                     Beating the Americans at Their Own
+    BLUEPRINT%202021%20FINAL.PDF.                  Game: An Offset Strategy with Chinese
+97 US Department of Defense, ‘Report               Characteristics (Washington DC:
+    to Congress: Department of Defense             Center for a New American Security,
+    Arctic Strategy’, June 2019, p. 6,             2019), p. 16.
+    https://media.defense.gov/2019/            105 See James K. Jackson, The Committee
+
+    Jun/06/2002141657/-1/-1/1/2019-DOD-            on Foreign Investment in the United
+    ARCTIC-STRATEGY.PDF.                           States (CFIUS) (Washington DC:
+98 See Lyle J. Goldstein, ‘Chinese Nuclear         Congressional Research Service, 6
+    Armed Submarines in Russian Arctic             August 2019), pp. 24–5.
+    Ports? It Could Happen’, National          106 For a more detailed discussion,
+
+    Interest, 6 June 2019.                         see Peter Lichtenbaum, Victor Ban
+99 See State Council of the People’s               and Lisa Ann Johnson, ‘Defining
+    Republic of China, ‘Full Text:                 “Emerging Technologies”: Industry
+    China’s Arctic Policy’, January                Weighs in on Potential New Export
+    2018, http://english.www.gov.cn/               Controls’, China Business Review,
+    archive/white_paper/2018/01/26/                17 April 2019; and Kevin Wolf,
+    content_281476026660336.htm; and               ‘Confronting Threats from China:
+    David Curtis Wright, The Dragon and            Assessing Controls on Technology
+    Great Power Rivalry at the Top of the          and Investment’, testimony before the
+    World: China’s Hawkish, Revisionist            US Senate Committee on Banking,
+    Voices with Mainstream Discourse on            Housing, and Urban Affairs, 4
+    Arctic Affairs (Calgary: Canadian Global       June 2019, https://www.banking.
+    Affairs Institute, September 2018).            senate.gov/imo/media/doc/Wolf%20
+100 See James A. Lewis, Technological              Testimony%206-4-19.pdf.
+    Competition and China (Washington DC:      107 See Richard Waters, Kathrin Hille and
+
+    Center for Strategic and International         Louise Lucas, ‘Trump Risks a Tech Cold
+    Studies, November 2018).                       War’, Financial Times, 25 May 2019.
+101 See Timothy R. Heath and William           108 See Eurasia Group, ‘The Geopolitics of
+
+    R. Thompson, ‘Avoiding U.S.–China              Semiconductors’, September 2020.
+    Competition Is Futile: Why the             109 See Anthea Roberts, Henrique Choer
+
+    Best Option Is to Manage Strategic             Moraes and Victor Ferguson, ‘Toward
+    Rivalry’, Asia Policy, vol. 13, no. 2,         a Geoeconomic Order in International
+    2018, pp. 105–7.                               Trade and Investment’, Journal of
+102 See, for example, Peter Navarro, ‘Our          International Economic Law, vol. 22, no.
+    Economic Security at Risk’, New York           4, 2019, pp. 655–76.
+114 | Peter Rudolf
+
+
+110 James Crabtree, ‘China’s Radical                                     June 2019.
+    New Vision of Globalization’, Noema,                             116 See Noah Barkin, ‘The U.S. Is Losing
+    10 December 2020, https://www.                                       Europe in Its Battle with China’,
+    noemamag.com/chinas-radical-new-                                     Atlantic, 4 June 2019.
+    vision-of-globalization/.                                        117 On how leading actors in the Biden
+
+111 See Anthea Roberts, Henrique                                         administration viewed relations with
+    Choer Moraes and Victor Ferguson,                                    China before they entered the White
+    ‘The Geoeconomic World Order’,                                       House, see Kurt M. Campbell and
+    Lawfare, 19 November 2018,                                           Jake Sullivan, ‘Competition Without
+    https://www.lawfareblog.com/                                         Catastrophe: How America Can Both
+    geoeconomic-world-order.                                             Challenge and Coexist with China’,
+112 See David A. Lake, ‘Economic                                         Foreign Affairs, September/October
+    Openness and Great Power                                             2019; and Kurt M. Campbell and
+    Competition: Lessons for China and                                   Rushi Doshi, ‘How America Can
+    the United States’, Chinese Journal of                               Shore Up Asian Order: A Strategy for
+    International Politics, vol. 11, no. 3,                              Restoring Balance and Legitimacy’,
+    pp. 237–70.                                                          Foreign Affairs, 12 January 2021.
+113 See John J. Mearsheimer, ‘Bound to                               118 European Commission, ‘EU–China:
+
+    Fail: The Rise and Fall of the Liberal                               A Strategic Outlook’, 12 March 2019,
+    International Order’, International                                  p. 1, https://ec.europa.eu/info/sites/
+    Security, vol. 43, no. 4, 2019, pp. 49–50.                           info/files/communication-eu-china-a-
+114 For a Chinese perspective, see Yan                                   strategic-outlook.pdf.
+    Xuetong, ‘The Age of Uneasy Peace:                               119 See Andrew Small, ‘The Meanings of
+
+    Chinese Power in a Divided World’,                                   Systemic Rivalry: Europe and China
+    Foreign Affairs, 11 December 2018; and                               Beyond the Pandemic’, European
+    Ngaire Woods, ‘Can Multilateralism                                   Council on Foreign Relations, Policy
+    Survive the Sino-American Rivalry?’,                                 Brief, May 2020.
+    Strategist, 10 July 2019.                                        120 See Bob Davis, ‘U.S. Eyes Tech
+
+115 Martin Wolf, ‘The Looming 100-year                                   Alliance Against China’, Wall Street
+    US–China Conflict’, Financial Times, 4                               Journal, 1 March 2021.
+
+
+
+
+Copyright © 2021 The International Institute for Strategic Studies
+

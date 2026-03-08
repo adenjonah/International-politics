@@ -1,0 +1,1383 @@
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+5
+Decision-Making: The Individual Level
+
+state.1
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+War is the product of the actions of two or more states or other political organizations. It follows that to
+understand the outbreak of war we need to understand why states make certain decisions rather than other
+decisions. That leads us to an analysis of foreign policy decision-making, which focuses on the individuals
+and governmental organizations that are empowered to make and implement policies on behalf of the
+International relations scholars have always engaged in foreign policy analysis, but until the 1960s they
+had little interest in developing theories of how the foreign policy process works and how it might work
+differently in different kinds of political systems. Traditional approaches to the study of foreign policy
+generally assumed that political leaders selected those policies that they believed would do most to advance
+the national interest of the state, and they gave relatively little attention to the internal processes driving
+foreign policy.2 This kind of analysis was based on an implicit rational model, one that was often tied to a
+realist conception of foreign policy based on the concepts of power and the national interest.
+Growing dissatisfaction with traditional approaches, along with an increasing interest in developing more
+explicit conceptual frameworks for analyzing foreign policy, led to the development of the decision-making
+approach to foreign policy analysis in the early 1960s (Snyder, Bruck, and Sapin, 1962).3 The basic premise of
+the decision-making approach is that an explanation of the foreign policy actions of states requires an
+understanding of the processes through which political leaders perceive the external world and make and
+then implement their decisions. The basic argument is that system-level structural theories and even
+societal-level theories cannot explain state foreign policies, and that it is necessary to open the “black box” of
+decision-making in order to understand foreign
+policy behavior. Decision-making theories assume that the choices made by these key individuals, groups,
+and organizational actors have a significant impact on state foreign policies, and that these choices are not
+entirely determined by underlying systemic pressures, social forces, and institutional constraints.
+Of course, realists and other structural theorists recognize that in the end it is individuals in organizations
+who make decisions on behalf of the state. The difference between structuralists and decision-making
+theorists lies in the causal weight attached to decision-making variables. Structuralists assume that
+governmental organizations and individual decision-makers share similar perceptions of the international
+environment and that they respond similarly and directly to the structurally induced incentives created by
+that environment. For these theorists, structural factors are overpowering, and the opportunities and
+constraints they create translate directly into foreign policy decisions. As a result, decision -making variables
+themselves carry relatively little causal weight. Those variables serve as conveyor belts for causality that
+rests with structural factors.
+Proponents of decision-making approaches, on the other hand, insist that there is no deterministic link
+between system structure and foreign policy action. They argue that individual worldviews and perceptions,
+governmental roles, and intergovernmental politics help to explain why some states in similar international
+positions and with similar domestic circumstances often engage in different foreign policy behaviors, or why
+one state in similar situations will behave differently at different times. Decision -making theorists do not
+deny that system structure and domestic settings frame the problem for state decision-makers, but they
+insist that organizational, small-group, and individual-level variables carry significant causal weight.
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+We begin this chapter with a discussion of a more formalized “rational model” of decision-making. The
+rational model is both a normative model of how decisions ought to be made as well as a parsimonious
+explanatory model of how decisions actually are made, and for these reasons the rational model is generally
+taken as the standard against which other models are compared. It is conventional to begin with an analysis
+of rationality for the case of a single unitary actor before moving on to the additional complications
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+associated with the concept of organizational or collective rationality.4 After our general discussion of
+rationality, we then turn to the individual level and examine psychological models of individual decisionmaking. In the next chapter we turn to the governmental level and focus on bureaucratic/organizational
+theories of decision-making. Decision-making within these formal organizations is also shaped by social–
+psychological dynamics within small groups, which we also consider.
+
+Rational Models of Decision-Making
+There is no single model of rational decision-making and no single conception of rationality. Most social
+scientists, however, conceive of rationality in terms of the maximization of values under constraints–the
+selection of means that will maximize previously determined goals. This is an instrumental conception of
+rationality. From this perspective, for the purposes of assessing rationality it does not matter what an actor’s
+goals are, only whether that actor engages in an ends–means calculation and selects those strategies or
+options it anticipates will maximize its values or goals. An actor’s goals might be immoral or repulsive, but
+that in itself does not make their behavior non-rational. Thus we can ask in principle whether Hitler behaved
+rationally in the pursuit of his goals, regardless of how morally repugnant his goals were.5
+There is at least as much debate about the nature of a rational decision -making process as about the
+meaning of rationality itself.6 If rationality is the maximization of goals under constraints, then central to all
+conceptions of rationality is the idea that an actor must begin with the identification of its goals. Since most
+actors have more than one goal, or “value complexity” (George, 1980), the specification of goals also requires
+some sense of the priorities among those goals. Since it is rare that a single strategy will maximize all goals
+simultaneously–just as in mathematics it is impossible to simultaneously maximize more than one variable–
+an actor must also have a sense of the kinds of value tradeoffs it is willing to make.
+In most crises, for example, states want to maximize their interests while at the same time minimize the
+likelihood of escalation to an unwanted war. Some strategies might help maximize interests but
+simultaneously increase the risk of escalation, while other strategies might minimize the risks of escalation
+but only at some cost to the national interest. A fully rational decision requires a prioritization of goals so
+that the actor knows how much of one goal it is willing to sacrifice in order to achieve more of its other
+goals–or what risks it is willing to take to achieve one goal given the increased probability that it might not
+achieve the other goal. In addition, some strategies might bring benefits in the short term but involve costs
+in the long term, or vice versa, so that actors need to be clear about their time horizons.7
+If rationality involves the selection of means to maximize one’s ends, a second key element of a rational
+decision-making process is the specification of the set of available strategies (or policies or options), or
+combination of strategies, that one might adopt to advance one’s goals. This involves not only an
+assessment of existing options, but also, to the extent that time permits, the development of new strategies
+to advance one’s goals. Successful conflict resolution, for example, often involves the creative invention of
+new solutions to old problems (Bercovitch, Kremenyuk, and Zartman, 2009).
+Closely related to the specification of alternative strategies is the estimation of the consequences of each
+of the alternatives. This is the third major element of a rational decision-making process. Given actors’
+multiple goals, they must calculate the consequences of each alternative for each of their goals, so they can
+weight the costs and benefits of each strategy by the importance they attach to each of their goals.
+Estimating the likely consequences of each strategy is an extraordinarily complex process. Decisions,
+particularly about issues of war and peace, are made under enormous uncertainty. This is emphasized by
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Clausewitz ([1832]1976) in his concept of the “fog of war” and by game theorists in their concept of
+“incomplete information.” One component of this uncertainty is the fact that the consequences of each
+strategy are determined not only by one’s own actions but also by those of the adversary and other actors.
+In their estimations of the consequences of their actions actors must think strategically and incorporate the
+likely responses of the adversary and of third parties.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+It is notoriously difficult to assess the intentions of the adversary (Jervis, 1976). Even if state A accurately
+evaluates the intentions of state B at one point in time, B might change its intentions in response to changes
+in its external or internal environments or even in its assessment of A’s intentions. In addition, it is difficult to
+evaluate the adversary’s capabilities, one’s own capabilities, and how the capabilities of two adversaries
+might interact on the battlefield. Assessing the likely actions (or non-actions) of third parties, including allies
+and other adversaries, further complicates the problem. Relevant information is rarely fully available. An
+important element of this stage of the decision-making process is an information search to gain as much
+information as possible to support an informed decision.
+We do not want to give the impression that this stage of a rational decision-making process requires a
+fully accurate assessment of the consequences of one’s actions. Such an assessment is not possible. Instead,
+rationality is defined more by process than by outcome. The question is whether an actor makes some
+attempt to incorporate uncertainty and strategic interaction into its calculations. Since the world is
+uncertain, actors should think probabilistically rather than deterministically. They should recognize the limits
+of their predictive powers and the fact that they can never be certain about the consequences of their
+actions, and they should attempt to attach very rough probability estimates to their assessment of what is
+likely to happen if they take various actions. Ideally, a rational assessment of the consequences of a
+particular policy should take the form of a probability distribution: policy x should lead to outcome y 1 with
+probability p1, outcome y2 with probability p2, and so on.
+
+One sign of a non-rational process is one in which an actor estimates with 100% certainty that action x will
+be followed by consequence y. Certainty rarely exists in international politics. History is littered with wars
+that started when one state was erroneously convinced that it could achieve a rapid military victory with
+limited costs, or that a hardline negotiating strategy would lead with certainty to the adversary’s capitulation.
+Once an actor has defined its goals, identified the possible strategies for advancing its goals, estimated
+the consequences of each of those strategies for each of its goals, it is ready to make a decision. This raises
+the question of what kind of decision-rule the actor will follow. This is a complicated issue, since there are
+several possible decision-rules, but most rational decision theorists posit a decision-rule based on some
+approximation of an expected utility calculation. What this means is that an actor identifies all of the possible
+consequences for each alternative or option, assesses the probability of occurrence of each of these
+outcomes, evaluates the “utility” (net benefits minus costs) of each possible outcome, weights the utility of
+each outcome by its probability of occurrence, and calculates the weighted sum, which is the expected utility
+of that particular strategy.8 The actor then selects the strategy that has the greatest expected utility.
+This description of a rational decision-making process overstates the orderliness or linearity of the
+process. Most decisions for war are the result of a series of decisions by each adversary, and the process is
+an iterative one. Decisions at each stage of the process are made after observing the consequences of
+earlier decisions and responses. Decision-makers should learn from these observations and incorporate
+information about the consequences of their earlier decisions as well as other more recent information into
+their judgments and calculations in the next stage of decision-making. Feedback from one decision should
+reveal information about adversary intentions (and perhaps the intentions of third states) and possibly
+about relative military capabilities as well. Thus an additional element of a rational decision-making process
+is learning. One of the non-rational aspects of the US war in Iraq beginning 2003 is that as American forces
+were engaging the Iraqi army with the immediate goal of overthrowing Saddam Hussein, US decision-makers
+failed to learn from early evidence that an anti -American insurgency was forming in Iraq (Gordon and
+Trainor, 2006; Ricks, 2006).
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+It is important to note that the concept of rationality can be applied both to individuals and to collective
+decision-units. The application of rationality to collective decision-units raises some complicated analytic
+issues that we can only mention briefly here. It assumes that the collectivity (a state, for example) can be
+treated as if it has a single set of goals or preferences, with priorities among those goals. It also assumes that
+there is a consensus within the state, or at least among state decision-makers, regarding the optimal means
+of achieving those goals. This assumption is met if there is unanimity within the collectivity (or at least within
+the decision-making elite) or if there is a single dominant leader who makes decisions on behalf of the
+state.9 If either of these criteria holds, we can talk about a rational and unitary actor model. Most realists
+and most other structural theorists make this assumption.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+In the last chapter, however, we came across a number of theories that assume the existence of multiple
+domestic actors, each with its own parochial interests rather than a fundamental agreement on the interests
+of the state. Coalitional models of decision-making (Snyder, 1991; Lobell, 2006; Narizny, 2007), for example,
+assume that foreign policy is the product of compromises and bargains among different economically based
+interest groups. Each of these groups acts rationally to advance its interests, but not necessarily those of the
+state. Such models are rational but not unitary.10 In the remainder of this chapter we examine non-rational
+models of individual decision-making, which can apply either to unitary or non -unitary models of the state.
+In the next chapter we focus on bureaucratic/ organizational models, which are non-unitary but sometimes
+rational.
+
+Psychological Models of International Conflict
+Theories at the individual level trace international conflict to the behavior of key individuals in important
+decision-making roles.11 These theories focus on the content of individuals’ belief systems about world
+politics, the psychological processes through which they acquire information and make decisions, and their
+personalities and emotional states. These factors often lead different individuals to have different
+conceptions of the foreign policy goals of the state, different images of the adversary, and different beliefs as
+to the optimum strategies to achieve their goals and meet those threats. These variations in beliefs across
+individuals arise from differences in political socialization, personality, education, formative experiences and
+the lessons people learn from historical experience, and a host of other variables. When individual beliefs
+vary, different decision-makers will respond differently under similar situations, and those differences may
+be significant enough to have a causal impact on state decisions for war or peace (Holsti, 1967; George,
+1969; Jervis, 1976; Lebow, 1981). As Hermann et al. (2001) emphasize, “who leads matters.”
+One important implication of most individual-level explanations is that if the individual in question had
+not been in power, the decision or outcome probably would have been different. The argument that Hitler
+was a primary cause of World War II implies that if Hitler had not been German chancellor, World War II
+would probably not have occurred. This is a “counterfactual” hypothesis. In an analysis of the impact of
+individual-level variables it is often useful to ask the counterfactual question of whether the outcome would
+have been different if another leader had been in power.12
+
+Individual-level variables fit within the subject matter of political psychology, which falls at the intersection
+of social psychology and political science.13 Social psychologists began analyzing the psychology of war and
+war prevention after World War I. Following Freud’s emphasis on aggressive instincts as the root cause of
+war (Einstein and Freud, 1932), a number of scholars applied psychoanalytic perspectives drawing on Freud
+to the study of aggression and war (Durbin and Bowlby, 1939).14 Psychoanalytic models are generally
+difficult to empirically test, however, and contemporary international relations theorists have moved away
+from psychoanalytic perspectives to theories that are more amenable to social scientific analysis
+(McDermott, 2004).15
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Each of the psychological models discussed below is very general, and should apply to political leaders in
+all types of political systems–great powers, small states, ethnic groups, rebel leaders, and terrorist groups.16
+While the psychological dynamics are similar, their causal impact, relative to that of other variables, may
+differ in different types of regimes, depending on the constraining effects of institutions and cultures. We
+might predict, for example, that individuals have a greater impact in dynastic or authoritarian regimes,
+particularly highly centralized (“personalist”) regimes and those characterized by a “cult of personality,” than
+in liberal democracies characterized by the rule of law.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Since many (but not all) individual-level variables impact decisions for war and peace through
+misperceptions of the external environment, we begin with an analysis of different kinds of misperceptions
+and the causal paths through which they can lead to war. We then turn to a discussion of the content of
+individual belief systems, and then to the cognitive and emotional factors that influence how individuals
+process information about external threats and opportunities. After examining prospect theory, which
+suggests that people are particularly sensitive to losses and that they are often willing to take extreme risks
+to avoid any losses, we then turn to the “poliheuristic” theory of decision-making and to theories of crisis
+decision-making.
+
+Paths from misperception to war
+
+The idea that wars are caused by misperceptions is very attractive in many ways, especially for those who
+believe that the human and economic costs of war far outweigh any benefits that war might bring to the
+states that initiate them.17 There are countless historical cases in which misperceptions are so blatant and
+so consequential that it is easy to conclude that war would not have occurred in their absence, so that
+misperceptions were a necessary cause of the war.18
+
+This argument about the importance of misperceptions is reinforced by the logic of the bargaining model
+of war. As we noted earlier, the model suggests that if actors are rational, and if adversaries have the same
+information about military capabilities, they will have similar assessments of the likely outcome of the war.
+Those shared expectations regarding the likely outcome of war will lead them to agree to a negotiated
+settlement commensurate with that outcome while avoiding the costs of fighting. If misperceptions lead
+states to have divergent expectations about the likely outcome of war, so that at least one side expects a
+better outcome from war than from peace, it may be very difficult for adversaries to reach a negotiated
+settlement that avoids war.19
+
+The analysis of the impact of misperceptions on war raises a number of difficult conceptual and
+methodological problems. It is extraordinarily dif-ficult, first of all, to define what a misperception is (Jervis,
+1976, 1988; Levy, 1983a). Is it the discrepancy between the way the world is perceived and the way it really is,
+and if so how do we know the latter? Moreover, if politics and war each involve an element of chance, at
+what point do we say that an erroneous judgment is a misperception? If you calculate that the odds of
+winning a war are 80 percent, and you initiate a war and lose, was the decision for war based on a
+misperception?
+There is also the question of how much causal weight to attribute to misperceptions. Even if
+misperceptions are seen as a necessary condition for a particular war (which implies that accurate
+perceptions would have led to peace), it is not clear how much causal weight to attribute to mis-perceptions
+themselves and how much weight to attribute to the structural conditions, internal pressures, cultural
+environment, and decision-maker beliefs that generated the misperceptions in the first place. This is the
+sense in which some suggest that misperception is a process rather than an incorrect perception (Jervis,
+1976: chap. 1). Still, it is useful to identify the various causal paths through which misperceptions might lead
+to war.
+Another complicating issue is the fact that misperceptions can contribute to peace as well as to war. For
+example, if a state decides to forgo a preventive war strategy because it erroneously believes that the
+adversary is already too strong, and if an accurate assessment would have led to such a war, then the
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+misperception causally contributed to peace.20 The fact that misperceptions can lead to war under some
+circumstances but lead to peace under other circumstances makes it imperative to identify different kinds of
+misperceptions and the distinct causal paths through which they affect decisions for war or peace.
+The most important forms of misperception are misperceptions of the capabilities and intentions of both
+adversaries and third parties (Levy, 1983a:282–93). Exaggeration of the hostility of the adversary’s intentions
+is a particularly common pattern in the processes leading to war. Under rare circumstances, the erroneous
+belief that the adversary is about to strike can induce an actor to launch a preemptive strike of its own in
+order to secure first-mover advantages. At an earlier stage of the path to war, an exaggeration of the
+hostility of adversary intentions can lead to a military build-up or alliance as a defensive precaution, which
+can then lead to arms races, counter-alliances, and a conflict spiral that contributes to war. Various phases
+of the Arab– Israeli conflict provide good examples here.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+If a state content with the status quo underestimates the adversary’s hostility, that state might refrain
+from demonstrating its resolve or from taking countermeasures that might head off an attack in the short
+term.21 In the long term, the underestimation of adversary hostility can reduce a state’s incentives to build
+up its military capabilities. In either case, the lack of response can undermine deterrence. Alternatively, the
+underestimation of the adversary’s resolve by an aggressive state may lead it to make more coercive military
+threats in the expectation that the adversary will back down, only to trigger a conflict spiral if the adversary is
+in fact resolved.
+A state’s misperceptions of its adversary’s intentions may derive from secondary misperceptions of the
+adversary’s value structure, its definition of its vital interests, its definition of the situation, its expectations
+about the future, and the domestic or bureaucratic constraints on its freedom of action. US misperceptions
+of Chinese intentions in the processes leading to the Sino–American phase of the Korean War resulted from
+the fact that US decision-makers failed to understand the threat that China perceived would arise if a USbacked regime were allowed to be established on Chinese borders (George and Smoke, 1974).
+Misperceptions of adversary capabilities are often critical. Here we mean the evaluation of the adversary’s
+capabilities relative to one’s own, which includes both assessments of adversary capabilities, one’s own
+capabilities, and how they are likely to interact. The underestimation of adversary capabilities generates
+military overconfidence and the common belief that a rapid military victory involving minimal costs is quite
+likely (Blainey, 1988; Johnson, 2004). This increases the probability of war, whereas an accurate assessment
+of a stronger adversary would have made war less likely.22
+
+States can also overestimate adversary capabilities, which can lead to an unnecessary military build up
+that triggers an arms race and conflict spiral, along with a greater danger of war. The overestimation of the
+military capabilities, or rate of growth in those capabilities, of a weaker but growing state can lead to a
+preventive war strategy to fight now rather than later, whereas an accurate assessment of adversary
+capabilities would probably have not led to war. Many Americans who supported a war against Iraq in 2003
+did so because of their fear of Iraq’s developing program of weapons of mass destruction, whereas an
+accurate assessment would have led them to oppose the war. Senator Hillary Clinton, for example, said on
+the Today show in 2006, “if we knew then what we know now … I certainly wouldn’ t have voted that way.” A
+state’s misperceptions of the intentions and capabilities of third states can have similar effects. The most
+common tendency is to exaggerate the likelihood that one’s potential friends will intervene on one’s behalf
+and the likelihood that one’s potential enemies will stay neutral, either of which increases military
+overconfidence. Military overconfidence is further reinforced by the exaggeration of the capabilities of one’s
+own potential allies and the underestimation of the capabilities of the adversary’s potential allies.
+A standard interpretation of World War I, for example, argues that German political leaders
+underestimated the likelihood that Britain would enter the war in defense of France in 1914, that German
+military leaders falsely believed that even if Britain entered the war it would be too late to make a difference,
+and that the war would probably not have occurred in the absence of these misperceptions (Fischer, 1988;
+Levy, 1990/91; Van Evera, 1999).23 There is evidence that Saddam Hussein did not believe that the United
+States would intervene after an Iraqi invasion of Kuwait in 1990, that he expected the diplomatic support of
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Arab states, and that he certainly did not expect Arab states to align with the United States (Freedman and
+Karsh, 1993). The implication is that in the absence of these misperceptions Saddam would not have invaded
+Kuwait.
+It is important to note that for the purposes of causal explanation it is not enough to demonstrate that
+leaders misperceive the capabilities or intentions of adversaries or third states. One must also demonstrate
+that these misperceptions have a causal impact on decisions for war. Misperceptions, even serious
+misperceptions, can occur, and war can follow, without those misperceptions playing a decisive causal role.
+Most scholars believe that British and French decision-makers seriously underestimated the hostility of
+German intentions under Hitler at the Munich conference in 1938. The argument that correct perceptions
+and a subsequent military build-up would have deterred war is probably incorrect, however, because there
+is substantial evidence to suggest that Hitler was bent on war in any case (Weinberg, 1994; Kershaw, 2000).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+In addition, misperceptions that frequently lead to war can occur, but their effects are often countered by
+those of other variables. US and Soviet leaders made many serious misperceptions during the 1962 Cuban
+missile crisis, for example, but the combination of nuclear weapons, the fear of escalation, and effective
+crisis management strategies enabled them to overcome those misperceptions and maintain the peace.
+Under different conditions those same misperceptions might have led to war.
+This raises a methodological problem in the study of misperception and war. If we only were to look at
+cases of wars and examine the role of misperceptions in the processes leading to war, we might conclude
+that misperceptions have an important causal impact on the processes leading to war. It is conceivable,
+however, that the same kinds of misperceptions are quite common in crises ending in peace. How do we
+assess their causal impact? We need to examine cases in which war does not occur as well as cases in which
+war occurs. If we were to find that misperceptions are as pronounced in non-war cases as they are in cases
+of wars, then we might have reasons for questioning the inference that misperceptions are an important
+causal variable contributing to war.24
+
+It is also important to distinguish perceptions and misperceptions from risk propensity. Perceptions of
+adversary and third state capabilities and intentions help to define threats, while risk propensity combines
+with the assessments of the values of outcomes to shape how actors respond to threats. Sometimes it is
+difficult to differentiate overconfidence as a factor contributing to the initiation of a war from a willingness to
+take risks. Most of the evidence suggests that Japan’s decision for war against the United States in 1941 was
+the result of a willingness to take extreme risks in a desperate situation rather than an exaggeration of
+Japanese military capabilities relative to those of the United States (Iriye, 1987; Taliaferro, 2004). As Japanese
+Prime Minister Hideki Tojo remarked a few weeks before the Japanese attack on Pearl Harbor, “There are
+times when we must have the courage to do extraordinary things–like jumping, with eyes closed, off the
+veranda of the Kiyomizu Temple” (quoted in Morgan, 1977:153).
+Other leaders are much more cautious. Attitudes towards risk-taking are often the product of individual
+personalities. Some cultures and some ideologies are more likely to generate risk-taking leaders, as are
+some types of political systems. The types of leaders that generally rise to the top of highly centralized
+authoritarian regimes (Saddam Hussein, for example) tend to be those who are willing to take risks, because
+if they did not take risks they probably would not have been able to reach the top position. In other regime
+types, especially democratic regimes, it is more cautious individuals who avoid alienating key constituencies
+that are the ones more likely to end up on top. Propensities toward taking risks are also a function of the
+situation, as suggested by prospect theory, which we discuss later in this chapter.25
+Now that we have seen how misperceptions lead to war, we now consider the belief systems and
+psychological processes that contribute to misperceptions and to other paths to war.
+
+Beliefs and images
+Individual political leaders vary widely in their personalities and belief systems, and those variations help to
+explain different perceptions of threats and opportunities in the international system. Beliefs are particularly
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+important because they have a significant impact on how an individual perceives and interprets information
+about the adversary and about the world more generally. As we note in a subsequent section, how an
+individual perceives threats in a particular situation is influenced as much or more by his/her prior beliefs
+about the adversary and about world politics in general as by the current details of a particular situation
+(Jervis, 1976).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+There is no consensus among scholars as to the most useful way to classify the wide variety of individual
+beliefs. One influential approach follows the work that originated in Leites’ (1951) concept of operational
+code, which he applied to the Bolshevik ideology of Soviet political leaders. George (1969) subsequently
+reformulated the operational code concept and grounded it in social–psychological theories of cognition. He
+argued that an individual’s beliefs about the political world are hierarchically organized around a small set of
+“master beliefs” that define the operational code. The operational code includes philosophical beliefs about
+the nature of politics and conflict and instrumental beliefs about the efficacy of alternative strategies for
+advancing one’s interests. The former include questions about the fundamental nature of politics and
+conflict, the extent to which political outcomes are predictable or subject to chance, and the ability of
+political leaders to influence the flow of events. Instrumental beliefs include ideas about optimal strategies
+for achieving political ends, issues of timing, and conceptions of risk.
+A number of scholars subsequently applied the operational code concept to a variety of political leaders,
+including US Secretary of State John Foster Dulles (Holsti, 1970), Henry Kissinger (Walker, 1977), George H.W.
+Bush and Bill Clinton (Walker, Schafer, and Young, 1999), and others.26 One particularly interesting
+application of the operational code concept for the study of war and peace is Rogers’ (1991) “crisis
+bargaining code” model, which further refined George’s (1969) typology. Rogers suggested that the three
+most important elements of an actor’s crisis bargaining code are his or her images of the adversary, crisis
+dynamics, and optimal bargaining strategies. Images of the adversary include beliefs about the adversary’s
+objectives, its decision-making style, and its bargaining strategy in a crisis. Images of crisis dynamics include
+beliefs about the processes leading to war. Are wars usually the result of the deliberate actions of states that
+prefer war to peace, or are they inadvertent, resulting from an unwanted and unexpected process of
+escalation? Images of optimal bargaining strategies include beliefs about the relative efficacy of coercive and
+more conciliatory bargaining strategies. These include beliefs about whether coercive threats induce
+compliance or whether they provoke counter-threats and escalation, and also beliefs about the proper
+timing and mix of coercive and accommodative strategies.
+Consider President Kennedy in the Cuban missile crisis. Kennedy’s aim was to induce Soviet Premier
+Khrushchev to withdraw the Soviet missiles from Cuba but to do so in a way that minimized the risk of war.
+Kennedy believed that the sequencing of coercive and conciliatory behavior was critical in achieving his
+objectives. While Kennedy was quite willing to be conciliatory toward Khrushchev, the president also
+believed that it was essential to begin with coercive threats and actions at the onset of the crisis, in order to
+demonstrate his own credibility and reverse any image of weakness in the mind of the adversary–images
+that Kennedy believed, correctly, that Khrushchev had taken away from their June 1991 summit meeting in
+Vienna. Kennedy feared that a purely diplomatic strategy without coercive threats would have been more
+likely to escalate to risky military action (George, 1994).
+The emphasis on images of the adversary can also be found in other lines of work that goes back to the
+1960s. Finlay, Holsti, and Fagan (1967) wrote Enemies in Politics and White (1968) emphasized the importance
+of both adversary images (the “diabolical enemy image”) and self-images, including the “virile self-image” and
+the “moral self-image.” Lebow (1981) also emphasized the importance of images of the adversary, images of
+oneself, and images of the adversary’s images of oneself. The latter is important in estimations of adversary
+intentions and of the consequences of one’s own actions. An example, noted above, is President Kennedy’s
+belief that Khrushchev perceived him as a weak leader. A different image of Khrushchev’s perception might
+have led Kennedy to adopt a different strategy.
+An individual’s prior beliefs about the adversary are important in part because they shape how an
+individual interprets the adversary’s current behavior and the possible threats the adversary poses to one’s
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+interests. We next turn to a more general discussion of factors affecting threat perception in the
+international system.
+
+The psychology of threat perception
+The perception and misperception of threat is shaped by causal variables at all levels of analysis.27 Systemlevel uncertainty leads even the most rational observers to make incorrect assessments about the
+capabilities and intentions of other states because they cannot distinguish meaningful “signals” from
+uninformative “noise” (Wohlstetter, 1962; Jervis, 1976).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+This problem is compounded if the adversary engages in “strategic deception” to conceal its intentions.
+Bureaucratic politics and organizational processes, which we discuss in the next chapter, play an important
+role in shaping what information gets processed and passed on to top decision -makers, and who gets to see
+that information. Societal cultures, ideologies, and religions introduce an additional level of conceptual
+filters. It is individuals in high-level decision-making groups whose judgments about threats and
+opportunities determine the actual decisions for war and peace, however, and we focus here on the
+individual psychology of threat perception.
+It is useful to distinguish two sets of biases or distortions–cognitive and motivated–that shape individuals’
+judgments about the world. Cognitive biases reflect the way the brain is “hard-wired” to process information
+quite independently of the impact of human emotions and motivations. Thus they are often referred to as
+“unmotivated” biases. The basic premise of the “cognitive” perspective is that the world is extraordinarily
+complex, incoherent, and changing, while people have limited information processing capabilities to
+comprehend that world. People try to act rationally, but they face many obstacles in approaching the idealtype rationality described earlier in this chapter. In order to make sense of a complex and uncertain world,
+people adopt a number of cognitive shortcuts or heuristics (which we illustrate below) that help to simplify
+that world and make it more understandable. Although the use of some kind of simplifying heuristics is
+necessary to make sense of the external world, these heuristics can generate some important cognitive
+distortions (Tversky and Kahneman, 1974; Nisbett and Ross, 1980).
+In contrast to cognitive biases, motivated biases derive from the emotional side of human beings, from
+their psychological needs, fears, guilt, and desires (Janis and Mann, 1977). People do not face up to
+information that makes them feel emotionally uncomfortable or that runs contrary to their goals, a pattern
+that some label “defensive avoidance.” Their beliefs about the world are often convenient rationalizations for
+their underlying political interests or unacknowledged emotional needs, and for the policies that serve those
+interests and needs (Jervis, 1985; Lebow, 1981). These “motivated biases” are most likely to manifest
+themselves in decisions involving high stakes and important value tradeoffs. The stress inherent in these
+decisions often leads decision-makers to deny those threats and to deny the need to make tradeoffs
+between values (Holsti and George, 1975).28
+
+It is important to note that each set of biases can lead either to the over-estimation or the
+underestimation of threat, depending on circumstances. Much of the literature suggests that political
+leaders have a bias toward the overestimation of external threats, which increases the likelihood of conflict
+spirals and escalating conflict. Many similar psychological processes can, under some conditions, also lead to
+the underestimation of external threats, to erroneous beliefs that the adversary’s intentions are benign
+(Johnson and Tierney, 2007). As we noted earlier, this can leave decision-makers insensitive to signals of an
+impending military attack.
+There is also some evidence that different conditions can trigger different psychological processes, so that
+some conditions are conducive to overconfidence while other conditions are conducive to underconfidence.
+Some hypothesize that when events are uncertain and when conflict is still avoidable, people have a
+tendency to adopt a more deliberative mindset and carefully weigh costs and benefits. When conflict is
+perceived as inevitable and imminent, however, people have a tendency to switch to a different mindset,
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+one that triggers several psychological biases that increase over-confidence (Johnson and Tierney, 2009;
+Heckhausen and Gollwitzer, 1987). This is an intriguing idea and needs further exploration.
+We begin our discussion of the individual sources of misperception with unmotivated biases, which until
+recently have received most of the attention in the literature since the “cognitive revolution” in social
+psychology in the 1970s (Larson, 1985). One of the most important unmotivated biases involves the
+influence of an individual’s prior beliefs on the ways in which s/he perceives and interprets information. The
+main hypothesis is that people have a strong tendency to see what they expect to see based on their prior
+beliefs. They tend to be more receptive to information that is consistent with their beliefs than to
+information that contradicts their beliefs. Thus there is a tendency toward selective attention to information.
+Another way of saying this is that information processing tends to be more theory driven than data driven
+(Jervis, 1976).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+One consequence of the selective attention to information is a tendency toward premature cognitive
+closure. Instead of engaging in a complete search for information relevant to the problem at hand, there is a
+tendency to end the search for information after one’s pre-existing views gain adequate support (Jervis
+1976). These tendencies lead to the perseverance of beliefs beyond the point that the evidence warrants
+(George, 1980). These tendencies clearly violate the elements of a rational decision-making process
+articulated earlier.
+One good illustration of the potentially paralyzing role of preexisting beliefs comes from the Israeli
+intelligence failure leading to the 1973 Arab–Israeli War. Israeli intelligence officers and governmental
+officials developed a set of conceptual guidelines to help them understand when they might anticipate a
+possible Arab military attack. These guidelines, known as the “Conception,” specified that Egypt would not
+attack unless the Egyptian air force gained control of the air so that it could strike deeply into Israel, and
+against Israeli airfields in particular. Israel also assumed that Syria would only attack in conjunction with
+Egypt. There was substantial evidence of Egyptian military activity in the period leading up to the war, but
+Israeli intelligence discounted this information and interpreted Egyptian activity as routine military
+maneuvers, in part because Israeli intelligence did not believe that Egypt had the capability for a major
+military crossing of the Suez Canal. A standard interpretation of the Israeli intelligence failure is that the
+cognitive mindset formed by the “Conception” played a substantial role in shaping the perception of new
+information in a way that fit those preexisting beliefs, limiting Israeli intelligence analysts from thinking
+“outside the box” (Agranat Commission, 1974; Shlaim, 1976).
+Analysts make a similar argument with regard to the American intelligence failure surrounding September
+11. Although analysts attribute the failure to anticipate the 9/11 terrorist attacks to a wide range of factors,
+including institutional factors such as poor coordination between different intelligence agencies, many
+analysts argue that it was first and foremost a conceptual failure, one that derived from the intellectually
+constricting effects of existing mindsets. In the words of the National Commission on Terrorist Attacks Upon
+the United States (2004), “The most important failure was one of imagination.”29
+
+Some kinds of beliefs are particularly resistant to disconfirmation by new information. A good example is
+the dual belief that the adversary is fundamentally hostile yet at the same time responsive to external
+threats and opportunities. Consider the “inherent bad faith model” of the adversary (Holsti, 1970). This refers
+to situations in which people perceive aggressive actions by the adversary as reflecting the adversary’s
+innate hostility, while perceiving conciliatory actions as reflecting the adversary’s response to one’s own
+resolute actions or perhaps strategic deception to induce complacency. Such beliefs are strongly resistant to
+change, because no matter what the adversary does its behavior reinforces one’s mental model of the
+adversary. This can lead decision-makers to misinterpret conciliatory behavior by the adversary and
+consequently to miss good opportunities for conflict resolution (Tetlock, 1998).
+One explanation for the tendency to perceive apparently hostile actions by the adversary as reflecting its
+underlying hostile intentions is provided by the fundamental attribution theorem, a theory in social
+psychology that has received substantial support from the experimental evidence (Nisbett and Ross, 1980).
+The theory relates to the way people explain the behavior of others. Individuals have a tendency to interpret
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+others’ behavior, particularly behavior that they regard as undesirable, as reflecting dispositional factors
+rather than situational factors. If the adversary adopts hardline security policies, we tend to attribute those
+policies to the adversary’s hostile intentions or evil character, not to a threatening environment (including
+our own actions) that might have induced such policies. One implication is that actors tend to underestimate
+the effects of the security dilemma. They minimize the extent to which apparently hostile behavior by the
+adversary might reflect a defensive reaction to the actor’s own actions that the adversary perceives as
+threatening.30
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+This tendency to overestimate the adversary’s hostility by attributing its behavior to its evil intentions
+rather than to a threatening environment is compounded by actors’ tendencies to explain their own
+behavior in terms of situational factors rather than dispositional factors, which is the “actor–observer
+discrepancy” (Nisbett and Ross, 1980). While we attribute the adversary’s hardline strategies to his hostile
+intentions, we attribute our own hardline strategies to external threats and to the need to defend ourselves.
+Moreover, since we believe that our own actions are defensively motivated, and since we assume that the
+adversary understands that, we interpret the adversary’s hostile behavior as evidence that it must be hostile.
+This leads to mutually reinforcing negative feedback and often to an escalating conflict spiral.
+One important consequence of the fundamental attribution error is the tendency to perceive the
+adversary’s regime as more centralized than it actually is, to underestimate the impact of domestic political
+and bureaucratic constraints on adversary leaders, and consequently to attribute too much intent to the
+adversary’s actions (Jervis, 1976). A state may take an uncompromising position in order to pacify a domestic
+constituency, but its adversary tends to infer that the behavior reflects hostile intentions. Bureaucratic
+pressures may force a state to increase military spending, but the adversary tends to interpret the increased
+spending as part of a more coherent and hostile foreign policy on the adversary’s part. This exaggeration of
+the hostility of adversary intentions can also contribute to a conflict spiral.31
+
+This set of judgments and responses was quite evident for both the United States and the Soviet Union
+during the Cold War. Soviet officials attributed high levels of US defense spending to American ideological
+hostility to the Soviet Union (and to the capitalist foundations of that hostility), and US officials emphasized
+the role of communist ideology underlying Soviet behavior. Each downplayed the effects of its own actions
+and other external pressures on the actions of the other (Garthoff, 1985:903–7; Lebow and Stein, 1995).
+These processes are often reinforced by a lack of empathy, or an inability to understand others’
+worldviews, definitions of their interests, threats to those interests, and possible strategies for neutralizing
+those threats (J. Stein, 1993:371). If opposing leaders have different worldviews, ideologies, cultures, or
+religions, they often interpret the same information differently, which increases the likelihood that a signal
+sent by one actor will be misinterpreted by the other. One important contributing cause of the escalation of
+the Korean War to a Sino–American war in 1950 was the failure of the United States to understand how
+threatening a US-backed capitalist regime in North Korea would be to the communist system in China.
+Ideological differences can contribute to misperceptions in other ways. Churchill warned Stalin in 1941
+that Hitler was shifting his armies from the West to the East, but Stalin discounted the information in part
+because Churchill’s liberal capitalist worldview meant that he could not be trusted. This contributed to the
+Soviet intelligence failure and lack of preparation for the German attack in June 1941. The larger point,
+however, is that Stalin was not expecting a German attack, at least not at that time, and was unreceptive to
+information that suggested that he might be wrong (Whaley, 1973; Bar-Joseph and Levy, 2009).
+This is not to say that people never change their beliefs. Belief change is more likely if information
+inconsistent with existing beliefs is particularly powerful and salient, if that information arrives all at once
+rather than incrementally over time, if the nature of information is such that there are objective standards
+for assessing the accuracy of beliefs or the success or failure of existing policy, and if individuals are selfcritical in their intellectual styles or organizational cultures (Jervis, 1976; George, 1980; Tetlock, 1998). Some
+beliefs, however, are more likely to change than others.
+Psychologists have found that belief systems are organized hierarchically, with fundamental assumptions
+and policy objectives at the highest level, strategic policy beliefs and preferences at an intermediate level,
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+and tactical beliefs at the bottom. If incoming information is strongly and consistently at odds with preexisting belief systems, so that it can no longer be ignored, people first change their tactical beliefs about the
+best means to particular ends. If that fails to bring their beliefs into consistency with the accumulation of
+new information, they then change their strategic assumptions and orientation. It is only after repeated
+strategic failures that people reconsider their basic goals or objectives. Change in fundamental beliefs is
+often so psychologically difficult that it is likely to occur only in conjunction with a major political change that
+brings people to power that are not psychologically or politically committed to the old beliefs (Tetlock,
+1991:27–31).
+
+learning.32
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+The perseverance of beliefs means that actors are slow to learn, slower than a rational model of learning
+would predict. If an actor is uncertain about adversary intentions, but believes with a given probability that
+the adversary has hostile intentions, then any new information about the adversary should lead the actor to
+“update” his probability assessment (toward a higher probability of hostile intentions if the adversary’s
+actions are hostile, or toward a lower probability if the adversary’s actions are conciliatory). Rational models
+of learning specify exactly how one’s prior probability assessment (or “priors”) should be combined with new
+information in a particular situation. These models are based on the logic originally suggested in the
+eighteenth century by the statistician Thomas Bayes. Bayesian updating is the standard approach to rational
+There is substantial evidence, however, that people often depart from rational Bayesian updating. The
+typical pattern is to give disproportionate weight to prior beliefs relative to new information, relative to the
+normative Bayesian standard. Prior beliefs serve as an “anchor,” and people are slow to adjust to new
+information. This is one of the many cognitive shortcuts or heuristics that people use to make sense of a
+complex and uncertain world, and it is sometimes referred to the anchoring and adjustment heuristic
+(Tversky and Kahneman, 1974; Kahneman, Slovic, and Tversky, 1982).
+One important source of prior beliefs is the “lessons of the past” that individuals extract from history
+(May, 1973). Historical events are often used as analogies to help understand the current situation and
+provide guidelines as to what strategies might or might not work. This analogical reasoning is another form of
+heuristic or cognitive shortcut that individuals unconsciously use to make sense of a complex world.
+Analogical reasoning is often explained in terms of the availability heuristic. Whereas judgments of
+probability should be shaped by the relative frequency of occurrence of similar events, the availability
+heuristic suggests that judgments of probability are disproportionately influenced by events that are familiar
+and salient, because these are the events that easily come to mind. Most people are more fearful of dying in
+an airplane crash than in a car crash, even though statistics show that the latter is more likely. Pictures of
+airplane crashes in the newspapers or on television produce such an emotional reaction that they carry
+more weight than warranted by the true probabilities (Tversky and Kahneman, 1974).33
+It is often said, for example, that generals are always fighting the last war, and that political leaders are
+always trying to avoid the mistakes of the past. One of the most influential analogies for the last half century
+of international relations was the “Munich analogy,” referring to appeasement of Hitler at the 1938 Munich
+conference. It is associated with the perceived lesson that appeasement never works. The Munich analogy
+had a profound effect on American decision-making in the Korean War, the Vietnam War, and the 1990–91
+Persian Gulf War (May, 1973; Khong 1992).34
+The “Vietnam analogy,” which many interpret to suggest that any US intervention involves a strong risk of
+ending up in a quagmire, itself had a significant impact on American foreign policy for decades.35 The
+lessons of 9/11, as interpreted by the George W. Bush administration, overwhelmed the lessons of Vietnam,
+in part because of the analogy between Hitler and Saddam Hussein, which undoubtedly contributed to the
+2003 American war in Iraq.
+There are countless historical analogies from which individuals might learn. Evidence suggests, however,
+that there is a tendency to learn from events that have a major impact, affect the individual or her society
+directly, occur recently in time, and that are observed first-hand and at a formative period in a person’s life
+(Jervis, 1976).36 This can lead to generational effects, with successive generations, perhaps characterized by
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+different ideological or cultural assumptions, looking back to different historical analogies and thus being
+influenced by different and perhaps contradictory lessons (Roskin, 2002; Jervis, 1976: chap. 3).37 President
+George H.W. Bush and his advisors were significantly influenced by the Munich analogy, while Bill Clinton
+and his advisors were influenced more by analogies from Vietnam. The current generation is more likely to
+be influenced by whatever lessons are learned from 9/11 and the 2003 Iraq war, although the precise
+interpretation of the “lessons of Iraq” will be shaped by how the Iraqi political system evolves.
+The personal experiences of decision-makers also provide a crucial source of analogies from which to
+draw. During the build-up to the 1991 Gulf War, President Bush and National Security Advisor Brent
+Scowcroft, each of whom had personal experience in the military as aviation officers, were ardent
+supporters of air strikes against Iraq. Generals Colin Powell and Norman Schwartzkopf, each of whose
+careers had been made in the US Army, were less sanguine about the potential of air strikes for degrading
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Iraq’s then-vaunted military machine (Mintz, 1993:612).38
+
+It is important to distinguish two distinct causal paths involving lessons from history and policy
+preferences. In one, the actor genuinely believes the lessons s/he draws from the past, and in the other the
+actor deliberately selects the analogies that support his/her policy preferences in order to help persuade
+others and advance his/her policy preferences (Jervis, 1976; Levy, 1994). In the first, historical lessons have a
+causal influence on policy preferences, while in the second the causal arrows are reversed, and policy
+preferences influence the lessons that are extracted from the past. This is the strategic or rhetorical use of
+history.
+Although it is plausible to argue that US presidents have genuinely learned from the experience of
+Munich, it is also plausible that some US presidents have invoked the Munich analogy in order to enhance
+perceptions of external threats and give them more leverage in internal political debates. It is not an
+accident that Republicans and Democrats drew different lessons from Vietnam, which resulted in
+contradictory “lessons of Vietnam” being used in debates about whether the US should intervene in conflicts
+abroad. If the strategic or rhetorical use of history helps a leader to persuade others to support his/her
+policies, then it can still have a causal impact–but an indirect one–on decisions for war.
+Both genuine learning from history and the rhetorical use of history can lead to distorted judgments and
+misperceptions. The problem is that the historical events from which people learn do not constitute a
+scientific sample for the purpose of drawing inferences, but a biased sample. In addition, as Jervis (1976:228)
+argues “People pay more attention to what has happened than to why it has happened. Thus learning is
+superficial, overgeneralized.”
+In other words, people look at a historical case and draw universal lessons about behavior while ignoring
+the contextual factors that helped to shape the historical outcome. Political leaders do not have good
+theories to help them predict the likely consequences of various actions (when is the use of force effective
+and when is it ineffective, for example), and they use the lessons of the past as cognitive shortcuts to make
+such causal judgments. But reasoning by analogy from the past is an inferior substitute for a good theory,
+and the use of misleading analogies can contribute to the processes leading to wars in situations where a
+more accurate assessment would have maintained the peace. The fact that a policy of appeasement failed
+against Hitler’s Nazi Germany does not necessarily mean that a policy of appeasement will never work
+against any regime under any circumstances.
+The preceding discussion has focused on cognitive biases, which are not motivated by one’s interests or
+desires but which result from the use of cognitive shortcuts in an attempt to make a complex and
+ambiguous world more comprehensible. We now turn to motivated biases, which result from people’s
+unconscious needs to maintain their own emotional well-being and to advance their interests. People are
+unconsciously motivated to distort information in a way that minimizes internal psychological conflict.
+Whereas unmotivated biases generate perceptions based on expectations, motivated biases generate
+perceptions based on needs or desires (Janis and Mann, 1977; Lebow, 1981). Cognitive biases lead to a
+tendency for people to see what they expect to see (based on their beliefs), while motivated biases lead
+people to see what they want to see (to avoid emotional stress or to advance their interests). This is wishful
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+thinking. The tendency toward wishful thinking is exacerbated if decision-makers have an “illusion of control”
+(Langer, 1975) and exaggerate the degree of influence they have over the course of events.
+Recall that in order to make a rational calculation of the optimal strategy for achieving one’s ends, actors’
+assessments of the probability of an outcome must be independent of the utility of that outcome. The
+presence of motivated biases and wishful thinking violate that requirement, since people allow their
+assessment of the value of various outcomes to influence the perceived likelihood of those outcomes.
+Desirable outcomes are often seen as more likely to occur while undesirable outcomes are often seen as
+less likely. If the success of a particular strategy is seen as necessary for highly valued goals to be attained,
+wishful thinking can lead to an exaggeration of the probability of success of that strategy. The unconscious
+motivation is to reduce cognitive dissonance, which arises if an individual holds contradictory beliefs.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+In his study of offensive military doctrines in World War I, for example, Snyder (1984) found a tendency for
+military organizations “to see the necessary as possible” and to inflate their estimates of the likely success of
+their war plans. In 1914 German leaders believed that they could only win a short war, not a long war, and
+their motivated biases led them to believe that the war would probably be short.39 They had only one war
+plan, the Schlieffen Plan, and they unconsciously inflated the likely success of that war plan.40
+The motivated bias hypothesis implies that actors with similar policy preferences should have similar
+motivated biases and thus similar biases in probability assessments. This provides one possible way for
+testing for the presence of these biases. We can conduct a comparative study of different actors to see if
+policy preferences and biases in probability assessments are correlated. This is sometimes referred to as the
+“third party criterion” (Lebow, 1981).41 It is often argued, for example, that Germany’s exaggerated
+confidence that Britain would not intervene in a European war in 1914 was due to German motivated biases:
+German leaders’ hopes that Britain would not intervene led them to expect that Britain would not intervene.
+As a general explanation, the motivated bias interpretation of German misperceptions is weakened by the
+fact that French and Russian leaders, who were allied with Britain, who therefore hoped that Britain would
+intervene in the war, and who therefore (according to the motivated bias hypothesis) should have expected
+British intervention against Germany, were also highly uncertain about how Britain would respond (Albertini,
+[1942]1957).
+An alternative interpretation of German behavior in 1914 is that German leaders believed that their
+dominant position in Europe was deteriorating rapidly enough that it was reasonable to gamble on going to
+war to avert that decline. This raises the issue of risk propensity. As we noted earlier, some political leaders
+are willing to take greater risks than are others. Hitler, against the advice of his military, who believed that
+Germany was unprepared for war during the mid-1930s, took enormous risks in challenging France and
+Britain through his aggressive foreign policies. Hitler was repeatedly vindicated by events, and his successes
+silenced his internal critics and reinforced his hold on power. Saddam took great risks in defying the United
+States in the two Persian Gulf wars, rather than playing it safe and backing off when confronted by American
+military threats.
+Despite the importance of the risk propensities of political leaders in foreign policy behavior, international
+relations scholars have done relatively little theorizing about this subject (but see Kowert and Hermann,
+1997).42 Most simply acknowledge that some personalities are more willing than others to take risks. But
+other factors besides personality might affect a leader’s willingness to take risks. Some cultures and some
+ideologies may encourage more risk taking than others. In addition, a substantial amount of work in social
+psychology suggests that certain situations (rather than certain individuals) are more likely to generate to
+risk-taking strategies than others. One line of research on this question is associated with “prospect theory”
+(Kahneman and Tversky, 1979), to which we now turn. We first describe the theory, and then consider some
+of its implications for international relations.
+
+Prospect theory and risk propensity
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Whereas standard economic theory suggests that value is measured in terms of net levels of wealth,
+prospect theory suggests that people are more sensitive to changes in wealth.43 This leads them to define
+choice problems around a reference point. In their calculations, people give more weight to losses from that
+reference point than to comparable gains, which is known as loss aversion. Loss aversion leads people to
+value things in their possession more than comparable things not in their possession, which is the
+endowment effect and which makes actual losses hurt more than forgone gains (Kahneman and Tversky,
+1979).44
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+This overweighting of losses helps to generate a tendency for people to engage in risk-averse (cautious)
+behavior with respect to gains and risk -acceptant (gambling) behavior with respect to losses. That is, given a
+choice between a certain gain and a gamble that might lead to either a greater gain or a lesser gain, people
+tend to be cautious (or at least more cautious than a rational expected-value calculation would predict) and
+lock in the certain gain. If, however, they are faced with a choice between a certain loss and a gamble that
+might lead to a greater loss or a lesser loss, they tend to take risks in an attempt to avoid the certain loss.
+People are so eager to avoid certain losses, or “dead losses,” that they take enormous risks that often result
+in even greater losses, even though the expected value of the gamble may be considerably worse than the
+value of the certain loss.
+For example, given a choice between $40 for certain or a gamble that might yield either $100 or $0,
+people generally prefer the risk-averse strategy of taking the sure bet of $40, even though the expected
+value of the gamble is greater. (The expected value, which reflects risk neutrality, is the sum of the possible
+outcomes weighted by their respective probabilities, or $50.) If the choice is between a certain loss of $40
+and a gamble that might yield either a loss of $100 or $0, most people will take the gamble, even though the
+expected value of the gamble (– $50) is worse than the loss of $40.
+Since gains and losses are measured with respect to deviations from a reference point, how people
+identify their reference points is critical. A change in reference point can lead to a change in preference
+(called a “preference reversal”) even if the values and probabilities associated with possible outcomes
+remain unchanged. If people face decisions about selecting a medical treatment, for example, they are likely
+to respond differently if they are told they have a 90% chance of survival than if they are told that they have
+a 10% chance of death, although the two are mathematically equivalent. The difference lies in the reference
+point. A survival rate sounds like gains, which induces cautious behavior, whereas a mortality rate sounds
+like losses, which leads to a greater willingness to take risks on a treatment.
+The identification of the reference point is known as framing a choice problem. In social psychology, most
+experimental work on the identification of the reference point focuses on the effects of framing on the
+choices people make rather than on the sources of framing. There has been relatively little research on the
+critical question of why individuals select one reference point rather than another. This is also true of most
+applications of prospect theory to international relations.
+The most common reference point for most people in most situations, however, is the status quo. With a
+status quo reference point, people hesitate to take risks (or at least less inclined than a rational expectedvalue calculation would predict) to improve on the status quo, given risk aversion for gains with respect to
+their reference point. As a result, there is a status quo bias. If faced with possible losses from the status quo,
+however, individuals will prefer to gamble on risky strategies that might eliminate the loss and maintain the
+status quo rather than adopt a strategy that is certain to lead to that negative outcome. Given the
+opportunity to flip a coin for a 50 percent chance of winning $100 and a 50 percent chance of losing $100,
+most people will decline that opportunity and instead stay where they are.
+People do not always choose the status quo as their reference point. They are sometimes influenced by
+expectation levels, aspiration levels, and social comparisons to select a different reference point. People
+tend to re-set or “renormalize” their reference points after making gains faster than they do after incurring
+losses (Kahneman, Knetsch, and Thaler, 1990:1342; Jervis, 1992). This implies that people tend to be prone to
+taking risks after suffering losses, with the aim of recovering those losses. A gambler, after suffering a string
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+of losses, often ups the ante in an attempt to eliminate those losses. A basketball player is more likely to
+commit a foul after making a bad play than at other times.
+Prospect theory has a number of implications for decisions for war and peace in international relations.45
+Given the overweighting of losses relative to gains and the tendencies toward risk aversion in decisions
+involving possible gains and risk acceptance in decisions involving possible losses, political leaders have a
+tendency to take more risks to maintain their international positions, reputations, and domestic political
+support against potential losses than they do to enhance their positions. They are more likely to fight in
+order to avoid losses than to make gains.46 This helps to reinforce the argument that wars are driven more
+by fear than by ambition. Similarly, domestic publics punish their leaders more for incurring losses than for
+the failure to make gains (Nincic, 1997).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+The tendency to avoid taking risks to improve the status quo in one’s favor leads to a status quo bias in
+international relations, paralleling the general theoretical tendency described above. As Schweller
+(1996:99,106) argues (without referencing prospect theory), “states value what they possess more than what
+they covet” and “rational states do not seek relative gains so much as avoid relative losses.” These are the
+implicit assumptions underlying defensive realism, which we discussed in chapter 2. Given the status quo
+bias, it is harder for conflict spirals to get started, which provides greater security for states.47
+Standard rational economic models tell people to ignore the past, look forward rather than backward, and
+make decisions on the margin. This means that they should ignore past losses, or sunk costs. Prospect theory
+makes different predictions. Given the tendency to adjust to gains far more rapidly than to losses, sunk costs
+frequently influence decision-makers’ calculations and state behavior. The losses from sunk costs persist,
+and they induce reference points above (superior to) the current status quo. Consequently, there is a
+tendency toward risk-seeking behavior to recover losses rather than to attempts to “cut one’s losses.” As a
+result, political leaders often continue to pursue costly interventions and wars, even in strategically
+unimportant areas, rather than risk the state’s loss of power and prestige or their own loss of domestic
+support. This is one possible explanation for why states persist in costly interventions, as illustrated by the
+United States in Vietnam in the 1960s and 1970s and by the Soviet Union in Afghanistan in the 1980s
+(Taliaferro, 2004).
+This discussion has important implications for our previous discussion of a psychological bias toward the
+status quo. This bias holds only if actors identify the status quo as their reference point. If an actor’s
+reference point is a situation preferred to the status quo, so that the status quo is defined as a loss, then
+there is a bias away from the status quo and toward the reference point. Actors will prefer to gamble rather
+than accept the certainty of remaining at an unsatisfactory status quo. This might help to explain Japanese
+behavior in 1941. While many describe Japan’s attack against the much stronger United States at Pearl
+Harbor as irrational, prospect theory offers a different explanation. Japan was clearly dissatisfied with the
+status quo and feared that the situation would only get worse. Faced with a certain loss, Japan preferred to
+gamble on war, in the hope of overturning an unsatisfactory status quo but recognizing that if the gamble
+failed the resulting situation would be even worse (Taliaferro, 2004).
+Prospect theory has important implications for the strategic interaction of two states as well as for the
+decisions of individual states. Since those who make gains readjust their reference points and adopt risky
+strategies to defend those gains, and since those who suffer losses do not adjust their reference points but
+instead take risky actions to recover their losses, after a change in the status quo both sides engage in more
+risk-seeking behavior than standard rationalist expected-utility theories predict. This increases the likelihood
+of a conflict spiral and war. Israel is willing to take substantial risks to defend the territory it acquired in the
+1967 war against possible losses, while Palestinians are willing to take substantial risks to recover the
+territory they lost.
+Another prediction involves the consequences of coercive behavior under different circumstances.
+Schelling (1966: chap. 2) argued that deterrence is easier than compellence, in the sense that it is easier to
+deter someone from doing something than to compel them to undo something they have already done or
+stop what they are currently doing. Prospect theory offers a useful explanation and a modification. The
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+reason why deterrence is easier than compellence is that deterrence involves denying the adversary gains
+while compellence involves forcing the adversary to accept losses by undoing past actions or stopping
+current actions. As a result, the adversary will take greater risks to avoid losses that it will to make gains.
+This is only true, however, if the adversary defines its reference point as the status quo. If the adversary
+defines its reference point as a position superior to the status quo (control of territory that it had lost, for
+example), however, and consequently regards the present status quo as unsatisfactory, then deterrence that
+requires inaction involves imposing losses on the adversary rather than denying it gains. As a result, the
+adversary will be willing to take substantial risks to recover its losses, and deterrence is less likely to work.
+Thus Schelling’s original hypothesis needs to be modified to incorporate the target’s reference point.
+Coercive behavior that would deny the adversary gains (from its reference point) is more likely to succeed
+than coercive behavior that would force it to accept losses.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Expected utility theory and prospect theory are each compensatory theories of decision-making. Actors
+usually have multiple goals, and they must make tradeoffs across these goals. Political leaders make
+tradeoffs between increasing their security and promoting their ideological values, and between foreign
+policy goals and domestic goals. Achieving more of one goal can compensate for achieving less of another
+goal, though sometimes it takes a lot more of one to compensate for the loss of the other.48 Sometimes,
+however, a single goal is so important that an actor refuses to make tradeoffs between that goal and other
+goals. Psychologists refer to this as non-compensatory decision-making. The most prominent theory of
+foreign policy decision-making based on non-compensatory decision-making is poliheuristic theory.
+
+The Poliheuristic Theory of Decision-Making
+Poliheuristic theory was developed by Mintz (1993) and Mintz and Geva (1997).49 Consider a decision by the
+leader of country X to respond to a provocation by country Y. The leader of X has several policy alternatives
+or strategies to consider, including taking no action, responding with economic sanctions, withdrawing
+diplomatic relations, or authorizing a range of military responses. Each of these alternatives has
+consequences along several dimensions–military, economic, domestic political, reputational, etc.–reflecting
+the leader’s multiple values or goals. It is conceivable that if one dimension or value is important enough, the
+leader might not give serious consideration to any strategy that might result in an unsatisfactory outcome
+for that dimension. If, for example, a leader is in a politically tenuous position at home and expects that a
+do-nothing strategy would likely come with a high political cost, s/he might eliminate that alternative
+outright, without even exploring the military, economic, or reputational dimensions of that alternative.
+This decision-rule is non-compensatory, in that no other dimension of the do-nothing strategy can
+compensate the leader for the domestic political cost of that strategic option.50 In poliheuristic theory, after
+an actor eliminates all strategies that might lead to unacceptable domestic costs, s/he adopts a rational,
+compensatory evaluation of the remaining strategic options. S/he then selects that alternative that yields the
+highest overall expected utility. This is a two-stage model. The first involves a non-compensatory elimination
+of unacceptable alternatives, and the second involves a rational expected utility calculation among
+remaining alternatives.
+Mintz and his colleagues have utilized a computerized “decision-board” methodology to conduct a
+number of laboratory experiments of poliheuristic theory.51 One such study discovered that, in a
+hypothetical military crisis, subjects in the control group were generally disposed towards the use of military
+force. This disposition did not hold in the experimental group, however, once a political dimension was
+added to each alternative. In the latter group, subjects tended instead to choose sanctions (Christensen and
+Redd, 2004). Mintz and his colleagues have also used historical case studies to explore the theoretical utility
+of poliheuristic theory in explaining US behavior in the Iran Hostage Crisis (Brul é, 2005), the Persian Gulf
+War of 1990–91 (Mintz, 1993), and the US war against Serbia in 1999 (Redd, 2005).
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Poliheuristic theory is an interesting addition to the set of alternative models of decision-making, one that
+has important implications for the study of decisions involving war and peace. It presents an alternative to
+standard rational models of decision-making. The two-stage character of the model, which incorporates a
+non-compensatory decision-rule and an extreme form of loss aversion in the first stage and a compensatory
+expected -utility decision-rule in the second stage, is quite intriguing. It is particularly well suited to types of
+situations in which a particular value or dimension cannot be compromised, whether it be the domestic
+political security of a political leader or the national security of the country.
+
+Crisis Decision-Making
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+The impact of the processes of judgment and decision-making surveyed in the preceding sections may vary
+depending on the nature of the regime, the institutional structure of the state, and the nature of the
+decision unit.52 It may also vary with the type of issue involved. International relations theorists have
+devoted a considerable amount of time studying crisis decision -making, especially after the experience of
+the Cuban missile crisis in 1962. They have concluded that many aspects of decision-making in crises
+systematically differ from those in more routine decision contexts. Differences exist at the individual,
+organizational, and small-group levels of decision -making. The impact of crises on the organizational level
+generally parallels their impact on the individual level, and to avoid repetition we include both in this section.
+We leave our discussion of the small-group level of decision -making until after our survey of theories of
+organizational decision-making in chapter 6.53
+
+We follow the scholarly consensus and define crisis as a situation that is characterized by a severe threat
+to important values, a high probability of war, and a finite time for coping with the threat (Brecher, 1980:1–6;
+Lebow, 1981:7–12).54 Most of the literature on crisis decision-making focuses on the characteristics of
+decision-making during crises and how they differ from non-crisis contexts, and we share that orientation. A
+central assumption of most of the work on crisis decision-making is that there is a correlation between
+process and outcome: a flawed decision-making process increases the likelihood of lower-quality decisions.
+Good processes occasionally lead to bad outcomes, and flawed processes occasionally lead to good
+outcomes, but on average good processes are more likely to lead to good outcomes.
+At the individual level, crises lead to an overload of information, an overload of tasks to be accomplished,
+and a restricted time frame for making decisions. Each of these characteristics increases stress. The most
+general finding from laboratory studies of the effects of stress is that most people perform a wide range of
+cognitive tasks at a suboptimal level under conditions of high stress. Some stress provides useful motivation,
+however, and the evidence shows that performance is most efficient at moderate levels of stress and
+somewhat poorer at low levels of stress.
+These patterns suggest that the relationship between performance and stress follows an inverted Ushaped curve. While some level of stress may be necessary for the recognition that there is a problem and
+for individuals to take the appropriate problem-solving measures, high levels of stress increase cognitive
+rigidity, reduce the ability to make subtle distinctions, reduce creativity, and increase the selective filtering of
+information. Stress leads to a reduction in the number of alternative options that people consider. It also
+affects search, and results in the dominance of search activity by predispositions, prior images, and historical
+analogies rather than by a more balanced assessment of the evidence. In addition, high levels of stress
+reduce individuals’ tolerance for ambiguity, reduce their sensitivity to others’ perspectives, and increase
+tendencies toward scapegoating (Holsti and George, 1975; Janis and Mann, 1977; Holsti, 1989). Each of these
+effects detracts from a rational decision-making process. We should note that these are very general effects,
+which are characteristic of most humans. The nature of these effects might vary across individual
+personalities (Post, 1991), but the theoretical literature on crisis decision-making has given relatively little
+attention to the interaction of stress and personality.
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Many of these individual-level patterns are reflected at the organizational level, but additional
+considerations emerge as we shift levels of analysis. For one thing, the nature of the decision-making unit is
+generally different under conditions of crisis than for more routine decisions. In crises the locus of decisionmaking tends to move toward the top levels of the government and away from mid-level officials in various
+organizations. The size of the decision-making group is usually smaller than for more routine decisions. It
+sometimes involves ad hoc advisory groups (such as the Ex Com during the Cuban missile crisis) rather than
+standard organizational units.55 A standard argument is that the short time for decision-making usually
+elevates the weight given to the national interest, and in so doing diminishes the influence of parochial
+organizational interests, Congress or parliament, interest groups, and the public.
+While these tendencies might point to greater organizational rationality for decisions in crises than at
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+other times,56 other characteristics of organizational decision-making during crises point in the other
+direction. Crisis decision-making groups consider a reduced number of alternatives, increase their reliance
+on ideological preconceptions and organizational routines, engage in less creative problem solving, and
+discount the future while attending to short-term diplomatic and political objectives (Wilensky, 1967; Holsti
+and George, 1975; Holsti, 1989; Brecher, 1993). The ways in which these varied patterns might affect
+decisions for war and peace are too varied to detail here, though certainly one path is through increasing the
+likelihood of misperceptions of the adversary’s intentions and capabilities.
+We have now completed our survey of individual-level theories of decision -making. Although individual
+leaders are generally less constrained in their conduct of foreign policy than they are in domestic policy, they
+still must rely on the information and advice provided by governmental agencies with different interests and
+perspectives. In the next chapter we examine theories of decision-making in organizations and the
+implications of those theories for issues of war and peace.
+
+Notes
+
+1. Although our focus on interstate war leads us to frame this analysis in terms of state decision-makers, a
+similar framework can be applied to most non-state actors, as we noted in chapter 1.
+2. Diplomatic historians had always been more inclined than political scientists to examine “who said what
+to whom” and to focus on the internal processes of foreign policy (Iggers, 1994).
+3. For good summaries and evaluations of the decision-making approach to the study of foreign policy, see
+Rosenau (1980: chap. 12) and Hudson (2002).
+4. These complications include the question of how individual preferences get aggregated in collective
+decision-making units.
+5. Some distinguish between an instrumental or “thin” conception of rationality, which consists of selecting
+the most efficient measures for achieving goals, and a “thick” conception of rationality, which includes both
+the maximization of given goals and the overall rationality of the goals themselves (Ferejohn, 1991). People
+generally have a hierarchy of goals, of course, and in the instrumental version, we can say that goals are
+non-rational if they impede the achievement of higher-level goals.
+6. One of the first attempts to systematize the stages of rational decision-making was Allison (1971). Other
+good treatments are Steinbrunner (1974: chap. 1) and March (1994: chap. 1).
+7. An actor’s time horizons refer to how s/he values or discounts the future. It is often said, for example,
+that political leaders have short-term time horizons that extend only to the next election. Everyone
+understands that actors’ time horizons are important, but very few theories of international relations and
+foreign policy formally incorporate that variable, in part because of the dif-ficultly of empirically measuring
+what those time horizons are. See Streich and Levy (2007).
+8. Technically, the utility of a particular outcome is also a reflection of the actor’s risk propensity, which
+reflects the shape of an actor’s utility function (Morrow, 1994: chap. 2).
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+9. For a technical discussion of these requirements, see Morrow (1994: chap. 2), and for an application to
+the study of war, see Bueno de Mesquita (1981: chap. 2).
+10. Snyder (1991) includes the use of symbolic myths to make emotional appeals to the public. This is a
+non-rational psychological factor.
+11. We focus on the impact of individual-level psychological variables on elite behavior, because it is
+political elites that make decisions for war and peace. Psychological variables also influence mass
+behavior–including public opinion, nationalism, the formation of group identity, the construction of images
+of the enemy, social mobilization for war, etc. These variables are important, but they only influence
+decisions for war indirectly, through top decision-makers’ incorporation of domestic factors into their
+calculations.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+12. A counterfactual hypothesis takes the form “if x had not been present, the outcome would have been z
+rather than y.” Here y is the actual outcome (World War II, in our example), and z is the hypothesized
+outcome (the likely avoidance of war) in the counterfactual world defined by the absence of x (Hitler as
+German chancellor). Counterfactual arguments, which can be stated in deterministic or probabilistic
+terms, raise difficult methodological issues. On criteria for evaluating the validity of counterfactual
+statements, see Tetlock and Belkin (1996) and Levy (2008c).
+13. For a review of the literature in political psychology, see M. Hermann (1986), Monroe (2002), and Sears,
+Jervis, and Huddy (2003).
+14. For a particularly influential psychoanalytic study of foreign policy, see George and George (1956). See
+also Steinberg (1996).
+15. For an earlier survey of the role of personality in foreign policy decision -making, see Winter (1992). For
+different approaches to the assessment of political leaders, see Post (2003).
+16. Social psychologists recognize that cultural differences generate significant differences in belief
+systems, worldviews, and emotional reactions. They generally assume, however, that the most basic
+processes of judgment and decision -making are universal, including the fundamental attribution error,
+decisional heuristics, loss aversion, and other patterns described below. Some recent research challenges
+this assumption (Nisbett, 2003).
+17. See Stoessinger (2001) for a strong but not particularly rigorous statement of this view.
+18. It is commonly argued, for example, that the United States never would have crossed the 38th parallel
+in Korea had American leaders anticipated Chinese military intervention and a war with China that left
+nearly a million people dead (George and Smoke, 1974: chap. 7; Singer and Small, 1972). Scholars have
+made similar arguments about the United States in the Vietnam War and the 2003 Iraq War, given the
+enormous costs of those wars and debatable benefits from them.
+19. The bargaining model of war shifts the focus from misperception to “private information.” The basic
+argument is similar, however, because private information often leads to misperceptions of the
+capabilities, interests, and likely intentions of others. Recall, however, that private information is a
+necessary condition only in one rationalist path to war. Rational actors can go to war under conditions of
+complete information if there are expectations of shifting power that lead to commitment problems, or if
+there are indivisible issues.
+20. In a response to the conventional wisdom that British leaders erroneously expected that a strategy of
+appeasement would satisfy Hitler and avoid war, Ripsman and Levy (2008) argue that the primary reason
+Britain did not initiate or provoke a preventive war against Germany in the mid-1930s was that Britain
+overestimated German military strength and concluded that it was already too late to confront Germany.
+21. If, for example, Israeli leaders had recognized that Egypt and Syria were preparing for war in 1973, they
+probably could have deterred the surprise attack by mobilizing for war and/or gaining US diplomatic
+support beforehand. On the sources of the Israeli intelligence failure, see Stein (1985) and Bar-Joseph
+(2005).
+22. Hitler was so confident of a quick victory over the Soviet Union that he did not even issue winter
+uniforms prior to the German invasion of Russia in 1941 (Weinberg, 1994). US political leaders anticipated
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+a quick victory over the Iraqi army in 2003 and failed to anticipate the rise of an insurgency (Ricks, 2006),
+and it is reasonable to argue that accurate expectations would have led either to the absence of an
+American invasion or a much larger military operation.
+23. For the alternative argument that German leaders hoped that Britain would stay out of the war but did
+not expect them to stand aside, see Trachtenberg (1990/91) and Copeland (2000).
+24. Another possibility is that another factor is present in the war case but not in the non-war case, and
+that misperceptions contribute to war only through their interaction effects with that other variable.
+25. For approaches to the study of risk, see Yates (1992). For a socio-cognitive approach, see Vertzberger
+(1998).
+26. See Walker (2003) for a review of operational code studies.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+27. This section builds on Levy (2003b: 261–9).
+
+28. It is often not easy to distinguish between motivated and unmotivated biases on the basis of
+observable behavior or distortions in judgment, because these biases generate many similar behavioral
+patterns. Even the conceptual distinction between the two is beginning to break down. Whereas scholars
+had long believed that emotions detracted from rational decision-making, there is growing evidence,
+reinforced by new research in neuroscience, suggesting that rational cognition actually depends on
+emotional factors. One cannot engage in the elements of a rational decision-making calculus without some
+kind of emotional involvement. See Damasio (1994), Barkow, Cosmides, and Tooby (1992), Kahneman
+(2003), McDermott (2004), and Rosen (2005). In this section, however, we focus only on cognitive and
+motivated bias that detract from rational decision-making.
+29. The “lack of imagination” hypothesis is difficult to evaluate. The World Trade Center had been attacked
+before (1993), though by different means. Moreover, American intelligence was well aware of the fact that
+many Muslims had been taking flight-training lessons on big jets. The larger problem was the integration
+and coordination of intelligence. In addition, as Wirtz (2006:63) argues, what some see as a lack of
+imagination might sometimes be better interpreted as an unwillingness to respond, especially in
+peacetime, to threats that are imaginable but unlikely to materialize with policies that are costly.
+30. Note that the dispositional/situational dichotomy parallels our levels of analysis: dispositional is an
+individual or unit-level characteristic, while situational refers to external environmental factors.
+31. An adversary’s build-up of military strength is often still a threat even if it is imposed on leaders who
+prefer more conciliatory policies. But response to the build-up might depend in part on interpretations of
+the intent behind the increased capabilities.
+32. For an accessible discussion of Bayesian updating, see Anderson and Holt (1996).
+33. Since politically relevant analogies often carry strong emotional impact, the availability heuristic is not
+purely cognitive in nature.
+34. Khong (1992:31–2) argues that “virtually all of the analysts of the Vietnam War agree that the decisionmakers of the 1960s were ill-served by their historical analogies.”
+35. Similarly, Saddam’s belief that the United States would not intervene to drive Iraq out of Kuwait in
+1990–91 was based in part on the lessons he drew from the American experience in Vietnam–that the fear
+of high casualties would deter the US from going to war (Freedman and Karsh, 1993).
+36. It is sometimes said that people learn more from failure than from success (J. Stein, 1994:173). This
+may be true, but it may also reflect a bias towards emphasizing lessons that lead to policy change and
+hence are more observable and salient than lessons of success that reinforce existing policy. On the need
+to separate learning from policy change, see Levy (1994).
+37. One thing this generational view overlooks is the fact that substantial differences arise within
+generations, as illustrated by the different worldviews of President Clinton and the second President Bush,
+who were of the same generation. We suspect that ideology plays a greater role than generational effects.
+38. We return to bureaucratic/organizational factors in the next chapter. For a study of the effectiveness of
+coercive bombing see Pape (1996).
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+39. Recent evidence suggests that one notable exception to this belief in the “short -war illusion” was
+German Chief of Staff Moltke (F ö rster, 1999).
+40. For alternative views of the Schlieffen Plan and why the German war plan failed, see Ritter (1958) and
+Zuber (1999).
+41. The third-party criterion can be misleading if the different observers have access to different
+information, because differences in assessments might be based on informational asymmetries rather
+than motivated biases.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+42. Economists, on the other hand, spend an enormous amount of time studying responses to risk.
+People’s responses to situations involving rare events are particularly interesting (Taleb, 2007). US VicePresident Dick Cheney, who talked about the danger of a “low-probability but high impact” event, was
+unwilling to take even a small chance that Iraq might have weapons of mass destruction. He feared both
+the acquisition of nuclear weapons by Iraq and a transfer of nuclear weapons to al Qaeda or another
+terrorist group. He said that “Even if there’s just a 1 percent chance of the unimaginable coming due, act as
+if it is a certainty.” This became known as the “one percent doctrine” (Suskind, 2006).
+43. This section builds on Levy (2000).
+
+44. Most people, for example, get more upset when they fail to sell a stock that then goes down than when
+they fail to buy a stock that then goes up. The former involves real losses, while the latter involves forgone
+gains. Or, as the tennis player Jimmy Connors said, “I hate to lose more than I like to win.”
+45. For further discussion of these and other hypotheses, see Farnham (1994), McDermott (1998), Davis
+(2000), Levy (2000), and Taliaferro (2004). For a critique of operationalizations of risk propensity in the
+study of international relations, see O’ Neill (2001).
+46. D. Ross (1984:247), for example, argues that Soviet leaders were willing to engage in the “use of
+decisive and perhaps risky action far more readily for defending as opposed to extending Soviet gains.”
+47. For an explicit attempt to link prospect theory and defensive realism, see Taliaferro (2004).
+48. The precise tradeoffs are reflected by “indifference curves” used by economists.
+49. For recent summaries, see Mintz (2004a) and Brulé (2008).
+
+50. The non-compensatory decision-rule might be seen as an extreme version of the prospect-theoretic
+concept of loss aversion, in the sense that losses along one dimension are regarded as infinitely harmful.
+The poliheuristic decision -rule is related to Tversky’s (1972) “elimination by aspects” decision rule. See also
+Goertz (2004).
+51. See Mintz (2004b) for more on the use of decision boards. For more on the decision board approach,
+see Mintz’s “Decision Board 4.0: Computerized Decision Process Tracing,” which is available at
+www.decisionboard.org/academic/zzzabout1.asp. For a similar decision-board methodology applied to the
+study of voting, see Lau and Redlawsk (2006).
+52. On the importance of decision units (individual leader, group, and coalition), see M. Hermann (2001).
+53. The reader should note, however, that some theories of small-group decision -making have some
+important implications for crisis decision-making. Group-think (Janis, 1982), for example, applies primarily
+to situations involving consequential decisions and high stress, which are conditions of crisis.
+54. Holsti (1989:12) excludes the high-probability-of-war criterion so as to make the concept more general
+and applicable to non-security issues. Some add the criterion that a crisis must involve surprise (C.
+Hermann, 1969:414). We prefer to leave surprise out of the definition. Actions can generate threats to
+basic values and a high probability of war even if they are anticipated. Egypt’s closing of the Straits of Tiran
+in May 1967 was not a surprise to Israeli decision-makers, but it precipitated a major crisis that led to the
+1967 war.
+55. At the peak of the Cuban missile crisis, President Kennedy even bypassed the Ex Com and used Robert
+Kennedy on back-channel negotiations with the Soviet Ambassador.
+56. Verba (1961:158–60), for example, concludes that, “the model of means–ends rationality will be more
+closely approximated in an emergency when the time for careful deliberation is limited.”
+
+

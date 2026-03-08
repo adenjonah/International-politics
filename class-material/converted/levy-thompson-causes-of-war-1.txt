@@ -1,0 +1,1111 @@
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+2
+System-Level Theories
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+The study of the causes of war in political science has traditionally been dominated by realist theories, which
+emphasize states’ competition for power and security in a high-threat international environment. In this
+chapter we summarize some of the key concepts in realist theories of international conflict, including
+anarchy, the security dilemma, the spiral model, and the deterrence model. We then identify varieties of
+realist theories and their hypotheses about the causes of war. These theories include classical realism,
+neorealism, defensive realism, offensive realism, and neoclassical realism. After examining balance of power
+theory in greater detail, we turn to hegemonic theories of conflict, including power transition theory,
+hypotheses on preventive war, and long-cycle theory.
+
+Realist Theories
+
+The realist school of thought goes back to Thucydides’ (1996) account of the Peloponnesian War between
+Athens and Sparta in the fifth century BCE. Realist international theories were further shaped by Machiavelli,
+Hobbes, Rousseau, and a number of other prominent philosophers and social theorists.1 After the rise of
+idealism and an emphasis on international law after World War I, and after the failure of those efforts to
+prevent the aggressions of the 1930s, Morgenthau’s book Politics Among Nations, first published in 1948, led
+a resurgence of realist thinking after World War II.
+Realism is not a single theory but instead a constellation of theories, each of which shares a common set
+of assumptions but also includes some distinctive elements.2 All realist theories emphasize that the key
+actors in world politics are sovereign states (or other territorially defined groups) that act rationally to
+advance their security, power, and wealth in an anarchic international system.3 Realists (and most other
+international relations theorists) define anarchy in structural terms as the absence of a legitimate
+governmental authority to regulate disputes and enforce agreements between states or other actors.
+For most realists, anarchy, in conjunction with uncertainty about the intentions of other states, has
+enormous consequences. It induces insecurity and a continuous competition for power, which makes the
+international system inherently conflictual. Given omnipresent threats, political leaders tend to focus on
+short-term security needs and adopt worst-case thinking. They often utilize coercive threats to advance their
+interests, influence the adversary, and maintain their reputations. Anarchy does not automatically lead to
+war, but it creates a permissive environment for war by creating a system of insecurity, conflicts of interest,
+and international rivalries. Realists tend to have a pessimistic worldview, and they tend to be skeptical of
+grand schemes for creating and maintaining a peaceful international order.4
+Realists generally accept the core hypothesis that a primary determinant of international outcomes,
+including both wars and the peaceful settlement of crises and disputes, is the distribution of power in the
+international system or within a particular dyad. As Thucydides (1996:352 [5.89]) famously said in the “Melian
+dialogue,” “… the strong take what they can and the weak suffer what they must.” Different conceptions of
+power and of the specific dynamics of power relationships, however, lead to different realist theories and to
+different predictions about the results of particular distributions of power.
+Another thing that nearly all realist theorists agree upon is the view that wars can occur both through
+deliberate and inadvertent processes, though different strands of realism differ on which of these processes
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+occurs most often. In the first path to war, two states have a direct conflict of interests and at least one
+decides that it is more likely to achieve its interests through military force than through a negotiated
+settlement. The image here is one of predatory states. Most historical conquests fit this model of deliberate,
+unprovoked aggression. Hitler’s initiation of a European war in 1939 is a classic example (Weinberg, 1994), as
+is Iraq’s invasion of Kuwait in 1990 (Freedman and Karsh, 1993). In this view, a predatory, “revisionist” state
+makes a deliberate decision to initiate war to change the status quo in its favor.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Equally important, however, is a second path to war that involves states that are content with the status
+quo and that are more interested in maintaining their current positions than in extending their influence.
+Such “security-seeking” states can end up in war, often an inadvertent war that neither side wants or expects
+at the onset of the crisis. International anarchy induces a competition for power driven by the inherent
+uncertainty about the intentions of others (Jervis, 1976: chap. 2) and by the fear that others might engage in
+predatory behavior. If one’s adversary is growing in strength or forming alliances, the inherent uncertainty
+about the adversary’s intentions often leads one to conclude that the worst outcome is the failure to build
+up one’s own power, leaving one’s interests exposed if the adversary turns out to have aggressive intentions.
+States may take these actions for purely defensive purposes, but adversary states often perceive these
+actions as threatening. Compounding this is the fact that most weapons systems can serve offensive as well
+as defensive functions. The result is a tendency toward worst-case analysis in the context of extreme
+uncertainty. The threatened state responds with measures to protect itself, and those measures are in turn
+perceived as threatening by the other. This can generate an action–reaction cycle and a conflict spiral that
+leaves all states worse off and that can sometimes escalate to war. This is the core of the security dilemma:
+actions that states take to increase their security often induce a response by adversaries and actually result
+in a decrease in their security (Herz, 1959; Jervis, 1978; Glaser, 1997). It is worth noting that although an
+inadvertent war is inadvertent in the sense that neither side wants war or expects war in the early stage of a
+crisis, such wars can actually begin with a deliberate step at the end of an inadvertent process (George,
+1991).5
+
+The security dilemma and conflict spiral are the core of the spiral model of war and peace (Jervis, 1976:
+chap. 3). These concepts are important in part because they explain how wars can occur even if states prefer
+peace to war and even if they behave rationally, since conflict spirals can be structurally induced by the
+system. Conflict spirals can also be exacerbated further by non-rational psychological processes, which we
+describe in chapter 5 on individual decision-making and war. Spiral theorists often point to World War I or to
+the 1967 Arab–Israeli War as examples of spiral dynamics that escalated to war when one side decided to
+take preemptive action.6 Another good example of a conflict spiral is the process leading up to the Seven
+Years’ War between Britain and France in North America (1756–63), which Americans know as the “French
+and Indian War” and which Smoke (1977: chap. 8) describes as involving “no offensive steps by any player at
+any time.”
+The spiral model is sometimes contrasted with the deterrence model, which suggests that wars occur when
+deterrence fails–when one side either lacks the military capabilities to threaten a sufficiently costly response
+to aggression, or when its threat lacks credibility (Jervis, 1976: chap. 3).7 Deterrence theorists generally
+assume that predatory behavior is the primary path to war and minimize the importance of inadvertent
+processes. They adopt the adage “si vis pacem para bellum” (if you seek peace, prepare for war), argue that
+military build-ups and coercive strategies reinforce deterrence and maintain the peace, and contend that the
+appeasement of aggressors only encourages future aggression. Deterrence theorists often invoke the British
+and French attempt to appease Hitler at Munich as an example of the futility of appeasement.8
+Spiral and deterrence theorists each argue that the policy prescriptions of the other make war more likely
+rather than less likely. Deterrence theorists argue that the more conciliatory policies advocated by spiral
+theorists increase the probability of war by undermining deterrence, and spiral theorists argue that the
+hardline policies advocated by spiral theorists only provoke conflict spirals and war. Each theory is flawed,
+however, because each makes unconditional predictions that ignore the specific contexts of a dispute or
+crisis. In some situations, hardline policies work to induce compliance, whereas in other situations they
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+backfire and provoke counter -responses and escalation. The key question is the conditions under which
+coercive threats are effective and the conditions under which they are not (Jervis, 1976: chap. 3).
+We noted earlier that realist international theory is more of a school of thought than a single theory, and
+that there are a number of varieties of realism. Scholars divide up realist theories in different ways, but one
+common distinction is between “classical” realism and “structural” realism. Structural realism is often
+equated with the “neorealism” of Waltz, but it also includes “defensive” realism and “offensive” realism. A
+fifth variation of realism, which formed in response to structural realism, is “neoclassical” realism.
+
+Classical realism
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Classical (or traditional) realists believed that there are multiple sources of state behavior and hence of the
+causes of war. In addition to the importance of the absence of central authority in the international system,
+which was central to the theories of Hobbes and to a certain extent of Rousseau (Doyle, 1997), classical
+realists emphasized the role of human nature as a source of aggressive behavior and war. They pointed to
+aggressive instincts, selfishness, greed, pride, and passion as key factors leading to human aggression. It is
+also important to note that classical realists were interested in explaining not only wars and other
+international outcomes, but also the foreign policies and grand strategies of states and the art of statecraft.
+This led them to develop more detailed but less “parsimonious” theories of international relations.9
+
+Waltzian neorealism
+
+As we noted in chapter 1, Waltz (1959) was very critical of the classical realist idea of attributing causality to
+“human nature,” since a constant human nature cannot explain the obvious variations in war and peace over
+time and space. In a later book, Waltz (1979) argued more strongly that classical realists did not adhere to
+social science methodology, and that they were not interested in constructing theories and hypotheses that
+were mutually consistent and subject to empirical test against the empirical evidence. These considerations
+led Waltz (1979) to develop neorealism as an alternative realist theory.10 His aim was to give realism a
+stronger social science orientation and to construct a parsimonious realist theory.
+Whereas traditional realists emphasized the pursuit of power as an end in itself, Waltz (1979) emphasized
+the pursuit of security, with power serving as a means rather than an end. Waltz placed particular emphasis
+on international anarchy and the distribution of power in the system. Given the limited variation in anarchy
+across time and across international systems, and hence its inability to explain the enormous variation in
+war and peace over time and space, the distribution of power in the system, especially among the leading
+powers, carries most of the explanatory power in Waltzian neorealism. Waltz argued that the distribution of
+power has far more impact on state behaviors and international outcomes than do the internal
+characteristics of states or the characteristics of individual political leaders. Differently constituted states
+under similar configurations of power will act similarly, and similarly constituted states under different
+configurations of power will act differently.
+Waltzian neorealism is a form of balance of power theory. Waltz (1979) posited that hegemonies rarely
+form in international systems and that balances of power are the norm throughout most of international
+history. He also argued that the anarchic and competitive nature of the international system leads most
+states to emulate the successful practices of other states in providing for their security. Those who are
+unable to provide for their security are vulnerable to conquest by others. Thus the anarchic and competitive
+international system socializes states and induces certain kinds of beliefs and behaviors (a “realist culture,”
+some might say) that reinforce the nature of the system.11
+In his analysis of the distribution of power in the system, Waltz (1979) stressed the central importance of
+the “polarity” of the international system, a factor that had engaged earlier realists as well.12 Realists argue
+that systems of different polarity create different threats and opportunities for states and generate different
+foreign policy behaviors, particularly for the great powers. Realists often disagree, however, as to the specific
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+relationship between the polarity of the system and its stability, which is defined different ways but which
+usually refers to a low probability of a major war in the system.
+For many years the primary debate was about the relative stability of bipolar and multipolar systems.13
+Morgenthau (1967), Gulick (1955), and other classical realists, along with Deutsch and Singer (1964) and
+some other non-realists, generally argued that multipolar systems were more stable than bipolar systems.
+They argued that multipolarity created a greater number of possible coalitions that might form against any
+possible aggressor, thus reinforcing deterrence against aggression. In bipolarity, by contrast, the allies of the
+leading powers were too weak to play a significant role in balancing against an aggressor. In addition, with
+several strong powers in multipolarity, each was less likely to focus all of its energies on any single rival, and
+cross-cutting cleavages over multiple issues tended to diffuse conflicts from escalating along a single axis. In
+bipolar systems, on the other hand, there is a tendency toward the polarization of the alliance system
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+around the two leading powers, increasing the risks of escalation.14
+
+Waltz (1979) and most neorealists disagreed, arguing that bipolar systems are more stable than multiple
+systems. There is less uncertainty under bipolarity, and thus less of a risk of war through miscalculation.15
+Each adversary is clearly focused on the other, monitors its behavior, and responds appropriately. In
+bipolarity, one leading power has no choice but to balance against the other. Multipolarity raises “collective
+action” problems (Olson, 1971), since each state has incentives to “free ride” and let others pay the costs of
+balancing against an aggressor. As a result, balances often fail to form against aggression, which undermines
+deterrence.
+Theoretically, each side of the debate suggests plausible arguments, which raises the empirical question
+of which of these effects dominates. Historical evidence on the relative stability of bipolar and multipolar
+systems is mixed. The multipolar system of the nineteenth century witnessed relatively few major wars, but
+that of the first half of the twentieth century included two world wars. The bipolarity of ancient Greece
+witnessed the Peloponnesian War, and the French–Habsburg bipolarity of the early sixteenth century was
+quite conflictual, but the bipolar Cold War period was stable (though many argue that had more to do with
+the deterrence effects of nuclear weapons than with bipolarity). Mearsheimer (2001a) examines a number of
+historical case studies and finds that “unbalanced multipolarity” is the most war-prone type of system, but
+statistical analyses yield no evidence that one type of system is significantly more or less war-prone than the
+other (Sabrosky, 1985; Bueno de Mesquita and Lalman, 1992; Bennett and Stam, 2004).
+Waltzian neorealism is one of the most influential international relations theories of the last half century.
+It reinvigorated the realist research program and gave it a more solid social scientific grounding. The norms
+of the field soon required that any new theory be tested against a realist alternative. At the same time,
+however, Waltz’s theory became a central target for criticism. One of the most basic criticisms was that the
+key explanatory variable, the distribution of power in the system, does not vary enough to explain the
+enormous variations in war and peace. Nor can neorealist theory explain fundamental changes in key
+structural characteristics of the international system (its polarity, for example) or in the behavior of the
+actors in that system.16 Thus critics charged that neorealism could make very general predictions, but not
+more specific predictions, about international politics (Keohane, 1986; Buzan, Jones, and Little, 1993; Ruggie,
+1998).
+Waltz (1979) conceded this point to a certain extent. He acknowledged that his theory is limited to
+explaining international outcomes, and that it cannot explain the specific foreign policy behaviors of states
+or specific wars. He said that “although neorealist theory does not explain why particular wars are fought, it
+does explain war’s dismal recurrence through the millennia” (Waltz, 1988:620). Most scholars argue that this
+is too limiting, and that we need a theory that explains both international outcomes and foreign policy
+behaviors (Elman, 1996) and the conditions under which wars are most likely. Most recent developments in
+realist theory can be seen as attempts to introduce additional causal variables in order to formulate a more
+nuanced theory (though admittedly a less parsimonious one) that explains more of the complexity of
+international relations. The different ways they do this has defined different variations of realist theory. In
+addition, contemporary realists have made a much greater effort than earlier realists to test their theories
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+against the empirical evidence, largely through historical case studies (e.g., Walt, 1987; Mearsheimer, 2001a;
+Elman, 2004).17
+
+Defensive realism
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Defensive realists agree with neorealists that the anarchic structure of the international system creates
+potential security threats, but they do not believe that anarchy in itself forces states into conflict and war. If
+all states seek only security, and if there are no predatory states seeking expansion, and if all states know
+that, then states can avoid war. This raises the question of the importance of perceptions of the intentions of
+other states. Whereas Waltz (1979) emphasized the central importance of power and argued that states
+balance against the leading power in the system, defensive realists emphasize the importance of actual
+threats, of which intentions are an important component. Some strong powers can be benign. Following
+Stephen Walt’s (1987) development of “balance of threat” theory, defensive realists argue that states balance
+against the greatest threats to their interests rather than against the strongest power in the system.
+Defensive realists also depart from Waltzian realism in their conception of power. Whereas Waltz (1979)
+focused primarily on the overall distribution of power, defensive realists emphasize a more “fine-grained
+structure of power” (Van Evera, 1999). One key component of threat is geography. The impact of military
+power declines over distance (the “loss of strength gradient” (Boulding, 1962:262)), and spatially distant
+states pose less of a threat than do proximate states. Defensive realists also emphasize the importance of
+technology, particularly as it affects the “offensive–defensive balance” (Jervis, 1978; Van Evera, 1999). The
+more technology contributes to the ease of conquest and gives an advantage to those who strike first, and
+the greater the proximity of strong states, the greater the threat to the security of others, the greater the
+competition for power and security, and the higher the probability of conflicts and war. If strong states are
+distant and if military technology favors the defense, however, security competition is less intense and the
+probability of war declines. Similarly, the probability of war is reduced if states adopt defensive doctrines
+and military postures. This relates to state intentions and perceptions of intentions. Through defensive
+doctrines states can signal their peaceful intentions to their adversaries (Jervis, 1978; Glaser, 1997; Kydd,
+1997).
+Of all realists, defensive realists are the most confident about the effectiveness of balance of power
+mechanisms in restraining aggression. This combines with other factors to limit the utility of territorial
+expansion except under relatively rare conditions. All of this makes defensive realists guardedly optimistic
+about the possibilities for cooperation under anarchy, at least under certain conditions (Jervis, 1988).
+Defensive realists recognize, however, that states are sometimes aggressive, that great powers
+occasionally make bids for hegemony, and that war frequently occurs. To explain this, defensive realists
+supplement system -level structural variables with domestic variables. If states behave aggressively, it is not
+because of anarchy-induced systemic pressures but instead because of malevolent leaders, hostile regimes,
+and decision-making pathologies. Defensive realists argue that war will not arise in a world of purely
+security-seeking states in the absence of domestically induced revisionist goals or extreme misperceptions
+of external threats (Snyder, 1991; Glaser, 1997; Kydd, 1997; Van Evera, 1999).
+
+Offensive realism
+Offensive realists do not doubt the existence of predatory states and predatory leaders, but they argue that
+the sources of predation can be traced to the structure of the international system, the inherent uncertainty
+about adversary intentions, and anarchy-induced tendencies towards worst-case analysis, without invoking
+domestic variables. The international system is so hostile and unforgiving that uncertainty about the future
+intentions of the adversary combined with extreme worst-case analysis lead even status quo-oriented states
+to adopt offensive strategies, which often lead to war (Zakaria, 1992; Labs, 1997; Mearsheimer, 2001a;
+Elman, 2004). Even if the adversary has currently benign intentions, there is no guarantee that such
+intentions will not turn belligerent in the future, either through a change in orientation of those in power or
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+a change in regime that brings a more hostile regime to power (Copeland, 2000). States often act
+aggressively because they perceive that expansion is the best way to provide for security in a competitive
+and uncertain world. Contrary to defensive realists, offensive realists contend that aggression sometimes
+pays and contributes to the accumulation of power that facilitates further aggression.18
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Mearsheimer (2001a), for example, contends that the best way for a state to provide for its security is to
+achieve hegemony. He argues, however, that no state has the resources to create a truly global hegemony,
+especially given the difficulties of projecting power over the oceans (the “stopping power of water”).
+Consequently, leading states limit their aims to hegemony over their own region. In contrast to defensive
+realists, who argue that regional hegemony is unrealistic because of the formation of blocking coalitions,
+Mearsheimer and other offensive realists argue that balancing often fails. Balancing is costly, and states
+prefer to “pass the buck” and let others pay the costs of balancing against an aggressor. As a result,
+balancing coalitions are slow to form, creating opportunities for aggression. Although balancing has
+ultimately worked to prevent hegemony in Europe, it often arises too late to deter aggression in the first
+place, as illustrated by the delayed formation of a counterbalancing coalition against Nazi Germany in the
+1930s.
+The clearest example of a successful bid for regional hegemony, at least in the West during the past five
+centuries, is the United States in North America. This raises the puzzle of why the United States has been
+able to succeed while others have not. One answer is that the United States is unique among continental
+powers because it has faced no peer competitors. The absence of balancing is due to the absence of
+balancers, and to the fact that potential balancers in other regions, such as France in the early nineteenth
+century, were more preoccupied with local issues, like the struggle for hegemony in Europe (Elman, 2004).
+Another point of contention is the defensive realist emphasis on the offensive–defensive balance of
+military technology as an important variable. Defensive realists argue that some weapons systems and some
+military strategies are inherently defensive, and that by carefully developing defensive military postures
+states can provide for their own security without threatening others. Offensive realists reject that argument.
+They insist that it is nearly impossible to distinguish defensive weapons from offensive weapons, since
+weapons systems can serve multiple purposes (Levy, 1989a; Lynn-Jones, 1995; Betts, 1999; Lieber, 2005;
+Mearsheimer, 2001a). They argue that it is also difficult to distinguish aggressive intentions from more
+defensive intentions, and that the uncertainty inherent in the system induces a tendency toward worst-case
+analysis towards both adversary weapons systems and intentions.19 Thus offensive realists argue that the
+security dilemma cannot be diminished, and that any weapons build-up is likely to generate counterresponses and conflict spirals.
+To summarize, offensive realists offer a strictly structural theory of war and peace and emphasize the role
+of the pursuit of power in the context of anarchy and uncertainty. Defensive realists emphasize the pursuit
+of security in a context in which anarchy is present but not always compelling and where technology,
+geography, and state strategies can mitigate the effects of anarchy. Defensive realists also depart from a
+strict structuralist perspective and incorporate domestic variables in an attempt to explain why wars occur.
+What defensive realists fail to do, however, is to offer a complete theory of exactly how domestic factors
+influence decisions for war and peace, in what kinds of states and under what conditions. During the past 10
+years or so, another variation of realism has emerged, one that departs from structural realism by
+constructing a more complete theory of foreign policy behavior that pays more attention to domestic
+structures and processes. This is neoclassical realism.
+
+Neoclassical realism
+Neoclassical realists (Rose, 1998; Schweller 2006; Lobell, Ripsman, and Taliaferro, 2009) recognize the
+importance of anarchy, argue that material capabilities are the single most important determinant of state
+strategies, and give causal primacy to system structure. They emphasize, however, that there is an imperfect
+“transmission belt” between systemic opportunities and constraints and the foreign policy decisions of
+states. System-level pressures affect foreign policy choices through intervening domestic processes. Most
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+important are political leaders’ perceptions and misperceptions of the distribution of material capabilities;
+the autonomy of the state from society; the state’s capacity to extract resources from society and to build
+military power, which often involves bargaining with societal actors; and the influence of domestic societal
+actors and interest groups on the process (Lobell, Ripsman, and Taliaferro, 2009).
+Whereas structural realists and some classical realists implicitly assume that a country’s human and
+economic resources translate directly into national power, neoclassical realists emphasize the need of state
+leaders to mobilize societal resources and covert them into power that can be used to support security
+policies of the state (Christensen, 1996; Zakaria, 1998; Schweller, 2006). The ability of state leaders to extract
+and mobilize societal resources varies as a function of state strength and its autonomy from society. Weak
+states are more divided, influenced more strongly by societal groups, less expansive in the scope of their
+responsibilities, and poorer.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Thus Zakaria (1998) argues that the rise of the United States to great power status in the world was
+delayed because of the relative weakness of its state structures relative to societal groups, resulting in a lag
+between the rapid expansion of American economic resources and its effective power from 1865 to 1889.20
+This example suggests a challenge for neoclassical realist theory. Neoclassical realists emphasize that they
+give causal primacy to system structure and that material capabilities are the primary determinant of state
+strategies. It is not clear how the causal primacy argument can be reconciled with the propositions that weak
+state structures limit the ability of political leaders to mobilize societal resources to create effective national
+power, that political leaders need to bargain with social groups, and that political leaders’ perceptions of
+military power often play an important role in the formation of state grand strategies. It is not clear where to
+draw the line between a neoclassical realist model that emphasizes the primacy of system structures and
+material capabilities–as they are perceived by domestic actors and operate through domestic processes–and
+an “innenpolitik” model that emphasizes the primacy of domestic politics (Kerr, 1965).
+Since each of these realist theories emphasizes to varying degrees the centrality of the balance of power
+in their theories of conflict and war, we now turn to a more detailed look at balance of power theory. Before
+doing so, we should note that while nearly all balance theories are realist theories, not all realist theories are
+balance of power theories. Although “balance of power realism” is the most common form of realist thought,
+one can also identify a form of “hegemonic realism” (Levy, 2003b). Whereas balance of power realism posits
+that hegemony is rare but dangerous and that the avoidance of hegemony is the highest goal of states,
+hegemonic theories (realist and otherwise) posit that hegemony or hierarchy, not balance, is commonplace
+and in fact less war-prone than other distributions of power. After examining balance of power theories, we
+then turn to hegemonic theories.
+
+Balance of Power Theory
+
+The balance of power is one of the oldest concepts in international politics. Historians and political scientists
+often speak of the eighteenth and nineteenth centuries as the “golden age” of the balance of power, and
+they occasionally apply the concept to other historical systems and to the contemporary era as well. The
+concept, however, is quite ambiguous (Claude, 1962). The balance of power has been used to refer to the
+actual distribution of power in the international system, to a distribution of power favorable to one’s own
+state, or to any distribution of power. That usage refers to the balance of power as an international
+outcome. Some scholars use the balance of power as a synonym for power politics or realpolitik, and thus
+refer to the balance of power as a state strategy. Others treat the balance of power as a theory, but those
+who do so disagree on what the key assumptions and propositions of balance of power theory are and on
+what the theory claims to explain. The different ways scholars use the term balance of power led Richard
+Cobden ([1903]1969) to describe it as “a chimera–an undescribed, indescribable, incomprehensible
+nothing.”21
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Here we treat balance of power as a theory, and use the term distribution of power to refer to the actual
+or desired distribution of power in the system. We do not try to summarize all of the many versions of
+balance of power theory, but to identify what they share in common and to specify the core propositions
+that all balance of power theorists would accept. This facilitates a minimal empirical test of balance of power
+theory. All balance of power theories share the basic core assumptions of realist theory: the system is
+anarchic, the key actors are territorial states (or other territorially based groups) who aim to maximize their
+power and/or security, and they act reasonably rationally to promote those goals.22 Different balance of
+power theorists then add empirical content to these basic assumptions by suggesting additional
+assumptions and hypotheses. This leads to different versions of balance of power theory, some with
+conflicting propositions (about the relative stability of bipolar and multipolar systems, for example).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Although some balance of power theorists argue that balance of power systems have the goal of
+maintaining the peace (Wolfers, 1962: chap. 8; Claude, 1962:55), that view is problematic. First of all, systems
+do not have goals. Only actors (individuals, organizations, states) have goals. Second, balance of power
+theories generally posit that most states, particularly the great powers, define other goals as more important
+than peace and regard war as an acceptable instrument of policy to achieve those goals if other strategies
+fail to achieve them.
+The primary aim of all states is their own survival, defined as a combination of territorial integrity and
+autonomy from outside rule. States also have a nested hierarchy of additional goals that are instrumental
+goals for survival. The most important of these is the avoidance of hegemony, a situation in which one state
+amasses so much power that it is able to dominate over the rest and thus put an end to the multistate
+system. Polybius (1960) wrote that “we should never contribute to the attainment by one state of a power so
+preponderant, that none dare dispute with it. …” Vattel ([1758] wrote that, “The balance of power is an
+arrangement of affairs so that no State shall be in a position to have absolute mastery and dominate over
+others.” Finally, Winston Churchill (1948: 207) stated that, “For four hundred years the foreign policy of
+England has been to oppose the strongest, most aggressive most dominating Power on the Continent. …”
+Other state goals are instrumental to the prevention of hegemony. One is maintaining the independence
+of other states in the system, or at least the independence of the other great powers, which facilitates the
+formation of balancing coalitions against potential aggressors. Another is maintaining an approximately
+equal distribution of power in the system, defined in terms of some combination of individual state
+capabilities and the aggregation of state capabilities in coalitions. This also facilitates the formation of a
+number of possible blocking coalitions if one state grows too strong.
+Peace is also an important goal of states. It usually advances security, prosperity, social welfare, justice,
+and a range of other goals. In balance of power theory, however, the goal of peace is conditional on the
+avoidance of hegemony and perhaps the achievement of other instrumental goals. If those goals are
+threatened, states are often willing to go to war if necessary to secure their interests.
+Balance of power theorists specify two general strategies that states can adopt in their efforts to prevent
+hegemonies from forming. Waltz (1979) distinguishes between “external balancing” and “internal balancing.”
+The former involves the formation of counterbalancing alliances in order to block the expansion of an
+aggressor or to deter a potential aggressor from initiating aggressive policies.23 Internal balancing is the
+internal mobilization of military power and a build-up of the economic and industrial foundations of military
+strength.
+Balance of power theorists are far from agreement on which strategies states adopt under what
+conditions, though many argue that external balancing is often the preferred strategy in multipolar systems,
+in part because for many states alliances are cheaper than the mobilization of men, money, and materials
+(Barnett and Levy, 1991). Internal balancing is generally preferred in bipolar systems, since there are no
+other states to serve as potential allies. Although some have argued that states tend to adopt one strategy
+or another, there is little evidence of the “substitutabilty” of arms and alliances (Most and Starr, 1987; Palmer
+and Morgan, 2006), and these strategies can be mutually reinforcing. The pre-World War I period was
+characterized by both coalition formation (the Triple Entente and the Triple Alliance) and by arms races on
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+land and on sea (Kennedy, 1982; Stevenson, 1996). In the Cold War, the United States balanced against the
+Soviet Union both by forming the NATO alliance and also by building up its own military capabilities.
+It is useful to recall that balance of power theory is a theory of system -level outcomes. Sometimes
+scholars confuse balance of power theory with the power parity hypothesis, which predicts that an equality of
+power between two states is more likely than a preponderance of power to lead to peace. The power parity
+hypothesis is a dyadic-level hypothesis that assumes that alliances play no role, while balance of power
+theory is a systemic-level theory in which alliances are central. A finding at one level does not always hold at
+the other level.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+In fact, most quantitative studies of the relationship between the dyadic distribution of power and
+war/peace demonstrate that a preponderance of power is more likely than an equality of power to be
+associated with peace (Kugler and Lemke, 1996; Bennett and Stam, 2004). This is the power preponderance
+hypothesis. The logic is that under preponderance the strong are satisfied and do not have the incentives for
+war, and the weak, though dissatisfied, lack the capability for war. Evidence that parity is conducive to war at
+the dyadic level does not logically imply that an equality of power is conducive to war at the system level.
+Balance of power theorists also argue about the impact of alliances on war and peace. Some argue that
+alliances deter war by increasing the probability of balancing against an aggressor (Gulick, 1955:61), while
+others argue that alliances generate counter-alliances that sometimes lead to conflict spirals and war.24 In
+terms of overall tendencies, there is some evidence that alliances on average tend to increase the probability
+of war (Senese and Vasquez, 2008). Indeed, alliances have historically often been followed by war. That does
+not necessarily mean, however, that alliances cause war. An alternative interpretation for the correlation
+between alliances and war is that alliances form when states anticipate that war is likely, so that underlying
+conditions are the cause both of alliance formation and the outbreak of war, with alliances themselves
+having little causal impact (Levy, 1989b).25
+
+Despite their many disagreements, most balance of power theorists make some common predictions.
+Two propositions in particular stand out. (1) If any state threatens to gain a position of hegemony over the
+system that would enable it to dominate over others, a balancing coalition of other states will form against it.
+As a result, (2) hegemonies rarely if ever form in world politics. The first is a proposition about state
+strategies, and the second is a proposition about international outcomes (Levy, 2003a).
+With regard to the first, balance of power theorists point to the balancing coalitions that formed against a
+succession of states that grew so strong that they threatened to dominate Europe: Spain under Philip II in
+the sixteenth century, France under Louis XIV in the seventeenth century, France under Napoleon at the
+beginning of the nineteenth century, and Germany under the Kaiser and then under Hitler in the twentieth
+century. Each led to a “hegemonic war” involving most of the great powers in the system and lasting many
+years.
+The above-mentioned propositions and examples all refer to threats of hegemony over the system and to
+“counter-hegemonic balancing” by great powers in response. Balance of power theorists are divided over the
+question of balancing against other kinds of threats. Most classical realists and neorealists argue that states
+balance against the strongest power in the system, without explicitly specifying whether or not there is a
+threat of hegemony; defensive realists argue that states balance against the greatest threat (but not
+necessarily a hegemonic threat); and offensive realists emphasize balancing against power but argue that
+balancing often breaks down. Few theorize about the balancing behavior of weaker states vis-à-vis stronger
+powers. Given the vulnerability of weaker states, particularly those sharing borders with stronger states, and
+given their lesser impact on outcomes, weaker states are likely to join the strongest coalition.
+One thing all balance of power theorists agree upon, however, is that great powers generally balance
+against hegemonic threats. Offensive realists, who argue that states balance against the strongest power,
+and defensive realists, who argue that states balance against the strongest threat, both reach this
+conclusion. Only the strongest power in the system can threaten hegemony, and the threat of hegemony is
+almost always the strongest threat to other states, certainly to other great powers. In fact, there is
+systematic statistical evidence that great powers usually balance against a leading state that is strong
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+enough to threaten hegemony but not against a leading state that has lesser margins of advantage, at least
+for the last five centuries of the European system (Levy and Thompson, 2005).
+At this point in the discussion of balance of power theory and the absence of hegemony, some readers
+will be thinking “what about the United States today?” The relative economic and military power of the
+United States is historically unprecedented,26 yet no great power balancing coalition has formed against it.
+This is a puzzle for many scholars, who argue that balance of power theory predicts balancing in such
+situations (Zakaria 2001; Ikenberry 2002:3; Walt, 2005).
+Realists disagree on how to explain the absence of absence of “hard balancing” against the United States,
+defined as the formation of formal military alliances or substantial increases in military spending, but their
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+explanations can be grouped into five categories.27 Some argue that balancing will still occur and argue that
+it is just a matter of time before it does (Waltz, 2000; Layne, 2006). A second group argues that states, and
+particularly the great powers, have not balanced against the United States because they recognize that the
+US has benign intentions and does not pose a threat to the vital interests of other states.28 They claim that
+the US differs from the dominant powers of the past because it has no interest in territorial conquest, in part
+because of its geographical isolation from other leading powers (Pape 2005a; Paul, 2005a; Walt, 2005).
+Brooks and Wohlforth (2008:35) offer a third explanation: that balance of power theory predicts balancing
+against an aspiring hegemon but not against a state that has already achieved a hegemonic position, and
+that consequently the theory does not apply to the United States in the period following end of the Cold
+War. They trace the absence of balancing to the enormous material capabilities of the United States, both
+military and economic, which make it too dangerous to balance against the US.
+Mearsheimer (2001a) advances a fourth explanation. He argues that states that have achieved regional
+hegemony (global hegemony being out of reach) attempt to prevent the rise of peer competitors in other
+regions by playing the role of an “offshore balancer.”29 Weaker states in these other regions are more
+worried about threats to their interests emanating from within their region than from outside the region,
+and hence do not generally see the offshore balancer as the primary threat to their interests. These
+considerations lead Mearsheimer (2001b:49) to conclude that “Offshore balancers do not provoke balancing
+coalitions against themselves.” The United States plays the role of an offshore balancer in other regions, and
+hence does not provoke balancing coalitions.30
+
+Levy and Thompson (2005, 2010a) offer an alternative interpretation for the absence of great power
+balancing against the US, one that overlaps with Mearsheimer’s (2001a) view but that (we think) goes beyond
+it. The failure of a balancing coalition to form against the United States does not contradict balance of power
+theory because the theory, as it has been developed in the West over the last three centuries, has generally
+been applied to land-based continental systems but not to maritime systems. Dominant land powers with
+large armies are far more threatening to other leading states than are dominant sea powers with large
+navies, and consequently great power coalitions tend to form against the former but not against the latter.31
+Just as other great powers rarely balanced against Britain at the peak of its global power in the nineteenth
+century, or against the Dutch when they were the leading global power in the late seventeenth century, great
+powers do not balance against the United States in the contemporary system.32 Thus the absence of
+balancing is not a puzzle for balance of power theory.33
+While some argue that balance of power theory works well in explaining the dynamics of past
+international systems but not the contemporary system, others argue that the theory fails in earlier periods
+as well. They argue that an alternative theory, based on the idea that hierarchy and hegemony are more
+common than balance, more accurately captures the strategic dynamics both of the contemporary world
+and the world of the past. To these we now turn.
+
+Hegemonic Theories
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Whereas balance of power theories posit that states fear hegemony, that they balance against any state
+threatening hegemony, and that counter -hegemonic balancing makes hegemony rare and great power war
+common, hegemonic theories argue that strong concentrations of power in the hands of a single power in
+the international system are historically common and stabilizing. Hegemonic theories share realist
+assumptions about the primacy of rational and unitary states and their primary concern with power, but
+they de-emphasize the importance of anarchy while emphasizing the leading state’s management of the
+system within a hierarchical order.
+
+Power transition theory
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+Organski (1958) was the first modern scholar to advance a hegemonic theory (though he avoided the term
+hegemon). Organski believed that balance of power theory was too static, too narrowly focused on military
+power, and inattentive to the sources of changes in relative power. He argued that international systems are
+frequently dominated by a single powerful state that uses its strength to create a set of political and
+economic structures and norms of behavior that enhance both the security of the lead state and the stability
+of the system as a whole. Some other states are satisfied with the existing order, ally with the leading state,
+and receive economic and security benefits from doing so. Other states are dissatisfied, but they are usually
+too weak to challenge the dominant state.
+In this dynamic theory, differential rates of growth, based largely on different rates of industrialization,
+lead to the rise and fall of states (Organski and Kugler, 1980).34 The most dangerous and war-prone
+situation is one in which a state that is rising and dissatisfied with the status quo begins to approach the
+strength of the leading state in the system and threatens to surpass it in power. The rising challenger has a
+motivation to overturn the existing order, which was set up by the dominant state when it was at the peak of
+its power and which serves the interests of the dominant state and its allies. Power transition theorists argue
+that the challenger initiates a war in order to accelerate the power transition and bring its benefits from the
+system into line with its rising military power (Organski and Kugler, 1980; Kugler and Lemke, 1996, 2000;
+Tammen et al., 2000). Thus the three key conditions for war in power transition theory are power shifts,
+approximate equality of power, and dissatisfaction with the status quo. War is unlikely to occur before the
+challenger approaches the strength of the leading state (operationally defined as 80 percent of the strength
+of the leader) and after it has surpassed the former leader (by 20 percent).
+Unlike balance of power theorists, who focus primarily on military power, power transition theorists
+define power as the product of population, economic productivity, and the political capacity of the state to
+mobilize the resources of society to support its international policies.35 A state’s power follows an S-shaped
+growth curve. Power grows rapidly during industrialization and then levels off to a more modest but
+sustained growth. This growth of power is irreversible, and consequently power transitions are unavoidable.
+The only question is whether the transformation of the international order is peaceful or violent.
+Many attempts to explain power dynamics in the contemporary world, even by scholars who do not
+define themselves as power transition theorists, adopt many key elements of the theory. Many scholars
+writing about the causes and consequences of unipolarity, for example, argue that American hegemony
+contributes to stability in the contemporary world, although there is disagreement as to how long American
+hegemony will last. Posen (2003) and Brooks and Wohlforth (2008) each argue that American hegemony is
+fairly stable, while Layne (2006) argues that the current unipolar system is transitory and that differential
+rates of growth will eventually lead to the rise of new leading powers, with destabilizing consequences for
+the international system.36
+Power transition theory is also the basis of many arguments about the rise of China and its consequences
+for the international system. In particular, many fear the consequences of the continued rise of Chinese
+power and the dangers of a Sino–American conflict as the point of power transition approaches. Based on
+contemporary growth rates, that point was estimated to occur in about three decades, though it is not clear
+how that prediction will be affected by the global economic crisis that began in 2008. Scholars debate the
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+ability of the Chinese economy to sustain its recent growth rate and whether its political system will be
+conducive to the kinds of technological innovation that are necessary for a lead economy (Rapkin and
+Thompson, 2003). Thus the likelihood and timing of a future Sino–American transition are more uncertain
+than power transition theorists imply.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+One theme of power transition theory that many find useful, however, is that the key variable determining
+the peaceful or violent nature of any transition is the extent to which China will be satisfied or dissatisfied
+with the international system during and after the power transition. Many argue that the more China is
+engaged in an interdependent world economy, the more satisfied it will be with the current international
+system, and the lower the probability of a militarized Sino–American conflict over Taiwan or some other
+issue. Less useful, however, is the argument by power transition theorists that nuclear weapons have no
+deterrent effect on conflict. Most theorists argue that nuclear deterrence was a central stabilizing feature of
+the Cold War (Jervis, 1989) and that nuclear weapons will also significantly reduce (though not eliminate) the
+danger of a Sino–American war in the future.
+Let us return to the question of the timing of war during a power transition. Power transition theorists
+have not reached a consensus on this important question. Organski (1958) initially argued that the rising
+power initiates a war before the point of transition, for the purpose of accelerating the transition. Organski
+and Kugler’s (1980) empirical analysis suggested that the war was likely to occur after the point of transition,
+but Kugler and Lemke (2000) question that finding.37 A more recent formulation of power transition theory
+(Tammen, et al., 2000) suggests instead that the challenger initiates a war after the point of transition.
+The hypothesized timing of the war has important theoretical implications and requires further research.
+Organski’s argument that the rising state initiates a war before a power transition is problematic because at
+that point the rising power is weaker and it is likely to lose any war. It would make more sense for it to wait
+and initiate the war when it is stronger and more likely to win, as Tammen et al. (2000) argue. But if that
+were the case, why would the declining state wait for challenger to increase in strength and fight on the
+challenger’s terms? Why wouldn’ t the declining state initiate a war to defeat its rising challenger while the
+opportunity is still available?
+Such a war is often referred to as a preventive war, a concept familiar to historians and to balance of
+power theorists. A preventive war is motivated by the perception of a rising adversary, a shift in power, and
+by the fear that once the adversary is stronger it will attempt to exploit its advantage through coercion or
+war (Van Evera, 1999; Copeland, 2000; Levy, 2008a), and is driven by “better-now-than-later” logic. Faced with
+a rising adversary, especially a potentially hostile one, a state may be tempted to fight now, when it is
+stronger, rather than later, when conditions are less favorable. The danger of waiting, however, is not just
+the risk of a future war. States fear a decline in bargaining leverage associated with their relative decline in
+power. If the adversary makes greater demands once it is stronger–and most realists argue that state
+interests expand with the relative power of the state–the question is the extent of the concessions the
+declining state would have to make in the future in order to avoid the unwanted war.
+It is important to emphasize that strategies of prevention are different than strategies of preemption.
+Preemption involves a military attack in response to the virtual certainty that the adversary is about to strike
+and by the motivation of gaining the advantages of striking first. Prevention is motivated not by the
+anticipation of an imminent attack, but instead by the anticipation of an adverse power shift over the next
+few years and the fear of its consequences. Israel launched a preemptive strike against Egypt to begin the
+1967 war and a preventive strike against Iraqi nuclear facilities in 1981.38
+Historians and political scientists have identified numerous cases in which power shifts and better-nowthan-later logic have led to war. When Thucydides (1996:16) argued that the “real cause” of the
+Peloponnesian War was “the growth of the power of Athens and the alarm which this caused in Sparta,” he
+was invoking preventive logic. The historian A.J.P.
+Taylor (1954:166) claimed that, “Every war between Great Powers [in the 1848–1918 period] started as a
+preventive war, not a war of conquest.” Scholars have given particular attention to the role of the preventive
+motivation in the outbreak of World War I. The argument is that German leaders, recognizing the rising
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+power of Russia and the likelihood any war with Russia would invoke the Franco–Russian alliance, and
+fearing that by 1917 Germany could not longer be confident of winning such a war, acted preventively to
+fight before its relative power continued to slide (Levy, 1990 /91; Van Evera, 1999; Copeland, 2000;
+Stevenson, 2004).
+Perhaps the clearest example of a preventively motivated attack is the Israeli strike against the Iraqi
+nuclear reactor in 1981. Israel was driven by the fear that Iraq was on the way to acquiring a nuclear
+capability that would enormously increase its ability to damage or coerce Israel (Nakdimon, 1987).39
+Similarly, the fear of many in the second Bush Administration that Iraq was about to cross the nuclear
+threshold was one important factor leading to the US-led war in Iraq in 2003. Although the causes of the war
+are quite complex, the preventive motivation was the main rationale the administration used to help
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+mobilize American public opinion in support of the war (Rich, 2006; Levy, 2008a).40
+
+Although impending shifts in relative power sometimes lead to war through preventive logic, more often
+such power shifts do not lead to war.41 The United States surpassed Britain as a global power at the
+beginning of the twentieth century, but the transition was peaceful. Few states have grown in power as
+rapidly as Nazi Germany in the 1930s, but Britain and France responded with a strategy of appeasement
+rather than preventive war (Ripsman and Levy, 2007, 2008). This raises the critical question of the conditions
+under which adverse power shifts (and perceptions of such) do and do not lead declining states to adopt
+preventive war strategies. This is a major task for scholars interested in the question of preventive war
+strategies.
+We now return to power transition theory’s hypothesis that strong concentrations of power in the
+international system (or in a dyad) inhibit war. Balance of power theory posits that hegemony rarely occurs
+and that concentrations of power are destabilizing, while power transition theory posits that hegemony
+frequently occurs and is stabilizing. The two theories therefore appear to be diametrically opposed. One can
+argue, however, that these theories are more “incommensurable” (Kuhn, 1962) than contradictory, in the
+sense that they provide different answers to slightly different questions than different answers to the same
+question. Balance of power theory and power transition theory are each theories of power dynamics within
+international systems, but they focus on different systems and different kinds of power (Rasler and
+Thompson, 1994; Levy, 2003a; Levy and Thompson, 2005).
+Most balance of power theories implicitly conceive of power in terms of land-based military power, and
+their examples of hegemonic threats and balancing are generally based on the European experience, where
+high concentrations of power often triggered balancing coalitions and major wars. Applications of power
+transition theory, on the other hand, tend to focus on the global system and define power in terms of wealth
+and other forms of economic dominance (though it is worth noting that Lemke (2001) applies power
+transition theory to regional systems). Their standard indicator of power, for example, is gross national
+product (Kugler and Lemke, 1996, 2000). They predict that concentrations of power and wealth in the global
+system are stabilizing, while power transitions in that system are destabilizing. The same is true for other
+hegemonic theories. Most versions of “hegemonic stability theory” (Keohane, 1984), for example, are
+theories of the stability of the international political economy and say little about war and peace.
+Since they focus on different systems and on different bases of power in the system, balance of power
+theory and power transition theory could each be correct within its own domain. It is conceivable, for
+example, that the European system has been most stable under an equilibrium of military power and that
+hegemonies rarely if ever form in that system, whereas the global system is most stable in the presence of a
+single dominant economic and naval power (which occurs frequently). The most destabilizing situation
+would be one characterized by the combination of the diffusion of power at the global level (to the point of
+an impending global power transition) and an increasing concentration of power in Europe (Rasler and
+Thompson, 1994).
+Several of history’s “hegemonic wars” fit this pattern. The two world wars of the twentieth century (1914–
+18 and 1939–45) occurred as Britain’s global dominance was rapidly waning while Germany’s power on the
+European continent was rapidly increasing. The French Revolutionary and Napoleonic Wars (1792–1815)
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+occurred after an earlier eclipse of Britain’s global power while France was growing on the Continent. These
+patterns are predicted by long-cycle theory, to which we now turn.
+
+Long-cycle theory
+Long-cycle theory, as developed by Modelski and his colleagues, was not designed for the primary purpose
+of explaining warfare. It is a theory about the emergence of global leadership or management of trans-
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+regional interactions such as trade.42 Global war does, however, have a prominent place in the theory
+because it has been a mechanism for consolidating new leadership over the last 500 years. Global wars–
+which have been fought in 1494–1516, 1588–1608, 1688–1713, 1792–1815, and 1914–1945–are lengthy
+periods of crisis and conflict, generally lasting between 20 and 30 years, that draw in most the major powers
+of the era on opposing sides. One side defeats the other and ushers in a new period of global system
+leadership. These periods of intensive combat serve as selection devices for leadership in the global system,
+with the leading state in the victorious alliance ascending to a position that facilitates developing new rules
+and policies for global transactions.
+To explain the infrequent but increasingly intensive global wars (Rasler and Thompson, 1994, 2000b;
+Modelski and Thompson, 1996), the theory relies primarily on two structural dynamics: regional–global
+dissychroniza-tion and the “twin peaks” model. An important distinction is first made between global and
+regional politics. Global politics are about managing long-distance commerce, especially after the 1490s,
+while regional politics center around attempts to create and stave off continental hegemonies. Over the past
+500 years, the elite states in the world system have tended to give greater priority to one or the other of
+these two types of activity. Sea powers have specialized in intercontinental trade and, later, industry, while
+land powers, particularly those based in Europe, have focused on territorial expansion in the home region.
+The dissynchronization element is that deconcentration of resources and leadership in the global system
+encourages concentration of power in the regional system and vice versa. Thus, European land powers have
+tended to be at their strongest when global sea powers have been at their weakest.
+Territorial expansion in Europe threatens leading global powers either directly or indirectly, depending
+largely on the location of the global powers in question and how much insulation they possess from land
+attacks. For instance, Portugal (sixteenth century) and the Netherlands (seventeenth century) were adjacent
+to expanding Spain and France, respectively. Britain (eighteenth and early twentieth centuries) and the
+United States (late twentieth century) enjoyed some maritime insulation from French, German, and Soviet
+attack. Regardless of the insulation, the threat of hegemonic expansion in Europe galvanizes the leading sea
+powers into organizing a coalition of land and sea powers to thwart the threat and into rebuilding the
+capabilities of global powers to withstand expansionary attack.
+The “twin peaks” model refers to the assertions that long-term economic growth is discontinuous. It
+comes in spurts, tends to be monopolized initially by a single state from the global power ranks, and is most
+evidently manifested in commercial (prior to the late eighteenth century) and industrial “leading sectors”
+that, once introduced, tend to radically change the way the world economy works. The economy that
+pioneers the innovation of these leading sectors is rewarded by a predominant position in global politics
+because it possesses the system’s strongest economy and technology and is able to develop great wealth as
+a consequence.
+Each of these lead economies experiences at least two growth spurts. The first one destabilizes the
+pecking order of the world economy but also generates the resources needed to finance the suppression of
+the threat of regional expansion (as in Western Europe between 1494 and 1945). Victory in global war
+exhausts the opposition but tends to be beneficial to the relative position of the leading global power.
+Resources are highly concentrated in the global sphere of activities immediately post-global war and highly
+deconcentrated in the primary region. Conditions are right for a second growth spurt in the post-war era.
+But this state of affairs is highly transitional. The leading global power’s relative position tends to decay. New
+(and sometimes old) regional challengers and global rivals emerge with the passage of time. The structural
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+combination of global decline and regional ascents tend to re-create the potential for global war–a war
+fought to determine who will make post-war rules and policy in global politics.
+Balance of power theory, power transition theory, and long-cycle theory are clearly system-level theories
+that emphasize the importance of the overall structure of the international system for state behaviors and
+
+Notes
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+international outcomes.43 The same is true for offensive and defensive realism, though the latter introduces
+a dyadic component by focusing on the intentions and proximity of the adversary, and in the end it invokes
+domestic causal variables to help explain variations in war and peace. Other realist theories are more
+difficult to classify. Classical and neoclassical realism each incorporate individual -, state -, and societal-level
+factors, though neoclassical realists insist that the system level is still primary. Each is as interested in
+explaining state strategies as well as international outcomes like wars. The spiral model and deterrence
+model focus primarily on the interactions between pairs of states and consequently are more properly seen
+as dyadic -level theories, but we introduced them in this chapter because they are central to structural
+realist theories of war and peace. There are other theories of war and peace that focus primarily on the
+dyadic-level interactions of states, though sometimes within a systemic context. We turn to those theories in
+the next chapter.
+
+1. On the realist tradition in international politics, see Doyle (1997) and Haslam (2002). For alternative
+interpretations of the Peloponnesian War, see Lebow (2001) and Kagan (2003).
+2. Realism is a label, not a fact. To call a theory “realist” does not necessarily imply that it is a “realistic”
+theory in the sense that it accurately describes and explains international behavior. That must be
+determined by theoretical and empirical investigation.
+3. This is a conventional view of realism, but particular realist theories loosen some of these assumptions.
+Some realists downplay the importance of anarchy and emphasize the hierarchical nature of the
+international order within a nominally anarchic system, as we will see in our analysis of “hegemonic
+theories” later in this chapter. Many contemporary realists who study civil war have relaxed the statecentric assumption by applying the concept of the ethnic security dilemma to intrastate communal
+conflicts (Posen, 1993; Snyder and Jervis, 1999).
+4. For good summaries and assessments of realist theory see James (1995), Keohane (1986a), Gilpin (1986),
+Brooks (1997), Jervis (1998), Van Evera (1999), and Walt (2002). For a summary of early philosophical
+theories of the conditions conducive to a peaceful international order, see Hinsley (1967: part I).
+5. The inadvertent war concept also applies to some civil wars. This is reflected in the view of the American
+Civil War advanced by Abraham Lincoln in his Second Inaugural Address (March 4, 1865): “All dreaded it, all
+sought to avert it … And the war came.”
+6. Views of World War I are changing, and many historians and political scientists now emphasize
+Germany’s deliberate drive for Continental or world power (Fischer, 1967, 1974; Levy, 1990/91; Copeland,
+2000). For a summary of changing interpretations of World War I, see Mombauer (2002). For alternative
+interpretations of the 1967 Arab–Israeli War, see Stein (1991), Oren (2002), and Segev (2007). On the puzzle
+that preemptive strikes are relatively rare, see Reiter (1995).
+7. The spiral model and deterrence model might be better classified at the dyadic–interactional level, since
+the key variables are the interactions between two states rather than the properties of the international
+system as a whole. These concepts are central to realist theories, however, and they are best discussed
+here.
+8. This assumes that a strong stand by Britain and France would have led to a conciliatory response by
+Hitler and to peace. Most historians question this counterfactual assumption (Murray, 1984).
+9. The parsimony of a theory is best conceived in relational terms. One theory is more parsimonious than
+another if it explains the same empirical phenomena but with fewer theoretical assumptions, or explains
+more with the same number of assumptions. The parsimony criterion calls for “explaining more with less.”
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+Scholars disagree on the importance of parsimony compared with other criteria for evaluating theories.
+For an alternative conception of parsimony, one based on the idea that the world is simple, see King,
+Keohane, and Verba (1994).
+10. Neorealism is sometimes called “structural realism,” but other scholars have constructed alternative
+versions of structural realism (Buzan, Jones, and Little, 1993).
+11. On realist cultures, see Johnston (1995) and Wendt (1999). See also Vasquez (1993). For an argument
+about how belief change can lead to systems change, see Schroeder (1994).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+12. If power is concentrated in the hands of a single state in an international system, the system is
+unipolar. If two states of roughly comparable capability stand far above the rest, the system is bipolar. If
+power is more widely distributed, the system is multipolar. The nineteenth century European system was
+multipolar; the Cold War period (1945–89) was bipolar; and the contemporary system of American
+dominance is unipolar.
+13. Until the end of the Cold War and the American dominance, Waltz and other realists gave relatively
+little attention to unipolarity. They drew largely on the European experience of the past several centuries,
+which had not witnessed unipolarity.
+14. Here we distinguish between polarity, or the number of major centers of power, and polarization,
+which refers to the clustering of alliance patterns around those centers of power (Rapkin and Thompson,
+with Christopherson, 1979).
+15. The implication here is that uncertainty is destabilizing, while proponents of multipolarity suggest that
+uncertainty is stabilizing, since uncertainty about coalition formation to oppose aggression helps to deter
+aggression. This suggests that risk propensity and hence responses to uncertainty are key variables
+intervening between polarity and war-proneness (Bueno de Mesquita, 2003). We return to risk propensity
+in chapter 5.
+16. Thus many criticize realist theory for its failure to predict the end of the Cold War, the collapse of the
+Soviet Union, and the transformation from bipolarity to unipolarity (English, 2000). A leading historian
+(Gaddis, 1992/93) makes the same criticism of international relations theory as a whole. For a realist
+explanation of the end of the Cold War, see Wohlforth (1994/95).
+17. The introduction of additional causal variables to explain the enormous variation in war, peace, and
+other aspects of international politics has led some critics to argue that realism is a “degenerative research
+program” in the sense that the additional variables simply patch up theoretical and empirical
+inconsistencies in existing theory without adding new explanatory power (Vasquez, 1997). For debates on
+this issue, see Vasquez and Elman (2003). On the concept of “degenerative” and “progressive” research
+programs see Lakatos (1970). Another line of criticism is that neorealist theory remains a narrowly
+materialist theory that neglects important cultural variables (Wendt, 1999).
+18. While some have argued that territorial conquest became less and less useful in an era of industrial
+economies and mass politics (Knorr, 1966), Liberman (1996) presents evidence to the contrary for German
+expansion in the 1930s.
+19. Even an immobile fort might facilitate a state’s offensive actions by reducing the costs to the state of a
+counter-offensive by the adversary. For perspectives on “offense–defense theory,” see Brown et al. (2004).
+In the Cold War the United States started to build an anti-ballistic missile system designed to intercept
+incoming Soviet missiles. Many Americans saw this as a purely defensive weapons system. To the Soviet
+Union, however, it was an offensive security threat because it created the possibility that an effective
+missile defense might eliminate the Soviet retaliatory threat and therefore undermine Soviet deterrence
+against a US first strike.
+20. As we discuss in a later chapter, state weakness is seen as a major cause of civil wars because it denies
+states a monopoly of violence, undercuts a state’s ability to satisfy the needs of its people, and creates an
+opportunity for rebel groups.
+21. For useful treatments of the balance of power, see Gulick (1955), Claude (1962), Morgenthau (1967),
+Bull (1977), Waltz (1979), Sheehan (1996), Paul, Wirtz, and Fortmann (2004), and Little (2007). Our
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+interpretation draws on Levy (2003a).
+22. There are important exceptions. Hegemonic realists like Gilpin (1981) give little weight to anarchy.
+Morgenthau (1967) and Waltz (1979) each reject the rationality assumption, but for different reasons.
+23. External balancing includes other strategies as well, such territorial compensations or partitioning
+states for the purposes of redistributing power and satisfying grievances. It can also include military
+intervention or preventive war (Gulick, 1955).
+24. Alliances also increase the likelihood that if war occurs it will spread to include additional actors
+(Vasquez, 1993).
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+25. Whereas balance of power theorists emphasize the “capability aggregation” function of alliances,
+Schroeder ([1976]2004) and Pressman (2008) each argue that states use alliances to restrain their allies.
+This suggests an additional possible path between alliances and war or peace. Alliance norms (Kegley and
+Raymond, 1990) may also be important.
+26. For data, see Brooks and Wohlforth (2008: chap. 2). Posen (2003) emphasizes the United States’
+“command of the commons”–air, sea, land, and space. Each argues that US dominance will persist for
+many years.
+27. True, American dominance has led to various forms of resistance to and non-cooperation with the
+United States, as illustrated by the lack of support by leading European states for the American invasion of
+Iraq in 2003. Such behavior is often referred to as “soft balancing” (Paul, 2005a; Pape, 2005a). Soft
+balancing is important, but does not fit into the same category as “hard” balancing behavior. For critiques
+of the concept of soft balancing, see Lieber and Alexander (2005) and Brooks and Wohlforth (2008: chap.
+3).
+28. The emphasis on intentions reflects a defensive realist view.
+
+29. Britain historically played this role with respect to the continental European system.
+30. The US intervention in Iraq in 2003 goes beyond an offshore balancing role.
+
+31. The most widely invoked examples of counter-hegemonic balancing, as noted above, are all against
+land powers: Spain in the sixteenth century, France in the seventeenth century and late eighteenth
+century, and Germany in the twentieth century.
+32. This hypothesis about land powers and sea powers explains why other great powers in the late 1940s
+balanced against the Soviet Union, the leading continental power in Eurasia, and not against the United
+States, the leading global power. It may be true that over time Europe has become less central in global
+politics, but on the other hand there is little doubt that the future of Germany was the central issue in the
+Cold War (Trachtenberg, 1999).
+33. Levy and Thompson’s (2005, 2010a) broader argument is that the European system upon which
+balance of power theory is based may not be representative of all international systems, and that
+hypotheses based on the European experience are not automatically transferable to other historical
+systems. This point is reinforced by the fact that although a sustained hegemony has not formed in Europe
+for at least 1,500 years, hegemonies have been more common in non-Western historical systems (Hui,
+2004; Kaufman, Little, and Wohlforth, 2007).
+34. There are other closely related theories. Gilpin’s (1981) “hegemonic transition theory” focuses on the
+rise and fall of the leading states in the system and their consequence for war and peace. Gilpin’s
+important theoretical contribution did not lead to a sustained research program because it was followed
+by few empirical studies to test the theory. Doran’s (1991) “power cycle theory” developed the argument
+that states go through a power cycle of rise and decline and that they are more prone to warfare at some
+stages of the power cycle than at others. Kennedy’s (1987) historical treatment of the rise and fall of the
+great powers during the last five centuries included concepts of “imperial overstretch,” relative decline,
+and the rise and fall of great powers. Long-cycle theory also emphasizes the rise and fall of states, and we
+discuss it below. For more liberal conceptions of hegemonic order, see Ikenberry (2000) and Lake (2009).
+35. One could imagine a power transition theory that gave primary emphasis to military power, but
+theorists associated with the power transition research program have chosen not to do so.
+
+Printed by: adenjonah@gmail.com. Printing is for personal use only. No part of this book may be reproduced or transmitted without publisher's prior permission. Violators will be
+prosecuted.
+
+36. For analyses of the dynamics of the contemporary unipolar system under American primacy, see
+Ikenberry, Mastanduno, and Wohlforth (2009) and other articles in the January 2009 issue of World Politics.
+37. In critiques from outside the power transition research program, Thompson (1983:110–11) found wars
+before transitions and Kadera (2001) generated mixed findings. See also DiCicco and Levy (2003:137–44).
+38. Note that prevention as defined here differs from strategies designed to avert war or humanitarian
+disasters, such as “preventive diplomacy,” “preventive deployment,” and “preventive intervention.”
+39. In the 1981 case, the result was not war because Iraq did not respond militarily, in part because it was
+already involved in a war with Iran. Any future Israeli strike against Iran to interrupt its apparent
+development of a nuclear program would reflect a strategy of preventive war.
+
+ad
+en
+jo
+na
+h@
+gm
+ai
+l.c
+om
+
+40. The Bush Administration probably referred to its actions as “preemptive” because preemptive attacks
+in response to imminent threats are easier to justify in international law than are preventive strikes in
+response to future threats, since the latter but not the former provide some time for the target to
+implement alternative strategies in response to the threat. On the ethical and legal dimensions of
+preemption and prevention, see Doyle (2008).
+41. For statistical evidence, see Lemke (2003).
+
+42. Goldstein (1988) also proposes a long-cycle theory based on changes in the global political economy,
+but he gives less attention to system management within a hierarchical order.
+43. For a summary of additional system-level theories and evidence on war, see Rasler and Thompson
+(forthcoming).
+
+

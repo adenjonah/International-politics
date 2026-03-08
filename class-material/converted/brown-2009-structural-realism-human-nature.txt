@@ -1,0 +1,683 @@
+# Source: brown-2009-structural-realism-human-nature.pdf
+# Converted: 2026-03-06 14:39
+# Note: Line numbers here differ from PDF page numbers
+---
+
+            STRUCTURAL REALISM, CLASSICAL REALISM AND HUMAN NATURE                            257
+
+
+  Structural Realism, Classical Realism and Human Nature
+                                         Chris Brown
+
+
+   Abstract
+
+   Kenneth Waltz’s Theory of International Politics is a modern classic, and deserves to be read
+   the way classic texts ought to be read, i.e. in context and in its own terms. Recovering the
+   context in this case is difficult because of the changes in the discourse since 1979, but one
+   difference between the contemporary and the current reception of the text does seem clear –
+   Waltzian structural realism (or neorealism) is now, but was not then, seen as breaking with
+   the traditions of classical realism. How is this discontinuity to be understood? Part of the
+   answer lies in the rhetoric employed by participants in this debate, but, more substantively,
+   there is a genuine disagreement between neorealism and classical realism over the role
+   played by human nature in international relations. Waltzian neorealism appears, contrary to
+   the tradition, to reject any major role for human nature, describing theories that emphasise
+   this notion as ‘reductionist’; however, on closer examination, the picture is less clear-cut.
+   Waltz’s account of human nature can be related quite closely to the major strands in the
+   realist genealogy, but at a tangent to them. Interestingly, and perhaps unexpectedly, it is also
+   compatible with at least some of the findings of contemporary evolutionary psychology.
+
+   Keywords: classical realism, evolutionary psychology, human nature, rational choice,
+   structural realism, systems, Kenneth Waltz
+
+
+
+Reading Waltz in context
+
+There is, I think, a general willingness to admit that Waltz’s major books are ‘modern
+classics’ – there are those who claim to see no merit in Theory of International Pol-
+itics and to regard its success and influence as incomprehensible, but, I suspect, in
+most cases this is simply a way of expressing dislike of the ideas it contains rather
+than a genuine judgement on its standing in the field.1 On the other hand, there
+are a great many writers who argue with greater sincerity that, while classic in its
+own terms, Waltzian realism has parted company with classical realism; indeed the
+name ‘neorealism’ implies discontinuity, and was coined (by Richard Ashley in
+‘The Poverty of Neorealism’) precisely to make exactly this point – although Waltz
+himself prefers the term ‘structural realism’.2 What I wish to argue in this article is
+that this judgement, though made in good faith, is misconceived, and that Waltz’s
+theory has clear roots in the pasts of realism. In order to make this argument, I will
+first backtrack somewhat; if, as I suggest is the case, nearly everyone agrees that Man,
+the State, and War3 and Theory of International Politics are classic texts in so far as
+they demand that anyone involved in the field must engage with them – and most,
+including me, also in so far as they set a standard of excellence in the field – then it
+
+
+© The Author(s), 2009. Reprints and permissions:
+http://www.sagepub.co.uk/journalsPermissions.nav Vol 23(2): 257–270
+[DOI: 10.1177/0047117809104638]
+258                          INTERNATIONAL RELATIONS 23(2)
+
+is not unreasonable to treat them in the way that we might treat works of ‘classical’
+political theory, and to pose the question ‘How are classic texts to be read?’
+    Some post-structuralists/deconstructionists answer this question by offering what
+is sometimes called a ‘symptomatic reading’ – the locution is that of Louis Althusser,
+though the postmodern critic Frederic Jameson is a more accessible source. In The
+Political Unconscious Jameson argues that interpretation
+
+      always presupposes, if not a conception of the unconscious itself, then at least some
+      mechanism of mystification or repression in terms of which it would make sense
+      to seek a latent meaning behind a manifest one, or to rewrite the surface categories
+      of a text in the stronger language of a more fundamental interpretive code.4
+
+A symptomatic reading, in other words, pays attention to exclusions as opposed to
+surface content, and invites us to reconstruct the text to fill the gaps and silences that
+have been identified – an example is Ashley’s ‘Living on Borderlines: Man, Post-
+structuralism and War’ which offers a symptomatic reading of Man, the State, and
+War, bringing out the ways in which the text escapes the control of the author, at
+some points privileging ‘man’, at others ‘the state’.5 There is something to be said
+for this approach; exclusions and omissions clearly are important and the author
+cannot be allowed to exercise authority over the interpretation of a text – but still
+such a reading is always open to the charge that one can make of any text whatever
+one wishes to. Rather than a symptomatic reading, but not wholly divorced from the
+idea, I would prefer to approach texts along contextualist lines – that is, we must
+read texts in contexts. More specifically, we must treat texts as speech-acts, and ask
+not just what the author is saying, but also what the author is doing.6 Symptoms are
+important here, but what this centrally involves is an attempt to recreate as far as
+possible the context within which the author wrote; most of all, we must not assume
+that an author is addressing a timeless set of problems, much less a set of prob-
+lems that we happen to be concerned with. This is a very difficult task, for two reasons.
+To illustrate the first, consider Quentin Skinner’s work on Hobbes. A prodigious
+scholar with a command of the relevant classical and early modern languages which
+has rarely been equalled, Skinner is probably familiar with everything that might have
+influenced Hobbes’s work. Skinner’s scholarship explicitly reflects this reading and
+so can claim to place Hobbes in his contemporary context – by following Skinner
+we can, in principle, see what worried Hobbes and what he wanted to do with his
+texts. It is impossible to imaging this kind of depth of context being available to even
+the most learned and industrious commentators on modern writers – we can do our
+best, but our best is bound to fall short of the ideal.
+    But there is a second, more intractable problem, which (for me at least) is best
+illustrated by a musical analogy (as are most things). Consider the post-1945 move-
+ment towards ‘authenticity’ in classical music: the attempt to recreate the conditions
+under which works by Bach and Beethoven, for example, were first performed – the
+use of original or replica instruments, time signatures and notation of the period,
+smaller orchestras and choirs, different layouts, and, in general, original performance
+           STRUCTURAL REALISM, CLASSICAL REALISM AND HUMAN NATURE                    259
+
+practice based on contemporary accounts.7 The result of this movement has been to
+change quite radically what we understand by the performance of, say, a Beethoven
+symphony or concerto – there is a great deal more lightness and speed than in the
+rather ponderous versions that used to be common, period pianofortes create a much
+crisper sound-world, and so on; even modern symphony orchestras usually pick up
+some of these changes. But what cannot be said is that we are hearing Beethoven’s
+symphonies the way Beethoven’s audiences would have heard them. The reason for
+this is quite simple – we cannot wipe out the auditory experiences of two hundred
+years by an act of will. Musically literate modern audiences will have heard Brahms,
+Wagner, Bruckner, Mahler et al., and even those who do not frequent the concert
+hall will have picked up much of the musical language of these composers via
+popular music (for example, the many film scores written by Mahler’s pupils) and
+this will colour the way they hear Beethoven; there is no way this influence can
+be eliminated.
+    The analogy here is, I hope, clear. Theory of International Politics was published
+in 1979. This was before the rapid expansion of rational-choice analysis and formal
+theory characteristic of much (US) IR of the last three decades; the framing of such
+work in terms of ‘neorealism’ and ‘liberal-institutionalism’ in the 1980s and more
+recent debates over relative versus absolute gains, offensive versus defensive realism,
+balancing strategies, soft-balancing and bandwagonning; the arrival also in the 1980s
+of the so-called Third Debate, with post-structuralist theory, Frankfurt-style critical
+theory, feminism and gender studies making an entrance; the addition of Lacanian
+psychoanalysis to the list, and the rise of multiple varieties of constructivism in the
+1990s and 2000s; the recent revival of interest in classical and Augustinian realism,
+and the Just War tradition; the attempt to establish Carl Schmitt as a canonical fig-
+ure in IR; the emergence of debates on global distributive justice and more widely
+the emergence of international political theory as a recognisable sub-field; and, more
+parochially, the establishment of the ‘English school’ as a putatively distinctive
+approach to IR. And all this has been in the realm of theory – the end of the Cold
+War is also worthy of note. Of course, many of these developments were stimulated
+by readings of Waltz’s work, or developed in opposition to such readings, but the
+musical analogy holds – post-Beethovenian musical language was, one way or
+another, heavily influenced by Beethoven’s work but it still makes it impossible to
+listen to Beethoven with early nineteenth-century ears. Similarly, how are we, in
+2009, to read Waltz’s work without everything that has happened in the field since
+then influencing our judgements?
+    The question seems to answer itself: it simply is not possible to achieve the kind
+of distance that this approach to reading a text requires. But we can at least make the
+effort, and, as it happens, I am well placed to make a shot at this task, because in 1980
+I wrote a review essay on John Burton’s Deviance Terrorism and War and Waltz’s
+Theory of International Politics, which means I can at least see how I thought about
+things then, before all the developments listed in the previous paragraph.8 Moreover,
+although about half of the essay was dedicated to Waltz, the main focus of the piece
+was on Burton, and my take on Waltz was written sine ira et studio which makes it,
+260                        INTERNATIONAL RELATIONS 23(2)
+
+I think, a more useful document. I may have been grinding axes, but not with a view
+to cutting down the author of Theory of International Politics.
+    Re-reading my own text for the first time in a quarter of a century has been an
+interesting experience. The first thing it brings to light is not strictly relevant to my
+topic here, but of interest nonetheless, and that is the focus on the nature of structure
+in the first response to Waltz’s text. As is now almost entirely forgotten, the most
+immediate reaction to Waltz’s argument (which was first presented in The Handbook
+of Political Science in 1975) was a prolonged response from Morton Kaplan, who
+took exception to Waltz’s critique of his conception of a ‘system’; Waltz distinguishes
+between the systems level properly conceptualised, and the level of interacting units,
+and accused Kaplan of failing to grasp this distinction in his famous text System and
+Process in International Politics.9 To my mind – and, given my interest at the time
+in structuralist and neo-Marxist theories of international relations, this was an
+important issue to me – Waltz had much the better of this debate, but was vulnerable
+to the charge that his version of structure was no more capable of showing how
+structure was transmuted into process than Kaplan’s. To make this point I refer
+in the review to the Marxist literature on the subject, and E. P. Thompson’s recent
+critique of Louis Althusser, The Poverty of Theory.10 Thompson suggests the need
+for ‘junction concepts’ and lays great stress on the notion of ‘experience’. All this has
+quite a bit of resonance in terms of later constructivist thought, the agent–structure
+debate and, more recently, of critical realist theory. Interestingly, Ashley would
+also use Thompson’s work in his critique of ‘the poverty of neorealism’ in his 1984
+International Organization article.
+    More to the point of this essay is the way in which I, in 1980, understood Waltz’s
+relationship with past realist writers. The simple answer is that I identified no great
+discontinuity here. Due attention is paid, of course, to the fact that Waltz presents
+his argument via a Popperian account of scientific method that certainly was not
+to be found in the classic texts of realism, and that he draws a distinction between
+reductionist and systemic theories that is somewhat different from that employed
+by those texts, insofar as they employ such a distinction at all, but these points
+of difference are outweighed by the substantial similarities between his overall
+conception of the world and that of the classics. He presents a strong and sophisticated
+account of the working assumption that states are unitary actors, a ‘masterly’ critique
+of theories of interdependence (and it is indeed masterly I should add, and still very
+much worth reading, especially if you substitute ‘globalisation’ for ‘interdependence’
+when the term appears in the text), and a subtle discussion of the balance of power –
+all key issues for the classical realists. Hence my judgement then that Waltz remains
+firmly in the ‘conventional mainstream’ of realist thought.
+    So many people have subsequently disagreed with this assessment that an ele-
+ment of auto-critique may be called for here. In my review I picked up Waltz’s use of
+the terminology of a self-help system and his use of economic models, and I critiqued
+his assumption that he was producing explanatory (as opposed to ‘metaphysical’)
+theory – but I did not anticipate that these positions would transmute into the
+rational-choice versions of neorealism subsequently popular, and that the behaviour
+            STRUCTURAL REALISM, CLASSICAL REALISM AND HUMAN NATURE                     261
+
+of egoistic actors under anarchy (the ‘anarchy problematic’) would be studied by
+the use of increasingly complex econometric models. In my defence, I suspect Waltz
+himself did not anticipate this denouement – later statements and interviews sug-
+gests as much.11
+    Still, even accepting that there are elements of the argument I did not pick up then,
+it still seems there is a big gap between my take on Waltz’s position in 1980 and its
+later reception. How is this gap to be explained? There are two reasons, I think – one
+a matter of rhetoric, the other a matter of substance. The rhetorical points concern,
+first, the way in which authors present themselves, and, second, the way in which
+they critique others. As to the first point, there is a basic divide to be seen in academic
+argumentation between those who in their own work stress continuity and those who
+stress rupture. In practice, we all stand on the shoulders of giants, and there is always
+a degree of continuity between even the most innovative work and past efforts in the
+field – the difference is whether, and to what degree, any particular writer is moved
+to acknowledge that link. Waltz, in Theory of International Politics, is closer to the
+latter camp than the former; he does not make positive claims for great originality,
+but neither does he emphasise the links between his work and that of earlier realists
+(as we will see below, Man, the State, and War is a different kind of book, and there
+the problem is rather of discerning when Waltz is speaking in his own voice, and when
+he is reporting the work of others). There is an interesting contrast here with, say,
+Robert Gilpin, whose response to being identified as a neorealist by Richard Ashley
+was to deny vigorously the charge, stressing the way in which he represents the rich
+tradition of political realism.12 In the same collection Robert Keohane suggests that
+Waltz ‘[reformulates] and systematizes Realism, and thus develops what I have called
+Structural Realism, consistently with the fundamental assumptions of his classical
+predecessors’,13 but, in his own response, Waltz simply does not address the issue
+of continuity with the past; he notes Richard Ashley’s charge that ‘[older] realists,
+despite some limitations, set a high standard of political reasoning from which I and
+other neorealists have regressed’, and he notes Keohane’s position cited above, but
+responds directly to neither charge.14 Instead he simply sets out in detail and defends
+his original arguments.
+    This insouciance is, in many ways, admirable, but it does help critics to make the
+point that his work represents a clear break with the past, if they wish to do so – and
+they often will, because this leads into the second rhetorical point about the way in
+which academics criticise each other. A very familiar ploy here is the one Waltz notes
+in his comment on Ashley. In order to undermine the position of an author with whom
+one disagrees quite profoundly, it is helpful to be able to make the case that their posi-
+tion does not simply contradict one’s own but also that of some acknowledged past
+masters within the author’s own discourse. In effect, the ploy is to try to use people
+who would have been your enemies in the past to combat someone who is your enemy
+in the present. These figures from the past are praised for their sagacity in order to
+belittle the present foe.
+    In fact, of course, this is usually little more than a rhetorical trick. For example,
+Ashley refers favourably to E. H. Carr in the aforementioned essay as an example of
+262                         INTERNATIONAL RELATIONS 23(2)
+
+someone who was steeped in the diplomatic culture of the past and who exhibited
+superior wisdom and judgement to Waltz, who has remained pretty firmly ensconced
+in the world of the academy. Actually, one cannot help feeling that Carr would have
+had very little time for the kind of post-structuralist work favoured by his admirer,
+and as to Carr’s allegedly superior judgement, I suppose support for the appeasement
+of Hitler before 1939, and of Stalin after 1945, could be described in those terms, but
+not by me. But this is beside the point, because Ashley’s invocation of Carr has very
+little to do with Carr’s work and everything to do with using him as a stick to beat
+Waltz with. Waltz spoils the game slightly by not responding, but the very lack of a
+response does feed the predispositions of those who want to see him as instituting
+a rupture with the past.
+    But, although this is part of the story, it is only part of the story – there is another
+reason why Waltz’s work is seen as instituting a serious break with the past and that
+concerns the much wider issue of how that past is understood. What actually are
+the roots of realism, and is Waltz’s structuralist account actually out of line with
+those roots? The rest of this article is devoted to this question, and, as will become
+apparent, the matter hinges on an examination of the role of human nature in classical
+realist thought. The argument for a rupture between Waltzian neorealism and clas-
+sical realism rests partly on the proposition that human nature plays less of a role
+for Waltz than it does for the classics – I want to suggest that while this is indeed
+the case, the way in which Waltz handles the issue of human nature can be related to
+both the major strands of realist thought, although, at the same time, it is distanced
+from them.
+
+
+Waltz, human nature and the roots of realism
+
+The central problem for those who wish to argue against the discontinuity thesis is
+simply stated. Waltz is absolutely clear that what he is presenting is a theory of the inter-
+national system, and that theories based on other levels, the individual or the state, that
+is, ‘reductionist’ theories, are profoundly unsatisfactory – but, on the face of it, most
+of the authors who are usually seen as the key figures in a genealogy of realism offer
+precisely such theories. The Machiavellian tradition of raison d’état is essentially
+based on a theory about the conduct of foreign policy and rests on a particular
+conception of what human beings are like; the Hobbesian account of an international
+‘state of nature’ again rests explicitly on an anthropology, as the structure of Leviathan
+makes very clear; the Augustinian roots of Niebuhr’s (and perhaps Morgenthau’s)
+realism are firmly embedded in the notion of original sin and fallen man.15
+    Certainly one can find ‘structuralist’ positions in classical authors. Thucydides
+is an interesting case here. At the beginning of his history he states that the truest
+cause of the war whose story he is about to tell is ‘the one least openly expressed,
+that increasing Athenian greatness and the resulting fear among the Lacedaemonians
+made going to war inevitable’, which sounds like a clear structuralist argument
+(indeed an embryonic statement of the security dilemma).16 He makes the structuralist
+case more explicitly later in the text when he puts into the mouths of the Athenian
+           STRUCTURAL REALISM, CLASSICAL REALISM AND HUMAN NATURE                     263
+
+representative the proposition that they were compelled to expand their empire
+by necessity, and that the Spartans would have done the same had they been in a
+similar situation – the Athenian speech here is a nice early statement of the tenets
+of ‘offensive realism’.17
+   Waltz understandably cites these and similar passages in Thucydides – the
+problem is that one can find with equal ease statements in the same source which
+put the real driving force behind the war elsewhere. In the same speech cited above,
+the Athenians state:
+
+   [we] have done nothing remarkable, nor contrary to ordinary human behaviour,
+   if we not only accepted an empire when it was offered but also did not let it
+   go, submitting to the great forces of prestige, fear and self-interest – not as the
+   originators of such conduct, moreover, since the rule has always existed that
+   the weaker is held down by the stronger.18
+
+Later, the Athenians make the same point in the ‘Melian Dialogue’: ‘According to
+our understanding, divinity, it would seem, and mankind, as has always been obvious,
+are under an innate compulsion to rule whenever empowered.’19 Human nature is
+the driving force, to which individuals and peoples must submit, are under an innate
+compulsion.
+   The other classical writer favoured by structural realists is Rousseau, whose
+parable of the stag hunt is a staple for students of rational choice and the logic (and
+dilemmas) of collective action. Thus:
+
+   If it was a matter of hunting a deer, everyone well realized that he must remain
+   faithfully at his post; but if a hare happened to pass within the reach of one of them,
+   we cannot doubt that he would have gone off in pursuit of it without scruple and,
+   having caught his own prey, he would have cared very little about having caused
+   his companions to lose theirs.20
+
+This is frequently used to illustrate the imperatives of a self-help system: ‘everyone’
+would behave in this way because everyone would behave in this way – in other
+words we have to assume that if we do not chase the hare someone else will, or if we
+are the only person who has seen the hare and so this does not apply, we have to
+assume that there may be another hare which someone else will see and chase, and
+so on. Either way the stag will be lost and we will go hungry, so we had better act
+now. But, again, it is the assumptions that Rousseau makes about human nature that
+do the work in this case; it is because human beings are unscrupulous in the pursuit
+of their own interests, and have little concern for the interests of others that they act
+in this way.21
+    In short, both Thucydides and Rousseau are ultimately offering first-image
+accounts of the motor of realism – and they are the best friends Waltz can find within
+the classical literature on the subject. For Augustine and the Augustinians, ancient and
+modern, political leaders are obliged to operate in a fallen world – the city of man as
+264                        INTERNATIONAL RELATIONS 23(2)
+
+opposed to the city of God – and therefore must be wise and prudential (also, it is to
+be hoped, just) wielders of power, and this has nothing to do with structural features
+of the international politics of late antiquity (or the early twenty-first century). For
+Augustine, the hierarchical polity that was collapsing around his ears was as much a
+context as the incipient anarchical system being created by the barbarian tribes who
+were overrunning the Empire.22 Again, Machiavelli simply takes it for granted that
+politics is about the pursuit of interests; thus, the unstated assumption is that Duke
+Valentino seeks to extend his power simply because he can – no further explanation
+is required – and if you want to preserve your power, or that of the city (The Prince),
+or to preserve republican forms of government (The Discourses), you had better be
+aware that this is the way of the world.
+    Without labouring the point further, I suggest a key feature of Waltz’s thought
+and one that genuinely distinguishes it from classical realism, is that his theory of
+international politics is not derived from a theory of human nature, or even explicitly
+in reaction to a theory of human nature – indeed ‘human nature’ does not even
+appear in the index of Theory of International Politics. In Man, the State, and War,
+of course, it does appear but of the three images set out therein, the first two (‘man’
+and ‘the state’) are collapsed into one category in Theory of International Politics –
+‘reductionism’. Interestingly, when Waltz wants to illustrate the follies of this way
+of thinking, it is to a theory of foreign policy (Lenin’s theory of imperialism) that he
+turns, and not to a theory of human nature. Why so?
+    For the answer to this question we have to examine the complex picture of human
+nature presented in Man, the State, and War. This is not as easy as it might be thought
+to be, because – unlike Theory of International Politics – this is a book that is built
+round a series of interlocking debates between different authors, classical and modern,
+and it is not always as clear as it might be what Waltz himself thinks on the subject.
+So, for example, at the outset to that book we have the bald statement ‘[our] miseries
+are ineluctably the product of our natures. The root of all evil is man, and thus he
+himself is the root of the specific evil, war’ (p. 3), which Freyberg-Inan in her generally
+excellent book on realism and human nature takes to be an expression of Waltz’s
+own view; she comments, correctly, that in this he sounds like St Augustine.23 The
+problem is that while Waltz may indeed endorse this position, it actually occurs in
+the course of a discussion of precisely the Augustinian perspective that it is supposed
+to resemble, and it could well be (and probably is) simply a summary of that position.
+If it is Waltz’s view then the use of the term evil is interesting here, adding an unex-
+pected theological dimension to what is otherwise, as noted above, a frequently ex-
+pressed realist position, but, in any event, what is more significant is that it is clear
+from the rest of the book that Waltz believes that this sort of generalisation about
+human nature actually gets us nowhere, and a different kind of explanation for war
+is needed. Why? Given the general thrust of his argument elsewhere, one might have
+expected him to argue that because human nature is a constant it cannot explain war;
+war is the product of a particular set of social arrangements and must be understood
+in that context, reductionist theories will not do, and so we must move to the third
+image. Had he taken such a route he would have aligned himself with those realist
+            STRUCTURAL REALISM, CLASSICAL REALISM AND HUMAN NATURE                     265
+
+writers who emphasise an unchanging human nature (Thucydides, Machiavelli and
+Hobbes) even if, unlike those predecessors, he does not think that ultimately this
+nature matters very much.
+   But, it seems, that this is actually not why he moves away from human nature.
+Rather, it is first because, in any scientific sense, the content of human nature is
+unknowable, but second, and more importantly, it is because, contra the position
+outlined above, human nature is actually a variable, not a constant. Thus:
+
+   [Because] of the difficulty of knowing such a thing as a pure human nature, because
+   the human nature we do know reflects both man’s nature and the influence of his
+   environment, definitions of human nature such as those of Spinoza and Hobbes
+   are arbitrary and can lead to no valid social or political conclusions (p. 166).24
+
+Here Waltz is discussing the critique of these accounts of human nature allegedly put
+forward by Montesquieu and Rousseau, but it is, I think, clear from the context that
+he is endorsing this position.25 Reconstructing and rearranging his argument, it seems
+to be that while we humans do indeed have a nature, and perhaps, judging from the
+existence of evil in the world, that nature is such that sometimes evil consequences
+flow from it, we cannot actually specify this nature much beyond that, at least not in
+any scientific way, and, in any event, in practice, nature and nurture cannot be treated
+separately; therefore an emphasis on human nature gets us nowhere if we want to
+understand social phenomena.
+    This is quite a complex position, which touches base with the major strands of
+classical realist thought, but at a tangent. The initial emphasis on evil, if it were to be
+the case that this is indeed his emphasis, would link Waltz to the ‘righteous realists’,
+the Augustinian strand of thought identified by Joel Rosenthal, Alastair Murray and
+others.26 But the Augustinians actually draw political conclusions from this position;
+their realism is a realism of prudence, where we are enjoined to question our own
+presuppositions and values (because we are fallen beings every bit as much as are our
+enemies), and to turn away from ambitious projects of social reform, which are
+doomed to failure because of the imperfect human material from which societies
+are constructed – human beings may strive to be moral (although, for Augustine, they
+can only achieve this status by God’s grace, not by their own efforts), but collectivities
+will always be egoistic.27 There is, I suspect, little here with which in practice Waltz
+would disagree (which is one of the reasons why Freyberg-Inan might be right in
+assigning the ‘evil’ statement to him), but he does not get to this position by the
+Augustinian route, even if he has the same starting point. From his perspective, and
+given his commitment to social science, and to a particular version of what social
+science involves, the Augustinian route leads into a dead end. In the terminology
+of Theory of International Politics this is metaphysics, and he, Waltz, is engaged in
+science. One cannot build a model on this kind of foundation, even if the foundation
+is, in some sense, sound; Augustinian realism does not generate testable hypotheses
+and ultimately it remains a branch of belles-lettres. From a Waltzian perspective this
+is also, I think, the problem with Morgenthau’s theory – Morgenthau wants to be
+objective and present scientific laws of politics, but his metaphysical commitments get
+266                        INTERNATIONAL RELATIONS 23(2)
+
+in the way, although, for many, of course, it is Morgenthau’s so-called ‘metaphysics’,
+his critique of positivism, as set out in, for example, Scientific Man vs. Power Politics,
+that is his most attractive feature.28 In short, Waltz is not an Augustinian realist, even
+if he shares some of the pessimism characteristic of that genre.
+    Neither does he follow Hobbes, Spinoza, Machiavelli et al. by rooting his theory
+in the drives produced by an unchanging human nature. But, again, there are points
+of contact with this strand of realism; he may not see human nature as constant, but
+he does, I think, share with these authors the view that the interests of states, which
+are ultimately generated by human nature, are, more or less, constant – the difference
+being that from his perspective these interests have to be seen as exogenous to a
+theory of the international system. States desire to survive and it is this desire which
+leads them to arms-race, or to form balances or whatever; we do not need to ask why
+states desire to survive, they just do. From his perspective, to push the question further
+takes us into areas which it is not reasonable to expect a theory of the international sys-
+tem to be concerned with. It is this approach to interests – as constant but exogenous –
+which has dominated the thought of the ‘rational choice realists’ who have built on
+Waltz’s work to construct modern neorealism by redefining the field as the study of
+how egoists pursue their exogenously given interests under conditions of anarchy –
+and indeed of their cousins, the liberal institutionalists who have offered a different
+reading of the possibilities of the anarchy problematic, but take the same view of
+interests (or ‘preferences’ as Andrew Moravcsik would have it).29 And, of course, it
+is this position that has been so effectively criticised by constructivist writers such
+as Friedrich Kratochwil and Harald Müller.30 Values and interests should not be
+taken as given but must be understood as produced in discourse: that is, produced in
+a relationship. As Kratochwil puts it, one root of the word ‘interest’ is ‘inter-esse’,
+‘the in-between of the me and the you’.31 On this account, it simply is not possible to
+produce a theory of international politics that is isolated from other levels of social
+and inter-personal interaction.
+    Still, without remotely wishing to suggest that Waltz is a proto-constructivist,
+it seems to me that there are elements of his thinking that would be rather more
+compatible with this critique than one might expect; the aspects of the work of the neo-
+realists and liberal institutionalists criticised by Kratochwil actually owe more to
+the Hobbesian account of human nature than they do to the more nuanced story that
+Waltz has to tell. Indeed, when Waltz writes of man’s nature interacting with his
+environment, one could almost imagine this thought being developed in the direction
+of Alexander Wendt’s account of the different kinds of anarchy that might emerge in
+different kinds of environments32 – but, of course, Waltz does not wish to go anywhere
+near that position, rejecting altogether any line of thought that relies on human nature.
+The point is that he excludes human nature because we cannot (or at least do not)
+understand it, whereas the rational choice realists treat it as an exogenous variable
+because they believe that they do understand it, and that it generates interests the
+nature of which can simply be taken for granted. But, on the other hand, for Waltz
+although we cannot (or at least do not) understand human nature, we do at least know
+that it is quite likely that ‘our miseries are the product of our natures’, which takes us
+back to Augustinian pessimism and away from both the rational choice realists and
+            STRUCTURAL REALISM, CLASSICAL REALISM AND HUMAN NATURE                     267
+
+the constructivists. Waltz’s thought seems to oscillate between the Hobbesian
+and Augustinian poles, touching both while refusing to be identified with either.
+    Here, I suggest, is perhaps the most important, and certainly the most paradoxical,
+reason why Waltz is so difficult to relate to the roots of realism; it is not because he is
+totally separated from those roots, but because he is actually implicated in too many
+of them. Whereas we can settle for a Weberian (modified Nietzschean) reading of
+Morgenthau and, I would argue, perhaps controversially, a Hobbesian (out of Marx
+and Mannheim) reading of Carr, no such shorthand is available to us to summarise
+Waltz’s position. It is easiest simply to say that there is a rupture here, and that Waltz
+really is the inventor of something called ‘neorealism’, a doctrine which has lost touch
+with past realist thought. Easiest perhaps, but inaccurate I think – better would be to
+say that finding a shorthand reading of Waltz that relates to the realist past is difficult
+because there is too much to say rather than too little.
+    Returning to the issue of human nature, so far I have tried to describe Waltz’s
+position – but some degree of assessment of that position is also called for. Was he
+right to see human nature as essentially unknowable, and variable in its impact?
+When Waltz was developing his thoughts on structural realism in the 1970s, human
+socio-biology was in its infancy, and the first serious attempt by a scholar to talk about
+human nature in a scientifically defensible way – Edward O. Wilson’s Sociobiology:
+The New Synthesis – was as unpopular with biologists as it was with sociologists and
+anthropologists, and gave no reason for Waltz to change his judgement that there
+was nothing useful that a social scientist could say about the subject.33 Indeed, the
+most trenchant critique of the scientific pretentions of socio-biology, by Marshall
+Sahlins, rejected the discourse on roughly the same Durkheimian, grounds offered by
+Waltz for rejecting other kinds of ‘reductionist’ theories.34 Since the 1970s, however,
+socio-biology, rebranded as ‘evolutionary psychology’, has developed in ways that
+are far removed from the simplicities of Wilson’s work, and now, I believe, demands
+to be taken seriously.35 Moreover, neuroscientists such as V. S. Ramachandran and
+Antonio Damasio are revealing ways in which human perceptions and behaviours
+are crucially shaped and determined by physical processes within the brain.36 And, to
+complete the picture, many cultural anthropologists are now rejecting the politically
+correct relativism of their disciplinary forebears – perhaps rather disappointingly, it
+turns out that the ‘coming of age on Samoa’ was more or less like the coming of age
+everywhere else, and Donald Brown has proved that one can write a very substantial
+book full of ‘human universals’.37 Add all this material together, and although we may
+not know of such a thing as a ‘pure human nature’, we (that is, the scientific com-
+munity, broadly drawn) do know a lot more about the subject than we did 30 years
+ago. Does this have any implications for Waltz’s position?
+    Scholars of international relations have been slow in coming to terms with this
+material, and probably the best-known work, by Bradley Thayer, is broadly supportive
+of rational-choice, game-theoretic approaches.38 More recent work, however, focuses
+on the ways in which choices are made that are not utility-maximising.39 The results
+here are rather sobering: for example, there is good evidence that mentally healthy
+people tend to exhibit psychological biases that encourage optimism; such biases,
+known to evolutionary psychologists as ‘positive illusions’, may well have been
+268                            INTERNATIONAL RELATIONS 23(2)
+
+adaptive in helping our ancestors to cope with hard times, but nowadays may serve
+instead to get us into trouble.40
+    It would be difficult to overestimate the importance of this work for international
+political theory, and I hope to write more extensively on this topic in the future, but
+obviously, any serious assessment would take us far beyond the scope of this particular
+article. Still, it is interesting to ask whether, if it is indeed the case that we can now say
+rather more about human nature than we could in the 1970s, as I think it is, does what
+we can now say actually support the position Waltz took in Theory of International
+Politics? Was Waltz right to resist basing his theory on human nature? The answer,
+I think, is a tentative yes. Scientific work in this field has indeed identified biases in
+judgement some of which are relevant to any theory of foreign policy behaviour –
+but, of course, Waltz had no intention of producing such a theory. At the macro level
+where he was working, the most relevant finding of the new learning is rather dif-
+ferent. It is precisely that while there may be identifiable human behavioural biases
+and mechanisms that are the product of evolution and are constant across cultures and
+over time, the idea that human nature as such is a constant is not defensible. In the
+study quoted above, ‘positive illusions’ were present generally in all populations,
+but they varied in intensity between individuals; mental states are important and,
+unsurprisingly, depressed people were less likely to have positive illusions that
+mentally healthy people; context is central – positive illusions are greater, for example,
+‘in situations of ambiguity, low feedback, and where events are difficult to verify’;
+culture matters, ‘positive illusions are greater among Western (especially American)
+populations than Eastern populations’ (we might have guessed that one as well); and,
+finally, they vary according to regime type and decision-making process.41 The point
+is that it is precisely because of these variations that it is possible to put together a
+theory which is intended to predict when positive illusions will be important – this
+is the goal of Dominic Johnson’s recent book.42 If there were to be such a thing as a
+constant ‘human nature’ it could not be the basis for theory, which is precisely why
+Waltz was right not to construct his theory on such foundations, even if this meant
+that, in this respect, he had to part company with his illustrious forebears.
+    So, to return to my starting point, how then should we read Waltz – as one in a line
+of realist theorists whose work is consistent with the ‘fundamental assumptions of
+his classical predecessors’ or as a figure who has broken with the past? The answer
+is ‘both and’ rather than ‘either or’. It is impossible to find any figure amongst the
+classics who puts things together in the same way that Waltz does, but most of the
+things that are put together by Waltz would be familiar to most classical writers. And
+this ability to take familiar material and to combine and recombine it is precisely
+why Waltz is an undisputed modern classic.
+
+
+Notes
+
+I am grateful to my colleagues Kirsten Ainley, Kim Hutchings and George Lawson for comments on a much
+earlier draft, and to Ken Booth for his characteristically helpful commentary on the original conference
+paper; as always, I alone am responsible for errors that remain.
+             STRUCTURAL REALISM, CLASSICAL REALISM AND HUMAN NATURE                                   269
+
+ 1   Kenneth Waltz, Theory of International Politics (Reading MA: Addison-Wesley, 1979).
+ 2   Richard K. Ashley, ‘The Poverty of Neorealism’, International Organisation, 38, 1984, pp. 225–86.
+ 3   Kenneth Waltz, Man, the State, and War (New York: Columbia University Press, 1959).
+ 4   Frederic Jameson, The Political Unconscious (Ithaca, NY: Cornell University Press, 1990), p. 60.
+ 5   Richard K. Ashley, ‘Living on Borderlines: Man, Poststructuralism and War’, in James Der Derian
+     and Michael Shapiro (eds), International/Intertextual (Lexington, MA: Lexington Books, 1989).
+ 6   On this approach see the discussion in James Tully, Meaning and Context: Quentin Skinner and his
+     Critics (Princeton, NJ: Princeton University Press, 1992).
+ 7   Unfortunately this does not apply to baroque opera, since, in the eighteenth century, it was customary
+     for listeners to drink and chat between the big numbers rather than sit in silence in a darkened opera
+     house; this is why Handel operas at Covent Garden or the New York Met are so boring.
+ 8   J. W. Burton, Deviance, Terrorism and War (New York: St Martin’s Press, 1979). Chris Brown,
+     ‘International Theory: New Directions’, Review of International Studies, 7, 1981, pp.173–185.
+ 9   Morton A. Kaplan, Towards Professionalism in International Theory (New York: Collier Macmillan,
+     1979), written largely in response to Waltz’s chapter in Fred Greenstein and Nelson W. Polsby (eds),
+     The Handbook of Political Science, vol. 3: Macropolitical Theory (Reading, MA: Addison-
+     Wesley, 1975).
+10   E. P. Thompson, The Poverty of Theory and Other Essays (London: Merlin Press, 1978).
+11   See Kenneth Waltz, ‘Evaluating Theories’, American Political Science Review, 91, 1997, pp. 913–18,
+     and ‘Realism Revisited: An Interview with Kenneth Waltz’ (conducted by Fred Halliday and Justin
+     Rosenberg), Review of International Studies, 24, 1998, pp. 371–86.
+12   See Robert Gilpin, ‘The Richness of the Tradition of Political Realism’, in Robert O. Keohane (ed.),
+     Neorealism and its Critics (New York: Columbia University Press, 1986).
+13   Robert O. Keohane, ‘Theory of World Politics: Structural Realism and Beyond’, in Keohane,
+     Neorealism and its Critics, p. 175.
+14   Kenneth Waltz, ‘Reflections on Theory of International Politics: A Response to my Critics’, in
+     Keohane, Neorealism and its Critics, p. 322.
+15   Morgenthau believed that the objective laws of political realism are based in human nature (Politics
+     Among Nations, 5th edn (New York: Knopf, 1978), p. 4), and Ulrich Petersen makes a strong case
+     for saying that he had a Nietzschean belief in the centrality of a human lust for power that seeks to
+     dominate (Ulrik Petersen, ‘Breathing Nietzsche’s Air: New Reflections on Morgenthau’s Concepts of
+     Power and Human Nature’, Alternatives, 24(1), 1999, p. 83). Certainly Michael Smith is persuasive
+     in identifying the Weberian roots of modern realism, and Weber was deeply influenced by Nietzsche;
+     see Michael J. Smith, The Realist Tradition from Weber to Kissinger (Baton Rouge: University of
+     Louisiana Press, 1986). It is a moot point whether this is in any way compatible with Niebuhr’s
+     Christian (Augustinian) pessimism, although it produced similar results.
+16   Thucydides, The Peloponnesian War, trans. Steven Lattimore (Indianapolis, IN: Hackett, 1998),
+     p. 15.
+17   Thucydides, The Peloponnesian War, p. 37.
+18   Thucydides, The Peloponnesian War. Different translations of the ‘great forces’ offer ‘ambition’
+     (Woodruff) or ‘honour’ (Crawley) instead of ‘prestige’; these notions are so closely interwoven
+     for the Greeks that distinguishing between them is genuinely difficult, although for us they point
+     in somewhat different directions. Paul Woodruff, On Justice, Power and Human Nature: Essence
+     of Thucydides ‘History of the Peloponnesian War’ (Indianapolis, IN: Hackett, 1993); Richard
+     Crawley’s historic translation is available at: http://ebooks.adelaide.edu.au/t/thucydides/crawley.
+     R. N. Lebow lays stress on the importance of honour to the classical Greeks, but perhaps understates
+     the importance of its synonyms, in his The Tragic Vision of Politics: Ethics, Interests and Orders
+     (Cambridge: Cambridge University Press, 2003), and A Cultural Theory of International Rela-
+     tions (Cambridge: Cambridge University Press, 2008).
+19   Thucydides, The Peloponnesian War, p. 298. Crawley is crisper and more poetic: ‘Of the gods we
+     believe, and of men we know, that by a necessary law of their nature they rule wherever they can.’
+20   J. J. Rousseau, A Discourse on Inequality, part 2, trans. Maurice Cranston (Harmondsworth: Penguin
+     Classics, 2003).
+21   In fact, Rousseau distinguishes between pre-social human beings who exhibit amour de soi and
+     socialised humans who are driven by amour propre; both are the forms of egoism, but the latter
+     involves emulation, whereas the former is simply self-centred. Rousseauian realists would like states
+     to be driven by amour de soi rather than amour propre.
+22   James O’Donnell, Augustine: A New Biography (New York: HarperCollins, 2005), is a fascinating
+     new study which places Augustine’s thought firmly in its historical context.
+270                               INTERNATIONAL RELATIONS 23(2)
+
+23    Annette Freyberg-Inan, What Moves Man: The Realist Theory of International Relations and its
+      Judgement of Human Nature (Albany: State University of New York Press, 2003), p. 73.
+24    Interesting that Spinoza is mentioned in this context; too little attention is paid by modern IR theorists
+      to the work of Spinoza, who is coming to be seen as a much more central figure to the Enlightenment
+      than was previously thought to be the case. See Jonathan Israel, Radical Enlightenment: Philosophy
+      and the Making of Modernity, 1650–1750 (Oxford: Oxford University Press, 2001).
+25    In fact, I think that to Rousseau human nature was a little more important and a little less variable
+      than this quotation would imply, but that is not the issue here.
+26    See Joel Rosenthal, Righteous Realists (Baton Rouge: University of Louisiana Press, 1991); Alastair
+      Murray, ‘The Moral Politics of Hans Morgenthau’, Review of Politics, 58, 1996, pp. 81–107, and
+      Reconstructing Realism (Edinburgh: Keele University Press, 1996).
+27    Reinhold Niebuhr, Moral Man and Immoral Society (New York: Charles Scribner’s Sons, 1932).
+28    Hans Morgenthau, Scientific Man vs. Power Politics (London: Latimer Press, 1947).
+29    Andrew Moravcsik, ‘Taking Preferences Seriously: A Liberal Theory of International Politics’,
+      International Organisation, 51(4), 1997, pp. 513–53.
+30    Harald Müller ‘Arguing, Bargaining and All That’, European Journal of International Relations,
+      10, 2004, pp. 395–435; Friedrich Kratochwil, ‘Rethinking the “Inter” in International Politics’,
+      Millennium, 35, 2007, pp. 495–511.
+31    Kratochwil, ‘Rethinking the “Inter”’, p. 502, n 13.
+32    Alexander Wendt, ‘Anarchy is What States Make of It: The Social Construction of Power Politics’,
+      International Organization, 46, 1992, pp. 391–426, and Social Theory of International Politics
+      (Cambridge: Cambridge University Press, 1999).
+33    Edward O. Wilson, Sociobiology: The New Synthesis (Cambridge MA: Harvard University
+      Press, 1975).
+34    Marshall Sahlins, The Use and Abuse of Biology: An Anthropological Critique of Sociobiology
+      (London: Tavistock Press, 1977).
+35    The literature here is vast: for a recent large-scale authoritative and wide-ranging survey see
+      R. I. M. Dunbar and Louise Barrett (eds), The Oxford Handbook of Evolutionary Psychology
+      (Oxford: Oxford University Press, 2007).
+36    Good popular introductions are V. S. Ramachandran, The Emerging Mind: The BBC Reith Lectures,
+      2003 (London: Profile Books, 2003), and Antonio Damasio, The Feeling of What Happens, new edn
+      (New York: Vintage Books, 2005). Interestingly, one of the few political philosophers to investigate
+      this work is William Connolly, normally seen as a Foucaldian; see his Neuropolitics: Thinking,
+      Culture, Speed (Minneapolis: University of Minnesota Press, 2002).
+37    On Samoa, see Dennis Freeman, The Fateful Hoaxing of Margaret Mead (Boulder, CO: Westview
+      Press, 1999); Donald Brown, Human Universals (New York: McGraw-Hill, 1991).
+38    Bradley Thayer, Darwin and International Relations; On the Evolutionary Origins of War and Ethnic
+      Conflict (Lexington: University of Kentucky Press, 2004).
+39    See, e.g., Stephen Peter Rosen, War and Human Nature (Princeton, NJ: Princeton University Press,
+      2005), and Raphael D. Sagarin and Terence Taylor (eds), Natural Security: A Darwinian Approach
+      to a Dangerous World (Berkeley: University of California Press, 2008).
+40    See Dominic D. P. Johnson, Overconfidence in War: The Havoc and Glory of Positive Illusions
+      (Cambridge, MA: Harvard University Press, 2004). Nobel Laureate Daniel Kahneman comments: ‘the
+      bottom line is that all the biases in judgment that have been identified [by evolutionary psychologists]
+      in the last 15 years tend to bias decision-making toward the hawkish side’. Cited from Dominic D. P.
+      Johnson et al., ‘Overconfidence in Wargames: Experimental Evidence on Expectations, Aggression,
+      Gender and Testosterone’, Proceeding of the Royal Society B., 273, 2006, pp. 2513–20.
+41    Johnson et al., ‘Overconfidence’, p. 2518.
+42    Johnson, Overconfidence. Interestingly, at an ISA roundtable in San Francisco in 2008, Johnson
+      presented this argument as a refutation of Waltz, whom he understood, wrongly I believe, to base
+      his theory on the constancy of human nature.
+

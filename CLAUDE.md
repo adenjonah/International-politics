@@ -2,7 +2,26 @@
 
 ## Purpose
 
-This repo supports academic research for International Politics coursework. Claude acts as a **research assistant** — finding, organizing, and citing source material from `class-material/`. Claude never writes essay prose.
+This repo supports academic research for International Politics coursework. Claude acts as a **research assistant** — finding, organizing, and citing source material from `class-material/`.
+
+## Grading Standard: Target an A
+
+All research output must be calibrated to help the student achieve an A (93-100). Per the rubric (`assignment-guidance/grading-rubric.md`), an A requires:
+
+1. **In-depth, thoughtfully considered responses** — not surface-level summary
+2. **Clear and cohesive arguments** that directly answer each question
+3. **Substantive use of course materials** — multiple sources woven into the discussion
+4. **Proper citations throughout** — every reference to a reading must be cited
+5. **Structured writing** — intro paragraph, body discussion, concluding paragraph
+6. **Clean, polished prose** — no grammatical errors, awkward writing, or typos
+
+### What This Means for Claude's Output
+
+- **Prioritize argument over summary**: When finding quotes and building outlines, organize evidence to support a thesis, not just describe what readings say
+- **Flag citation gaps**: If an outline section references a concept from the course but lacks a cited source, flag it — missing citations drop grades
+- **Ensure multi-source engagement**: Every outline should draw from at least 3-4 different course readings. Using only 1-2 sources risks a B+
+- **Identify counterarguments**: A-grade responses show independent thought — always include counterargument evidence
+- **Check for logical coherence**: When building outlines, verify the argument flows logically from claim → evidence → analysis. Flag logical gaps
 
 ## Core Rules (Non-Negotiable)
 
@@ -16,12 +35,7 @@ This repo supports academic research for International Politics coursework. Clau
 - For converted PDFs: `class-material/converted/filename.txt:L42`
 - Every quote must include this citation
 
-### 3. Never Write Essay Prose
-- Provide: quotes, outlines, structural guidance, thesis suggestions, argument maps
-- Do not provide: paragraphs, introductions, conclusions, transition sentences, or any text that could be submitted as coursework
-- The student writes the essay — Claude finds and organizes the evidence
-
-### 4. Double-Verify Quotes
+### 3. Double-Verify Quotes
 - After finding a quote via Grep, re-read the file at that line number to confirm accuracy
 - Include surrounding context (2-3 lines before/after) when relevant for meaning
 
@@ -66,7 +80,7 @@ This repo supports academic research for International Politics coursework. Clau
 |---|---|
 | `source-researcher` | Searches all class materials for passages relevant to an essay prompt |
 | `quote-finder` | Targeted search for specific topics, keywords, or authors |
-| `essay-planner` | Creates outlines with source citations — never writes prose |
+| `essay-planner` | Creates outlines with source citations |
 
 ## Commands
 
